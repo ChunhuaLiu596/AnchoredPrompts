@@ -1,0 +1,617 @@
+{"sub_label": "adultery", "obj_label": "rage", "masked_sentences": ["The effect of adultery is [MASK]."], "uuid": 0}
+{"sub_label": "affair", "obj_label": "divorce", "masked_sentences": ["Affair is related to [MASK]."], "uuid": 1}
+{"sub_label": "affair", "obj_label": "scandal", "masked_sentences": ["Sometimes an affair causes a [MASK]."], "uuid": 2}
+{"sub_label": "analysing", "obj_label": "change", "masked_sentences": ["Sometimes analysing something causes a [MASK]."], "uuid": 3}
+{"sub_label": "analysing", "obj_label": "headache", "masked_sentences": ["Sometimes analysing something causes a [MASK]."], "uuid": 4}
+{"sub_label": "analysing", "obj_label": "insight", "masked_sentences": ["The effect of analysing something is [MASK]."], "uuid": 5}
+{"sub_label": "analysing", "obj_label": "knowledge", "masked_sentences": ["Something that might happen as a consequence of analysing something is [MASK]."], "uuid": 6}
+{"sub_label": "analysing", "obj_label": "tension", "masked_sentences": ["Sometimes analysing something causes [MASK]."], "uuid": 7}
+{"sub_label": "analysing", "obj_label": "thinking", "masked_sentences": ["The effect of analysing something is [MASK] about details."], "uuid": 8}
+{"sub_label": "argument", "obj_label": "violence", "masked_sentences": ["Something that might happen as a consequence of an argument is [MASK]."], "uuid": 9}
+{"sub_label": "asking", "obj_label": "answering", "masked_sentences": ["Something that might happen while [MASK] questions is learning more about the person who is asking them."], "uuid": 10}
+{"sub_label": "awaking", "obj_label": "annoyance", "masked_sentences": ["Sometimes awaking causes [MASK]."], "uuid": 11}
+{"sub_label": "awaking", "obj_label": "depression", "masked_sentences": ["Sometimes awaking causes [MASK]."], "uuid": 12}
+{"sub_label": "awaking", "obj_label": "discomfort", "masked_sentences": ["Sometimes awaking causes [MASK]."], "uuid": 13}
+{"sub_label": "awaking", "obj_label": "headache", "masked_sentences": ["Sometimes awaking causes [MASK]."], "uuid": 14}
+{"sub_label": "awaking", "obj_label": "shock", "masked_sentences": ["Sometimes awaking causes [MASK]."], "uuid": 15}
+{"sub_label": "bathing", "obj_label": "clean", "masked_sentences": ["Bathing is for keeping [MASK]."], "uuid": 16}
+{"sub_label": "belief", "obj_label": "trust", "masked_sentences": ["In religious contexts, \"faith\" means [MASK] or belief in the gods of one's religion."], "uuid": 17}
+{"sub_label": "bigotry", "obj_label": "hatred", "masked_sentences": ["The bigotry, [MASK], and ignorance that consumes out planet."], "uuid": 18}
+{"sub_label": "birthday", "obj_label": "party", "masked_sentences": ["Birthday has age [MASK]."], "uuid": 19}
+{"sub_label": "boring", "obj_label": "suicide", "masked_sentences": ["The effect of boring is [MASK]."], "uuid": 20}
+{"sub_label": "breathing", "obj_label": "coughing", "masked_sentences": ["Sometimes breathing some fresh air causes [MASK]."], "uuid": 21}
+{"sub_label": "breathing", "obj_label": "pain", "masked_sentences": ["The fact \"Something that might happen while having a heart attack is your left arm goes numb.\" is illustrated with the story:1. Danny felt a [MASK] in his chest.2. Then Danny's left arm went numb.3. He had difficulty breathing.4. He called an ambulance.5. When the paramedics arrived they told Danny he was having a heart attack."], "uuid": 22}
+{"sub_label": "breathing", "obj_label": "relaxation", "masked_sentences": ["The effect of breathing some fresh air is [MASK]."], "uuid": 23}
+{"sub_label": "buying", "obj_label": "broke", "masked_sentences": ["Sometimes buying something causes you to go [MASK]."], "uuid": 24}
+{"sub_label": "buying", "obj_label": "debt", "masked_sentences": ["Sometimes buying Christmas presents causes [MASK]."], "uuid": 25}
+{"sub_label": "buying", "obj_label": "getting", "masked_sentences": ["Something that might happen as a consequence of buying a beer is [MASK] drunk."], "uuid": 26}
+{"sub_label": "buying", "obj_label": "grief", "masked_sentences": ["Sometimes buying something causes [MASK]."], "uuid": 27}
+{"sub_label": "buying", "obj_label": "ownership", "masked_sentences": ["Something that might happen as a consequence of buying products is a transfer in [MASK]."], "uuid": 28}
+{"sub_label": "cabbage", "obj_label": "gas", "masked_sentences": ["Sometimes cabbage causes [MASK]."], "uuid": 29}
+{"sub_label": "cancer", "obj_label": "death", "masked_sentences": ["Cancer is the second biggest cause of [MASK] in the United States."], "uuid": 30}
+{"sub_label": "car", "obj_label": "pollution", "masked_sentences": ["To understand the event \"My car died.\", it is important to know that a cars engine is a source of [MASK]."], "uuid": 31}
+{"sub_label": "carelessness", "obj_label": "accidents", "masked_sentences": ["Sometimes carelessness causes [MASK]."], "uuid": 32}
+{"sub_label": "carelessness", "obj_label": "injury", "masked_sentences": ["An [MASK] can sometimes be the result of carelessness."], "uuid": 33}
+{"sub_label": "celebrating", "obj_label": "enjoyment", "masked_sentences": ["The effect of celebrating is [MASK]."], "uuid": 34}
+{"sub_label": "celebrating", "obj_label": "intimacy", "masked_sentences": ["Sometimes celebrating causes [MASK]."], "uuid": 35}
+{"sub_label": "celebrating", "obj_label": "joy", "masked_sentences": ["Something that might happen as a consequence of celebrating is [MASK]."], "uuid": 36}
+{"sub_label": "celebrating", "obj_label": "riots", "masked_sentences": ["Sometimes celebrating causes [MASK]."], "uuid": 37}
+{"sub_label": "cheer", "obj_label": "happiness", "masked_sentences": ["The effect of cheer is [MASK]."], "uuid": 38}
+{"sub_label": "chickens", "obj_label": "eggs", "masked_sentences": ["To understand the event \"The chicken laid an egg.\", it is important to know that Chickens are supposed to lay [MASK]."], "uuid": 39}
+{"sub_label": "cigarette", "obj_label": "fire", "masked_sentences": ["The statement \"The story \"Smoking\" has the step \"I extinguished the cigarette by pressing its lit end down on an ashtray\"\" is true because When people are finished smoking they put out the [MASK]."], "uuid": 40}
+{"sub_label": "cleaning", "obj_label": "health", "masked_sentences": ["Cleaning clothing is for appropriate appearance and [MASK]."], "uuid": 41}
+{"sub_label": "cleaning", "obj_label": "injury", "masked_sentences": ["Sometimes cleaning causes [MASK]."], "uuid": 42}
+{"sub_label": "climbing", "obj_label": "exhaustion", "masked_sentences": ["Sometimes climbing causes [MASK]."], "uuid": 43}
+{"sub_label": "cogitating", "obj_label": "decision", "masked_sentences": ["The effect of cogitating is a [MASK]."], "uuid": 44}
+{"sub_label": "cogitating", "obj_label": "headache", "masked_sentences": ["Sometimes cogitating causes a [MASK]."], "uuid": 45}
+{"sub_label": "collaboration", "obj_label": "progress", "masked_sentences": ["The effect of Collaboration is [MASK]."], "uuid": 46}
+{"sub_label": "communicating", "obj_label": "collaboration", "masked_sentences": ["Something that might happen as a consequence of communicating is [MASK]."], "uuid": 47}
+{"sub_label": "communicating", "obj_label": "confusion", "masked_sentences": ["Sometimes communicating causes [MASK]."], "uuid": 48}
+{"sub_label": "communicating", "obj_label": "progress", "masked_sentences": ["Sometimes communicating causes [MASK]."], "uuid": 49}
+{"sub_label": "communicating", "obj_label": "response", "masked_sentences": ["Sometimes communicating causes [MASK]."], "uuid": 50}
+{"sub_label": "communicating", "obj_label": "static", "masked_sentences": ["Sometimes communicating causes [MASK]."], "uuid": 51}
+{"sub_label": "competing", "obj_label": "aggression", "masked_sentences": ["Sometimes competing causes [MASK]."], "uuid": 52}
+{"sub_label": "competing", "obj_label": "anger", "masked_sentences": ["Sometimes competing against someone causes [MASK]."], "uuid": 53}
+{"sub_label": "competing", "obj_label": "argument", "masked_sentences": ["Sometimes competing causes an [MASK]."], "uuid": 54}
+{"sub_label": "competing", "obj_label": "contest", "masked_sentences": ["The effect of competing is [MASK]."], "uuid": 55}
+{"sub_label": "competing", "obj_label": "death", "masked_sentences": ["Sometimes competing causes [MASK]."], "uuid": 56}
+{"sub_label": "competing", "obj_label": "defeat", "masked_sentences": ["The statement \"Something that might happen while competing against someone is victory\" is true because Because the other thing that might happen is the agony of [MASK]."], "uuid": 57}
+{"sub_label": "competing", "obj_label": "enemies", "masked_sentences": ["Sometimes competing causes [MASK]."], "uuid": 58}
+{"sub_label": "competing", "obj_label": "failing", "masked_sentences": ["Something that might happen as a consequence of competing is [MASK]."], "uuid": 59}
+{"sub_label": "competing", "obj_label": "hatred", "masked_sentences": ["Sometimes competing causes [MASK]."], "uuid": 60}
+{"sub_label": "competing", "obj_label": "jealousy", "masked_sentences": ["Sometimes competing causes [MASK]."], "uuid": 61}
+{"sub_label": "competing", "obj_label": "pressure", "masked_sentences": ["Sometimes competing causes [MASK]."], "uuid": 62}
+{"sub_label": "competing", "obj_label": "rivalry", "masked_sentences": ["Competing against someone requires a [MASK]."], "uuid": 63}
+{"sub_label": "competing", "obj_label": "stress", "masked_sentences": ["Sometimes competing causes [MASK]."], "uuid": 64}
+{"sub_label": "competing", "obj_label": "sweat", "masked_sentences": ["The effect of competing is [MASK]."], "uuid": 65}
+{"sub_label": "competing", "obj_label": "tension", "masked_sentences": ["Sometimes competing causes [MASK]."], "uuid": 66}
+{"sub_label": "competing", "obj_label": "wins", "masked_sentences": ["Something that might happen while competing is everybody [MASK]."], "uuid": 67}
+{"sub_label": "complaining", "obj_label": "change", "masked_sentences": ["Complaining about the state of the world is for those who are thinking about making a [MASK]."], "uuid": 68}
+{"sub_label": "contemplating", "obj_label": "action", "masked_sentences": ["Planning is contemplating a future course of [MASK]."], "uuid": 69}
+{"sub_label": "contemplating", "obj_label": "deciding", "masked_sentences": ["Contemplating is for [MASK] what to do."], "uuid": 70}
+{"sub_label": "contemplating", "obj_label": "discovery", "masked_sentences": ["Sometimes contemplating causes [MASK]."], "uuid": 71}
+{"sub_label": "contemplating", "obj_label": "headache", "masked_sentences": ["Sometimes contemplating causes a [MASK]."], "uuid": 72}
+{"sub_label": "contemplating", "obj_label": "hesitation", "masked_sentences": ["Sometimes contemplating causes [MASK]."], "uuid": 73}
+{"sub_label": "contemplating", "obj_label": "insights", "masked_sentences": ["The effect of contemplating is [MASK]."], "uuid": 74}
+{"sub_label": "contemplating", "obj_label": "reflection", "masked_sentences": ["Sometimes contemplating causes [MASK]."], "uuid": 75}
+{"sub_label": "contemplating", "obj_label": "relaxation", "masked_sentences": ["The effect of contemplating is [MASK]."], "uuid": 76}
+{"sub_label": "contemplating", "obj_label": "revelation", "masked_sentences": ["Something that might happen as a consequence of contemplating is [MASK]."], "uuid": 77}
+{"sub_label": "cooking", "obj_label": "burns", "masked_sentences": ["Something that might happen as a consequence of cooking is getting [MASK]."], "uuid": 78}
+{"sub_label": "cooking", "obj_label": "hunger", "masked_sentences": ["Cooking a meal is for satisfying [MASK]."], "uuid": 79}
+{"sub_label": "cooking", "obj_label": "pride", "masked_sentences": ["Sometimes cooking causes [MASK]."], "uuid": 80}
+{"sub_label": "cooking", "obj_label": "smells", "masked_sentences": ["Situation: The food cooking in the other room [MASK] good."], "uuid": 81}
+{"sub_label": "cooking", "obj_label": "smoke", "masked_sentences": ["Sometimes cooking causes [MASK]."], "uuid": 82}
+{"sub_label": "cooking", "obj_label": "steam", "masked_sentences": ["[MASK] is related to cooking."], "uuid": 83}
+{"sub_label": "copulating", "obj_label": "appetite", "masked_sentences": ["Sometimes copulating causes an [MASK]."], "uuid": 84}
+{"sub_label": "copulating", "obj_label": "babies", "masked_sentences": ["Sometimes copulating causes [MASK]."], "uuid": 85}
+{"sub_label": "copulating", "obj_label": "offspring", "masked_sentences": ["Copulating is for producing [MASK]."], "uuid": 86}
+{"sub_label": "copulating", "obj_label": "pregnancy", "masked_sentences": ["Something that might happen as a consequence of copulating is [MASK]."], "uuid": 87}
+{"sub_label": "crisis", "obj_label": "focus", "masked_sentences": ["Sometimes crisis causes [MASK]."], "uuid": 88}
+{"sub_label": "crying", "obj_label": "better", "masked_sentences": ["The fact \"A woman can mother her children.\" is illustrated with the story:1. The two small children were crying.2. Their mother said \"What's the matter?\"3. They each blamed the other.4. Their mother said \"Let's forget about it.\" and hugged them both.5. They all felt [MASK]."], "uuid": 89}
+{"sub_label": "dancing", "obj_label": "exhaustion", "masked_sentences": ["The effect of dancing is [MASK]."], "uuid": 90}
+{"sub_label": "dancing", "obj_label": "expression", "masked_sentences": ["Dancing is for joyful physical [MASK]."], "uuid": 91}
+{"sub_label": "dancing", "obj_label": "fatigue", "masked_sentences": ["Sometimes dancing causes [MASK]."], "uuid": 92}
+{"sub_label": "dancing", "obj_label": "happiness", "masked_sentences": ["Sometimes dancing the samba causes [MASK]."], "uuid": 93}
+{"sub_label": "dancing", "obj_label": "humiliation", "masked_sentences": ["The effect of dancing is [MASK]."], "uuid": 94}
+{"sub_label": "dancing", "obj_label": "injury", "masked_sentences": ["Sometimes dancing the samba causes bodily [MASK]."], "uuid": 95}
+{"sub_label": "dancing", "obj_label": "intercourse", "masked_sentences": ["Sometimes dancing causes [MASK]."], "uuid": 96}
+{"sub_label": "darkness", "obj_label": "fear", "masked_sentences": ["You can [MASK] the darkness."], "uuid": 97}
+{"sub_label": "dating", "obj_label": "marriage", "masked_sentences": ["Sometimes dating causes [MASK]."], "uuid": 98}
+{"sub_label": "daydreaming", "obj_label": "accident", "masked_sentences": ["Sometimes daydreaming causes an [MASK]."], "uuid": 99}
+{"sub_label": "death", "obj_label": "burial", "masked_sentences": ["[MASK] is after death."], "uuid": 100}
+{"sub_label": "death", "obj_label": "decomposition", "masked_sentences": ["Enzymatic liquefaction of cells is the first stage of [MASK] after death."], "uuid": 101}
+{"sub_label": "death", "obj_label": "sadness", "masked_sentences": ["Sometimes death of some friend causes [MASK]."], "uuid": 102}
+{"sub_label": "dehydration", "obj_label": "death", "masked_sentences": ["Another way to say \"quire water to survive.\" is \"obtain water to avoid [MASK] by dehydration\"."], "uuid": 103}
+{"sub_label": "dehydration", "obj_label": "thirst", "masked_sentences": ["The effect of dehydration is [MASK]."], "uuid": 104}
+{"sub_label": "desire", "obj_label": "sin", "masked_sentences": ["A person can desire to [MASK]."], "uuid": 105}
+{"sub_label": "diver", "obj_label": "splash", "masked_sentences": ["Sometimes a diver causes a [MASK]."], "uuid": 106}
+{"sub_label": "diving", "obj_label": "bends", "masked_sentences": ["The effect of diving is the [MASK]."], "uuid": 107}
+{"sub_label": "diving", "obj_label": "death", "masked_sentences": ["Going scuba diving can cause [MASK]."], "uuid": 108}
+{"sub_label": "diving", "obj_label": "underwater", "masked_sentences": ["The statement \"diving is for enjoying beautiful scenes\" is true because Many people find [MASK] scenes beautiful."], "uuid": 109}
+{"sub_label": "dreaming", "obj_label": "confusion", "masked_sentences": ["The statement \"The effect of dreaming is [MASK]\" is true because dreams can be strange and unusual."], "uuid": 110}
+{"sub_label": "dreaming", "obj_label": "fantasy", "masked_sentences": ["The effect of dreaming is [MASK]."], "uuid": 111}
+{"sub_label": "dreaming", "obj_label": "fear", "masked_sentences": ["Sometimes dreaming causes [MASK]."], "uuid": 112}
+{"sub_label": "dreaming", "obj_label": "inspiration", "masked_sentences": ["The effect of dreaming is [MASK]."], "uuid": 113}
+{"sub_label": "dreaming", "obj_label": "nightmare", "masked_sentences": ["The effect of dreaming is waking up with a start if it is a [MASK]."], "uuid": 114}
+{"sub_label": "dreaming", "obj_label": "nightmares", "masked_sentences": ["Sometimes dreaming causes [MASK]."], "uuid": 115}
+{"sub_label": "dreaming", "obj_label": "relaxing", "masked_sentences": ["The effect of dreaming is [MASK]."], "uuid": 116}
+{"sub_label": "drinking", "obj_label": "sickness", "masked_sentences": ["The statement \"drinking too much alcohol makes you sick\" is true because Alcohol is a poison, the [MASK] is a sing of poisoning. ."], "uuid": 117}
+{"sub_label": "drinking", "obj_label": "swallow", "masked_sentences": ["One of the things you do while you are drinking is [MASK]."], "uuid": 118}
+{"sub_label": "driving", "obj_label": "accident", "masked_sentences": ["Something that might happen while driving is creating an [MASK]."], "uuid": 119}
+{"sub_label": "driving", "obj_label": "accidents", "masked_sentences": ["Sometimes driving causes [MASK]."], "uuid": 120}
+{"sub_label": "driving", "obj_label": "deaths", "masked_sentences": ["Sometimes driving causes [MASK]."], "uuid": 121}
+{"sub_label": "driving", "obj_label": "fatigue", "masked_sentences": ["Sometimes driving long distances causes discomfort and [MASK]."], "uuid": 122}
+{"sub_label": "driving", "obj_label": "injuries", "masked_sentences": ["Sometimes driving causes [MASK]."], "uuid": 123}
+{"sub_label": "driving", "obj_label": "moving", "masked_sentences": ["Something that might happen as a consequence of [MASK] a car is driving."], "uuid": 124}
+{"sub_label": "driving", "obj_label": "transportation", "masked_sentences": ["Driving is for energy inefficient [MASK] ."], "uuid": 125}
+{"sub_label": "drought", "obj_label": "famine", "masked_sentences": ["Sometimes a drought causes a [MASK]."], "uuid": 126}
+{"sub_label": "drowning", "obj_label": "death", "masked_sentences": ["To understand the event \"Many died in the flood.\", it is important to know that means of [MASK] was probably drowning."], "uuid": 127}
+{"sub_label": "dying", "obj_label": "dead", "masked_sentences": ["In the event \"Jim caught a fish.\", something that changed was The fish may be [MASK] or dying from being out of water."], "uuid": 128}
+{"sub_label": "dying", "obj_label": "funeral", "masked_sentences": ["To understand the event \"Bob is dying.\", it is important to know that Bob is probably speaking with his loved ones about [MASK] arrangements."], "uuid": 129}
+{"sub_label": "dying", "obj_label": "grief", "masked_sentences": ["The statement \"dying can cause [MASK]\" is true because people view death as a sad event."], "uuid": 130}
+{"sub_label": "dying", "obj_label": "relief", "masked_sentences": ["Sometimes dying causes [MASK]."], "uuid": 131}
+{"sub_label": "dying", "obj_label": "sadness", "masked_sentences": ["Sometimes dying causes [MASK]."], "uuid": 132}
+{"sub_label": "earthquake", "obj_label": "disaster", "masked_sentences": ["Earthquake is a kind of natural [MASK]."], "uuid": 133}
+{"sub_label": "eating", "obj_label": "death", "masked_sentences": ["The effect of not eating is [MASK]."], "uuid": 134}
+{"sub_label": "eating", "obj_label": "gas", "masked_sentences": ["Sometimes eating a hamburger causes [MASK]."], "uuid": 135}
+{"sub_label": "eating", "obj_label": "nausea", "masked_sentences": ["Sometimes eating quickly causes [MASK]."], "uuid": 136}
+{"sub_label": "eating", "obj_label": "reduced", "masked_sentences": ["The risks of getting cancer are [MASK] by eating cabbage, broccoli, lettuce, oranges, lemons and grapefruit."], "uuid": 137}
+{"sub_label": "eating", "obj_label": "satisfaction", "masked_sentences": ["The statement \"eating an apple is for [MASK] of appetite.\" is true because An apple provides nutrients, protein, and sugar to the body, satisfying the appetite."], "uuid": 138}
+{"sub_label": "eggs", "obj_label": "chickens", "masked_sentences": ["To understand the event \"The chicken laid an egg.\", it is important to know that [MASK] are supposed to lay eggs."], "uuid": 139}
+{"sub_label": "ending", "obj_label": "sadness", "masked_sentences": ["Sometimes ending something causes [MASK]."], "uuid": 140}
+{"sub_label": "entertaining", "obj_label": "embarrassment", "masked_sentences": ["Sometimes entertaining someone causes [MASK]."], "uuid": 141}
+{"sub_label": "entertaining", "obj_label": "fatigue", "masked_sentences": ["Sometimes entertaining someone causes [MASK]."], "uuid": 142}
+{"sub_label": "entertaining", "obj_label": "favors", "masked_sentences": ["Something that might happen as a consequence of entertaining someone is [MASK]."], "uuid": 143}
+{"sub_label": "entertaining", "obj_label": "happiness", "masked_sentences": ["Sometimes entertaining someone causes [MASK]."], "uuid": 144}
+{"sub_label": "entertaining", "obj_label": "happy", "masked_sentences": ["The effect of entertaining someone is someone is [MASK]."], "uuid": 145}
+{"sub_label": "entertaining", "obj_label": "laugh", "masked_sentences": ["Something that might happen while entertaining people is people will smile and [MASK]."], "uuid": 146}
+{"sub_label": "entertaining", "obj_label": "like", "masked_sentences": ["You would cook a meal because you [MASK] cooking, or you are hungry, or you are entertaining guests."], "uuid": 147}
+{"sub_label": "exercise", "obj_label": "injury", "masked_sentences": ["The statement \"a bar is for dancers when they are stretching.\" is true because stretching ones muscles before exercise prevents [MASK]."], "uuid": 148}
+{"sub_label": "exercise", "obj_label": "sweat", "masked_sentences": ["[MASK] is typically in exercise."], "uuid": 149}
+{"sub_label": "exercise", "obj_label": "sweating", "masked_sentences": ["The effect of getting exercise is [MASK]."], "uuid": 150}
+{"sub_label": "exercise", "obj_label": "thirst", "masked_sentences": ["The effect of exercise is [MASK]."], "uuid": 151}
+{"sub_label": "exercising", "obj_label": "breathing", "masked_sentences": ["The story \"Exercising\" has the step \"My [MASK] got faster almost immediately.\"."], "uuid": 152}
+{"sub_label": "exercising", "obj_label": "exhaustion", "masked_sentences": ["The effect of exercising is [MASK]."], "uuid": 153}
+{"sub_label": "exercising", "obj_label": "fitness", "masked_sentences": ["Exercising is for [MASK]."], "uuid": 154}
+{"sub_label": "exercising", "obj_label": "improve", "masked_sentences": ["Something that might happen as a consequence of exercising is [MASK] youre health."], "uuid": 155}
+{"sub_label": "exercising", "obj_label": "relaxation", "masked_sentences": ["The effect of exercising is [MASK]."], "uuid": 156}
+{"sub_label": "exercising", "obj_label": "sweat", "masked_sentences": ["The story \"Exercising\" has the step \"I had barely broken a [MASK], but I wanted to leave.\"."], "uuid": 157}
+{"sub_label": "explosion", "obj_label": "death", "masked_sentences": ["The effect of explosion is [MASK]."], "uuid": 158}
+{"sub_label": "explosion", "obj_label": "destruction", "masked_sentences": ["The effect of explosion is [MASK]."], "uuid": 159}
+{"sub_label": "faith", "obj_label": "action", "masked_sentences": ["The effect of faith is [MASK]."], "uuid": 160}
+{"sub_label": "faithfulness", "obj_label": "trust", "masked_sentences": ["The effect of faithfulness is [MASK]."], "uuid": 161}
+{"sub_label": "falling", "obj_label": "injuries", "masked_sentences": ["To understand the event \"Tony fell and scraped his knee.  Tony is two years old.\", it is important to know that Falling down can cause [MASK]."], "uuid": 162}
+{"sub_label": "falling", "obj_label": "landing", "masked_sentences": ["Something you might do while falling is chose a [MASK] spot."], "uuid": 163}
+{"sub_label": "falling", "obj_label": "pain", "masked_sentences": ["The statement \"can cause a lot of [MASK].\" is true because falling from a apartment is injurious to health."], "uuid": 164}
+{"sub_label": "famine", "obj_label": "hunger", "masked_sentences": ["The effect of famine is [MASK]."], "uuid": 165}
+{"sub_label": "farting", "obj_label": "odor", "masked_sentences": ["The effect of farting is causing a unpleasant [MASK]."], "uuid": 166}
+{"sub_label": "farting", "obj_label": "smell", "masked_sentences": ["Farting is for making the room [MASK]."], "uuid": 167}
+{"sub_label": "farting", "obj_label": "stench", "masked_sentences": ["Something that might happen as a consequence of farting is [MASK]."], "uuid": 168}
+{"sub_label": "fasting", "obj_label": "death", "masked_sentences": ["Sometimes fasting causes [MASK]."], "uuid": 169}
+{"sub_label": "fasting", "obj_label": "hunger", "masked_sentences": ["Fasting for a day would make you want to diminish your own [MASK]."], "uuid": 170}
+{"sub_label": "fear", "obj_label": "trembling", "masked_sentences": ["Fear is related to [MASK]."], "uuid": 171}
+{"sub_label": "fearing", "obj_label": "hating", "masked_sentences": ["Something that might happen as a consequence of fearing is [MASK]."], "uuid": 172}
+{"sub_label": "fearing", "obj_label": "violence", "masked_sentences": ["Something that might happen as a consequence of fearing is [MASK]."], "uuid": 173}
+{"sub_label": "fencing", "obj_label": "injuries", "masked_sentences": ["Sometimes fencing causes [MASK]."], "uuid": 174}
+{"sub_label": "fencing", "obj_label": "injury", "masked_sentences": ["Sometimes fencing causes [MASK]."], "uuid": 175}
+{"sub_label": "fencing", "obj_label": "sweating", "masked_sentences": ["The effect of fencing is [MASK]."], "uuid": 176}
+{"sub_label": "fever", "obj_label": "headache", "masked_sentences": ["The effect of a fever is a [MASK]."], "uuid": 177}
+{"sub_label": "fiddling", "obj_label": "breaking", "masked_sentences": ["Something that might happen while fiddling is [MASK] a string."], "uuid": 178}
+{"sub_label": "fiddling", "obj_label": "discovery", "masked_sentences": ["Sometimes fiddling causes [MASK]."], "uuid": 179}
+{"sub_label": "fiddling", "obj_label": "drop", "masked_sentences": ["Something that might happen as a consequence of fiddling is you [MASK] something."], "uuid": 180}
+{"sub_label": "fiddling", "obj_label": "noise", "masked_sentences": ["The effect of fiddling is [MASK]."], "uuid": 181}
+{"sub_label": "fiddling", "obj_label": "troubles", "masked_sentences": ["Sometimes fiddling causes [MASK]."], "uuid": 182}
+{"sub_label": "fiddling", "obj_label": "unpredictable", "masked_sentences": ["The effect of fiddling is [MASK]."], "uuid": 183}
+{"sub_label": "fire", "obj_label": "ashes", "masked_sentences": ["In the event \"A fire destroyed the barn.\", something that changed was [MASK] were where the barn used to be."], "uuid": 184}
+{"sub_label": "fire", "obj_label": "pain", "masked_sentences": ["If a person touches fire, the person may feel [MASK]."], "uuid": 185}
+{"sub_label": "fire", "obj_label": "smoke", "masked_sentences": ["[MASK] has fire mist."], "uuid": 186}
+{"sub_label": "fishing", "obj_label": "anger", "masked_sentences": ["Sometimes fishing causes [MASK]."], "uuid": 187}
+{"sub_label": "flirting", "obj_label": "affection", "masked_sentences": ["Dreaming that you are flirting, represents your need for intimacy and [MASK]."], "uuid": 188}
+{"sub_label": "flirting", "obj_label": "anger", "masked_sentences": ["Sometimes flirting causes [MASK]."], "uuid": 189}
+{"sub_label": "flirting", "obj_label": "curiosity", "masked_sentences": ["The effect of flirting is [MASK]."], "uuid": 190}
+{"sub_label": "flirting", "obj_label": "date", "masked_sentences": ["Something that might happen as a consequence of flirting is getting a [MASK]."], "uuid": 191}
+{"sub_label": "flirting", "obj_label": "happiness", "masked_sentences": ["The effect of flirting is [MASK]."], "uuid": 192}
+{"sub_label": "flirting", "obj_label": "jealousy", "masked_sentences": ["Sometimes flirting causes [MASK]."], "uuid": 193}
+{"sub_label": "flirting", "obj_label": "problems", "masked_sentences": ["Sometimes flirting causes [MASK]."], "uuid": 194}
+{"sub_label": "flirting", "obj_label": "relationship", "masked_sentences": ["The statement \"Something that might happen as a consequence of flirting is having a [MASK]\" helps answer the question \"How do relationships start?\"."], "uuid": 195}
+{"sub_label": "flirting", "obj_label": "sex", "masked_sentences": ["Something that might happen as a consequence of flirting is [MASK]."], "uuid": 196}
+{"sub_label": "flling", "obj_label": "injury", "masked_sentences": ["Something that might happen as a consequence of flling  is an [MASK]."], "uuid": 197}
+{"sub_label": "flood", "obj_label": "disaster", "masked_sentences": ["Flood is a kind of natural [MASK]."], "uuid": 198}
+{"sub_label": "forgiving", "obj_label": "guilt", "masked_sentences": ["Sometimes forgiving someone causes [MASK]."], "uuid": 199}
+{"sub_label": "forgiving", "obj_label": "peace", "masked_sentences": ["Forgiving someone is for feeling at [MASK]."], "uuid": 200}
+{"sub_label": "forgiving", "obj_label": "positive", "masked_sentences": ["The effect of forgiving someone is [MASK]."], "uuid": 201}
+{"sub_label": "forgiving", "obj_label": "respect", "masked_sentences": ["Something that might happen as a consequence of forgiving someone is they [MASK] you."], "uuid": 202}
+{"sub_label": "friction", "obj_label": "heat", "masked_sentences": ["Friction produces [MASK]."], "uuid": 203}
+{"sub_label": "funeral", "obj_label": "sadness", "masked_sentences": ["To understand the event \"Pam started to cry.  Pam was at a funeral.\", it is important to know that To cry is to express [MASK]."], "uuid": 204}
+{"sub_label": "gambling", "obj_label": "bankruptcy", "masked_sentences": ["Sometimes gambling causes [MASK]."], "uuid": 205}
+{"sub_label": "germ", "obj_label": "disease", "masked_sentences": ["[MASK] has germ infestation."], "uuid": 206}
+{"sub_label": "getting", "obj_label": "death", "masked_sentences": ["Sometimes getting something causes [MASK]."], "uuid": 207}
+{"sub_label": "getting", "obj_label": "disappointment", "masked_sentences": ["Sometimes getting the latest hairstyle for a night out on the town causes [MASK]."], "uuid": 208}
+{"sub_label": "getting", "obj_label": "gratitude", "masked_sentences": ["Something that might happen as a consequence of getting something is [MASK]."], "uuid": 209}
+{"sub_label": "getting", "obj_label": "illness", "masked_sentences": ["Going to bed is for getting over an [MASK]."], "uuid": 210}
+{"sub_label": "getting", "obj_label": "joy", "masked_sentences": ["Sometimes getting something causes [MASK]."], "uuid": 211}
+{"sub_label": "getting", "obj_label": "ownership", "masked_sentences": ["Sometimes getting something causes [MASK]."], "uuid": 212}
+{"sub_label": "getting", "obj_label": "receiving", "masked_sentences": ["[MASK] a degree is for getting a good job."], "uuid": 213}
+{"sub_label": "getting", "obj_label": "satisfaction", "masked_sentences": ["Sometimes getting a good grade causes [MASK]."], "uuid": 214}
+{"sub_label": "ghost", "obj_label": "fear", "masked_sentences": ["The effect of a ghost is [MASK]."], "uuid": 215}
+{"sub_label": "god", "obj_label": "miracles", "masked_sentences": ["Sometimes God causes [MASK]."], "uuid": 216}
+{"sub_label": "gravity", "obj_label": "falling", "masked_sentences": ["[MASK] requires the use of gravity."], "uuid": 217}
+{"sub_label": "grooming", "obj_label": "beauty", "masked_sentences": ["Sometimes grooming causes [MASK]."], "uuid": 218}
+{"sub_label": "grooming", "obj_label": "get", "masked_sentences": ["Individual species of lice are intensely specialized, largely to avoid grooming and preening behaviors by creatures trying to [MASK] rid of them. ."], "uuid": 219}
+{"sub_label": "grooming", "obj_label": "injury", "masked_sentences": ["Sometimes grooming causes [MASK]."], "uuid": 220}
+{"sub_label": "grooming", "obj_label": "late", "masked_sentences": ["Sometimes grooming causes one to be [MASK] to work."], "uuid": 221}
+{"sub_label": "grooming", "obj_label": "mistakes", "masked_sentences": ["Sometimes grooming causes [MASK]."], "uuid": 222}
+{"sub_label": "grooming", "obj_label": "positive", "masked_sentences": ["The effect of grooming is [MASK]."], "uuid": 223}
+{"sub_label": "grooming", "obj_label": "satisfaction", "masked_sentences": ["Sometimes grooming causes [MASK]."], "uuid": 224}
+{"sub_label": "grooming", "obj_label": "static", "masked_sentences": ["Sometimes grooming causes [MASK]."], "uuid": 225}
+{"sub_label": "happiness", "obj_label": "laughter", "masked_sentences": ["Sometimes happiness causes [MASK]."], "uuid": 226}
+{"sub_label": "happiness", "obj_label": "love", "masked_sentences": ["A person wants [MASK] and happiness."], "uuid": 227}
+{"sub_label": "happiness", "obj_label": "tears", "masked_sentences": ["Situation: I am crying [MASK] of happiness."], "uuid": 228}
+{"sub_label": "hate", "obj_label": "violence", "masked_sentences": ["Sometimes hate causes [MASK]."], "uuid": 229}
+{"sub_label": "hate", "obj_label": "war", "masked_sentences": ["Too much hate would make you want to fight [MASK]."], "uuid": 230}
+{"sub_label": "heat", "obj_label": "irritation", "masked_sentences": ["Sometimes heat causes [MASK]."], "uuid": 231}
+{"sub_label": "heat", "obj_label": "pain", "masked_sentences": ["Sometimes intense heat causes [MASK]."], "uuid": 232}
+{"sub_label": "heating", "obj_label": "boiling", "masked_sentences": ["A teakettle is a vessel used for heating water to the [MASK] point, usually to make tea."], "uuid": 233}
+{"sub_label": "helping", "obj_label": "complications", "masked_sentences": ["Sometimes helping someone causes [MASK]."], "uuid": 234}
+{"sub_label": "helping", "obj_label": "enjoyment", "masked_sentences": ["Sometimes helping someone causes [MASK]."], "uuid": 235}
+{"sub_label": "helping", "obj_label": "happiness", "masked_sentences": ["Sometimes helping someone causes [MASK]."], "uuid": 236}
+{"sub_label": "helping", "obj_label": "heart", "masked_sentences": ["Sometimes helping someone causes a [MASK]."], "uuid": 237}
+{"sub_label": "helping", "obj_label": "pay", "masked_sentences": ["Many billions of dollars are squandered on the gold-plated United States military as opposed to helping working people who [MASK] taxes."], "uuid": 238}
+{"sub_label": "helping", "obj_label": "satisfaction", "masked_sentences": ["Sometimes helping someone causes [MASK]."], "uuid": 239}
+{"sub_label": "hiking", "obj_label": "fatigue", "masked_sentences": ["The effect of hiking is [MASK]."], "uuid": 240}
+{"sub_label": "hiking", "obj_label": "smile", "masked_sentences": ["Sometimes hiking causes a [MASK]."], "uuid": 241}
+{"sub_label": "hiking", "obj_label": "sweating", "masked_sentences": ["The effect of hiking is [MASK]."], "uuid": 242}
+{"sub_label": "hiking", "obj_label": "tired", "masked_sentences": ["Sometimes hiking causes a person to become [MASK]."], "uuid": 243}
+{"sub_label": "homework", "obj_label": "frustration", "masked_sentences": ["Sometimes homework causes [MASK]."], "uuid": 244}
+{"sub_label": "hugging", "obj_label": "arousal", "masked_sentences": ["Sometimes hugging causes [MASK]."], "uuid": 245}
+{"sub_label": "humour", "obj_label": "smile", "masked_sentences": ["The effect of humour is a [MASK]."], "uuid": 246}
+{"sub_label": "hunger", "obj_label": "discomfort", "masked_sentences": ["Sometimes hunger  causes [MASK] ."], "uuid": 247}
+{"sub_label": "hunger", "obj_label": "eating", "masked_sentences": ["Sometimes [MASK] an apple causes hunger to go away."], "uuid": 248}
+{"sub_label": "hunger", "obj_label": "starvation", "masked_sentences": ["Something that might happen as a consequence of hunger is [MASK]."], "uuid": 249}
+{"sub_label": "hurricane", "obj_label": "disaster", "masked_sentences": ["[MASK] is a type of hurricane."], "uuid": 250}
+{"sub_label": "hurricane", "obj_label": "tornadoes", "masked_sentences": ["The effect of a hurricane is [MASK]."], "uuid": 251}
+{"sub_label": "ignorance", "obj_label": "accidents", "masked_sentences": ["Sometimes ignorance causes [MASK]."], "uuid": 252}
+{"sub_label": "ignorance", "obj_label": "hostility", "masked_sentences": ["Sometimes ignorance causes [MASK]."], "uuid": 253}
+{"sub_label": "impalement", "obj_label": "death", "masked_sentences": ["The effect of impalement is [MASK]."], "uuid": 254}
+{"sub_label": "impatience", "obj_label": "frustration", "masked_sentences": ["The statement \"Sometimes trying to solve a problem causes you to feel frustrated\" is true because [MASK] is a sign of impatience in people."], "uuid": 255}
+{"sub_label": "infection", "obj_label": "death", "masked_sentences": ["Sometimes an infection causes [MASK]."], "uuid": 256}
+{"sub_label": "infidelity", "obj_label": "divorce", "masked_sentences": ["Infidelity would make you want to get a [MASK]."], "uuid": 257}
+{"sub_label": "information", "obj_label": "understanding", "masked_sentences": ["The statement \"Something that might happen when you visit a museum is you gain deeper [MASK] of other cultures\" is true because Cultural information may be gain by viewing the history, artifacts, and literature of another society."], "uuid": 258}
+{"sub_label": "intimacy", "obj_label": "affection", "masked_sentences": ["Dreaming that you are flirting, represents your need for intimacy and [MASK]."], "uuid": 259}
+{"sub_label": "intoxication", "obj_label": "regret", "masked_sentences": ["Sometimes intoxication causes [MASK]."], "uuid": 260}
+{"sub_label": "irc", "obj_label": "addiction", "masked_sentences": ["Sometimes irc causes [MASK]."], "uuid": 261}
+{"sub_label": "jealously", "obj_label": "fight", "masked_sentences": ["Sometimes jealously causes a [MASK]."], "uuid": 262}
+{"sub_label": "jealousy", "obj_label": "deaths", "masked_sentences": ["Sometimes jealousy causes [MASK]."], "uuid": 263}
+{"sub_label": "jesse", "obj_label": "happiness", "masked_sentences": ["The effect of Jesse is [MASK]."], "uuid": 264}
+{"sub_label": "job", "obj_label": "stress", "masked_sentences": ["To understand the event \"I took a leave of absence from my teaching job.\", it is important to know that Teaching jobs can involve a lot of psychological [MASK]."], "uuid": 265}
+{"sub_label": "jogging", "obj_label": "exhaustion", "masked_sentences": ["Something that might happen when you go jogging is [MASK]."], "uuid": 266}
+{"sub_label": "jogging", "obj_label": "fatigue", "masked_sentences": ["Sometimes jogging causes [MASK]."], "uuid": 267}
+{"sub_label": "jogging", "obj_label": "fitness", "masked_sentences": ["You would go jogging because you want cardiovascular [MASK]."], "uuid": 268}
+{"sub_label": "jogging", "obj_label": "moving", "masked_sentences": ["Sometimes jogging causes [MASK]."], "uuid": 269}
+{"sub_label": "jogging", "obj_label": "sweat", "masked_sentences": ["The statement \"Something that might happen as a consequence of going jogging is that you [MASK] a lot\" helps answer the question \"what happens when you jog\"."], "uuid": 270}
+{"sub_label": "jogging", "obj_label": "sweating", "masked_sentences": ["Sometimes jogging causes [MASK]."], "uuid": 271}
+{"sub_label": "joke", "obj_label": "laughter", "masked_sentences": ["If you want to howl with [MASK] then you should be told a joke."], "uuid": 272}
+{"sub_label": "judging", "obj_label": "argument", "masked_sentences": ["Sometimes judging someone causes an [MASK]."], "uuid": 273}
+{"sub_label": "judging", "obj_label": "conflict", "masked_sentences": ["Sometimes judging someone causes [MASK]."], "uuid": 274}
+{"sub_label": "judging", "obj_label": "controversy", "masked_sentences": ["Sometimes judging someone causes [MASK]."], "uuid": 275}
+{"sub_label": "judging", "obj_label": "dislike", "masked_sentences": ["Something that might happen as a consequence of judging someone is to [MASK] someone."], "uuid": 276}
+{"sub_label": "judging", "obj_label": "evaluating", "masked_sentences": ["The effect of judging someone is [MASK] them."], "uuid": 277}
+{"sub_label": "judging", "obj_label": "judgement", "masked_sentences": ["Sometimes judging someone causes a [MASK] to be made."], "uuid": 278}
+{"sub_label": "judging", "obj_label": "pain", "masked_sentences": ["Sometimes judging someone causes a lot of [MASK]."], "uuid": 279}
+{"sub_label": "judging", "obj_label": "prejudice", "masked_sentences": ["[MASK] is a type of judging before."], "uuid": 280}
+{"sub_label": "judging", "obj_label": "resentment", "masked_sentences": ["Sometimes judging someone causes [MASK]."], "uuid": 281}
+{"sub_label": "judging", "obj_label": "responsibility", "masked_sentences": ["The effect of judging someone is [MASK]."], "uuid": 282}
+{"sub_label": "judging", "obj_label": "verdict", "masked_sentences": ["Bringing in a [MASK] is for judging."], "uuid": 283}
+{"sub_label": "jumping", "obj_label": "landing", "masked_sentences": ["Something that might happen as a consequence of jumping is [MASK]."], "uuid": 284}
+{"sub_label": "killing", "obj_label": "arrest", "masked_sentences": ["Sometimes killing causes an [MASK]."], "uuid": 285}
+{"sub_label": "killing", "obj_label": "arrested", "masked_sentences": ["The effect of killing someone is that you are being [MASK]."], "uuid": 286}
+{"sub_label": "killing", "obj_label": "dies", "masked_sentences": ["The effect of killing someone is that someone [MASK]."], "uuid": 287}
+{"sub_label": "killing", "obj_label": "freedom", "masked_sentences": ["Sometimes killing causes [MASK]."], "uuid": 288}
+{"sub_label": "killing", "obj_label": "funeral", "masked_sentences": ["Something that might happen as a consequence of killing is a [MASK]."], "uuid": 289}
+{"sub_label": "killing", "obj_label": "grief", "masked_sentences": ["Sometimes killing someone causes [MASK]."], "uuid": 290}
+{"sub_label": "killing", "obj_label": "guilt", "masked_sentences": ["Sometimes killing people causes feelings of [MASK]."], "uuid": 291}
+{"sub_label": "killing", "obj_label": "horrible", "masked_sentences": ["The effect of killing is [MASK]."], "uuid": 292}
+{"sub_label": "killing", "obj_label": "imprisoned", "masked_sentences": ["Something that might happen as a consequence of killing is being [MASK]."], "uuid": 293}
+{"sub_label": "killing", "obj_label": "investigation", "masked_sentences": ["Sometimes killing someone causes an [MASK]."], "uuid": 294}
+{"sub_label": "killing", "obj_label": "pleasure", "masked_sentences": ["Sometimes killing causes [MASK]."], "uuid": 295}
+{"sub_label": "killing", "obj_label": "punishment", "masked_sentences": ["After killing someone and being convicted in a court, the criminal can appeal into an appeal court before [MASK]."], "uuid": 296}
+{"sub_label": "killing", "obj_label": "sadness", "masked_sentences": ["Sometimes killing people causes [MASK]."], "uuid": 297}
+{"sub_label": "killing", "obj_label": "sorrow", "masked_sentences": ["The effect of killing someone is that his relatives will be in [MASK]."], "uuid": 298}
+{"sub_label": "killing", "obj_label": "suicide", "masked_sentences": ["Committing [MASK] requires killing yourself."], "uuid": 299}
+{"sub_label": "kising", "obj_label": "illness", "masked_sentences": ["Sometimes kising causes [MASK]."], "uuid": 300}
+{"sub_label": "kissing", "obj_label": "arousal", "masked_sentences": ["Something that might happen while kissing is sexual [MASK] ."], "uuid": 301}
+{"sub_label": "kissing", "obj_label": "disease", "masked_sentences": ["Sometimes kissing causes [MASK]."], "uuid": 302}
+{"sub_label": "kissing", "obj_label": "excitement", "masked_sentences": ["Sometimes kissing someone causes sexual [MASK]."], "uuid": 303}
+{"sub_label": "kissing", "obj_label": "happiness", "masked_sentences": ["Sometimes kissing someone causes [MASK]."], "uuid": 304}
+{"sub_label": "kissing", "obj_label": "like", "masked_sentences": ["The statement \"A man can kiss a woman\" is true because People [MASK] kissing other people."], "uuid": 305}
+{"sub_label": "kissing", "obj_label": "pleasure", "masked_sentences": ["Sometimes kissing causes [MASK]."], "uuid": 306}
+{"sub_label": "kissing", "obj_label": "sex", "masked_sentences": ["Something you might do while kissing is kiss someone of the same [MASK]."], "uuid": 307}
+{"sub_label": "kissing", "obj_label": "sweet", "masked_sentences": ["The effect of kissing someone is [MASK]."], "uuid": 308}
+{"sub_label": "knitting", "obj_label": "bleeding", "masked_sentences": ["The effect of knitting is [MASK]."], "uuid": 309}
+{"sub_label": "knitting", "obj_label": "relax", "masked_sentences": ["Something that might happen as a consequence of knitting is you [MASK]."], "uuid": 310}
+{"sub_label": "knitting", "obj_label": "scarf", "masked_sentences": ["Something that might happen as a consequence of knitting is creating a [MASK]."], "uuid": 311}
+{"sub_label": "knitting", "obj_label": "your", "masked_sentences": ["Sometimes knitting causes you to knit a really ugly sweater for [MASK] husband that he will wear once and then conveniently misplace."], "uuid": 312}
+{"sub_label": "laughing", "obj_label": "coughing", "masked_sentences": ["Laughing and [MASK] and yawning are infectious."], "uuid": 313}
+{"sub_label": "lawsuit", "obj_label": "stress", "masked_sentences": ["The effect of a lawsuit is [MASK]."], "uuid": 314}
+{"sub_label": "laziness", "obj_label": "inventions", "masked_sentences": ["Sometimes laziness causes [MASK]."], "uuid": 315}
+{"sub_label": "learning", "obj_label": "distress", "masked_sentences": ["Sometimes learning causes [MASK]."], "uuid": 316}
+{"sub_label": "learning", "obj_label": "effectiveness", "masked_sentences": ["The effect of taking an examination is determining [MASK] of learning process."], "uuid": 317}
+{"sub_label": "learning", "obj_label": "good", "masked_sentences": ["The story \"Learning About The World\" has the step \"Another [MASK] way to learn about the world is to go out and experience new places.\"."], "uuid": 318}
+{"sub_label": "learning", "obj_label": "pain", "masked_sentences": ["Sometimes learning causes [MASK]."], "uuid": 319}
+{"sub_label": "learning", "obj_label": "pride", "masked_sentences": ["Sometimes learning causes [MASK]."], "uuid": 320}
+{"sub_label": "lighening", "obj_label": "thunder", "masked_sentences": ["Sometimes lighening causes [MASK]."], "uuid": 321}
+{"sub_label": "lightning", "obj_label": "thunder", "masked_sentences": ["[MASK] is a loud noise made by lightning."], "uuid": 322}
+{"sub_label": "listening", "obj_label": "anxiety", "masked_sentences": ["Sometimes listening causes [MASK]."], "uuid": 323}
+{"sub_label": "listening", "obj_label": "fatigue", "masked_sentences": ["Sometimes listening causes [MASK]."], "uuid": 324}
+{"sub_label": "listening", "obj_label": "pain", "masked_sentences": ["Sometimes listening causes [MASK]."], "uuid": 325}
+{"sub_label": "listening", "obj_label": "silence", "masked_sentences": ["The story \"Making A Phone Call\" has the step \"Listening for the dial tone, i heard only [MASK].\"."], "uuid": 326}
+{"sub_label": "living", "obj_label": "change", "masked_sentences": ["You would buy a house because you want to [MASK] your standard of living."], "uuid": 327}
+{"sub_label": "living", "obj_label": "death", "masked_sentences": ["Sometimes living causes [MASK]."], "uuid": 328}
+{"sub_label": "living", "obj_label": "happiness", "masked_sentences": ["Sometimes living causes [MASK]."], "uuid": 329}
+{"sub_label": "living", "obj_label": "interaction", "masked_sentences": ["Sometimes living causes [MASK]."], "uuid": 330}
+{"sub_label": "living", "obj_label": "learning", "masked_sentences": ["Something that might happen while traveling is [MASK] about how people in other places earn a living."], "uuid": 331}
+{"sub_label": "living", "obj_label": "love", "masked_sentences": ["Sometimes living causes [MASK]."], "uuid": 332}
+{"sub_label": "living", "obj_label": "pollution", "masked_sentences": ["Sometimes living causes [MASK]."], "uuid": 333}
+{"sub_label": "living", "obj_label": "sadness", "masked_sentences": ["The effect of living is [MASK]."], "uuid": 334}
+{"sub_label": "living", "obj_label": "suffering", "masked_sentences": ["The effect of dying is to cause [MASK] in the living."], "uuid": 335}
+{"sub_label": "living", "obj_label": "surviving", "masked_sentences": ["The effect of living is [MASK]."], "uuid": 336}
+{"sub_label": "love", "obj_label": "deaths", "masked_sentences": ["Sometimes love causes [MASK]."], "uuid": 337}
+{"sub_label": "love", "obj_label": "pain", "masked_sentences": ["To understand the event \"John has a cavity.  John visits the dentist.\", it is important to know that Jews suffer [MASK], as in a cavity, due to their love of sweet revenge."], "uuid": 338}
+{"sub_label": "lying", "obj_label": "confusion", "masked_sentences": ["Sometimes lying causes [MASK]."], "uuid": 339}
+{"sub_label": "lying", "obj_label": "doubt", "masked_sentences": ["Sometimes lying causes [MASK]."], "uuid": 340}
+{"sub_label": "lying", "obj_label": "enjoyment", "masked_sentences": ["Something that might happen as a consequence of lying is [MASK]."], "uuid": 341}
+{"sub_label": "lying", "obj_label": "guilt", "masked_sentences": ["Sometimes lying causes [MASK]."], "uuid": 342}
+{"sub_label": "lying", "obj_label": "pain", "masked_sentences": ["Sometimes lying causes [MASK]."], "uuid": 343}
+{"sub_label": "lying", "obj_label": "problems", "masked_sentences": ["Lying is for people with mental [MASK]."], "uuid": 344}
+{"sub_label": "lying", "obj_label": "sadness", "masked_sentences": ["Sometimes lying causes [MASK]."], "uuid": 345}
+{"sub_label": "lying", "obj_label": "shame", "masked_sentences": ["Something that might happen as a consequence of lying is [MASK]."], "uuid": 346}
+{"sub_label": "lying", "obj_label": "trouble", "masked_sentences": ["Sometimes committing perjury causes people to get into [MASK] because they are lying under oath."], "uuid": 347}
+{"sub_label": "lying", "obj_label": "war", "masked_sentences": ["Sometimes lying causes [MASK]."], "uuid": 348}
+{"sub_label": "mathcamp", "obj_label": "happiness", "masked_sentences": ["The effect of Mathcamp is [MASK]."], "uuid": 349}
+{"sub_label": "memorising", "obj_label": "headache", "masked_sentences": ["Sometimes memorising causes [MASK]."], "uuid": 350}
+{"sub_label": "memorising", "obj_label": "knowing", "masked_sentences": ["The effect of memorising is [MASK] the information."], "uuid": 351}
+{"sub_label": "memorising", "obj_label": "knowledge", "masked_sentences": ["Memorising is for applying [MASK]."], "uuid": 352}
+{"sub_label": "memorising", "obj_label": "memories", "masked_sentences": ["Sometimes memorising causes [MASK]."], "uuid": 353}
+{"sub_label": "memorising", "obj_label": "remember", "masked_sentences": ["The statement \"memorising is for remembering it later\" helps answer the question \"How do you [MASK] something later?\"."], "uuid": 354}
+{"sub_label": "misunderstanding", "obj_label": "violence", "masked_sentences": ["Sometimes a misunderstanding causes [MASK]."], "uuid": 355}
+{"sub_label": "moisture", "obj_label": "damage", "masked_sentences": ["Sometimes setting a cup on the table causes moisture [MASK] to the table."], "uuid": 356}
+{"sub_label": "neglicence", "obj_label": "sorry", "masked_sentences": ["The effect of NEGLICENCE is [MASK]."], "uuid": 357}
+{"sub_label": "overpopulation", "obj_label": "famine", "masked_sentences": ["The effect of Overpopulation  is [MASK] ."], "uuid": 358}
+{"sub_label": "overpopulation", "obj_label": "loneliness", "masked_sentences": ["The effect of Overpopulation is [MASK]."], "uuid": 359}
+{"sub_label": "pain", "obj_label": "fear", "masked_sentences": ["Situation: We can leave [MASK] and pain aside."], "uuid": 360}
+{"sub_label": "painting", "obj_label": "beauty", "masked_sentences": ["To understand the event \"Kim bought a painting.\", it is important to know that Many people hang paintings in their homes to add [MASK] to their environment."], "uuid": 361}
+{"sub_label": "painting", "obj_label": "color", "masked_sentences": ["To understand the event \"We painted the barn.\", it is important to know that Painting is the act of puting [MASK] on something."], "uuid": 362}
+{"sub_label": "painting", "obj_label": "emotions", "masked_sentences": ["Sometimes painting causes [MASK]."], "uuid": 363}
+{"sub_label": "painting", "obj_label": "mess", "masked_sentences": ["The effect of painting is a [MASK] to clean up."], "uuid": 364}
+{"sub_label": "painting", "obj_label": "pictures", "masked_sentences": ["The statement \"Something that might happen as a consequence of painting a picture is framing the picture\" is true because some [MASK] are framed to make them look nicer."], "uuid": 365}
+{"sub_label": "panic", "obj_label": "injury", "masked_sentences": ["Sometimes panic causes [MASK]."], "uuid": 366}
+{"sub_label": "perfection", "obj_label": "jealousy", "masked_sentences": ["Sometimes perfection causes [MASK]."], "uuid": 367}
+{"sub_label": "performing", "obj_label": "action", "masked_sentences": ["The effect of performing is an [MASK] is done."], "uuid": 368}
+{"sub_label": "performing", "obj_label": "anxiety", "masked_sentences": ["Sometimes performing causes [MASK]."], "uuid": 369}
+{"sub_label": "performing", "obj_label": "butterflies", "masked_sentences": ["Sometimes performing causes [MASK]."], "uuid": 370}
+{"sub_label": "performing", "obj_label": "energetic", "masked_sentences": ["The effect of performing is [MASK]."], "uuid": 371}
+{"sub_label": "performing", "obj_label": "fear", "masked_sentences": ["Sometimes performing causes [MASK]."], "uuid": 372}
+{"sub_label": "performing", "obj_label": "happiness", "masked_sentences": ["Something that might happen as a consequence of performing is [MASK]."], "uuid": 373}
+{"sub_label": "performing", "obj_label": "injury", "masked_sentences": ["Sometimes performing causes [MASK]."], "uuid": 374}
+{"sub_label": "playing", "obj_label": "fatigue", "masked_sentences": ["Sometimes playing frisbee causes [MASK]."], "uuid": 375}
+{"sub_label": "playing", "obj_label": "fitness", "masked_sentences": ["Playing sports requires coordination, physical [MASK], and the desire to win."], "uuid": 376}
+{"sub_label": "playing", "obj_label": "injuries", "masked_sentences": ["Sometimes playing hockey causes [MASK]."], "uuid": 377}
+{"sub_label": "playing", "obj_label": "losing", "masked_sentences": ["Something that might happen as a consequence of playing a game with your friends is [MASK] the game."], "uuid": 378}
+{"sub_label": "playing", "obj_label": "satisfaction", "masked_sentences": ["Sometimes playing causes [MASK]."], "uuid": 379}
+{"sub_label": "playing", "obj_label": "win", "masked_sentences": ["To understand the event \"I beat the kid at chess in seven moves.  I was playing in a chess tournament.\", it is important to know that You can [MASK] or loose in a game."], "uuid": 380}
+{"sub_label": "playing", "obj_label": "winning", "masked_sentences": ["Playing sport is for [MASK] sport."], "uuid": 381}
+{"sub_label": "poison", "obj_label": "death", "masked_sentences": ["Poison is typically near [MASK]."], "uuid": 382}
+{"sub_label": "poisoning", "obj_label": "sickness", "masked_sentences": ["The statement \"drinking too much alcohol makes you sick\" is true because Alcohol is a poison, the [MASK] is a sing of poisoning. ."], "uuid": 383}
+{"sub_label": "praying", "obj_label": "calming", "masked_sentences": ["The statement \"The effect of praying is [MASK]\" is true because ritual is anxiolytic."], "uuid": 384}
+{"sub_label": "praying", "obj_label": "meditation", "masked_sentences": ["The effect of praying is [MASK]."], "uuid": 385}
+{"sub_label": "praying", "obj_label": "miracle", "masked_sentences": ["Sometimes praying causes a [MASK]."], "uuid": 386}
+{"sub_label": "praying", "obj_label": "miracles", "masked_sentences": ["Sometimes praying causes [MASK]."], "uuid": 387}
+{"sub_label": "praying", "obj_label": "relief", "masked_sentences": ["Something that might happen as a consequence of praying is [MASK]."], "uuid": 388}
+{"sub_label": "praying", "obj_label": "success", "masked_sentences": ["Something that might happen as a consequence of praying is [MASK]."], "uuid": 389}
+{"sub_label": "pretending", "obj_label": "fantasy", "masked_sentences": ["Something that might happen as a consequence of pretending is [MASK] wish-fulfillment."], "uuid": 390}
+{"sub_label": "pretending", "obj_label": "fun", "masked_sentences": ["To understand the event \"Colby was seven years old.  Colby pretended he had big muscles.\", it is important to know that pretending is [MASK] for children."], "uuid": 391}
+{"sub_label": "pretending", "obj_label": "not", "masked_sentences": ["An air conditioning is for pretending the summer does [MASK] exist ."], "uuid": 392}
+{"sub_label": "pretending", "obj_label": "play", "masked_sentences": ["Something that might happen as a consequence of pretending is [MASK]."], "uuid": 393}
+{"sub_label": "procreating", "obj_label": "children", "masked_sentences": ["Something that might happen as a consequence of procreating is [MASK]."], "uuid": 394}
+{"sub_label": "procreating", "obj_label": "exhaustion", "masked_sentences": ["Sometimes procreating causes [MASK]."], "uuid": 395}
+{"sub_label": "procreating", "obj_label": "life", "masked_sentences": ["The effect of procreating is adding [MASK]."], "uuid": 396}
+{"sub_label": "procreating", "obj_label": "offspring", "masked_sentences": ["The effect of procreating is having [MASK] (babies)."], "uuid": 397}
+{"sub_label": "procreating", "obj_label": "twins", "masked_sentences": ["Sometimes procreating causes [MASK]."], "uuid": 398}
+{"sub_label": "punching", "obj_label": "fight", "masked_sentences": ["Punching someone is for wanting to get into a [MASK]."], "uuid": 399}
+{"sub_label": "punching", "obj_label": "pain", "masked_sentences": ["Sometimes punching someone causes [MASK] to the person punched."], "uuid": 400}
+{"sub_label": "punishing", "obj_label": "anger", "masked_sentences": ["Something that might happen as a consequence of punishing someone is [MASK]."], "uuid": 401}
+{"sub_label": "punishing", "obj_label": "hatred", "masked_sentences": ["Something that might happen as a consequence of punishing someone is [MASK]."], "uuid": 402}
+{"sub_label": "punishing", "obj_label": "pleasure", "masked_sentences": ["Sometimes punishing someone causes [MASK]."], "uuid": 403}
+{"sub_label": "punishing", "obj_label": "resentment", "masked_sentences": ["Sometimes punishing someone causes [MASK]."], "uuid": 404}
+{"sub_label": "punishing", "obj_label": "stress", "masked_sentences": ["Sometimes punishing someone causes [MASK]."], "uuid": 405}
+{"sub_label": "rain", "obj_label": "flooding", "masked_sentences": ["To understand the event \"The river flooded.\", it is important to know that [MASK] is probably caused by rain."], "uuid": 406}
+{"sub_label": "rain", "obj_label": "floods", "masked_sentences": ["To understand the event \"Many died in the flood.\", it is important to know that [MASK] usually occur from too much rain."], "uuid": 407}
+{"sub_label": "reading", "obj_label": "entertained", "masked_sentences": ["Something that might happen while reading a magazine is being [MASK]."], "uuid": 408}
+{"sub_label": "reading", "obj_label": "headache", "masked_sentences": ["The effect of reading is a [MASK]."], "uuid": 409}
+{"sub_label": "reading", "obj_label": "ideas", "masked_sentences": ["The effect of reading to your children is helping them learn new [MASK]."], "uuid": 410}
+{"sub_label": "reading", "obj_label": "knowledge", "masked_sentences": ["Reading a book is for entertainment and [MASK]."], "uuid": 411}
+{"sub_label": "relaxing", "obj_label": "nerves", "masked_sentences": ["Sometimes relaxing causes [MASK]."], "uuid": 412}
+{"sub_label": "relaxing", "obj_label": "satisfaction", "masked_sentences": ["Another way to say \"Sometimes relaxing causes [MASK]\" is \"Satifaction can be achieved by relaxation.\"."], "uuid": 413}
+{"sub_label": "religion", "obj_label": "war", "masked_sentences": ["Situation: Some people use their religion to go to [MASK]."], "uuid": 414}
+{"sub_label": "religion", "obj_label": "wars", "masked_sentences": ["Religion has caused many [MASK]."], "uuid": 415}
+{"sub_label": "remembering", "obj_label": "crying", "masked_sentences": ["Sometimes remembering something causes [MASK]."], "uuid": 416}
+{"sub_label": "remembering", "obj_label": "depression", "masked_sentences": ["Sometimes remembering a phone number causes [MASK]. Cause, Damn it! You want to call that bitch, but you just don't!"], "uuid": 417}
+{"sub_label": "remembering", "obj_label": "inspiration", "masked_sentences": ["Sometimes remembering something causes [MASK]."], "uuid": 418}
+{"sub_label": "remembering", "obj_label": "laugh", "masked_sentences": ["Something that might happen as a consequence of remembering something is to [MASK]."], "uuid": 419}
+{"sub_label": "remembering", "obj_label": "learn", "masked_sentences": ["The effect of remembering something is being able to [MASK] new things."], "uuid": 420}
+{"sub_label": "remembering", "obj_label": "pain", "masked_sentences": ["Sometimes remembering causes emotional [MASK]."], "uuid": 421}
+{"sub_label": "remembering", "obj_label": "pleasure", "masked_sentences": ["Sometimes remembering causes [MASK]."], "uuid": 422}
+{"sub_label": "remembering", "obj_label": "problems", "masked_sentences": ["Sometimes remembering something causes [MASK]."], "uuid": 423}
+{"sub_label": "remembering", "obj_label": "sad", "masked_sentences": ["The story \"Remembering\" has the step \"He felt [MASK].\"."], "uuid": 424}
+{"sub_label": "remembering", "obj_label": "trauma", "masked_sentences": ["Sometimes remembering causes [MASK]."], "uuid": 425}
+{"sub_label": "repeating", "obj_label": "remember", "masked_sentences": ["Sometimes repeating something causes you to [MASK] it."], "uuid": 426}
+{"sub_label": "reproducing", "obj_label": "birth", "masked_sentences": ["Something that might happen while reproducing is [MASK] of a new person."], "uuid": 427}
+{"sub_label": "reproducing", "obj_label": "child", "masked_sentences": ["A person can adopt a [MASK] instead of reproducing."], "uuid": 428}
+{"sub_label": "reproducing", "obj_label": "children", "masked_sentences": ["Reproducing is for having [MASK]."], "uuid": 429}
+{"sub_label": "reproducing", "obj_label": "copies", "masked_sentences": ["The story \"Reproducing\" has the step \"I selected the number of [MASK] I wanted.\"."], "uuid": 430}
+{"sub_label": "reproducing", "obj_label": "family", "masked_sentences": ["Starting a [MASK] is for reproducing genes."], "uuid": 431}
+{"sub_label": "reproducing", "obj_label": "fun", "masked_sentences": ["The effect of reproducing is [MASK]."], "uuid": 432}
+{"sub_label": "reproducing", "obj_label": "offspring", "masked_sentences": ["Sometimes reproducing causes [MASK]."], "uuid": 433}
+{"sub_label": "reproducing", "obj_label": "problems", "masked_sentences": ["Sometimes reproducing causes [MASK]."], "uuid": 434}
+{"sub_label": "reproducing", "obj_label": "propagation", "masked_sentences": ["The effect of reproducing is [MASK]."], "uuid": 435}
+{"sub_label": "resuscitation", "obj_label": "life", "masked_sentences": ["The effect of resuscitation is that a dead person is revived to [MASK]."], "uuid": 436}
+{"sub_label": "robbery", "obj_label": "terror", "masked_sentences": ["The effect of robbery is [MASK]."], "uuid": 437}
+{"sub_label": "run", "obj_label": "tired", "masked_sentences": ["The effect of going for a run is [MASK] legs."], "uuid": 438}
+{"sub_label": "running", "obj_label": "accidents", "masked_sentences": ["The statement \"To understand the event \"Jack went on a run.\", it is important to know that people running on streets and roads must be careful to avoid [MASK] with cars\" is true because Both people and cars can be on a street at the same time."], "uuid": 439}
+{"sub_label": "running", "obj_label": "exhaustion", "masked_sentences": ["The effect of running a marathon is [MASK]."], "uuid": 440}
+{"sub_label": "running", "obj_label": "falling", "masked_sentences": ["Something that might happen as a consequence of running is [MASK]."], "uuid": 441}
+{"sub_label": "running", "obj_label": "injuries", "masked_sentences": ["Shock-absorbing shoes reduce [MASK] when running."], "uuid": 442}
+{"sub_label": "running", "obj_label": "injury", "masked_sentences": ["Sometimes running causes [MASK]."], "uuid": 443}
+{"sub_label": "running", "obj_label": "pain", "masked_sentences": ["Sometimes running a marathon causes [MASK]."], "uuid": 444}
+{"sub_label": "rushing", "obj_label": "errors", "masked_sentences": ["Sometimes rushing  causes [MASK]."], "uuid": 445}
+{"sub_label": "seeing", "obj_label": "fame", "masked_sentences": ["Sometimes seeing something causes [MASK]."], "uuid": 446}
+{"sub_label": "sewing", "obj_label": "bleeding", "masked_sentences": ["Sometimes sewing causes [MASK]."], "uuid": 447}
+{"sub_label": "sewing", "obj_label": "clothes", "masked_sentences": ["The story \"Sewing\" has the step \"The [MASK] in stores don't really fit real bodies\"."], "uuid": 448}
+{"sub_label": "sewing", "obj_label": "confusion", "masked_sentences": ["Sometimes sewing causes [MASK]."], "uuid": 449}
+{"sub_label": "sewing", "obj_label": "dress", "masked_sentences": ["Velvet is for sewing a wedding [MASK]."], "uuid": 450}
+{"sub_label": "sewing", "obj_label": "injury", "masked_sentences": ["Sometimes sewing causes [MASK]."], "uuid": 451}
+{"sub_label": "sex", "obj_label": "children", "masked_sentences": ["To understand the event \"Jon and Lisa are staying together for the [MASK].  Jon and Lisa haven't had sex in two years.\", it is important to know that Each blames the other for their problems."], "uuid": 452}
+{"sub_label": "sex", "obj_label": "orgasm", "masked_sentences": ["Women can fail to have an [MASK] during sex."], "uuid": 453}
+{"sub_label": "sex", "obj_label": "pregnancy", "masked_sentences": ["[MASK] can result from sex."], "uuid": 454}
+{"sub_label": "shopping", "obj_label": "bankruptcy", "masked_sentences": ["Something that might happen as a consequence of shopping is [MASK]."], "uuid": 455}
+{"sub_label": "shopping", "obj_label": "debt", "masked_sentences": ["Something that might happen as a consequence of shopping until you drop  is [MASK], consumerism, and environmental pollution ."], "uuid": 456}
+{"sub_label": "shopping", "obj_label": "panic", "masked_sentences": ["Sometimes making a shopping list causes [MASK]."], "uuid": 457}
+{"sub_label": "sickness", "obj_label": "suffering", "masked_sentences": ["Birth, sickness, old age and death are [MASK]."], "uuid": 458}
+{"sub_label": "sin", "obj_label": "death", "masked_sentences": ["The effect of sin is [MASK]."], "uuid": 459}
+{"sub_label": "singing", "obj_label": "anger", "masked_sentences": ["Sometimes singing causes [MASK]."], "uuid": 460}
+{"sub_label": "singing", "obj_label": "happiness", "masked_sentences": ["Singing is for showing [MASK]."], "uuid": 461}
+{"sub_label": "singing", "obj_label": "heard", "masked_sentences": ["The effect of singing is something [MASK]."], "uuid": 462}
+{"sub_label": "singing", "obj_label": "laughter", "masked_sentences": ["Sometimes singing causes [MASK]."], "uuid": 463}
+{"sub_label": "singing", "obj_label": "pain", "masked_sentences": ["Something that might happen as a consequence of singing is [MASK]."], "uuid": 464}
+{"sub_label": "singing", "obj_label": "relaxation", "masked_sentences": ["Hearing singing is for [MASK]."], "uuid": 465}
+{"sub_label": "skating", "obj_label": "falling", "masked_sentences": ["Something that might happen as a consequence of skating is [MASK] down."], "uuid": 466}
+{"sub_label": "skating", "obj_label": "injuries", "masked_sentences": ["Sometimes skating causes [MASK]."], "uuid": 467}
+{"sub_label": "skating", "obj_label": "injury", "masked_sentences": ["Sometimes skating causes [MASK]."], "uuid": 468}
+{"sub_label": "skating", "obj_label": "movement", "masked_sentences": ["The effect of skating is [MASK]."], "uuid": 469}
+{"sub_label": "skiing", "obj_label": "accidents", "masked_sentences": ["Sometimes skiing causes [MASK]."], "uuid": 470}
+{"sub_label": "skiing", "obj_label": "injury", "masked_sentences": ["Sometimes skiing causes [MASK]."], "uuid": 471}
+{"sub_label": "skiing", "obj_label": "sweat", "masked_sentences": ["The effect of skiing is [MASK]."], "uuid": 472}
+{"sub_label": "sleeping", "obj_label": "death", "masked_sentences": ["Something that might happen as a consequence of sleeping is [MASK]."], "uuid": 473}
+{"sub_label": "sleeping", "obj_label": "dreams", "masked_sentences": ["[MASK] are images, sounds, sensations, and thoughts that are experienced by a sleeping person."], "uuid": 474}
+{"sub_label": "sleeping", "obj_label": "energy", "masked_sentences": ["People need less [MASK] when they are sleeping than when they are awake."], "uuid": 475}
+{"sub_label": "sleeping", "obj_label": "nightmares", "masked_sentences": ["Sometimes sleeping at night causes [MASK]."], "uuid": 476}
+{"sub_label": "smiling", "obj_label": "happiness", "masked_sentences": ["Smiling indicates [MASK]."], "uuid": 477}
+{"sub_label": "smoking", "obj_label": "cancer", "masked_sentences": ["Sometimes smoking causes lung [MASK]."], "uuid": 478}
+{"sub_label": "smoking", "obj_label": "death", "masked_sentences": ["Smoking is for giving yourself an early [MASK]."], "uuid": 479}
+{"sub_label": "smoking", "obj_label": "dying", "masked_sentences": ["Smoking is for enjoy [MASK]."], "uuid": 480}
+{"sub_label": "smoking", "obj_label": "pleasure", "masked_sentences": ["To understand the event \"Jeff smoked a cigar.\", it is important to know that Smoking tobacco products gives some people [MASK]."], "uuid": 481}
+{"sub_label": "snoring", "obj_label": "complaining", "masked_sentences": ["Something that might happen as a consequence of snoring is [MASK]."], "uuid": 482}
+{"sub_label": "snoring", "obj_label": "death", "masked_sentences": ["Something that might happen as a consequence of snoring is [MASK]."], "uuid": 483}
+{"sub_label": "snoring", "obj_label": "divorce", "masked_sentences": ["Something that might happen as a consequence of snoring is [MASK]."], "uuid": 484}
+{"sub_label": "snoring", "obj_label": "waking", "masked_sentences": ["Something that might happen as a consequence of snoring is [MASK] your spouse."], "uuid": 485}
+{"sub_label": "socialising", "obj_label": "anxiety", "masked_sentences": ["Sometimes socialising causes [MASK]."], "uuid": 486}
+{"sub_label": "socialising", "obj_label": "conflicts", "masked_sentences": ["Sometimes socialising causes [MASK]."], "uuid": 487}
+{"sub_label": "socialising", "obj_label": "jealousy", "masked_sentences": ["Sometimes socialising causes [MASK]."], "uuid": 488}
+{"sub_label": "socialising", "obj_label": "laughter", "masked_sentences": ["Sometimes socialising causes [MASK]."], "uuid": 489}
+{"sub_label": "socialising", "obj_label": "trouble", "masked_sentences": ["Sometimes socialising causes [MASK]."], "uuid": 490}
+{"sub_label": "speeding", "obj_label": "ticket", "masked_sentences": ["To understand the event \"Jeff likes to drive fast.  Jeff got a speeding [MASK].\", it is important to know that jeff propably drives a car on a road."], "uuid": 491}
+{"sub_label": "spitting", "obj_label": "disease", "masked_sentences": ["Sometimes spitting causes [MASK]."], "uuid": 492}
+{"sub_label": "spitting", "obj_label": "disgust", "masked_sentences": ["Something you might do while spitting is [MASK] everyone around you."], "uuid": 493}
+{"sub_label": "spitting", "obj_label": "fights", "masked_sentences": ["Sometimes spitting causes [MASK]."], "uuid": 494}
+{"sub_label": "spitting", "obj_label": "gross", "masked_sentences": ["The effect of spitting is [MASK]."], "uuid": 495}
+{"sub_label": "sport", "obj_label": "injury", "masked_sentences": ["Something that might happen as a consequence of playing sport is [MASK]."], "uuid": 496}
+{"sub_label": "starvation", "obj_label": "death", "masked_sentences": ["The effect of starvation is [MASK]."], "uuid": 497}
+{"sub_label": "starvation", "obj_label": "hunger", "masked_sentences": ["Something that might happen as a consequence of [MASK] is starvation."], "uuid": 498}
+{"sub_label": "stress", "obj_label": "depression", "masked_sentences": ["Stress can manifest itself in different ways, from breaking out in hives to chronic headaches, back pain, obesity, insomnia and [MASK], all contriving to drive up health-care costs. ."], "uuid": 499}
+{"sub_label": "stress", "obj_label": "fatigue", "masked_sentences": ["Sometimes stress causes [MASK]."], "uuid": 500}
+{"sub_label": "stress", "obj_label": "headache", "masked_sentences": ["To understand the event \"I have a [MASK].  I took some aspirin.\", it is important to know that Due to mental stress thats why he took aspin."], "uuid": 501}
+{"sub_label": "studying", "obj_label": "headache", "masked_sentences": ["Something that might happen while studying for a subject is you get a [MASK]."], "uuid": 502}
+{"sub_label": "studying", "obj_label": "inspiration", "masked_sentences": ["Sometimes studying causes [MASK]."], "uuid": 503}
+{"sub_label": "studying", "obj_label": "intelligence", "masked_sentences": ["Sometimes studying causes higher [MASK]."], "uuid": 504}
+{"sub_label": "studying", "obj_label": "knowledge", "masked_sentences": ["The effect of studying is [MASK]."], "uuid": 505}
+{"sub_label": "studying", "obj_label": "learn", "masked_sentences": ["To understand the event \"Shaun needed to [MASK] more math for his programming job.  Tonight Shaun is studying some calculus.\", it is important to know that Probably Shaun studies math from books."], "uuid": 506}
+{"sub_label": "sunburn", "obj_label": "cancer", "masked_sentences": ["Sometimes sunburn causes [MASK]."], "uuid": 507}
+{"sub_label": "sunlight", "obj_label": "warmth", "masked_sentences": ["The effect of sunlight is [MASK]."], "uuid": 508}
+{"sub_label": "surfing", "obj_label": "crashing", "masked_sentences": ["The effect of surfing is [MASK]."], "uuid": 509}
+{"sub_label": "surfing", "obj_label": "drowning", "masked_sentences": ["Sometimes surfing causes accidental [MASK]."], "uuid": 510}
+{"sub_label": "surfing", "obj_label": "exciting", "masked_sentences": ["Situation: Crowd surfing is [MASK]."], "uuid": 511}
+{"sub_label": "surfing", "obj_label": "falling", "masked_sentences": ["Something that might happen as a consequence of surfing is [MASK]."], "uuid": 512}
+{"sub_label": "surfing", "obj_label": "injury", "masked_sentences": ["Sometimes surfing causes [MASK]."], "uuid": 513}
+{"sub_label": "surprising", "obj_label": "accidents", "masked_sentences": ["Sometimes surprising someone causes [MASK]."], "uuid": 514}
+{"sub_label": "surprising", "obj_label": "annoyance", "masked_sentences": ["The effect of surprising someone is [MASK]."], "uuid": 515}
+{"sub_label": "surprising", "obj_label": "fight", "masked_sentences": ["Sometimes surprising someone causes a [MASK]."], "uuid": 516}
+{"sub_label": "surprising", "obj_label": "frightened", "masked_sentences": ["Sometimes surprising someone causes them to be [MASK]."], "uuid": 517}
+{"sub_label": "surprising", "obj_label": "funny", "masked_sentences": ["The effect of surprising someone is [MASK]."], "uuid": 518}
+{"sub_label": "surprising", "obj_label": "humor", "masked_sentences": ["Sometimes surprising someone causes [MASK]."], "uuid": 519}
+{"sub_label": "surprising", "obj_label": "irritated", "masked_sentences": ["Something that might happen as a consequence of surprising someone is they are [MASK]."], "uuid": 520}
+{"sub_label": "surprising", "obj_label": "joy", "masked_sentences": ["The statement \"surprising someone is for creating [MASK]\" is true because when you surprise someone, you make them happy."], "uuid": 521}
+{"sub_label": "surprising", "obj_label": "laughter", "masked_sentences": ["Something that might happen as a consequence of surprising someone is [MASK]."], "uuid": 522}
+{"sub_label": "surprising", "obj_label": "shocked", "masked_sentences": ["The effect of surprising someone is they are [MASK]."], "uuid": 523}
+{"sub_label": "surprising", "obj_label": "urine", "masked_sentences": ["The effect of surprising someone is [MASK]."], "uuid": 524}
+{"sub_label": "swiming", "obj_label": "living", "masked_sentences": ["Something that might happen as a consequence of swiming is [MASK]."], "uuid": 525}
+{"sub_label": "swimming", "obj_label": "floating", "masked_sentences": ["The effect of swimming is [MASK]."], "uuid": 526}
+{"sub_label": "swimming", "obj_label": "propulsion", "masked_sentences": ["The effect of swimming is [MASK]."], "uuid": 527}
+{"sub_label": "swimming", "obj_label": "waves", "masked_sentences": ["Swimming in rough ocean [MASK] is not for the fearful ."], "uuid": 528}
+{"sub_label": "talking", "obj_label": "conversation", "masked_sentences": ["One of the things you do when you have a [MASK] is talking."], "uuid": 529}
+{"sub_label": "talking", "obj_label": "distraction", "masked_sentences": ["Sometimes talking causes [MASK]."], "uuid": 530}
+{"sub_label": "talking", "obj_label": "noise", "masked_sentences": ["Sometimes talking causes [MASK]."], "uuid": 531}
+{"sub_label": "talking", "obj_label": "revelation", "masked_sentences": ["Something that might happen as a consequence of talking is a [MASK]."], "uuid": 532}
+{"sub_label": "talking", "obj_label": "sound", "masked_sentences": ["Talking to someone is for making a [MASK]."], "uuid": 533}
+{"sub_label": "talking", "obj_label": "understanding", "masked_sentences": ["Something that might happen while talking to someone is [MASK]."], "uuid": 534}
+{"sub_label": "teaching", "obj_label": "learning", "masked_sentences": ["Another way to say \"A knack is any unlearned skill.\" is \"An ability one has without formal teaching or [MASK] can be called a knack.\"."], "uuid": 535}
+{"sub_label": "terrorism", "obj_label": "death", "masked_sentences": ["The effect of terrorism is [MASK]."], "uuid": 536}
+{"sub_label": "terrorism", "obj_label": "sadness", "masked_sentences": ["The effect of terrorism is [MASK]."], "uuid": 537}
+{"sub_label": "terrorism", "obj_label": "war", "masked_sentences": ["Bush's [MASK] on terrorism is a crusade against Islam."], "uuid": 538}
+{"sub_label": "thanking", "obj_label": "embarrassment", "masked_sentences": ["Sometimes thanking someone causes [MASK]."], "uuid": 539}
+{"sub_label": "thanking", "obj_label": "emotion", "masked_sentences": ["Sometimes thanking someone causes [MASK]."], "uuid": 540}
+{"sub_label": "thanking", "obj_label": "grateful", "masked_sentences": ["Sometimes thanking someone causes you to be [MASK]."], "uuid": 541}
+{"sub_label": "thanking", "obj_label": "joy", "masked_sentences": ["Sometimes thanking someone causes [MASK]."], "uuid": 542}
+{"sub_label": "thanking", "obj_label": "peace", "masked_sentences": ["Sometimes thanking someone causes [MASK]."], "uuid": 543}
+{"sub_label": "thanking", "obj_label": "pleased", "masked_sentences": ["The effect of thanking someone is they are [MASK]."], "uuid": 544}
+{"sub_label": "thanking", "obj_label": "rewarded", "masked_sentences": ["The effect of thanking someone is they are [MASK]."], "uuid": 545}
+{"sub_label": "thanking", "obj_label": "tears", "masked_sentences": ["Sometimes thanking someone causes [MASK]."], "uuid": 546}
+{"sub_label": "thinking", "obj_label": "acting", "masked_sentences": ["Something that might happen as a consequence of thinking is [MASK]."], "uuid": 547}
+{"sub_label": "thinking", "obj_label": "creative", "masked_sentences": ["To understand the event \"Josh wrote a story.  He started by thinking of an idea.  Then he wrote some sentences.\", it is important to know that writing a story is [MASK]."], "uuid": 548}
+{"sub_label": "thinking", "obj_label": "decisions", "masked_sentences": ["Thinking is for making right [MASK]."], "uuid": 549}
+{"sub_label": "thinking", "obj_label": "depression", "masked_sentences": ["Sometimes thinking causes [MASK]."], "uuid": 550}
+{"sub_label": "thinking", "obj_label": "fatigue", "masked_sentences": ["Sometimes thinking causes [MASK]."], "uuid": 551}
+{"sub_label": "thinking", "obj_label": "idea", "masked_sentences": ["To understand the event \"Josh wrote a story.  He started by thinking of an [MASK].  Then he wrote some sentences.\", it is important to know that Joshi is an author."], "uuid": 552}
+{"sub_label": "thinking", "obj_label": "ideas", "masked_sentences": ["Something that might happen as a consequence of socialising is new inut, new [MASK], new thinking."], "uuid": 553}
+{"sub_label": "thinking", "obj_label": "money", "masked_sentences": ["To understand the event \"Fred was thinking of buying a motorcycle.\", it is important to know that You need [MASK] to buy something."], "uuid": 554}
+{"sub_label": "thinking", "obj_label": "tension", "masked_sentences": ["Sometimes thinking causes [MASK]."], "uuid": 555}
+{"sub_label": "thinking", "obj_label": "wonder", "masked_sentences": ["Situation: I [MASK] what you are thinking."], "uuid": 556}
+{"sub_label": "thunderstorm", "obj_label": "destruction", "masked_sentences": ["Something that might happen as a consequence of a thunderstorm is [MASK]."], "uuid": 557}
+{"sub_label": "tickling", "obj_label": "giggling", "masked_sentences": ["Sometimes tickling causes [MASK]."], "uuid": 558}
+{"sub_label": "tickling", "obj_label": "nausea", "masked_sentences": ["Sometimes tickling causes [MASK]."], "uuid": 559}
+{"sub_label": "tickling", "obj_label": "pain", "masked_sentences": ["Sometimes tickling causes [MASK]."], "uuid": 560}
+{"sub_label": "traveling", "obj_label": "fatigue", "masked_sentences": ["Sometimes traveling causes [MASK]."], "uuid": 561}
+{"sub_label": "traveling", "obj_label": "fear", "masked_sentences": ["Sometimes traveling causes [MASK] and panic."], "uuid": 562}
+{"sub_label": "traveling", "obj_label": "learning", "masked_sentences": ["Something that might happen while traveling is [MASK] about how people in other places cope with life."], "uuid": 563}
+{"sub_label": "traveling", "obj_label": "movement", "masked_sentences": ["Something that might happen as a consequence of traveling is [MASK]."], "uuid": 564}
+{"sub_label": "traveling", "obj_label": "moving", "masked_sentences": ["The effect of traveling is [MASK]."], "uuid": 565}
+{"sub_label": "traveling", "obj_label": "relocation", "masked_sentences": ["Sometimes traveling causes [MASK]."], "uuid": 566}
+{"sub_label": "traveling", "obj_label": "sickness", "masked_sentences": ["Some people get motion [MASK] from traveling on ships at sea."], "uuid": 567}
+{"sub_label": "tripping", "obj_label": "falling", "masked_sentences": ["Something that might happen as a consequence of running after the ball is tripping and [MASK]."], "uuid": 568}
+{"sub_label": "typing", "obj_label": "book", "masked_sentences": ["Something that might happen as a consequence of typing is  a [MASK]."], "uuid": 569}
+{"sub_label": "typing", "obj_label": "communicating", "masked_sentences": ["The statement \"Something that might happen as a consequence of typing is [MASK]\" is true because People type words and words are used to communicate."], "uuid": 570}
+{"sub_label": "typing", "obj_label": "errors", "masked_sentences": ["A text can contain typing [MASK]."], "uuid": 571}
+{"sub_label": "typing", "obj_label": "lesions", "masked_sentences": ["Sometimes typing causes [MASK]."], "uuid": 572}
+{"sub_label": "typing", "obj_label": "letter", "masked_sentences": ["The effect of typing is [MASK]."], "uuid": 573}
+{"sub_label": "typing", "obj_label": "pain", "masked_sentences": ["Typing too long gives you a [MASK] in your wrists."], "uuid": 574}
+{"sub_label": "typing", "obj_label": "story", "masked_sentences": ["Something that might happen when you write a [MASK] is your typing skills improve."], "uuid": 575}
+{"sub_label": "typing", "obj_label": "text", "masked_sentences": ["Typing is a way of printing [MASK] on a page."], "uuid": 576}
+{"sub_label": "urinating", "obj_label": "arrest", "masked_sentences": ["Sometimes urinating causes [MASK]."], "uuid": 577}
+{"sub_label": "urinating", "obj_label": "burning", "masked_sentences": ["Sometimes urinating causes [MASK]."], "uuid": 578}
+{"sub_label": "urinating", "obj_label": "pain", "masked_sentences": ["Sometimes urinating causes [MASK]."], "uuid": 579}
+{"sub_label": "urinating", "obj_label": "relaxation", "masked_sentences": ["The statement \"One of the things you do when you have a pee is relax\" is true because although semi-involuntary, urinating requires [MASK]."], "uuid": 580}
+{"sub_label": "vampire", "obj_label": "fear", "masked_sentences": ["The effect of a vampire is [MASK]."], "uuid": 581}
+{"sub_label": "violence", "obj_label": "death", "masked_sentences": ["The statement \"Something that might happen as a consequence of waging war is people dying\" is true because War is a violent conflict between groups of people, and it exposes people to violence, which can cause [MASK]."], "uuid": 582}
+{"sub_label": "virus", "obj_label": "cold", "masked_sentences": ["A [MASK] is a virus."], "uuid": 583}
+{"sub_label": "virus", "obj_label": "disease", "masked_sentences": ["[MASK] is a type of virus."], "uuid": 584}
+{"sub_label": "virus", "obj_label": "infection", "masked_sentences": ["Sometimes a virus [MASK] prevents your computer from starting normally."], "uuid": 585}
+{"sub_label": "voting", "obj_label": "election", "masked_sentences": ["[MASK] is voting event."], "uuid": 586}
+{"sub_label": "walking", "obj_label": "injuries", "masked_sentences": ["Something that might happen as a consequence of walking is [MASK]."], "uuid": 587}
+{"sub_label": "walking", "obj_label": "move", "masked_sentences": ["Instead of driving you can [MASK] by walking."], "uuid": 588}
+{"sub_label": "walking", "obj_label": "moving", "masked_sentences": ["Walking is [MASK]."], "uuid": 589}
+{"sub_label": "war", "obj_label": "death", "masked_sentences": ["The effect of waging war is [MASK]."], "uuid": 590}
+{"sub_label": "war", "obj_label": "destruction", "masked_sentences": ["Something that might happen when you fight war is [MASK]."], "uuid": 591}
+{"sub_label": "war", "obj_label": "genocide", "masked_sentences": ["If you want to commit [MASK] then you should start a war."], "uuid": 592}
+{"sub_label": "war", "obj_label": "unrest", "masked_sentences": ["Sometimes war causes [MASK]."], "uuid": 593}
+{"sub_label": "winning", "obj_label": "guilt", "masked_sentences": ["Sometimes winning causes [MASK]."], "uuid": 594}
+{"sub_label": "work", "obj_label": "exhaustion", "masked_sentences": ["Sometimes work causes [MASK]."], "uuid": 595}
+{"sub_label": "working", "obj_label": "creation", "masked_sentences": ["The effect of working is [MASK]."], "uuid": 596}
+{"sub_label": "working", "obj_label": "fatigue", "masked_sentences": ["Sometimes working causes [MASK]."], "uuid": 597}
+{"sub_label": "working", "obj_label": "frustration", "masked_sentences": ["The effect of working with computers is [MASK]."], "uuid": 598}
+{"sub_label": "working", "obj_label": "hunger", "masked_sentences": ["Sometimes working causes [MASK]."], "uuid": 599}
+{"sub_label": "working", "obj_label": "produce", "masked_sentences": ["Some supervisors of working groups [MASK] twice as much output as others, or have 20 to 25 per cent the labour turnover and absenteeism rates."], "uuid": 600}
+{"sub_label": "working", "obj_label": "prosperity", "masked_sentences": ["Sometimes working causes [MASK]."], "uuid": 601}
+{"sub_label": "working", "obj_label": "results", "masked_sentences": ["Sometimes working causes [MASK]."], "uuid": 602}
+{"sub_label": "working", "obj_label": "reward", "masked_sentences": ["[MASK] is for working."], "uuid": 603}
+{"sub_label": "working", "obj_label": "stress", "masked_sentences": ["More than half of the 550 million working days lost annually in the United States from absenteeism are [MASK]-related ."], "uuid": 604}
+{"sub_label": "wrestling", "obj_label": "blood", "masked_sentences": ["Sometimes wrestling causes [MASK]."], "uuid": 605}
+{"sub_label": "wrestling", "obj_label": "bruises", "masked_sentences": ["Sometimes wrestling causes [MASK]."], "uuid": 606}
+{"sub_label": "wrestling", "obj_label": "competition", "masked_sentences": ["The effect of wrestling is [MASK]."], "uuid": 607}
+{"sub_label": "wrestling", "obj_label": "injuries", "masked_sentences": ["Sometimes wrestling causes [MASK]."], "uuid": 608}
+{"sub_label": "wrestling", "obj_label": "injury", "masked_sentences": ["Sometimes wrestling causes [MASK]."], "uuid": 609}
+{"sub_label": "wrestling", "obj_label": "silly", "masked_sentences": ["The effect of wrestling is [MASK]."], "uuid": 610}
+{"sub_label": "wrestling", "obj_label": "winning", "masked_sentences": ["Something that might happen as a consequence of wrestling is [MASK]."], "uuid": 611}
+{"sub_label": "wrestling", "obj_label": "wins", "masked_sentences": ["The effect of wrestling is somebody [MASK]."], "uuid": 612}
+{"sub_label": "writing", "obj_label": "documentation", "masked_sentences": ["Writing is paper [MASK]."], "uuid": 613}
+{"sub_label": "writing", "obj_label": "story", "masked_sentences": ["Writing a [MASK] requires talent."], "uuid": 614}
+{"sub_label": "writing", "obj_label": "text", "masked_sentences": ["The first thing you do when you produce an image or [MASK] on paper is choose a writing or painting implement."], "uuid": 615}
+{"sub_label": "zombie", "obj_label": "fear", "masked_sentences": ["The effect of a zombie is [MASK]."], "uuid": 616}

@@ -1,0 +1,286 @@
+{"sub_label": "accomplish", "obj_label": "tried", "masked_sentences": ["A mistake might mean something that you [MASK] to do, but failed to accomplish."], "uuid": 0}
+{"sub_label": "analyse", "obj_label": "know", "masked_sentences": ["You would analyse something because you want [MASK]."], "uuid": 1}
+{"sub_label": "analyse", "obj_label": "scientist", "masked_sentences": ["You would analyse something because you are a [MASK]."], "uuid": 2}
+{"sub_label": "argue", "obj_label": "stubborn", "masked_sentences": ["You would argue because you are [MASK]."], "uuid": 3}
+{"sub_label": "audition", "obj_label": "act", "masked_sentences": ["To [MASK] in a play means that you were cast in a role after an event called an audition."], "uuid": 4}
+{"sub_label": "awake", "obj_label": "rested", "masked_sentences": ["You would awake because you are [MASK] and want to start a new day."], "uuid": 5}
+{"sub_label": "awake", "obj_label": "to", "masked_sentences": ["The statement \"people usually become tired after being awake for 16 hours\" is true because People require an average of 8 hours sleep every 24 hours in order [MASK] remain alert and healthy."], "uuid": 6}
+{"sub_label": "bathe", "obj_label": "dirty", "masked_sentences": ["Feeling [MASK] would make you want to bathe."], "uuid": 7}
+{"sub_label": "buy", "obj_label": "better", "masked_sentences": ["You would buy fresh fruits and vegetables because they taste [MASK] than canned fruit and vegetables."], "uuid": 8}
+{"sub_label": "buy", "obj_label": "have", "masked_sentences": ["To understand the event \"Bill went to the store.  Bill bought some cookies.  Bill ate the cookies.\", it is important to know that Bill would [MASK] use money to buy the cookies."], "uuid": 9}
+{"sub_label": "buy", "obj_label": "need", "masked_sentences": ["Something you [MASK] to do before you go to the zoo is buy a ticket."], "uuid": 10}
+{"sub_label": "buy", "obj_label": "needed", "masked_sentences": ["To understand the event \"Bob [MASK] money to pay for his car  Bob found a job with high pay\", it is important to know that money is used to buy things we need."], "uuid": 11}
+{"sub_label": "buy", "obj_label": "own", "masked_sentences": ["To understand the event \"Harry bought an ice cream cone.\", it is important to know that If you buy something, then you [MASK] it."], "uuid": 12}
+{"sub_label": "buy", "obj_label": "thing", "masked_sentences": ["The first [MASK] you do when you buy fresh fruits and vegetables is store it in freez."], "uuid": 13}
+{"sub_label": "buy", "obj_label": "wanted", "masked_sentences": ["The fact \"Something you find next door is neighbours\" is illustrated with the story:1. Peter [MASK] to cook a cake.2. But he had forgotten to buy eggs.3. He went over to his neighbor and borrowed some eggs.4. Now, Peter could make his cake.5. He had a nice party this afternoon and invited his neighbor."], "uuid": 14}
+{"sub_label": "camp", "obj_label": "entertainment", "masked_sentences": ["You would camp because you want [MASK]."], "uuid": 15}
+{"sub_label": "celebrate", "obj_label": "alive", "masked_sentences": ["You would celebrate because you are [MASK]."], "uuid": 16}
+{"sub_label": "celebrate", "obj_label": "birthday", "masked_sentences": ["To understand the event \"It was Mary's [MASK].  She got presents from her friends.\", it is important to know that people typically celebrate their birthdays by receiving gifts."], "uuid": 17}
+{"sub_label": "clap", "obj_label": "enjoyed", "masked_sentences": ["You would clap because you [MASK] something."], "uuid": 18}
+{"sub_label": "clean", "obj_label": "messy", "masked_sentences": ["The statement \"Sometimes cleaning your room causes feeling better\" is true because When your environment is clean it is not as stressful as when it is [MASK]."], "uuid": 19}
+{"sub_label": "climb", "obj_label": "exercise", "masked_sentences": ["The statement \"If you want to climb then you should find a tree\" helps answer the question \"Where is a good place to [MASK]?\"."], "uuid": 20}
+{"sub_label": "climb", "obj_label": "higher", "masked_sentences": ["You would climb because you want to be [MASK]."], "uuid": 21}
+{"sub_label": "cogitate", "obj_label": "reason", "masked_sentences": ["You would cogitate because you want to [MASK]."], "uuid": 22}
+{"sub_label": "cogitate", "obj_label": "thinking", "masked_sentences": ["You would cogitate because you are [MASK]."], "uuid": 23}
+{"sub_label": "cogitate", "obj_label": "to", "masked_sentences": ["You would cogitate because you need [MASK] think."], "uuid": 24}
+{"sub_label": "cogitate", "obj_label": "understand", "masked_sentences": ["You would cogitate because you want to [MASK] a hard problem."], "uuid": 25}
+{"sub_label": "communicate", "obj_label": "answers", "masked_sentences": ["You would communicate because you want [MASK]."], "uuid": 26}
+{"sub_label": "communicate", "obj_label": "cooperate", "masked_sentences": ["You would communicate because you want to [MASK]."], "uuid": 27}
+{"sub_label": "communicate", "obj_label": "interaction", "masked_sentences": ["You would communicate because you want [MASK]."], "uuid": 28}
+{"sub_label": "compete", "obj_label": "fun", "masked_sentences": ["You would compete because it is [MASK]."], "uuid": 29}
+{"sub_label": "compete", "obj_label": "gain", "masked_sentences": ["You would compete because you want to [MASK] something."], "uuid": 30}
+{"sub_label": "contemplate", "obj_label": "answer", "masked_sentences": ["Something that might happen when you contemplate is come up with an [MASK] to a question."], "uuid": 31}
+{"sub_label": "contemplate", "obj_label": "answers", "masked_sentences": ["Something that might happen when you contemplate is find [MASK]."], "uuid": 32}
+{"sub_label": "contemplate", "obj_label": "confused", "masked_sentences": ["You would contemplate because you are [MASK]."], "uuid": 33}
+{"sub_label": "contemplate", "obj_label": "wonder", "masked_sentences": ["You would contemplate because you [MASK]."], "uuid": 34}
+{"sub_label": "cook", "obj_label": "create", "masked_sentences": ["Situation: [MASK] a menu you thought you'd never be able to cook."], "uuid": 35}
+{"sub_label": "cook", "obj_label": "hungry", "masked_sentences": ["Being [MASK] would make you want to cook."], "uuid": 36}
+{"sub_label": "cook", "obj_label": "meal", "masked_sentences": ["You would cook a curry because you want a delicious [MASK]."], "uuid": 37}
+{"sub_label": "copulate", "obj_label": "children", "masked_sentences": ["You would copulate because you want more [MASK]."], "uuid": 38}
+{"sub_label": "copulate", "obj_label": "liked", "masked_sentences": ["You would copulate because you [MASK] it."], "uuid": 39}
+{"sub_label": "copulate", "obj_label": "reproduce", "masked_sentences": ["You would copulate because you want to [MASK]."], "uuid": 40}
+{"sub_label": "cry", "obj_label": "acting", "masked_sentences": ["You would cry because you are [MASK]."], "uuid": 41}
+{"sub_label": "cry", "obj_label": "hurt", "masked_sentences": ["A person who is [MASK] might cry."], "uuid": 42}
+{"sub_label": "cry", "obj_label": "miserable", "masked_sentences": ["The statement \"when people are [MASK] they cry \" is true because because crying is a powerful emotional release ."], "uuid": 43}
+{"sub_label": "cry", "obj_label": "sad", "masked_sentences": ["Cry is related to [MASK]."], "uuid": 44}
+{"sub_label": "dance", "obj_label": "celebrate", "masked_sentences": ["You would dance because you want to [MASK]."], "uuid": 45}
+{"sub_label": "dance", "obj_label": "dancer", "masked_sentences": ["A dance skirt is a short skirt worn over a [MASK]'s leotard and tights."], "uuid": 46}
+{"sub_label": "dance", "obj_label": "fun", "masked_sentences": ["Dance is [MASK]."], "uuid": 47}
+{"sub_label": "dance", "obj_label": "happy", "masked_sentences": ["You would dance because I was [MASK]."], "uuid": 48}
+{"sub_label": "dance", "obj_label": "honor", "masked_sentences": ["You would dance because you want to [MASK] someone."], "uuid": 49}
+{"sub_label": "dance", "obj_label": "learn", "masked_sentences": ["If you want to do some exercises then you should forget about it and [MASK] to dance instead."], "uuid": 50}
+{"sub_label": "dance", "obj_label": "romance", "masked_sentences": ["You would dance because you want [MASK]."], "uuid": 51}
+{"sub_label": "daydream", "obj_label": "bored", "masked_sentences": ["You would daydream because you are [MASK]."], "uuid": 52}
+{"sub_label": "die", "obj_label": "choked", "masked_sentences": ["You would die because you [MASK]."], "uuid": 53}
+{"sub_label": "die", "obj_label": "old", "masked_sentences": ["If you want to die then you should grow [MASK]."], "uuid": 54}
+{"sub_label": "die", "obj_label": "sick", "masked_sentences": ["To understand the event \"Helen got [MASK].  Helen died.\", it is important to know that we cannot know what happens to people after they die."], "uuid": 55}
+{"sub_label": "die", "obj_label": "stabbed", "masked_sentences": ["You would die because someone [MASK] you."], "uuid": 56}
+{"sub_label": "dive", "obj_label": "explore", "masked_sentences": ["If you want to [MASK] the undersea you can learn how to scuba dive."], "uuid": 57}
+{"sub_label": "dive", "obj_label": "fun", "masked_sentences": ["You would dive because you want to have [MASK]."], "uuid": 58}
+{"sub_label": "drink", "obj_label": "celebrating", "masked_sentences": ["Something you might do while [MASK] is drink."], "uuid": 59}
+{"sub_label": "drink", "obj_label": "relaxed", "masked_sentences": ["You would drink because you want be [MASK]."], "uuid": 60}
+{"sub_label": "drink", "obj_label": "thirst", "masked_sentences": ["Drink is used for satisfying [MASK]."], "uuid": 61}
+{"sub_label": "drink", "obj_label": "vomit", "masked_sentences": ["You would drink because you want to [MASK]."], "uuid": 62}
+{"sub_label": "drive", "obj_label": "cruise", "masked_sentences": ["You would take the car for a drive because you need to [MASK] for hot women."], "uuid": 63}
+{"sub_label": "eat", "obj_label": "hunger", "masked_sentences": ["The statement \"[MASK] would make you want to eat in a restaurant\" helps answer the question \"What can one to when one is hungry?\"."], "uuid": 64}
+{"sub_label": "eat", "obj_label": "hungry", "masked_sentences": ["The statement \"hunger would make you want to eat in a restaurant\" helps answer the question \"What can one to when one is [MASK]?\"."], "uuid": 65}
+{"sub_label": "eat", "obj_label": "survive", "masked_sentences": ["All animals need to eat in order to [MASK]."], "uuid": 66}
+{"sub_label": "entertain", "obj_label": "enjoyable", "masked_sentences": ["The statement \"You would entertain someone because it is [MASK]\" is true because Spending time with someone else and giving them pleasure feels good."], "uuid": 67}
+{"sub_label": "entertain", "obj_label": "entertained", "masked_sentences": ["The statement \"You can use a show to be [MASK]\" is true because Shows are designed to entertain humans."], "uuid": 68}
+{"sub_label": "entertain", "obj_label": "guest", "masked_sentences": ["You would entertain someone because he is a [MASK]."], "uuid": 69}
+{"sub_label": "entertain", "obj_label": "happy", "masked_sentences": ["If before you entertain someone they are bored, then afterwards they are [MASK]."], "uuid": 70}
+{"sub_label": "entertain", "obj_label": "hot", "masked_sentences": ["You would entertain someone because They are [MASK]."], "uuid": 71}
+{"sub_label": "entertain", "obj_label": "like", "masked_sentences": ["Something that might happen when you entertain someone is they might [MASK] you more."], "uuid": 72}
+{"sub_label": "entertain", "obj_label": "liked", "masked_sentences": ["You would entertain someone because you [MASK] them."], "uuid": 73}
+{"sub_label": "entertain", "obj_label": "visiting", "masked_sentences": ["You would entertain someone because they are [MASK] you."], "uuid": 74}
+{"sub_label": "exercise", "obj_label": "fit", "masked_sentences": ["One of the things you do when you get [MASK] is exercise."], "uuid": 75}
+{"sub_label": "exercise", "obj_label": "improve", "masked_sentences": ["You would exercise because you want [MASK]."], "uuid": 76}
+{"sub_label": "fall", "obj_label": "rush", "masked_sentences": ["You would fall because you want a [MASK]."], "uuid": 77}
+{"sub_label": "fall", "obj_label": "to", "masked_sentences": ["Fall is related [MASK] seasons."], "uuid": 78}
+{"sub_label": "fart", "obj_label": "attention", "masked_sentences": ["You would fart because you want [MASK]."], "uuid": 79}
+{"sub_label": "fart", "obj_label": "crude", "masked_sentences": ["You would fart because you are [MASK]."], "uuid": 80}
+{"sub_label": "fart", "obj_label": "impress", "masked_sentences": ["You would fart because you want [MASK] someone."], "uuid": 81}
+{"sub_label": "fart", "obj_label": "rude", "masked_sentences": ["You would fart because you are [MASK]."], "uuid": 82}
+{"sub_label": "fence", "obj_label": "defend", "masked_sentences": ["You would fence because you want to [MASK] something."], "uuid": 83}
+{"sub_label": "fence", "obj_label": "privacy", "masked_sentences": ["The fact \"a board is for patching a hole in the fence.\" is illustrated with the story:1. Fences ensure [MASK] and protection from adjoining spaces.2. A hole allows people to view your space."], "uuid": 84}
+{"sub_label": "fiddle", "obj_label": "bored", "masked_sentences": ["You would fiddle because you were [MASK]."], "uuid": 85}
+{"sub_label": "fiddle", "obj_label": "money", "masked_sentences": ["You would fiddle because you want [MASK]."], "uuid": 86}
+{"sub_label": "fiddle", "obj_label": "nervous", "masked_sentences": ["You would fiddle because you are [MASK]."], "uuid": 87}
+{"sub_label": "fiddle", "obj_label": "uncomfortable", "masked_sentences": ["You would fiddle because your are [MASK]."], "uuid": 88}
+{"sub_label": "fish", "obj_label": "enjoy", "masked_sentences": ["Another way to say \"maguro is sushi made from raw tuna\" is \"Many people [MASK] eating raw, very fresh fish.\"."], "uuid": 89}
+{"sub_label": "fish", "obj_label": "hungry", "masked_sentences": ["Situation: [MASK] for some fish I look in a stream."], "uuid": 90}
+{"sub_label": "fish", "obj_label": "meal", "masked_sentences": ["The effect of bringing home some fish is a new pet or a tasty [MASK]."], "uuid": 91}
+{"sub_label": "flirt", "obj_label": "sex", "masked_sentences": ["You would flirt because yuo wanted to have [MASK]."], "uuid": 92}
+{"sub_label": "forgive", "obj_label": "from", "masked_sentences": ["You would forgive someone because you want something [MASK] them."], "uuid": 93}
+{"sub_label": "forgive", "obj_label": "human", "masked_sentences": ["You would forgive someone because they are [MASK]."], "uuid": 94}
+{"sub_label": "forgive", "obj_label": "hurt", "masked_sentences": ["Something you need to do before you forgive someone is have been [MASK] by that person."], "uuid": 95}
+{"sub_label": "forgive", "obj_label": "love", "masked_sentences": ["You would forgive someone because you [MASK] them and realize people make mistakes."], "uuid": 96}
+{"sub_label": "forgive", "obj_label": "nice", "masked_sentences": ["One of the things you do when you forgive someone is be [MASK] to them."], "uuid": 97}
+{"sub_label": "forgive", "obj_label": "peace", "masked_sentences": ["The last thing you do when you forgive someone is make your [MASK]."], "uuid": 98}
+{"sub_label": "get", "obj_label": "need", "masked_sentences": ["Something you [MASK] to do before you pay by credit card is get the card out of your wallet."], "uuid": 99}
+{"sub_label": "get", "obj_label": "wanted", "masked_sentences": ["Situation: They [MASK] to get down to brass tacks."], "uuid": 100}
+{"sub_label": "grin", "obj_label": "funny", "masked_sentences": ["Something you might do while expressing how [MASK] something is is grin."], "uuid": 101}
+{"sub_label": "groom", "obj_label": "acceptance", "masked_sentences": ["You would groom because you want [MASK]."], "uuid": 102}
+{"sub_label": "growl", "obj_label": "angry", "masked_sentences": ["To understand the event \"The dog was growling at the man.\", it is important to know that Dogs growl when they are [MASK] or threatened."], "uuid": 103}
+{"sub_label": "hammer", "obj_label": "demo", "masked_sentences": ["You would hammer because you want to ...[MASK]."], "uuid": 104}
+{"sub_label": "help", "obj_label": "nice", "masked_sentences": ["You would help someone because helping is [MASK]."], "uuid": 105}
+{"sub_label": "hike", "obj_label": "exercise", "masked_sentences": ["You would hike because you like to [MASK] outdoors."], "uuid": 106}
+{"sub_label": "hike", "obj_label": "fun", "masked_sentences": ["You would hike because it is [MASK]."], "uuid": 107}
+{"sub_label": "hike", "obj_label": "suffer", "masked_sentences": ["You would hike because you want to [MASK]."], "uuid": 108}
+{"sub_label": "hug", "obj_label": "love", "masked_sentences": ["You would hug someone because you [MASK] them."], "uuid": 109}
+{"sub_label": "hug", "obj_label": "sad", "masked_sentences": ["You would hug someone because they are [MASK]."], "uuid": 110}
+{"sub_label": "judge", "obj_label": "dismiss", "masked_sentences": ["You would judge someone because you want to [MASK] them."], "uuid": 111}
+{"sub_label": "judge", "obj_label": "worry", "masked_sentences": ["You would judge someone because they [MASK] me."], "uuid": 112}
+{"sub_label": "jump", "obj_label": "scared", "masked_sentences": ["You would jump because you are [MASK]."], "uuid": 113}
+{"sub_label": "kill", "obj_label": "angry", "masked_sentences": ["An [MASK] dog can kill a person."], "uuid": 114}
+{"sub_label": "kill", "obj_label": "attacked", "masked_sentences": ["You would kill because someone [MASK] you."], "uuid": 115}
+{"sub_label": "kill", "obj_label": "dead", "masked_sentences": ["You would kill someone because you want them [MASK]."], "uuid": 116}
+{"sub_label": "kill", "obj_label": "die", "masked_sentences": ["The statement \"A person can [MASK] of a natural disaster when they are outside.\" is true because Natural disasters may harm or kill people."], "uuid": 117}
+{"sub_label": "kill", "obj_label": "evil", "masked_sentences": ["Jnosanov would make you want to kill [MASK] alien babies."], "uuid": 118}
+{"sub_label": "kill", "obj_label": "fool", "masked_sentences": ["You would kill someone because you are [MASK]."], "uuid": 119}
+{"sub_label": "kill", "obj_label": "insane", "masked_sentences": ["The first thing you do when you kill people is realize that you are [MASK]."], "uuid": 120}
+{"sub_label": "kill", "obj_label": "lunch", "masked_sentences": ["You would kill because you want [MASK]."], "uuid": 121}
+{"sub_label": "kill", "obj_label": "mean", "masked_sentences": ["You would kill someone because you want be [MASK]."], "uuid": 122}
+{"sub_label": "kill", "obj_label": "money", "masked_sentences": ["The story \"Getting Some [MASK] From Someone\" has the step \"I say I'm sorry, but if I ever get out, I'll kill him\"."], "uuid": 123}
+{"sub_label": "kill", "obj_label": "revenge", "masked_sentences": ["You would kill someone because you want get [MASK] for them fucking your wife."], "uuid": 124}
+{"sub_label": "kill", "obj_label": "soldier", "masked_sentences": ["A [MASK] can kill the enemies."], "uuid": 125}
+{"sub_label": "kiss", "obj_label": "companion", "masked_sentences": ["You would kiss someone because you want a [MASK]."], "uuid": 126}
+{"sub_label": "kiss", "obj_label": "intimate", "masked_sentences": ["It is usually considered [MASK] to kiss another person on the lips."], "uuid": 127}
+{"sub_label": "kiss", "obj_label": "manipulate", "masked_sentences": ["You would kiss someone because you want [MASK] them."], "uuid": 128}
+{"sub_label": "kiss", "obj_label": "paid", "masked_sentences": ["You would kiss someone because they [MASK] you."], "uuid": 129}
+{"sub_label": "kiss", "obj_label": "pleasure", "masked_sentences": ["You would kiss because you want to have [MASK]."], "uuid": 130}
+{"sub_label": "kiss", "obj_label": "to", "masked_sentences": ["You would give a gift because you want [MASK] kiss up."], "uuid": 131}
+{"sub_label": "knit", "obj_label": "clothes", "masked_sentences": ["You would knit because you enjoy making [MASK]."], "uuid": 132}
+{"sub_label": "knit", "obj_label": "clothing", "masked_sentences": ["You would knit because you want to make handmade [MASK]."], "uuid": 133}
+{"sub_label": "knit", "obj_label": "relaxing", "masked_sentences": ["You would knit because it is [MASK]."], "uuid": 134}
+{"sub_label": "knit", "obj_label": "sweater", "masked_sentences": ["Sometimes knitting causes you to knit a really ugly [MASK] for your husband that he will wear once and then conveniently misplace."], "uuid": 135}
+{"sub_label": "laugh", "obj_label": "funny", "masked_sentences": ["If you want to make people laugh then you should remember that there are two kinds of jokes. clean ones and [MASK] ones."], "uuid": 136}
+{"sub_label": "laugh", "obj_label": "happy", "masked_sentences": ["Laugh is a kind of [MASK] noise."], "uuid": 137}
+{"sub_label": "learn", "obj_label": "curious", "masked_sentences": ["A [MASK] dog will soon learn to leave a skunk alone."], "uuid": 138}
+{"sub_label": "learn", "obj_label": "educated", "masked_sentences": ["Learn is be [MASK]."], "uuid": 139}
+{"sub_label": "learn", "obj_label": "fun", "masked_sentences": ["Children can learn 'keepaway' games are [MASK]."], "uuid": 140}
+{"sub_label": "learn", "obj_label": "intelligent", "masked_sentences": ["Set him free, let him prove different thing, run in open spaces, laugh when he wants, give him caress, take him to different places to know different kind of people and learn to deal with different situations, show him the real truth without hurting him, teach him to say whatever he thinks but in a good manner without prejudice him or the others, teach him how to deal with good and bad people, show him the extraordinaries things or different things and try to teach him someting from this, teach him how to obtain good things from differents situation in you life, teach him to be brave, smart, [MASK], good, kind and teach him to be good in what he likes when grows without stepping on someone's head, teach him to have a decent and happy life because humankind are beautiful and we deserve to be happy."], "uuid": 141}
+{"sub_label": "learn", "obj_label": "smart", "masked_sentences": ["Set him free, let him prove different thing, run in open spaces, laugh when he wants, give him caress, take him to different places to know different kind of people and learn to deal with different situations, show him the real truth without hurting him, teach him to say whatever he thinks but in a good manner without prejudice him or the others, teach him how to deal with good and bad people, show him the extraordinaries things or different things and try to teach him someting from this, teach him how to obtain good things from differents situation in you life, teach him to be brave, [MASK], intelligent, good, kind and teach him to be good in what he likes when grows without stepping on someone's head, teach him to have a decent and happy life because humankind are beautiful and we deserve to be happy."], "uuid": 142}
+{"sub_label": "learn", "obj_label": "stupid", "masked_sentences": ["You can learn lessons from a [MASK] man."], "uuid": 143}
+{"sub_label": "lie", "obj_label": "cheat", "masked_sentences": ["I like to lie, [MASK] and steal."], "uuid": 144}
+{"sub_label": "lie", "obj_label": "get", "masked_sentences": ["The statement \"a bed is usually to lie on and sleep\" helps answer the question \"Where might a person [MASK] some rest?\"."], "uuid": 145}
+{"sub_label": "lie", "obj_label": "protect", "masked_sentences": ["You would lie because you want to [MASK] someone."], "uuid": 146}
+{"sub_label": "live", "obj_label": "can", "masked_sentences": ["Tortises [MASK] live to be really old."], "uuid": 147}
+{"sub_label": "live", "obj_label": "finish", "masked_sentences": ["You would live because you want to [MASK] something."], "uuid": 148}
+{"sub_label": "live", "obj_label": "like", "masked_sentences": ["The statement \"A whale is a mammal that looks [MASK] an enormous fish\" is true because Whales evolved to live in the sea."], "uuid": 149}
+{"sub_label": "live", "obj_label": "love", "masked_sentences": ["You would live because you want to [MASK]."], "uuid": 150}
+{"sub_label": "marry", "obj_label": "love", "masked_sentences": ["John was in [MASK] with Mary and decided to ask her to marry him."], "uuid": 151}
+{"sub_label": "nice", "obj_label": "friends", "masked_sentences": ["The first thing you do when you make [MASK] is be nice."], "uuid": 152}
+{"sub_label": "paint", "obj_label": "accomplish", "masked_sentences": ["You would paint because you want to [MASK] something."], "uuid": 153}
+{"sub_label": "paint", "obj_label": "create", "masked_sentences": ["You would paint because you want [MASK] art."], "uuid": 154}
+{"sub_label": "paint", "obj_label": "enjoy", "masked_sentences": ["You would paint because you [MASK] it."], "uuid": 155}
+{"sub_label": "perform", "obj_label": "actor", "masked_sentences": ["The statement \"An [MASK] can face the audience\" is true because because he is trained to perform."], "uuid": 156}
+{"sub_label": "perform", "obj_label": "fame", "masked_sentences": ["You would perform because you want [MASK]."], "uuid": 157}
+{"sub_label": "perform", "obj_label": "recognition", "masked_sentences": ["You would perform because you want [MASK]."], "uuid": 158}
+{"sub_label": "perform", "obj_label": "rewards", "masked_sentences": ["You would perform because you want [MASK]."], "uuid": 159}
+{"sub_label": "play", "obj_label": "bored", "masked_sentences": ["You would play a game because you are [MASK]."], "uuid": 160}
+{"sub_label": "play", "obj_label": "to", "masked_sentences": ["You would build a tower out of toy blocks because you want [MASK] play with your child ."], "uuid": 161}
+{"sub_label": "pray", "obj_label": "forgiveness", "masked_sentences": ["You would pray to God because you want [MASK]."], "uuid": 162}
+{"sub_label": "pray", "obj_label": "lonely", "masked_sentences": ["You would pray because you want to stop being [MASK]."], "uuid": 163}
+{"sub_label": "pretend", "obj_label": "actor", "masked_sentences": ["You would pretend because you want to be an [MASK]."], "uuid": 164}
+{"sub_label": "pretend", "obj_label": "fool", "masked_sentences": ["The first thing you do when you pretend is [MASK] others."], "uuid": 165}
+{"sub_label": "pretend", "obj_label": "playful", "masked_sentences": ["Another way to say \"You would pretend because it is [MASK]\" is \"Pretending is often part of playing.\"."], "uuid": 166}
+{"sub_label": "pretend", "obj_label": "playing", "masked_sentences": ["You would pretend because you were [MASK] a game or entertaining a wild idea."], "uuid": 167}
+{"sub_label": "procreate", "obj_label": "child", "masked_sentences": ["You would procreate because you want to have a [MASK]."], "uuid": 168}
+{"sub_label": "procreate", "obj_label": "love", "masked_sentences": ["If you want to procreate then you should fall in [MASK]."], "uuid": 169}
+{"sub_label": "program", "obj_label": "results", "masked_sentences": ["If you want to program then you should define the data and [MASK] to be obtained."], "uuid": 170}
+{"sub_label": "punch", "obj_label": "angry", "masked_sentences": ["To understand the event \"Frank and Will are friends.  Frank punched Will.\", it is important to know that You punch people when you're [MASK] at them."], "uuid": 171}
+{"sub_label": "punch", "obj_label": "attention", "masked_sentences": ["You would punch someone because you want [MASK]."], "uuid": 172}
+{"sub_label": "punch", "obj_label": "hurt", "masked_sentences": ["The statement \"You would punch someone because you want to [MASK] him\" is true because Punching is hitting with a fist."], "uuid": 173}
+{"sub_label": "punch", "obj_label": "insulted", "masked_sentences": ["You would punch someone because they [MASK] you."], "uuid": 174}
+{"sub_label": "punch", "obj_label": "lied", "masked_sentences": ["You would punch someone because he [MASK]."], "uuid": 175}
+{"sub_label": "punch", "obj_label": "punched", "masked_sentences": ["To understand the event \"Frank and Will are friends.  Frank [MASK] Will.\", it is important to know that friends usually do not punch other friends."], "uuid": 176}
+{"sub_label": "punch", "obj_label": "violent", "masked_sentences": ["You would punch someone because you are [MASK]."], "uuid": 177}
+{"sub_label": "punish", "obj_label": "lied", "masked_sentences": ["You would punish someone because they [MASK]."], "uuid": 178}
+{"sub_label": "punish", "obj_label": "mean", "masked_sentences": ["You would punish someone because you want to be [MASK]."], "uuid": 179}
+{"sub_label": "punish", "obj_label": "revenge", "masked_sentences": ["You would punish someone because you wanted [MASK]."], "uuid": 180}
+{"sub_label": "punish", "obj_label": "vengeance", "masked_sentences": ["You would punish someone because you want [MASK]."], "uuid": 181}
+{"sub_label": "read", "obj_label": "bored", "masked_sentences": ["The statement \"If before you read a book you are [MASK], then afterwards you are entertained\" helps answer the question \"What are books for?\"."], "uuid": 182}
+{"sub_label": "read", "obj_label": "entertained", "masked_sentences": ["To understand the event \"The teacher read a story to her students.\", it is important to know that the students were [MASK]."], "uuid": 183}
+{"sub_label": "relax", "obj_label": "healthy", "masked_sentences": ["The last thing you do when you know if you're [MASK] is be happy and relax."], "uuid": 184}
+{"sub_label": "relax", "obj_label": "stressed", "masked_sentences": ["Being too [MASK] would make you want to relax."], "uuid": 185}
+{"sub_label": "remember", "obj_label": "stunning", "masked_sentences": ["You would remember something because it is [MASK]."], "uuid": 186}
+{"sub_label": "reproduce", "obj_label": "children", "masked_sentences": ["Something that might happen when you reproduce is you have [MASK]."], "uuid": 187}
+{"sub_label": "rest", "obj_label": "tired", "masked_sentences": ["Getting [MASK] would make you want to have a rest."], "uuid": 188}
+{"sub_label": "rest", "obj_label": "weak", "masked_sentences": ["You would rest because you  are [MASK]."], "uuid": 189}
+{"sub_label": "run", "obj_label": "afraid", "masked_sentences": ["To understand the event \"Graham is [MASK] of heights.  Graham wouldn't go on the roller coaster.\", it is important to know that Roller coasters run on rails."], "uuid": 190}
+{"sub_label": "run", "obj_label": "frightened", "masked_sentences": ["To understand the event \"The dog ran away.\", it is important to know that Dogs may run when they are [MASK]."], "uuid": 191}
+{"sub_label": "run", "obj_label": "late", "masked_sentences": ["If you are [MASK] somewhere, you can run there."], "uuid": 192}
+{"sub_label": "run", "obj_label": "scared", "masked_sentences": ["You would run because you were [MASK]."], "uuid": 193}
+{"sub_label": "sew", "obj_label": "costume", "masked_sentences": ["You would sew because you want a [MASK]."], "uuid": 194}
+{"sub_label": "sew", "obj_label": "enjoy", "masked_sentences": ["You would sew because you [MASK] making your own clothing."], "uuid": 195}
+{"sub_label": "shop", "obj_label": "buy", "masked_sentences": ["To understand the event \"Jon washed the dishes.\", it is important to know that You can [MASK] dishes at a china shop or other store."], "uuid": 196}
+{"sub_label": "shop", "obj_label": "eat", "masked_sentences": ["You can buy something to [MASK] from grocer shop."], "uuid": 197}
+{"sub_label": "shop", "obj_label": "need", "masked_sentences": ["Some people can't afford to shop for the food they [MASK]."], "uuid": 198}
+{"sub_label": "shop", "obj_label": "purchase", "masked_sentences": ["If you shop selectively, and [MASK] only minimally packaged, `environmentally friendly' goods, suppliers will begin to take notice of environmental concerns, and change the stock in stores."], "uuid": 199}
+{"sub_label": "sing", "obj_label": "enjoy", "masked_sentences": ["You would sing because you [MASK] it."], "uuid": 200}
+{"sub_label": "sing", "obj_label": "happy", "masked_sentences": ["Situation: I sing when I am [MASK]."], "uuid": 201}
+{"sub_label": "sing", "obj_label": "perform", "masked_sentences": ["Sometimes watching a musician [MASK] causes you to sing along."], "uuid": 202}
+{"sub_label": "sing", "obj_label": "singer", "masked_sentences": ["A [MASK] in an opera buffa may be funny, but does not sing in the buff."], "uuid": 203}
+{"sub_label": "skate", "obj_label": "cool", "masked_sentences": ["You would skate because it is [MASK]."], "uuid": 204}
+{"sub_label": "skate", "obj_label": "exercise", "masked_sentences": ["You would skate because you want to [MASK]."], "uuid": 205}
+{"sub_label": "skate", "obj_label": "fun", "masked_sentences": ["You would skate because it is [MASK]."], "uuid": 206}
+{"sub_label": "skate", "obj_label": "joy", "masked_sentences": ["You would skate because you want [MASK]."], "uuid": 207}
+{"sub_label": "skate", "obj_label": "like", "masked_sentences": ["You would skate because you [MASK] it."], "uuid": 208}
+{"sub_label": "skateboard", "obj_label": "freedom", "masked_sentences": ["You would skateboard because you want [MASK]."], "uuid": 209}
+{"sub_label": "skateboard", "obj_label": "fun", "masked_sentences": ["You would skateboard because you want to have [MASK]."], "uuid": 210}
+{"sub_label": "skateboard", "obj_label": "relax", "masked_sentences": ["You would skateboard because you want to [MASK]."], "uuid": 211}
+{"sub_label": "skateboard", "obj_label": "teenager", "masked_sentences": ["Something that might happen when you skateboard is prove your no longer a [MASK]."], "uuid": 212}
+{"sub_label": "ski", "obj_label": "challenging", "masked_sentences": ["You would ski because it is [MASK]."], "uuid": 213}
+{"sub_label": "ski", "obj_label": "excitement", "masked_sentences": ["You would ski because you want [MASK]."], "uuid": 214}
+{"sub_label": "ski", "obj_label": "exercise", "masked_sentences": ["You would ski because you want [MASK]."], "uuid": 215}
+{"sub_label": "ski", "obj_label": "thrill", "masked_sentences": ["You would ski because you want a [MASK]."], "uuid": 216}
+{"sub_label": "skip", "obj_label": "happy", "masked_sentences": ["You would skip because you are [MASK]."], "uuid": 217}
+{"sub_label": "sleep", "obj_label": "entertainment", "masked_sentences": ["Sleep is the most basic form of [MASK]."], "uuid": 218}
+{"sub_label": "sleep", "obj_label": "exhausted", "masked_sentences": ["You would go to sleep  because you were [MASK]."], "uuid": 219}
+{"sub_label": "sleep", "obj_label": "live", "masked_sentences": ["Some people [MASK] on less sleep than others."], "uuid": 220}
+{"sub_label": "sleep", "obj_label": "recreation", "masked_sentences": ["You would sleep because you want [MASK]."], "uuid": 221}
+{"sub_label": "sleep", "obj_label": "sleepy", "masked_sentences": ["To understand the event \"Bob was [MASK].  Bob got into bed.\", it is important to know that People usually sleep in a bed."], "uuid": 222}
+{"sub_label": "sleep", "obj_label": "tired", "masked_sentences": ["To understand the event \"Jon is [MASK].  Jon slept.\", it is important to know that sleep restores energy in healthy people."], "uuid": 223}
+{"sub_label": "smile", "obj_label": "happy", "masked_sentences": ["Smile is a type of [MASK] expression."], "uuid": 224}
+{"sub_label": "smoke", "obj_label": "stupid", "masked_sentences": ["Another way to say \"You would smoke because you are [MASK]\" is \"Your smoking is a foolish thing to do.\"."], "uuid": 225}
+{"sub_label": "snore", "obj_label": "air", "masked_sentences": ["You would snore because you want [MASK]."], "uuid": 226}
+{"sub_label": "snore", "obj_label": "tired", "masked_sentences": ["Being [MASK] would make you want to snore."], "uuid": 227}
+{"sub_label": "socialize", "obj_label": "company", "masked_sentences": ["You would socialize because you want [MASK]."], "uuid": 228}
+{"sub_label": "socialize", "obj_label": "entertainment", "masked_sentences": ["You would socialize because you want [MASK]."], "uuid": 229}
+{"sub_label": "socialize", "obj_label": "friends", "masked_sentences": ["[MASK] often socialize by going to see movies or plays together."], "uuid": 230}
+{"sub_label": "socialize", "obj_label": "friendship", "masked_sentences": ["You would socialize because you want [MASK]."], "uuid": 231}
+{"sub_label": "socialize", "obj_label": "input", "masked_sentences": ["You would socialize because you want [MASK]."], "uuid": 232}
+{"sub_label": "socialize", "obj_label": "lonely", "masked_sentences": ["You would socialize because you are [MASK]."], "uuid": 233}
+{"sub_label": "socialize", "obj_label": "popular", "masked_sentences": ["You would socialize because you want to be [MASK]."], "uuid": 234}
+{"sub_label": "spit", "obj_label": "hate", "masked_sentences": ["You would spit because you [MASK] someone."], "uuid": 235}
+{"sub_label": "spit", "obj_label": "mad", "masked_sentences": ["[MASK] enough to spit is a saying."], "uuid": 236}
+{"sub_label": "splurge", "obj_label": "banquet", "masked_sentences": ["You would splurge because it is a [MASK]."], "uuid": 237}
+{"sub_label": "splurge", "obj_label": "bored", "masked_sentences": ["You would splurge because you are [MASK]."], "uuid": 238}
+{"sub_label": "splurge", "obj_label": "need", "masked_sentences": ["You would splurge because you [MASK] a little fun."], "uuid": 239}
+{"sub_label": "splurge", "obj_label": "picnic", "masked_sentences": ["You would splurge because it is a [MASK]."], "uuid": 240}
+{"sub_label": "splurge", "obj_label": "tempted", "masked_sentences": ["You would splurge because you are [MASK]."], "uuid": 241}
+{"sub_label": "splurge", "obj_label": "weak", "masked_sentences": ["You would splurge because you are [MASK]."], "uuid": 242}
+{"sub_label": "splurge", "obj_label": "weekend", "masked_sentences": ["You would splurge because this is the [MASK]."], "uuid": 243}
+{"sub_label": "study", "obj_label": "educated", "masked_sentences": ["You would study for a subject because you want [MASK] yourself."], "uuid": 244}
+{"sub_label": "study", "obj_label": "interested", "masked_sentences": ["The statement \"Geophysicists are [MASK] in the effects on interpretation of geology due to filtering of the signals.\" helps answer the question \"What do Geophysicists study?\"."], "uuid": 245}
+{"sub_label": "surf", "obj_label": "fun", "masked_sentences": ["You would surf because it might be [MASK]."], "uuid": 246}
+{"sub_label": "surf", "obj_label": "know", "masked_sentences": ["To understand the event \"Jenny logged on to the Internet.\", it is important to [MASK] that Jenny wants to surf the net."], "uuid": 247}
+{"sub_label": "surprise", "obj_label": "delighted", "masked_sentences": ["To understand the event \"Ariel wanted to surprise Beth.  Ariel bought Beth a puppy.\", it is important to know that Beth was [MASK] ."], "uuid": 248}
+{"sub_label": "surprise", "obj_label": "like", "masked_sentences": ["Surprise is [MASK] shock."], "uuid": 249}
+{"sub_label": "surprise", "obj_label": "reaction", "masked_sentences": ["Surprise is a [MASK]."], "uuid": 250}
+{"sub_label": "swim", "obj_label": "exercise", "masked_sentences": ["Swim is a type of [MASK] aquatic."], "uuid": 251}
+{"sub_label": "swim", "obj_label": "fun", "masked_sentences": ["Situation: I swim and have [MASK] at the beach."], "uuid": 252}
+{"sub_label": "swim", "obj_label": "hot", "masked_sentences": ["To understand the event \"George went to the beach to get some sun.\", it is important to know that you can swim at a beach which is refreshing when you have lied under the [MASK] sun for some time."], "uuid": 253}
+{"sub_label": "talk", "obj_label": "explain", "masked_sentences": ["[MASK] is a type of detail talk."], "uuid": 254}
+{"sub_label": "talk", "obj_label": "say", "masked_sentences": ["Another way to [MASK] \"do not talk to yourself in company\" is \"talking to yourself in company is something you should not do\"."], "uuid": 255}
+{"sub_label": "talk", "obj_label": "teach", "masked_sentences": ["Situation: pl [MASK] me,how to talk open mind."], "uuid": 256}
+{"sub_label": "thank", "obj_label": "appreciate", "masked_sentences": ["You would thank someone because you want to let them know you [MASK] what they have done."], "uuid": 257}
+{"sub_label": "thank", "obj_label": "grateful", "masked_sentences": ["You would thank someone because you are [MASK]."], "uuid": 258}
+{"sub_label": "thank", "obj_label": "helped", "masked_sentences": ["The statement \"You would thank someone because you want to acknowledge their help\" helps answer the question \"What would you do if someone [MASK] you?\"."], "uuid": 259}
+{"sub_label": "think", "obj_label": "answer", "masked_sentences": ["The first thing you do when you [MASK] questions is think."], "uuid": 260}
+{"sub_label": "think", "obj_label": "progress", "masked_sentences": ["The statement \"taking an exam is for proving what you have learned\" is true because teachers just have this think about measuring your educational [MASK] ."], "uuid": 261}
+{"sub_label": "think", "obj_label": "rational", "masked_sentences": ["You would think because you are [MASK]."], "uuid": 262}
+{"sub_label": "think", "obj_label": "remember", "masked_sentences": ["If you want to [MASK] then you should think about it."], "uuid": 263}
+{"sub_label": "tickle", "obj_label": "sex", "masked_sentences": ["You would tickle because you want [MASK]."], "uuid": 264}
+{"sub_label": "tickle", "obj_label": "silly", "masked_sentences": ["You would tickle because you want to be [MASK]."], "uuid": 265}
+{"sub_label": "tickle", "obj_label": "tease", "masked_sentences": ["You would tickle because you want to [MASK]."], "uuid": 266}
+{"sub_label": "travel", "obj_label": "curious", "masked_sentences": ["You would travel because you are [MASK]."], "uuid": 267}
+{"sub_label": "type", "obj_label": "communicate", "masked_sentences": ["One way to [MASK] with another person is to type them a letter."], "uuid": 268}
+{"sub_label": "type", "obj_label": "write", "masked_sentences": ["You would type because you need to [MASK] a letter."], "uuid": 269}
+{"sub_label": "urinate", "obj_label": "relief", "masked_sentences": ["Something that might happen when you urinate is feel [MASK]."], "uuid": 270}
+{"sub_label": "vomit", "obj_label": "ill", "masked_sentences": ["You would vomit because you are [MASK]."], "uuid": 271}
+{"sub_label": "vomit", "obj_label": "sick", "masked_sentences": ["You would vomit because you are [MASK]."], "uuid": 272}
+{"sub_label": "vomit", "obj_label": "sickness", "masked_sentences": ["You would vomit because [MASK]."], "uuid": 273}
+{"sub_label": "wakeboard", "obj_label": "fun", "masked_sentences": ["You would wakeboard because it is [MASK]."], "uuid": 274}
+{"sub_label": "walk", "obj_label": "enjoyable", "masked_sentences": ["You would walk around a lake because it is [MASK]."], "uuid": 275}
+{"sub_label": "walk", "obj_label": "exercise", "masked_sentences": ["Walk is a type of [MASK]."], "uuid": 276}
+{"sub_label": "work", "obj_label": "accomplish", "masked_sentences": ["You can use a forklift to [MASK] work in a warehouse."], "uuid": 277}
+{"sub_label": "work", "obj_label": "compensation", "masked_sentences": ["Slavery is forcing human beings to work without [MASK] or choice."], "uuid": 278}
+{"sub_label": "work", "obj_label": "money", "masked_sentences": ["The story \"Working\" has the step \"some types of work pay more [MASK] than others\"."], "uuid": 279}
+{"sub_label": "work", "obj_label": "useful", "masked_sentences": ["My computer is one billion times stupider than all the people that I know, but it does some [MASK] work for me."], "uuid": 280}
+{"sub_label": "wrestle", "obj_label": "power", "masked_sentences": ["You would wrestle because you want [MASK]."], "uuid": 281}
+{"sub_label": "write", "obj_label": "famous", "masked_sentences": ["You would write because you want to be [MASK]."], "uuid": 282}
+{"sub_label": "write", "obj_label": "remember", "masked_sentences": ["If you want to [MASK] then you should write things down."], "uuid": 283}
+{"sub_label": "yawn", "obj_label": "sleepy", "masked_sentences": ["Yawn is [MASK] action."], "uuid": 284}
+{"sub_label": "yell", "obj_label": "angry", "masked_sentences": ["To understand the event \"Cindy yelled at Joe.  Cindy asked Joe to forgive her.\", it is important to know that People yell when they are [MASK]."], "uuid": 285}

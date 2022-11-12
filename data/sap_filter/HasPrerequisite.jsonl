@@ -1,0 +1,552 @@
+{"sub_label": "achievement", "obj_label": "effort", "masked_sentences": ["Achievement requires [MASK]."], "uuid": 0}
+{"sub_label": "analysing", "obj_label": "brain", "masked_sentences": ["Analysing something requires a [MASK]."], "uuid": 1}
+{"sub_label": "analysing", "obj_label": "caring", "masked_sentences": ["Analysing something requires [MASK]."], "uuid": 2}
+{"sub_label": "analysing", "obj_label": "thought", "masked_sentences": ["Analysing something requires [MASK]."], "uuid": 3}
+{"sub_label": "awake", "obj_label": "dream", "masked_sentences": ["The first thing you do when you awake is separate [MASK] from reality."], "uuid": 4}
+{"sub_label": "awake", "obj_label": "shake", "masked_sentences": ["If you want to awake then you should [MASK]."], "uuid": 5}
+{"sub_label": "awaking", "obj_label": "coffee", "masked_sentences": ["Awaking requires [MASK]."], "uuid": 6}
+{"sub_label": "awaking", "obj_label": "consciousness", "masked_sentences": ["Awaking requires [MASK]."], "uuid": 7}
+{"sub_label": "awaking", "obj_label": "incentive", "masked_sentences": ["Awaking requires an [MASK]."], "uuid": 8}
+{"sub_label": "awaking", "obj_label": "stimulus", "masked_sentences": ["Awaking requires a [MASK]."], "uuid": 9}
+{"sub_label": "bad", "obj_label": "steal", "masked_sentences": ["To understand the event \"Jeff stole a bicycle.\", it is important to know that To [MASK] is bad."], "uuid": 10}
+{"sub_label": "bathe", "obj_label": "naked", "masked_sentences": ["Situation: I bathe [MASK]."], "uuid": 11}
+{"sub_label": "bathing", "obj_label": "water", "masked_sentences": ["Bathing requires [MASK] and soap."], "uuid": 12}
+{"sub_label": "breathe", "obj_label": "alive", "masked_sentences": ["If you want to stay [MASK] then you should breathe."], "uuid": 13}
+{"sub_label": "breathing", "obj_label": "air", "masked_sentences": ["Something that might happen while breathing some fresh [MASK] is talking to a coworker."], "uuid": 14}
+{"sub_label": "breathing", "obj_label": "lung", "masked_sentences": ["[MASK] is related to breathing thing."], "uuid": 15}
+{"sub_label": "breathing", "obj_label": "lungs", "masked_sentences": ["Sometimes breathing causes [MASK] to complain."], "uuid": 16}
+{"sub_label": "building", "obj_label": "work", "masked_sentences": ["To understand the event \"Irene built a house.\", it is important to know that building houses requires much [MASK]."], "uuid": 17}
+{"sub_label": "buy", "obj_label": "order", "masked_sentences": ["The statement \"You would buy something because i need it in [MASK] to sustain myself.\" is true because People need food to live."], "uuid": 18}
+{"sub_label": "buy", "obj_label": "paying", "masked_sentences": ["Another way to say \"[MASK] cash is for buying a cheap item\" is \"Items that are inexpensive are easy to buy with cash.    s.\"."], "uuid": 19}
+{"sub_label": "buying", "obj_label": "cash", "masked_sentences": ["The story \"Buying Christmas Presents\" has the step \"John then pulled out [MASK] from his wallet\"."], "uuid": 20}
+{"sub_label": "buying", "obj_label": "finances", "masked_sentences": ["Buying something requires [MASK]."], "uuid": 21}
+{"sub_label": "buying", "obj_label": "money", "masked_sentences": ["[MASK] is for Buying."], "uuid": 22}
+{"sub_label": "california", "obj_label": "visitors", "masked_sentences": ["California requires [MASK]."], "uuid": 23}
+{"sub_label": "calligrtaphy", "obj_label": "practice", "masked_sentences": ["Calligrtaphy requires [MASK]."], "uuid": 24}
+{"sub_label": "car", "obj_label": "tire", "masked_sentences": ["Wheel is car [MASK]."], "uuid": 25}
+{"sub_label": "cat", "obj_label": "meat", "masked_sentences": ["Cat requires [MASK]."], "uuid": 26}
+{"sub_label": "celebrate", "obj_label": "happy", "masked_sentences": ["If you want to celebrate then you should be [MASK]."], "uuid": 27}
+{"sub_label": "celebrate", "obj_label": "succeed", "masked_sentences": ["If you want to celebrate then you should [MASK]."], "uuid": 28}
+{"sub_label": "celebrate", "obj_label": "wait", "masked_sentences": ["Something you need to do before you celebrate is [MASK]."], "uuid": 29}
+{"sub_label": "celebrating", "obj_label": "food", "masked_sentences": ["Celebrating requires [MASK]."], "uuid": 30}
+{"sub_label": "celebrating", "obj_label": "people", "masked_sentences": ["Another way to say \"celebrating requires a special occasion\" is \"[MASK] usually celebrate because there is a special occasion.\"."], "uuid": 31}
+{"sub_label": "change", "obj_label": "difference", "masked_sentences": ["Few are willing to change from the consumerism lifestyle and to make a real [MASK] in the world ."], "uuid": 32}
+{"sub_label": "chlorophyll", "obj_label": "water", "masked_sentences": ["Chlorophyll combine carbon dioxide and [MASK] and sunlight to produce sugar and oxygen."], "uuid": 33}
+{"sub_label": "clean", "obj_label": "do", "masked_sentences": ["The first thing you [MASK] when you clean clothing is make sure that nothing is in the pockets."], "uuid": 34}
+{"sub_label": "clean", "obj_label": "organize", "masked_sentences": ["If you want to keep things orderly and tidy then you should clean and [MASK] regularly."], "uuid": 35}
+{"sub_label": "clean", "obj_label": "pay", "masked_sentences": ["To understand the event \"Emily gets paid to clean the kitchen.  Emily cleaned the kitchen.\", it is important to know that emily might use the money to buy a dress or [MASK] her rent."], "uuid": 36}
+{"sub_label": "cleaning", "obj_label": "energy", "masked_sentences": ["Cleaning requires [MASK]."], "uuid": 37}
+{"sub_label": "cleaning", "obj_label": "labour", "masked_sentences": ["Cleaning requires [MASK]."], "uuid": 38}
+{"sub_label": "cleaning", "obj_label": "mess", "masked_sentences": ["The effect of cleaning is removing a [MASK]."], "uuid": 39}
+{"sub_label": "cleaning", "obj_label": "soap", "masked_sentences": ["[MASK] is used cleaning."], "uuid": 40}
+{"sub_label": "cleaning", "obj_label": "water", "masked_sentences": ["Cleaning clothing requires [MASK]."], "uuid": 41}
+{"sub_label": "climb", "obj_label": "careful", "masked_sentences": ["If you want to climb a mountain then you should be [MASK]."], "uuid": 42}
+{"sub_label": "climb", "obj_label": "water", "masked_sentences": ["If you want to take a bath then you should fill the bathtub with hot [MASK] and climb in."], "uuid": 43}
+{"sub_label": "climbing", "obj_label": "arms", "masked_sentences": ["Climbing requires [MASK]."], "uuid": 44}
+{"sub_label": "climbing", "obj_label": "muscles", "masked_sentences": ["Sometimes climbing causes sore [MASK]."], "uuid": 45}
+{"sub_label": "climbing", "obj_label": "ropes", "masked_sentences": ["Situation: I could be climbing a big wall and using [MASK] for safety."], "uuid": 46}
+{"sub_label": "climbing", "obj_label": "skill", "masked_sentences": ["Climbing a mountain requires [MASK]."], "uuid": 47}
+{"sub_label": "climbing", "obj_label": "strength", "masked_sentences": ["Climbing requires [MASK]."], "uuid": 48}
+{"sub_label": "coding", "obj_label": "think", "masked_sentences": ["Coding requires [MASK]."], "uuid": 49}
+{"sub_label": "coding", "obj_label": "thinking", "masked_sentences": ["Coding requires [MASK]."], "uuid": 50}
+{"sub_label": "cogitate", "obj_label": "concentrate", "masked_sentences": ["If you want to cogitate then you should clear your mind and [MASK]."], "uuid": 51}
+{"sub_label": "cogitating", "obj_label": "brain", "masked_sentences": ["Cogitating requires a [MASK]."], "uuid": 52}
+{"sub_label": "cogitating", "obj_label": "energy", "masked_sentences": ["Cogitating requires [MASK]."], "uuid": 53}
+{"sub_label": "cogitating", "obj_label": "reason", "masked_sentences": ["Cogitating requires [MASK]."], "uuid": 54}
+{"sub_label": "communicate", "obj_label": "clear", "masked_sentences": ["If you want to communicate then you should be [MASK]."], "uuid": 55}
+{"sub_label": "communicate", "obj_label": "think", "masked_sentences": ["People use language to communicate with each other, but also to [MASK]."], "uuid": 56}
+{"sub_label": "communicate", "obj_label": "write", "masked_sentences": ["Another way to say \"writing is for communicating thoughts\" is \"One way to communicate thoughts is to [MASK].\"."], "uuid": 57}
+{"sub_label": "communicating", "obj_label": "effort", "masked_sentences": ["Communicating requires [MASK]."], "uuid": 58}
+{"sub_label": "communicating", "obj_label": "intelligence", "masked_sentences": ["Communicating requires [MASK]."], "uuid": 59}
+{"sub_label": "communicating", "obj_label": "laugh", "masked_sentences": ["Communicating requires [MASK]."], "uuid": 60}
+{"sub_label": "communicating", "obj_label": "medium", "masked_sentences": ["Communicating requires [MASK]."], "uuid": 61}
+{"sub_label": "communicating", "obj_label": "senses", "masked_sentences": ["Communicating requires [MASK]."], "uuid": 62}
+{"sub_label": "communicating", "obj_label": "symbols", "masked_sentences": ["Communicating requires [MASK]."], "uuid": 63}
+{"sub_label": "communicating", "obj_label": "thinking", "masked_sentences": ["Communicating requires [MASK]."], "uuid": 64}
+{"sub_label": "compete", "obj_label": "improve", "masked_sentences": ["You would [MASK] yourself because you want to compete."], "uuid": 65}
+{"sub_label": "compete", "obj_label": "start", "masked_sentences": ["If you want to compete then you should [MASK]."], "uuid": 66}
+{"sub_label": "compete", "obj_label": "stretch", "masked_sentences": ["Something you need to do before you compete is [MASK]."], "uuid": 67}
+{"sub_label": "competing", "obj_label": "competitor", "masked_sentences": ["Something that might happen while competing is going  up against a better [MASK]."], "uuid": 68}
+{"sub_label": "competing", "obj_label": "effort", "masked_sentences": ["Competing requires [MASK]."], "uuid": 69}
+{"sub_label": "competing", "obj_label": "opponent", "masked_sentences": ["Competing requires an [MASK]."], "uuid": 70}
+{"sub_label": "competing", "obj_label": "skill", "masked_sentences": ["Competing requires [MASK]."], "uuid": 71}
+{"sub_label": "computer", "obj_label": "electricity", "masked_sentences": ["[MASK] can power a computer."], "uuid": 72}
+{"sub_label": "contemplate", "obj_label": "born", "masked_sentences": ["The statement \"Something you need to do before you contemplate is be [MASK]\" is true because contemplation is a complex mental process."], "uuid": 73}
+{"sub_label": "contemplate", "obj_label": "focus", "masked_sentences": ["If you want to contemplate then you should [MASK]."], "uuid": 74}
+{"sub_label": "contemplate", "obj_label": "look", "masked_sentences": ["If you want to contemplate then you should [MASK]."], "uuid": 75}
+{"sub_label": "contemplate", "obj_label": "observe", "masked_sentences": ["If you want to contemplate then you should [MASK]."], "uuid": 76}
+{"sub_label": "contemplating", "obj_label": "attention", "masked_sentences": ["Contemplating requires [MASK]."], "uuid": 77}
+{"sub_label": "contemplating", "obj_label": "brain", "masked_sentences": ["Contemplating requires thinking, with your [MASK] and stuff."], "uuid": 78}
+{"sub_label": "contemplating", "obj_label": "concentration", "masked_sentences": ["Contemplating requires [MASK]."], "uuid": 79}
+{"sub_label": "contemplating", "obj_label": "information", "masked_sentences": ["Contemplating requires [MASK]."], "uuid": 80}
+{"sub_label": "contemplating", "obj_label": "intelligence", "masked_sentences": ["Contemplating requires [MASK]."], "uuid": 81}
+{"sub_label": "contemplating", "obj_label": "memory", "masked_sentences": ["Contemplating requires [MASK]."], "uuid": 82}
+{"sub_label": "contemplating", "obj_label": "mind", "masked_sentences": ["Contemplating is for using your [MASK]."], "uuid": 83}
+{"sub_label": "contemplating", "obj_label": "thought", "masked_sentences": ["The story \"Contemplating\" has the step \"Jill [MASK] she saw a cloud in the shape of a train.\"."], "uuid": 84}
+{"sub_label": "contemplation", "obj_label": "thought", "masked_sentences": ["Contemplation requires [MASK]."], "uuid": 85}
+{"sub_label": "cooking", "obj_label": "ingredients", "masked_sentences": ["Growing vegetables is for getting fresh [MASK] for cooking."], "uuid": 86}
+{"sub_label": "cooking", "obj_label": "patience", "masked_sentences": ["Cooking a curry requires a good collection of spices and [MASK]."], "uuid": 87}
+{"sub_label": "cooking", "obj_label": "spoon", "masked_sentences": ["Cooking requires a [MASK]."], "uuid": 88}
+{"sub_label": "copulate", "obj_label": "for", "masked_sentences": ["If you want to copulate then you should this is [MASK] you."], "uuid": 89}
+{"sub_label": "copulate", "obj_label": "strip", "masked_sentences": ["If you want to copulate then you should [MASK]."], "uuid": 90}
+{"sub_label": "copulating", "obj_label": "attraction", "masked_sentences": ["Copulating requires [MASK]."], "uuid": 91}
+{"sub_label": "copulating", "obj_label": "effort", "masked_sentences": ["Copulating requires [MASK]."], "uuid": 92}
+{"sub_label": "copulating", "obj_label": "penetration", "masked_sentences": ["Copulating requires [MASK]."], "uuid": 93}
+{"sub_label": "copulating", "obj_label": "spirit", "masked_sentences": ["Copulating requires [MASK]."], "uuid": 94}
+{"sub_label": "counting", "obj_label": "numbers", "masked_sentences": ["[MASK] can be used for counting."], "uuid": 95}
+{"sub_label": "creativity", "obj_label": "inspiration", "masked_sentences": ["Creativity requires [MASK]."], "uuid": 96}
+{"sub_label": "dancing", "obj_label": "coordination", "masked_sentences": ["Dancing the samba requires [MASK] and a partner."], "uuid": 97}
+{"sub_label": "dancing", "obj_label": "music", "masked_sentences": ["Another way to say \"jill is dancing\" is \"Jill is moving rhythmically to [MASK].\"."], "uuid": 98}
+{"sub_label": "dancing", "obj_label": "rhythm", "masked_sentences": ["Another way to say \"rocky is dancing \" is \"[MASK] is easy to move to.\"."], "uuid": 99}
+{"sub_label": "destroy", "obj_label": "explode", "masked_sentences": ["If you want to destroy then you should [MASK] it."], "uuid": 100}
+{"sub_label": "die", "obj_label": "alive", "masked_sentences": ["If you are buried [MASK], you will die."], "uuid": 101}
+{"sub_label": "die", "obj_label": "travel", "masked_sentences": ["The statement \"Many people die as a result of having an accident while travelling in cars.\" is true because cars [MASK] much faster than people walk."], "uuid": 102}
+{"sub_label": "difference", "obj_label": "separation", "masked_sentences": ["Difference requires [MASK]."], "uuid": 103}
+{"sub_label": "dive", "obj_label": "breathe", "masked_sentences": ["You would scuba dive because you want to [MASK] underwater."], "uuid": 104}
+{"sub_label": "dive", "obj_label": "safe", "masked_sentences": ["Something you need to do before you dive is be [MASK]."], "uuid": 105}
+{"sub_label": "diving", "obj_label": "courage", "masked_sentences": ["Diving requires [MASK]."], "uuid": 106}
+{"sub_label": "diving", "obj_label": "skill", "masked_sentences": ["Diving requires swimming [MASK]."], "uuid": 107}
+{"sub_label": "diving", "obj_label": "water", "masked_sentences": ["Something that might happen as a consequence of diving is [MASK] in the ears."], "uuid": 108}
+{"sub_label": "dreaming", "obj_label": "mind", "masked_sentences": ["Dreaming requires a [MASK]."], "uuid": 109}
+{"sub_label": "drinking", "obj_label": "bottle", "masked_sentences": ["The statement \"Something that might happen as a consequence of hitting the [MASK] is losing your job\" is true because Drinking too much alchohol makes it difficult to think clearly and stay healthy."], "uuid": 110}
+{"sub_label": "drinking", "obj_label": "glass", "masked_sentences": ["A liquor [MASK] is for drinking sherry."], "uuid": 111}
+{"sub_label": "drinking", "obj_label": "mouth", "masked_sentences": ["Drinking requires a [MASK]."], "uuid": 112}
+{"sub_label": "drinking", "obj_label": "swallowing", "masked_sentences": ["Drinking requires [MASK]."], "uuid": 113}
+{"sub_label": "drinking", "obj_label": "tolerance", "masked_sentences": ["Drinking requires [MASK]."], "uuid": 114}
+{"sub_label": "driving", "obj_label": "car", "masked_sentences": ["Driving a [MASK] is for paying tolls at a toll booth."], "uuid": 115}
+{"sub_label": "driving", "obj_label": "gasoline", "masked_sentences": ["To understand the event \"While driving to work Tony ran out of gas.  Tony had to walk to work.\", it is important to know that Tony probably owns a [MASK] powered vehicle."], "uuid": 116}
+{"sub_label": "driving", "obj_label": "license", "masked_sentences": ["If you want to drive your car then you should have a driving [MASK]."], "uuid": 117}
+{"sub_label": "driving", "obj_label": "training", "masked_sentences": ["Driving requires [MASK] and skill."], "uuid": 118}
+{"sub_label": "driving", "obj_label": "vehicle", "masked_sentences": ["To understand the event \"Hector was pulled over for speeding.\", it is important to know that Hector was driving a motorized [MASK]."], "uuid": 119}
+{"sub_label": "dying", "obj_label": "life", "masked_sentences": ["To understand the event \"Ted was dying.  Ted wrote a will.\", it is important to know that Ted knew his [MASK] was going to end soon."], "uuid": 120}
+{"sub_label": "dying", "obj_label": "live", "masked_sentences": ["You would [MASK] because dying is painful."], "uuid": 121}
+{"sub_label": "dying", "obj_label": "living", "masked_sentences": ["To understand the event \"Bob is dying.\", it is important to know that a person is a [MASK] thing."], "uuid": 122}
+{"sub_label": "eat", "obj_label": "work", "masked_sentences": ["Situation: After I eat breakfast I get dressed and drive my car to [MASK]."], "uuid": 123}
+{"sub_label": "eating", "obj_label": "appetite", "masked_sentences": ["Eating requires an [MASK]."], "uuid": 124}
+{"sub_label": "eating", "obj_label": "choice", "masked_sentences": ["Eating requires [MASK]."], "uuid": 125}
+{"sub_label": "eating", "obj_label": "teeth", "masked_sentences": ["Sometimes eating an apple causes cleaner [MASK] and fresher breath."], "uuid": 126}
+{"sub_label": "entertain", "obj_label": "entertaining", "masked_sentences": ["Another way to say \"Plays entertain people.\" is \"[MASK] people is a function of plays.\"."], "uuid": 127}
+{"sub_label": "entertain", "obj_label": "invite", "masked_sentences": ["If you want to entertain people then you should Buy alot of food, cook it, get some good wine, and [MASK] them over."], "uuid": 128}
+{"sub_label": "entertain", "obj_label": "know", "masked_sentences": ["To understand the event \"Louise flirted with Harold at Judy's party.  Louise was a little bit drunk.\", it is important to [MASK] that Judy likes to entertain people."], "uuid": 129}
+{"sub_label": "entertain", "obj_label": "perform", "masked_sentences": ["To understand the event \"Julia likes to [MASK].  Acting is Julia's career choice.\", it is important to know that Julia desires to entertain people."], "uuid": 130}
+{"sub_label": "entertaining", "obj_label": "comedy", "masked_sentences": ["Entertaining someone requires [MASK]."], "uuid": 131}
+{"sub_label": "entertaining", "obj_label": "creativity", "masked_sentences": ["Entertaining someone requires [MASK]."], "uuid": 132}
+{"sub_label": "entertaining", "obj_label": "fun", "masked_sentences": ["Entertaining someone is for having [MASK] ."], "uuid": 133}
+{"sub_label": "entertaining", "obj_label": "intelligence", "masked_sentences": ["Entertaining someone requires [MASK]."], "uuid": 134}
+{"sub_label": "entertaining", "obj_label": "novelty", "masked_sentences": ["Entertaining someone requires [MASK]."], "uuid": 135}
+{"sub_label": "entertaining", "obj_label": "talent", "masked_sentences": ["Entertaining someone requires [MASK]."], "uuid": 136}
+{"sub_label": "exercise", "obj_label": "dance", "masked_sentences": ["[MASK] is musical exercise."], "uuid": 137}
+{"sub_label": "exercise", "obj_label": "energy", "masked_sentences": ["If you want to invest money or [MASK] then you should exercise due diligence."], "uuid": 138}
+{"sub_label": "exercise", "obj_label": "move", "masked_sentences": ["Exercise can be done anywhere a person can [MASK]."], "uuid": 139}
+{"sub_label": "exercise", "obj_label": "skate", "masked_sentences": ["You would [MASK] because you want to exercise."], "uuid": 140}
+{"sub_label": "exercise", "obj_label": "vigorous", "masked_sentences": ["If you want to exercise then you should be [MASK]."], "uuid": 141}
+{"sub_label": "exercising", "obj_label": "discipline", "masked_sentences": ["Exercising requires [MASK]."], "uuid": 142}
+{"sub_label": "exercising", "obj_label": "effort", "masked_sentences": ["Exercising requires [MASK]."], "uuid": 143}
+{"sub_label": "exercising", "obj_label": "energy", "masked_sentences": ["The effect of exercising is the burning of [MASK]."], "uuid": 144}
+{"sub_label": "exercising", "obj_label": "motivation", "masked_sentences": ["Exercising requires [MASK]."], "uuid": 145}
+{"sub_label": "exercising", "obj_label": "muscles", "masked_sentences": ["Exercising different [MASK] each day gives the others a chance to rest."], "uuid": 146}
+{"sub_label": "exercising", "obj_label": "patience", "masked_sentences": ["Exercising requires [MASK]."], "uuid": 147}
+{"sub_label": "fall", "obj_label": "clumsy", "masked_sentences": ["If you want to fall then you should be [MASK]."], "uuid": 148}
+{"sub_label": "fall", "obj_label": "elevated", "masked_sentences": ["If you want to fall then you should be [MASK]."], "uuid": 149}
+{"sub_label": "fall", "obj_label": "slip", "masked_sentences": ["[MASK] is near fall."], "uuid": 150}
+{"sub_label": "fall", "obj_label": "trip", "masked_sentences": ["Something you might do while running after the ball is [MASK] and fall down."], "uuid": 151}
+{"sub_label": "falling", "obj_label": "gravity", "masked_sentences": ["Falling requires the use of [MASK]."], "uuid": 152}
+{"sub_label": "fart", "obj_label": "do", "masked_sentences": ["The first thing you [MASK] when you sit on a chair is fart."], "uuid": 153}
+{"sub_label": "fart", "obj_label": "push", "masked_sentences": ["If you want to fart then you should [MASK]."], "uuid": 154}
+{"sub_label": "fart", "obj_label": "relax", "masked_sentences": ["If you want to fart then you should [MASK] your sphincter muscles."], "uuid": 155}
+{"sub_label": "farting", "obj_label": "butt", "masked_sentences": ["Farting requires a [MASK]."], "uuid": 156}
+{"sub_label": "farting", "obj_label": "gas", "masked_sentences": ["Farting is for expelling [MASK]."], "uuid": 157}
+{"sub_label": "fence", "obj_label": "attack", "masked_sentences": ["An [MASK]  would make you want to fence."], "uuid": 158}
+{"sub_label": "fence", "obj_label": "do", "masked_sentences": ["The first thing you [MASK] when you fence is being very cautios."], "uuid": 159}
+{"sub_label": "fence", "obj_label": "practice", "masked_sentences": ["Something you need to do before you fence is [MASK]."], "uuid": 160}
+{"sub_label": "fence", "obj_label": "steal", "masked_sentences": ["If you want to fence then you should [MASK] goods."], "uuid": 161}
+{"sub_label": "fencing", "obj_label": "masks", "masked_sentences": ["Fencing requires [MASK]."], "uuid": 162}
+{"sub_label": "fencing", "obj_label": "outfit", "masked_sentences": ["Fencing requires an [MASK]."], "uuid": 163}
+{"sub_label": "fencing", "obj_label": "protection", "masked_sentences": ["Fencing requires [MASK]."], "uuid": 164}
+{"sub_label": "fiddle", "obj_label": "musician", "masked_sentences": ["An activity a [MASK] can do is play a fiddle."], "uuid": 165}
+{"sub_label": "fiddle", "obj_label": "practice", "masked_sentences": ["If you want to fiddle then you should [MASK]."], "uuid": 166}
+{"sub_label": "fiddling", "obj_label": "practice", "masked_sentences": ["Fiddling requires [MASK]."], "uuid": 167}
+{"sub_label": "fiddling", "obj_label": "skill", "masked_sentences": ["Fiddling requires [MASK]."], "uuid": 168}
+{"sub_label": "fish", "obj_label": "buy", "masked_sentences": ["The fact \"Rabbits are sometimes kept as pets.\" is illustrated with the story:1. jane goes to the pet store to [MASK] a pet for herself2. she sees rows and rows of cats, dogs, fish, rabbits and hamsters3. she decides she wants a rabbit4. she names it fluffy and loves her new pet."], "uuid": 169}
+{"sub_label": "fishesing", "obj_label": "fishing", "masked_sentences": ["Fishesing requires [MASK]."], "uuid": 170}
+{"sub_label": "fishing", "obj_label": "bait", "masked_sentences": ["Something you might do while going fishing is to buy [MASK]."], "uuid": 171}
+{"sub_label": "fishing", "obj_label": "patience", "masked_sentences": ["Fishing requires [MASK], skill and tackle."], "uuid": 172}
+{"sub_label": "fishing", "obj_label": "water", "masked_sentences": ["To understand the event \"Kathy was vacationing in Florida  She chartered a boat and went deep sea fishing.\", it is important to know that A boat carries people and things on bodies of [MASK]."], "uuid": 173}
+{"sub_label": "flirt", "obj_label": "sensual", "masked_sentences": ["If you want to flirt then you should be [MASK]."], "uuid": 174}
+{"sub_label": "flirt", "obj_label": "tease", "masked_sentences": ["If you want to flirt then you should know how to [MASK] a little."], "uuid": 175}
+{"sub_label": "flirting", "obj_label": "desire", "masked_sentences": ["Another way to say \"flirting requires [MASK]\" is \"sexual physical attraction is necessary for initial stages of courting\"."], "uuid": 176}
+{"sub_label": "flirting", "obj_label": "enthusiasm", "masked_sentences": ["Flirting requires [MASK]."], "uuid": 177}
+{"sub_label": "flirting", "obj_label": "kindness", "masked_sentences": ["Flirting requires [MASK]."], "uuid": 178}
+{"sub_label": "flirting", "obj_label": "personality", "masked_sentences": ["Flirting requires [MASK]."], "uuid": 179}
+{"sub_label": "flirting", "obj_label": "skill", "masked_sentences": ["Flirting requires [MASK]."], "uuid": 180}
+{"sub_label": "forgive", "obj_label": "do", "masked_sentences": ["An activity someone can [MASK] is forgive another."], "uuid": 181}
+{"sub_label": "forgive", "obj_label": "kind", "masked_sentences": ["Situation: Did  you forgive him for that? How [MASK] you are!"], "uuid": 182}
+{"sub_label": "forgive", "obj_label": "know", "masked_sentences": ["To understand the event \"Cindy yelled at Joe.  Cindy asked Joe to forgive her.\", it is important to [MASK] that People yell when they are angry."], "uuid": 183}
+{"sub_label": "forgive", "obj_label": "sincere", "masked_sentences": ["If you want to forgive someone then you should be [MASK]."], "uuid": 184}
+{"sub_label": "forgive", "obj_label": "tell", "masked_sentences": ["If you want to forgive someone then you should [MASK] them ."], "uuid": 185}
+{"sub_label": "forgiving", "obj_label": "kindness", "masked_sentences": ["Forgiving someone is for healing and [MASK]."], "uuid": 186}
+{"sub_label": "forgiving", "obj_label": "patience", "masked_sentences": ["Forgiving someone requires [MASK]."], "uuid": 187}
+{"sub_label": "forgiving", "obj_label": "sincerity", "masked_sentences": ["Forgiving someone requires [MASK]."], "uuid": 188}
+{"sub_label": "forgiving", "obj_label": "sympathy", "masked_sentences": ["Forgiving someone requires [MASK]."], "uuid": 189}
+{"sub_label": "forgiving", "obj_label": "thought", "masked_sentences": ["Forgiving someone requires [MASK]."], "uuid": 190}
+{"sub_label": "forgiving", "obj_label": "understanding", "masked_sentences": ["Women are more [MASK], nurturing, and  forgiving than men."], "uuid": 191}
+{"sub_label": "friendship", "obj_label": "communication", "masked_sentences": ["Friendship can requires [MASK]."], "uuid": 192}
+{"sub_label": "get", "obj_label": "buy", "masked_sentences": ["You would get to the front of the line because you want [MASK] something."], "uuid": 193}
+{"sub_label": "get", "obj_label": "give", "masked_sentences": ["Another way to say \"A farmer can get milk from cows.\" is \"Cows [MASK] milk for a farmer.\"."], "uuid": 194}
+{"sub_label": "get", "obj_label": "produce", "masked_sentences": ["The statement \"The first thing you do when you [MASK] an image or text on paper is get some paper\" is true because Using paper requires having paper."], "uuid": 195}
+{"sub_label": "get", "obj_label": "purchase", "masked_sentences": ["The story \"Buying Something\" has the step \"She told me she would hold my [MASK] at the counter until I could get back.\"."], "uuid": 196}
+{"sub_label": "get", "obj_label": "steal", "masked_sentences": ["If you [MASK] you could get caught."], "uuid": 197}
+{"sub_label": "getting", "obj_label": "action", "masked_sentences": ["Instituting a civil [MASK] is for getting the attention of the government."], "uuid": 198}
+{"sub_label": "getting", "obj_label": "energy", "masked_sentences": ["Situation: Getting a good night's sleep tonight will help my [MASK] tomorrow."], "uuid": 199}
+{"sub_label": "getting", "obj_label": "giving", "masked_sentences": ["[MASK] a plug is for getting rid of an old horse."], "uuid": 200}
+{"sub_label": "getting", "obj_label": "money", "masked_sentences": ["The story \"Getting Some [MASK] From Someone\" has the step \"My family cried\"."], "uuid": 201}
+{"sub_label": "getting", "obj_label": "patience", "masked_sentences": ["Getting to the front of the line requires [MASK]."], "uuid": 202}
+{"sub_label": "getting", "obj_label": "work", "masked_sentences": ["Getting up early is for running errands before [MASK]."], "uuid": 203}
+{"sub_label": "groom", "obj_label": "bath", "masked_sentences": ["The last thing you do when you take a [MASK] is groom."], "uuid": 204}
+{"sub_label": "groom", "obj_label": "prepare", "masked_sentences": ["If you want to groom then you should [MASK]."], "uuid": 205}
+{"sub_label": "grooming", "obj_label": "bathroom", "masked_sentences": ["Grooming requires a [MASK]."], "uuid": 206}
+{"sub_label": "grooming", "obj_label": "brush", "masked_sentences": ["Grooming requires a [MASK] or comb."], "uuid": 207}
+{"sub_label": "grooming", "obj_label": "comb", "masked_sentences": ["Grooming requires a brush or [MASK]."], "uuid": 208}
+{"sub_label": "grooming", "obj_label": "hair", "masked_sentences": ["A [MASK] care article is for grooming yourself or others."], "uuid": 209}
+{"sub_label": "grooming", "obj_label": "mirror", "masked_sentences": ["Something you might do while grooming is look in the [MASK]."], "uuid": 210}
+{"sub_label": "grooming", "obj_label": "personality", "masked_sentences": ["Grooming requires [MASK]."], "uuid": 211}
+{"sub_label": "grooming", "obj_label": "style", "masked_sentences": ["Grooming requires [MASK]."], "uuid": 212}
+{"sub_label": "grooming", "obj_label": "time", "masked_sentences": ["Some people spend a lot of [MASK] grooming themselves in the morning."], "uuid": 213}
+{"sub_label": "grow", "obj_label": "wait", "masked_sentences": ["If you want to grow then you should [MASK]."], "uuid": 214}
+{"sub_label": "gymnastics", "obj_label": "talent", "masked_sentences": ["Gymnastics requires [MASK]."], "uuid": 215}
+{"sub_label": "healthy", "obj_label": "exercise", "masked_sentences": ["Sports are a form of healthy [MASK]."], "uuid": 216}
+{"sub_label": "hearing", "obj_label": "brain", "masked_sentences": ["Hearing is done with the ears and [MASK] ."], "uuid": 217}
+{"sub_label": "hearing", "obj_label": "medium", "masked_sentences": ["Hearing requires a [MASK]."], "uuid": 218}
+{"sub_label": "hearing", "obj_label": "vibration", "masked_sentences": ["Hearing requires [MASK]."], "uuid": 219}
+{"sub_label": "help", "obj_label": "offer", "masked_sentences": ["A person can [MASK] help."], "uuid": 220}
+{"sub_label": "help", "obj_label": "teach", "masked_sentences": ["A desire to help others would make you want to [MASK] other people."], "uuid": 221}
+{"sub_label": "help", "obj_label": "volunteer", "masked_sentences": ["Another way to say \"A [MASK]  can help the homeless\" is \"Homeless people are often helped by volunteers.\"."], "uuid": 222}
+{"sub_label": "help", "obj_label": "worthy", "masked_sentences": ["If you want to help someone then you should be [MASK]."], "uuid": 223}
+{"sub_label": "helping", "obj_label": "caring", "masked_sentences": ["Helping someone requires actually [MASK]."], "uuid": 224}
+{"sub_label": "helping", "obj_label": "kindness", "masked_sentences": ["Helping someone requires [MASK]."], "uuid": 225}
+{"sub_label": "helping", "obj_label": "knowledge", "masked_sentences": ["Helping our children become more by [MASK] is one such drive."], "uuid": 226}
+{"sub_label": "helping", "obj_label": "power", "masked_sentences": ["Helping someone requires [MASK]."], "uuid": 227}
+{"sub_label": "helping", "obj_label": "time", "masked_sentences": ["A watch is for helping to get to places on [MASK]."], "uuid": 228}
+{"sub_label": "hiking", "obj_label": "boots", "masked_sentences": ["Something you need to do before you hike is  make sure you have good hiking [MASK]."], "uuid": 229}
+{"sub_label": "hiking", "obj_label": "feet", "masked_sentences": ["Hiking requires [MASK]."], "uuid": 230}
+{"sub_label": "hiking", "obj_label": "legs", "masked_sentences": ["Something that might happen as a consequence of hiking is getting tired [MASK]."], "uuid": 231}
+{"sub_label": "hiking", "obj_label": "mountains", "masked_sentences": ["Situation: Hiking in the [MASK]."], "uuid": 232}
+{"sub_label": "hiking", "obj_label": "plan", "masked_sentences": ["Hiking requires a [MASK]."], "uuid": 233}
+{"sub_label": "hiking", "obj_label": "shoes", "masked_sentences": ["Hiking requires [MASK]."], "uuid": 234}
+{"sub_label": "host", "obj_label": "plan", "masked_sentences": ["If you want to host then you should [MASK]."], "uuid": 235}
+{"sub_label": "information", "obj_label": "change", "masked_sentences": ["Something that might happen while finding information is your direction might [MASK]."], "uuid": 236}
+{"sub_label": "jogging", "obj_label": "energy", "masked_sentences": ["Jogging requires [MASK]."], "uuid": 237}
+{"sub_label": "judge", "obj_label": "know", "masked_sentences": ["To understand the event \"The jury convicted the criminal.\", it is important to [MASK] that A jury is a group of people selected to judge the guilt or innocence of another individual."], "uuid": 238}
+{"sub_label": "judge", "obj_label": "observe", "masked_sentences": ["Something you need to do before you judge someone is [MASK] them."], "uuid": 239}
+{"sub_label": "judge", "obj_label": "watch", "masked_sentences": ["If you want to judge someone then you should [MASK] them."], "uuid": 240}
+{"sub_label": "judge", "obj_label": "wise", "masked_sentences": ["If you want to judge someone then you should be [MASK]."], "uuid": 241}
+{"sub_label": "judging", "obj_label": "experience", "masked_sentences": ["Judging someone requires [MASK]."], "uuid": 242}
+{"sub_label": "judging", "obj_label": "eyes", "masked_sentences": ["Judging someone requires [MASK]."], "uuid": 243}
+{"sub_label": "judging", "obj_label": "ignorance", "masked_sentences": ["Judging someone requires [MASK]."], "uuid": 244}
+{"sub_label": "judging", "obj_label": "opinions", "masked_sentences": ["Something that might happen while judging someone is you use things about yourself to project your [MASK] on that person."], "uuid": 245}
+{"sub_label": "judging", "obj_label": "power", "masked_sentences": ["Judging someone requires [MASK]."], "uuid": 246}
+{"sub_label": "judging", "obj_label": "wisdom", "masked_sentences": ["Judging someone requires [MASK]."], "uuid": 247}
+{"sub_label": "kill", "obj_label": "pistol", "masked_sentences": ["You can kill someone with a [MASK]."], "uuid": 248}
+{"sub_label": "kill", "obj_label": "pray", "masked_sentences": ["Something you need to do before you kill is [MASK]."], "uuid": 249}
+{"sub_label": "killing", "obj_label": "hatred", "masked_sentences": ["Killing requires [MASK]."], "uuid": 250}
+{"sub_label": "killing", "obj_label": "justification", "masked_sentences": ["Killing requires [MASK]."], "uuid": 251}
+{"sub_label": "killing", "obj_label": "victim", "masked_sentences": ["Sometimes killing someone causes sadness for the [MASK]'s family."], "uuid": 252}
+{"sub_label": "killing", "obj_label": "weapon", "masked_sentences": ["A [MASK] is used for killing someone."], "uuid": 253}
+{"sub_label": "kiss", "obj_label": "facing", "masked_sentences": ["If you want to kiss someone then you should be [MASK] them."], "uuid": 254}
+{"sub_label": "kiss", "obj_label": "greet", "masked_sentences": ["You would kiss someone because loved them or simply to [MASK] them."], "uuid": 255}
+{"sub_label": "kissing", "obj_label": "cooperation", "masked_sentences": ["Kissing requires [MASK]."], "uuid": 256}
+{"sub_label": "kissing", "obj_label": "intimacy", "masked_sentences": ["The statement \"You would kiss someone because loved them or simply to greet them\" is true because kissing is an expression of caring or [MASK]."], "uuid": 257}
+{"sub_label": "kissing", "obj_label": "lips", "masked_sentences": ["Kissing is pressing the [MASK] of one person to the body of another."], "uuid": 258}
+{"sub_label": "kissing", "obj_label": "partner", "masked_sentences": ["Kissing requires that you have an affectionate [MASK]."], "uuid": 259}
+{"sub_label": "kissing", "obj_label": "trust", "masked_sentences": ["Kissing someone requires [MASK]."], "uuid": 260}
+{"sub_label": "knitting", "obj_label": "patience", "masked_sentences": ["The statement \"knitting requires [MASK]\" helps answer the question \"I fucking hate to knit/\"."], "uuid": 261}
+{"sub_label": "knowledge", "obj_label": "thought", "masked_sentences": ["Knowledge requires [MASK]."], "uuid": 262}
+{"sub_label": "learn", "obj_label": "concentrate", "masked_sentences": ["Something you need to do before you learn is [MASK]."], "uuid": 263}
+{"sub_label": "learn", "obj_label": "read", "masked_sentences": ["If you want to learn about science then you should [MASK] some science books."], "uuid": 264}
+{"sub_label": "learning", "obj_label": "attention", "masked_sentences": ["Something you might do while learning is pay [MASK] to the teacher."], "uuid": 265}
+{"sub_label": "learning", "obj_label": "effort", "masked_sentences": ["Learning about a subject requires [MASK], persistence, and time."], "uuid": 266}
+{"sub_label": "learning", "obj_label": "exposure", "masked_sentences": ["Learning requires [MASK]."], "uuid": 267}
+{"sub_label": "learning", "obj_label": "motivation", "masked_sentences": ["Learning requires [MASK]."], "uuid": 268}
+{"sub_label": "learning", "obj_label": "patience", "masked_sentences": ["Learning something new requires [MASK]."], "uuid": 269}
+{"sub_label": "learning", "obj_label": "remembering", "masked_sentences": ["Something that might happen as a consequence of [MASK] something is learning."], "uuid": 270}
+{"sub_label": "learning", "obj_label": "study", "masked_sentences": ["Learning about a subject requires [MASK]."], "uuid": 271}
+{"sub_label": "learning", "obj_label": "thought", "masked_sentences": ["Learning requires [MASK]."], "uuid": 272}
+{"sub_label": "lie", "obj_label": "not", "masked_sentences": ["It is [MASK] always wrong to tell a lie ."], "uuid": 273}
+{"sub_label": "lie", "obj_label": "speak", "masked_sentences": ["If you want to lie then you should [MASK]."], "uuid": 274}
+{"sub_label": "life", "obj_label": "water", "masked_sentences": ["Ocean [MASK] is too salty to sustain human life."], "uuid": 275}
+{"sub_label": "listen", "obj_label": "concentrate", "masked_sentences": ["The statement \"If you want to understand something better then you should listen carefully\" is true because By listening carefully your mind will [MASK] on the incoming information and it can ."], "uuid": 276}
+{"sub_label": "listening", "obj_label": "concentration", "masked_sentences": ["Listening requires [MASK]."], "uuid": 277}
+{"sub_label": "listening", "obj_label": "ears", "masked_sentences": ["Listening to music is for people with [MASK]."], "uuid": 278}
+{"sub_label": "live", "obj_label": "breath", "masked_sentences": ["A person can must [MASK] to live."], "uuid": 279}
+{"sub_label": "live", "obj_label": "careful", "masked_sentences": ["If you want to live then you should be [MASK]."], "uuid": 280}
+{"sub_label": "live", "obj_label": "conceived", "masked_sentences": ["Something you need to do before you live is be [MASK]."], "uuid": 281}
+{"sub_label": "living", "obj_label": "air", "masked_sentences": ["Similarity between a calendar and an [MASK] conditioning: both are important in modern living."], "uuid": 282}
+{"sub_label": "living", "obj_label": "food", "masked_sentences": ["Situation: all living beings require [MASK] and water to survive."], "uuid": 283}
+{"sub_label": "living", "obj_label": "oxygen", "masked_sentences": ["Plants are a kind of living organism and they produce [MASK]."], "uuid": 284}
+{"sub_label": "lying", "obj_label": "imagination", "masked_sentences": ["Lying requires [MASK]."], "uuid": 285}
+{"sub_label": "lying", "obj_label": "plan", "masked_sentences": ["Lying requires a [MASK]."], "uuid": 286}
+{"sub_label": "lying", "obj_label": "truth", "masked_sentences": ["The statement \"Lying is not a crime.\" helps answer the question \"Should you tell the [MASK]?\"."], "uuid": 287}
+{"sub_label": "manipulate", "obj_label": "cry", "masked_sentences": ["If you want to manipulate someone then you should [MASK]."], "uuid": 288}
+{"sub_label": "marriage", "obj_label": "love", "masked_sentences": ["Situation: This morning we made [MASK]: what a great marriage we have. YUM!"], "uuid": 289}
+{"sub_label": "marry", "obj_label": "adult", "masked_sentences": ["To understand the event \"My son was going to be married on Saturday.  He decided not to get married a few days before the wedding.\", it is important to know that His or her son had found an [MASK] female person and at one point had agreed to marry this person."], "uuid": 290}
+{"sub_label": "mathematics", "obj_label": "reasoning", "masked_sentences": ["Mathematics is the study of numbers, shapes, patterns, and logical [MASK]."], "uuid": 291}
+{"sub_label": "medication", "obj_label": "prescription", "masked_sentences": ["To understand the event \"Betty went to the pharmacy to get medication.\", it is important to know that betty probably had a [MASK]."], "uuid": 292}
+{"sub_label": "memorising", "obj_label": "attention", "masked_sentences": ["Memorising requires [MASK]."], "uuid": 293}
+{"sub_label": "memorising", "obj_label": "concentration", "masked_sentences": ["Memorising requires focused [MASK]."], "uuid": 294}
+{"sub_label": "memorising", "obj_label": "memory", "masked_sentences": ["Something that might happen as a consequence of memorising is a better [MASK] ."], "uuid": 295}
+{"sub_label": "memorize", "obj_label": "alert", "masked_sentences": ["If you want to memorize then you should be [MASK]."], "uuid": 296}
+{"sub_label": "memorize", "obj_label": "awake", "masked_sentences": ["If you want to memorize then you should be [MASK]."], "uuid": 297}
+{"sub_label": "memorize", "obj_label": "concentrate", "masked_sentences": ["If you want to memorize then you should [MASK]."], "uuid": 298}
+{"sub_label": "painting", "obj_label": "brush", "masked_sentences": ["Something you might do while painting a picture is clean a [MASK]."], "uuid": 299}
+{"sub_label": "painting", "obj_label": "brushes", "masked_sentences": ["You would need paint and paint [MASK] because you want painting a picture."], "uuid": 300}
+{"sub_label": "painting", "obj_label": "perspective", "masked_sentences": ["Something you might do while painting a picture is think about [MASK]."], "uuid": 301}
+{"sub_label": "peeing", "obj_label": "drinking", "masked_sentences": ["Peeing requires [MASK]."], "uuid": 302}
+{"sub_label": "perform", "obj_label": "act", "masked_sentences": ["To understand the event \"Robert took his medication.\", it is important to know that Robert is able to perform this [MASK] on his own."], "uuid": 303}
+{"sub_label": "perform", "obj_label": "artist", "masked_sentences": ["A trapeze [MASK] doesn't want to perform without a net."], "uuid": 304}
+{"sub_label": "perform", "obj_label": "practice", "masked_sentences": ["Another way to say \"Good witches [MASK] white magic.\" is \"Good witches perform white magic.\"."], "uuid": 305}
+{"sub_label": "perform", "obj_label": "prepare", "masked_sentences": ["You would [MASK] for a vote because you want to perform a civic duty."], "uuid": 306}
+{"sub_label": "perform", "obj_label": "surprise", "masked_sentences": ["If you want to perform then you should [MASK]."], "uuid": 307}
+{"sub_label": "performing", "obj_label": "skill", "masked_sentences": ["Situation: talent is the above average [MASK] in performing a task."], "uuid": 308}
+{"sub_label": "performing", "obj_label": "still", "masked_sentences": ["Performing requires [MASK]."], "uuid": 309}
+{"sub_label": "performing", "obj_label": "talent", "masked_sentences": ["Situation: [MASK] is the above average skill in performing a task."], "uuid": 310}
+{"sub_label": "play", "obj_label": "child", "masked_sentences": ["You would build a tower out of toy blocks because you want to play with your [MASK] ."], "uuid": 311}
+{"sub_label": "play", "obj_label": "planning", "masked_sentences": ["The statement \"long term thinking and [MASK] is a recurring theme in many great human religions and philosophies\" helps answer the question \"What role does religion play in human lives?\"."], "uuid": 312}
+{"sub_label": "playing", "obj_label": "game", "masked_sentences": ["Playing a [MASK] with your friends is for having fun."], "uuid": 313}
+{"sub_label": "playing", "obj_label": "imagination", "masked_sentences": ["Playing the piano requires study and [MASK]."], "uuid": 314}
+{"sub_label": "playing", "obj_label": "toys", "masked_sentences": ["Young kid can playing with plastic [MASK]."], "uuid": 315}
+{"sub_label": "practice", "obj_label": "effort", "masked_sentences": ["Practice requires [MASK]."], "uuid": 316}
+{"sub_label": "pray", "obj_label": "believe", "masked_sentences": ["The statement \"Lisa knelt down to pray.\" is true because some people [MASK] in a deity."], "uuid": 317}
+{"sub_label": "pray", "obj_label": "ignorance", "masked_sentences": ["Pray requires [MASK]."], "uuid": 318}
+{"sub_label": "pray", "obj_label": "sincere", "masked_sentences": ["If you want to pray then you should be [MASK]."], "uuid": 319}
+{"sub_label": "praying", "obj_label": "belief", "masked_sentences": ["Praying requires a [MASK] in a god."], "uuid": 320}
+{"sub_label": "praying", "obj_label": "faith", "masked_sentences": ["The story \"Praying\" has the step \"I ask Him to guide me to the path of righteousness and to help me to to grow in my [MASK] of Him.\"."], "uuid": 321}
+{"sub_label": "praying", "obj_label": "thought", "masked_sentences": ["Praying requires [MASK]."], "uuid": 322}
+{"sub_label": "pretend", "obj_label": "fake", "masked_sentences": ["If you want to pretend then you should [MASK]."], "uuid": 323}
+{"sub_label": "pretend", "obj_label": "false", "masked_sentences": ["If you want to pretend then you should be [MASK]."], "uuid": 324}
+{"sub_label": "pretend", "obj_label": "think", "masked_sentences": ["If you want to pretend then you should [MASK]."], "uuid": 325}
+{"sub_label": "pretending", "obj_label": "creativity", "masked_sentences": ["Pretending requires [MASK]."], "uuid": 326}
+{"sub_label": "pretending", "obj_label": "imagination", "masked_sentences": ["The effect of pretending is the [MASK] was used."], "uuid": 327}
+{"sub_label": "printing", "obj_label": "printer", "masked_sentences": ["Something you might do while printing on the [MASK] is choose options."], "uuid": 328}
+{"sub_label": "procreate", "obj_label": "adult", "masked_sentences": ["If you want to procreate then you should be an [MASK]."], "uuid": 329}
+{"sub_label": "procreate", "obj_label": "fuck", "masked_sentences": ["If you want to procreate then you should [MASK]."], "uuid": 330}
+{"sub_label": "procreate", "obj_label": "marry", "masked_sentences": ["If you want to procreate then you should [MASK]."], "uuid": 331}
+{"sub_label": "procreating", "obj_label": "mating", "masked_sentences": ["Procreating requires [MASK]."], "uuid": 332}
+{"sub_label": "procreating", "obj_label": "two", "masked_sentences": ["Procreating requires [MASK]."], "uuid": 333}
+{"sub_label": "procreation", "obj_label": "sex", "masked_sentences": ["Procreation requires [MASK]."], "uuid": 334}
+{"sub_label": "program", "obj_label": "deciding", "masked_sentences": ["Something you need to do before you program is [MASK]."], "uuid": 335}
+{"sub_label": "program", "obj_label": "knowledge", "masked_sentences": ["Something you need to do before you program is [MASK]."], "uuid": 336}
+{"sub_label": "punch", "obj_label": "fast", "masked_sentences": ["Situation: I punch hard and [MASK]."], "uuid": 337}
+{"sub_label": "punch", "obj_label": "find", "masked_sentences": ["You are likely to [MASK] a paper punch in a drawer."], "uuid": 338}
+{"sub_label": "punch", "obj_label": "hit", "masked_sentences": ["Punch is to [MASK]."], "uuid": 339}
+{"sub_label": "punching", "obj_label": "anger", "masked_sentences": ["Punching someone is for releasing [MASK]."], "uuid": 340}
+{"sub_label": "punching", "obj_label": "fist", "masked_sentences": ["The statement \"You would punch someone because you want to hurt him\" is true because Punching is hitting with a [MASK]."], "uuid": 341}
+{"sub_label": "punching", "obj_label": "fists", "masked_sentences": ["Punching someone requires [MASK]."], "uuid": 342}
+{"sub_label": "punching", "obj_label": "hands", "masked_sentences": ["Punching someone requires [MASK]."], "uuid": 343}
+{"sub_label": "punching", "obj_label": "hitting", "masked_sentences": ["The statement \"You would punch someone because you want to hurt him\" is true because Punching is [MASK] with a fist."], "uuid": 344}
+{"sub_label": "punching", "obj_label": "hostility", "masked_sentences": ["Punching someone requires [MASK]."], "uuid": 345}
+{"sub_label": "punish", "obj_label": "deny", "masked_sentences": ["If you want to punish someone then you should [MASK] them something."], "uuid": 346}
+{"sub_label": "punish", "obj_label": "hit", "masked_sentences": ["If you want to punish a dog, [MASK] it with a newspaper."], "uuid": 347}
+{"sub_label": "punish", "obj_label": "kill", "masked_sentences": ["If you want to punish someone then you should [MASK] them."], "uuid": 348}
+{"sub_label": "punish", "obj_label": "proof", "masked_sentences": ["Something you need to do before you punish someone is [MASK]."], "uuid": 349}
+{"sub_label": "punish", "obj_label": "slap", "masked_sentences": ["If you want to punish someone then you should [MASK] them."], "uuid": 350}
+{"sub_label": "punishing", "obj_label": "action", "masked_sentences": ["Punishing someone requires taking [MASK] against them."], "uuid": 351}
+{"sub_label": "punishing", "obj_label": "control", "masked_sentences": ["Punishing someone is for helping to [MASK] them."], "uuid": 352}
+{"sub_label": "punishing", "obj_label": "corner", "masked_sentences": ["Punishing someone requires a [MASK]."], "uuid": 353}
+{"sub_label": "punishing", "obj_label": "force", "masked_sentences": ["Punishing someone requires using [MASK]."], "uuid": 354}
+{"sub_label": "punishing", "obj_label": "momentum", "masked_sentences": ["Punishing someone requires [MASK]."], "uuid": 355}
+{"sub_label": "purchase", "obj_label": "money", "masked_sentences": ["You would pay by check because you want purchase something but [MASK] can not be used."], "uuid": 356}
+{"sub_label": "reading", "obj_label": "book", "masked_sentences": ["Reading a [MASK] requires good lighting,proper vision and literacy."], "uuid": 357}
+{"sub_label": "reading", "obj_label": "concentrating", "masked_sentences": ["To understand the event \"Jill read a book.\", it is important to know that Jill is [MASK] on reading."], "uuid": 358}
+{"sub_label": "reading", "obj_label": "concentration", "masked_sentences": ["Reading requires [MASK]."], "uuid": 359}
+{"sub_label": "reading", "obj_label": "eyes", "masked_sentences": ["Reading a book requires [MASK]."], "uuid": 360}
+{"sub_label": "reading", "obj_label": "sight", "masked_sentences": ["To understand the event \"Jill read a book.\", it is important to know that reading requires [MASK] coordination."], "uuid": 361}
+{"sub_label": "reading", "obj_label": "vision", "masked_sentences": ["Reading a book requires good lighting,proper [MASK] and literacy."], "uuid": 362}
+{"sub_label": "reading", "obj_label": "words", "masked_sentences": ["In the event \"Jill read a book.\", something that changed was Jill looked at the [MASK] printed on the book's pages while reading."], "uuid": 363}
+{"sub_label": "recall", "obj_label": "vote", "masked_sentences": ["A recall requires a [MASK]."], "uuid": 364}
+{"sub_label": "rehydration", "obj_label": "water", "masked_sentences": ["Rehydration requires [MASK]."], "uuid": 365}
+{"sub_label": "relax", "obj_label": "comfortable", "masked_sentences": ["If you want to relax then you should be [MASK]."], "uuid": 366}
+{"sub_label": "relaxing", "obj_label": "comfort", "masked_sentences": ["[MASK] is a type of relaxing."], "uuid": 367}
+{"sub_label": "relaxing", "obj_label": "silence", "masked_sentences": ["Relaxing requires [MASK]."], "uuid": 368}
+{"sub_label": "relaxing", "obj_label": "time", "masked_sentences": ["The statement \"painting is for relaxing\" helps answer the question \"Why might a person paint in her free [MASK]?\"."], "uuid": 369}
+{"sub_label": "remember", "obj_label": "awake", "masked_sentences": ["Something you need to do before you remember is be [MASK]."], "uuid": 370}
+{"sub_label": "remember", "obj_label": "concentrate", "masked_sentences": ["The first thing you do when you remember a phone number is [MASK]."], "uuid": 371}
+{"sub_label": "remember", "obj_label": "know", "masked_sentences": ["To understand the event \"Pam started to cry.  Pam was at a funeral.\", it is important to [MASK] that a funeral is an event to remember the one who died."], "uuid": 372}
+{"sub_label": "remember", "obj_label": "learn", "masked_sentences": ["[MASK] is a type of remember material."], "uuid": 373}
+{"sub_label": "remember", "obj_label": "picture", "masked_sentences": ["[MASK] description: I can't remember what th is is."], "uuid": 374}
+{"sub_label": "remember", "obj_label": "relax", "masked_sentences": ["If you want to remember something then you should [MASK]."], "uuid": 375}
+{"sub_label": "remember", "obj_label": "repeat", "masked_sentences": ["If you want to remember a phone number then you should [MASK]."], "uuid": 376}
+{"sub_label": "remember", "obj_label": "still", "masked_sentences": ["To understand the event \"The hunter shot Bambi.\", it is important to know that I [MASK] remember the sick feeling in the pit of my stomach when I heard that gunshot."], "uuid": 377}
+{"sub_label": "remember", "obj_label": "try", "masked_sentences": ["If you want to give a gift then you should [MASK] to remember what the person might want."], "uuid": 378}
+{"sub_label": "remembering", "obj_label": "brain", "masked_sentences": ["Another way to say \"remembering requires knowledge\" is \"Knowledge, an accummulated [MASK]-reference source, allowed them to do their activities in a more effecient way.\"."], "uuid": 379}
+{"sub_label": "remembering", "obj_label": "intelligence", "masked_sentences": ["Remembering something requires [MASK]."], "uuid": 380}
+{"sub_label": "remembering", "obj_label": "memories", "masked_sentences": ["Sometimes remembering causes [MASK] to come back."], "uuid": 381}
+{"sub_label": "remembering", "obj_label": "recall", "masked_sentences": ["Something that might happen while remembering is you [MASK] what you were trying to remeber."], "uuid": 382}
+{"sub_label": "reproduce", "obj_label": "do", "masked_sentences": ["The first thing you [MASK] when you reproduce is copulate."], "uuid": 383}
+{"sub_label": "reproduce", "obj_label": "plan", "masked_sentences": ["If you want to reproduce then you should make a [MASK]."], "uuid": 384}
+{"sub_label": "reproducing", "obj_label": "care", "masked_sentences": ["Something that might happen as a consequence of reproducing is having a baby to take [MASK] of."], "uuid": 385}
+{"sub_label": "reproducing", "obj_label": "fertility", "masked_sentences": ["Reproducing requires [MASK]."], "uuid": 386}
+{"sub_label": "reproducing", "obj_label": "intimacy", "masked_sentences": ["Reproducing requires [MASK]."], "uuid": 387}
+{"sub_label": "reproducing", "obj_label": "life", "masked_sentences": ["There is more to [MASK] than reproducing."], "uuid": 388}
+{"sub_label": "reproducing", "obj_label": "mating", "masked_sentences": ["Reproducing requires [MASK] ."], "uuid": 389}
+{"sub_label": "reproducing", "obj_label": "quality", "masked_sentences": ["Reproducing requires [MASK]."], "uuid": 390}
+{"sub_label": "reproduction", "obj_label": "plan", "masked_sentences": ["Reproduction requires a [MASK]."], "uuid": 391}
+{"sub_label": "respected", "obj_label": "honest", "masked_sentences": ["If you want to be respected then you should be [MASK]."], "uuid": 392}
+{"sub_label": "rest", "obj_label": "bed", "masked_sentences": ["Going to [MASK] is for rest and relaxation."], "uuid": 393}
+{"sub_label": "rest", "obj_label": "nap", "masked_sentences": ["Rest is a type of short [MASK]."], "uuid": 394}
+{"sub_label": "restaurant", "obj_label": "a", "masked_sentences": ["You would eat in [MASK] restaurant because you want to relax with friends."], "uuid": 395}
+{"sub_label": "resting", "obj_label": "time", "masked_sentences": ["Something that might happen while resting is [MASK] passes."], "uuid": 396}
+{"sub_label": "rich", "obj_label": "invest", "masked_sentences": ["If you want to rich then you should [MASK]."], "uuid": 397}
+{"sub_label": "rinsing", "obj_label": "water", "masked_sentences": ["Rinsing requires [MASK]."], "uuid": 398}
+{"sub_label": "run", "obj_label": "breathe", "masked_sentences": ["Something you might do while going for a run is [MASK] heavily."], "uuid": 399}
+{"sub_label": "run", "obj_label": "do", "masked_sentences": ["The first thing you [MASK] when you take a bath is run water in the tub."], "uuid": 400}
+{"sub_label": "run", "obj_label": "legs", "masked_sentences": ["The effect of going for a run is tired [MASK]."], "uuid": 401}
+{"sub_label": "run", "obj_label": "stretches", "masked_sentences": ["The Darling River Run [MASK] some 700 km from Bourke to Wentworth."], "uuid": 402}
+{"sub_label": "running", "obj_label": "legs", "masked_sentences": ["Horse is a type of running [MASK]."], "uuid": 403}
+{"sub_label": "running", "obj_label": "movement", "masked_sentences": ["Running out of steam requires [MASK]."], "uuid": 404}
+{"sub_label": "running", "obj_label": "shoes", "masked_sentences": ["In the event \"Mike put on running [MASK]  Mike ran a marathon\", something that changed was mike burned a lot of calories."], "uuid": 405}
+{"sub_label": "scholar", "obj_label": "study", "masked_sentences": ["A scholar can [MASK] a text."], "uuid": 406}
+{"sub_label": "see", "obj_label": "look", "masked_sentences": ["[MASK] is a type of see things."], "uuid": 407}
+{"sub_label": "seeing", "obj_label": "light", "masked_sentences": ["There is a relationship between [MASK] and seeing."], "uuid": 408}
+{"sub_label": "sentence", "obj_label": "verb", "masked_sentences": ["You are likely to find a [MASK] in a sentence."], "uuid": 409}
+{"sub_label": "sewing", "obj_label": "needle", "masked_sentences": ["[MASK] is used sewing."], "uuid": 410}
+{"sub_label": "shop", "obj_label": "sleep", "masked_sentences": ["Something you need to do before you shop is [MASK]."], "uuid": 411}
+{"sub_label": "shopping", "obj_label": "money", "masked_sentences": ["Something you might do while shopping is spend [MASK]."], "uuid": 412}
+{"sub_label": "shopping", "obj_label": "travel", "masked_sentences": ["Another way to say \"Shopping requires you to [MASK].\" is \"one cannot  shop without traveling\"."], "uuid": 413}
+{"sub_label": "sing", "obj_label": "practice", "masked_sentences": ["If you want to sing then you should [MASK]."], "uuid": 414}
+{"sub_label": "singing", "obj_label": "sounds", "masked_sentences": ["To hum along means that one makes long \"singing\" [MASK] from the mouth, without actual words, and participates in the musical event by doing so."], "uuid": 415}
+{"sub_label": "skate", "obj_label": "really", "masked_sentences": ["If you want to skate then you should [MASK]."], "uuid": 416}
+{"sub_label": "skateboard", "obj_label": "buy", "masked_sentences": ["If you want to skateboard then you should [MASK] it."], "uuid": 417}
+{"sub_label": "skating", "obj_label": "balance", "masked_sentences": ["Leaning forward while rollerblading has the effect of improving your [MASK] while skating."], "uuid": 418}
+{"sub_label": "skating", "obj_label": "coordination", "masked_sentences": ["Skating requires [MASK]."], "uuid": 419}
+{"sub_label": "skiing", "obj_label": "mountain", "masked_sentences": ["Skiing requires tying boards on your feet and jumping off a [MASK]."], "uuid": 420}
+{"sub_label": "skiing", "obj_label": "poles", "masked_sentences": ["Skiing requires [MASK]."], "uuid": 421}
+{"sub_label": "skiing", "obj_label": "practice", "masked_sentences": ["Skiing requires [MASK]."], "uuid": 422}
+{"sub_label": "skiing", "obj_label": "snow", "masked_sentences": ["Skiing is for traveling on [MASK]."], "uuid": 423}
+{"sub_label": "sleep", "obj_label": "calm", "masked_sentences": ["If you want to sleep then you should be [MASK]."], "uuid": 424}
+{"sub_label": "sleep", "obj_label": "comfortable", "masked_sentences": ["The statement \"a bed is for napping.\" is true because beds are [MASK] and people normally sleep in them."], "uuid": 425}
+{"sub_label": "sleep", "obj_label": "relax", "masked_sentences": ["Rest is a type of sleep [MASK]."], "uuid": 426}
+{"sub_label": "sleeping", "obj_label": "darkness", "masked_sentences": ["Situation: His breath soft and sleeping...in [MASK] safely paused, as Love his sound was keeping, a dream of what once was...Our celebration, \"Sun is nature at its crest, this morning awakening, \"I know you'll do your best.\"."], "uuid": 427}
+{"sub_label": "sleeping", "obj_label": "tired", "masked_sentences": ["Sleeping  requires that you are [MASK]."], "uuid": 428}
+{"sub_label": "smoke", "obj_label": "not", "masked_sentences": ["To understand the event \"I am trying [MASK] to smoke cigarettes.\", it is important to know that Smoking cigarettes is dangerous to your health."], "uuid": 429}
+{"sub_label": "smoke", "obj_label": "quit", "masked_sentences": ["To understand the event \"I am trying not to smoke cigarettes.\", it is important to know that It is hard to [MASK] smoking."], "uuid": 430}
+{"sub_label": "smoking", "obj_label": "addiction", "masked_sentences": ["To understand the event \"I am trying not to smoke cigarettes.\", it is important to know that smoking cigarettes is an [MASK]."], "uuid": 431}
+{"sub_label": "smoking", "obj_label": "burn", "masked_sentences": ["To understand the event \"Alfred smoked a joint in the john.\", it is important to know that Smoking means to [MASK] a substance and inhale it."], "uuid": 432}
+{"sub_label": "smoking", "obj_label": "cigarette", "masked_sentences": ["A [MASK] is for smoking."], "uuid": 433}
+{"sub_label": "smoking", "obj_label": "lighter", "masked_sentences": ["The story \"Smoking\" has the step \"I took out a [MASK] from my pocket\"."], "uuid": 434}
+{"sub_label": "smoking", "obj_label": "lungs", "masked_sentences": ["The story \"Smoking\" has the step \"I inhaled and the smoke came into my [MASK]\"."], "uuid": 435}
+{"sub_label": "snoring", "obj_label": "nostrils", "masked_sentences": ["Snoring requires [MASK]."], "uuid": 436}
+{"sub_label": "socialising", "obj_label": "confidence", "masked_sentences": ["Socialising requires [MASK]."], "uuid": 437}
+{"sub_label": "socialising", "obj_label": "grace", "masked_sentences": ["Socialising requires [MASK]."], "uuid": 438}
+{"sub_label": "socialising", "obj_label": "understanding", "masked_sentences": ["Socialising requires [MASK]."], "uuid": 439}
+{"sub_label": "socialize", "obj_label": "mix", "masked_sentences": ["If you want to socialize then you should [MASK]."], "uuid": 440}
+{"sub_label": "socialize", "obj_label": "party", "masked_sentences": ["The effect of having a [MASK] is to socialize."], "uuid": 441}
+{"sub_label": "socialize", "obj_label": "speak", "masked_sentences": ["If you want to socialize then you should [MASK]."], "uuid": 442}
+{"sub_label": "speak", "obj_label": "think", "masked_sentences": ["Something you need to do before you speak is [MASK]."], "uuid": 443}
+{"sub_label": "spit", "obj_label": "aim", "masked_sentences": ["If you want to spit then you should [MASK] it away from other people."], "uuid": 444}
+{"sub_label": "study", "obj_label": "assignment", "masked_sentences": ["Something you need to do before you study is an [MASK]."], "uuid": 445}
+{"sub_label": "study", "obj_label": "concentration", "masked_sentences": ["A study is for [MASK] on a specific field of knowledge."], "uuid": 446}
+{"sub_label": "studying", "obj_label": "concentration", "masked_sentences": ["Studying requires [MASK] and focus."], "uuid": 447}
+{"sub_label": "studying", "obj_label": "effort", "masked_sentences": ["Studying requires [MASK]."], "uuid": 448}
+{"sub_label": "studying", "obj_label": "motivation", "masked_sentences": ["Studying requires [MASK]."], "uuid": 449}
+{"sub_label": "studying", "obj_label": "patience", "masked_sentences": ["Studying for a subject requires [MASK]."], "uuid": 450}
+{"sub_label": "studying", "obj_label": "time", "masked_sentences": ["If you want to get a good grade then you should put extra [MASK] in studying."], "uuid": 451}
+{"sub_label": "success", "obj_label": "effort", "masked_sentences": ["Success requires extra [MASK]."], "uuid": 452}
+{"sub_label": "surfing", "obj_label": "ocean", "masked_sentences": ["A person can ride a board on the [MASK].  It is called surfing."], "uuid": 453}
+{"sub_label": "surfing", "obj_label": "water", "masked_sentences": ["Surfing is done on the [MASK]."], "uuid": 454}
+{"sub_label": "surfing", "obj_label": "waves", "masked_sentences": ["Surfing the [MASK] requires a surfboard."], "uuid": 455}
+{"sub_label": "surfing", "obj_label": "wax", "masked_sentences": ["Surfing requires [MASK]."], "uuid": 456}
+{"sub_label": "surprise", "obj_label": "do", "masked_sentences": ["Something you need to [MASK] before you surprise someone is sneak up behind them."], "uuid": 457}
+{"sub_label": "surprise", "obj_label": "hide", "masked_sentences": ["If you want to surprise someone then you should [MASK] behind the door."], "uuid": 458}
+{"sub_label": "surprise", "obj_label": "hiding", "masked_sentences": ["Surprise has [MASK] people."], "uuid": 459}
+{"sub_label": "surprise", "obj_label": "surprising", "masked_sentences": ["Something you might do while [MASK] someone is yell \"surprise!\"."], "uuid": 460}
+{"sub_label": "surprising", "obj_label": "secrecy", "masked_sentences": ["Surprising someone requires [MASK]."], "uuid": 461}
+{"sub_label": "swimming", "obj_label": "fins", "masked_sentences": ["Swimming requires [MASK]."], "uuid": 462}
+{"sub_label": "swimming", "obj_label": "mobility", "masked_sentences": ["Swimming requires [MASK]."], "uuid": 463}
+{"sub_label": "talk", "obj_label": "swallow", "masked_sentences": ["If you want to talk then you should [MASK]."], "uuid": 464}
+{"sub_label": "talk", "obj_label": "think", "masked_sentences": ["If you want to talk then you should [MASK]."], "uuid": 465}
+{"sub_label": "talking", "obj_label": "language", "masked_sentences": ["[MASK] is countries talking."], "uuid": 466}
+{"sub_label": "talking", "obj_label": "mouth", "masked_sentences": ["Talking requires opening your [MASK] and breathing out over a tongue shaped in different ways for different sounds."], "uuid": 467}
+{"sub_label": "talking", "obj_label": "tongue", "masked_sentences": ["A [MASK] is used for talking."], "uuid": 468}
+{"sub_label": "talking", "obj_label": "voice", "masked_sentences": ["[MASK] is used for talking singing."], "uuid": 469}
+{"sub_label": "teaching", "obj_label": "degree", "masked_sentences": ["A teaching [MASK] requires that you are smart."], "uuid": 470}
+{"sub_label": "teaching", "obj_label": "experience", "masked_sentences": ["The fact \"finding information is for telling to other people\" is illustrated with the story:1. Information is the communicationo or reception of knowledge or intelligence.2. A person can find information useful.3. Information can be shared with others. 4. Information helps people understand the workings of people, places and things.5. Sharing is a pleasurable teaching [MASK]."], "uuid": 471}
+{"sub_label": "terrorism", "obj_label": "hate", "masked_sentences": ["Terrorism requires [MASK]."], "uuid": 472}
+{"sub_label": "terrorism", "obj_label": "weapons", "masked_sentences": ["Terrorism requires [MASK]."], "uuid": 473}
+{"sub_label": "thank", "obj_label": "find", "masked_sentences": ["If you want to thank someone then you should [MASK] them."], "uuid": 474}
+{"sub_label": "thank", "obj_label": "polite", "masked_sentences": ["If you want to thank someone then you should be [MASK]."], "uuid": 475}
+{"sub_label": "thank", "obj_label": "x", "masked_sentences": ["If you want to thank someone then you should [MASK]."], "uuid": 476}
+{"sub_label": "thanking", "obj_label": "communicating", "masked_sentences": ["Thanking someone requires [MASK]."], "uuid": 477}
+{"sub_label": "thanking", "obj_label": "compassion", "masked_sentences": ["Thanking someone requires [MASK]."], "uuid": 478}
+{"sub_label": "thanking", "obj_label": "note", "masked_sentences": ["Thanking someone requires a [MASK]."], "uuid": 479}
+{"sub_label": "thanking", "obj_label": "sincerity", "masked_sentences": ["Thanking someone requires [MASK]."], "uuid": 480}
+{"sub_label": "think", "obj_label": "awake", "masked_sentences": ["If you want to think then you should be [MASK]."], "uuid": 481}
+{"sub_label": "think", "obj_label": "aware", "masked_sentences": ["Something you need to do before you think is be [MASK]."], "uuid": 482}
+{"sub_label": "think", "obj_label": "concentrate", "masked_sentences": ["The effect of taking an examination is you have to think real hard and [MASK] over the material that you have learned."], "uuid": 483}
+{"sub_label": "think", "obj_label": "do", "masked_sentences": ["Something you might [MASK] while working is think about the clouds."], "uuid": 484}
+{"sub_label": "think", "obj_label": "learn", "masked_sentences": ["The first thing you do when you [MASK] is think."], "uuid": 485}
+{"sub_label": "think", "obj_label": "relax", "masked_sentences": ["If you want to think then you should [MASK]."], "uuid": 486}
+{"sub_label": "think", "obj_label": "study", "masked_sentences": ["When you create art you do the following: 1. correct any errors you make in painting, 2. start applying paint to the canvas, 3. think of something you would like to paint, 4. get a canvas, and some paints, 5. [MASK] the object you have chosen to paint."], "uuid": 487}
+{"sub_label": "thinking", "obj_label": "brain", "masked_sentences": ["Thinking is a kind of [MASK] activity."], "uuid": 488}
+{"sub_label": "thinking", "obj_label": "brains", "masked_sentences": ["Thinking requires [MASK]."], "uuid": 489}
+{"sub_label": "thinking", "obj_label": "memory", "masked_sentences": ["You would commit to [MASK] because remembering is easier than thinking."], "uuid": 490}
+{"sub_label": "tickle", "obj_label": "do", "masked_sentences": ["Something you need to [MASK] before you tickle is grab."], "uuid": 491}
+{"sub_label": "tickle", "obj_label": "grab", "masked_sentences": ["Something you need to do before you tickle is [MASK]."], "uuid": 492}
+{"sub_label": "tickling", "obj_label": "hands", "masked_sentences": ["Tickling requires [MASK]."], "uuid": 493}
+{"sub_label": "travel", "obj_label": "careful", "masked_sentences": ["If you want to travel then you should be [MASK]."], "uuid": 494}
+{"sub_label": "travel", "obj_label": "energy", "masked_sentences": ["Travel requires [MASK]."], "uuid": 495}
+{"sub_label": "travel", "obj_label": "map", "masked_sentences": ["If you want to travel then you should buy a [MASK]."], "uuid": 496}
+{"sub_label": "traveling", "obj_label": "hostility", "masked_sentences": ["Traveling requires [MASK]."], "uuid": 497}
+{"sub_label": "traveling", "obj_label": "passport", "masked_sentences": ["Traveling requires a valid [MASK]."], "uuid": 498}
+{"sub_label": "traveling", "obj_label": "plan", "masked_sentences": ["Traveling requires a [MASK]."], "uuid": 499}
+{"sub_label": "traveling", "obj_label": "time", "masked_sentences": ["Something that might happen while traveling is scheduling [MASK]."], "uuid": 500}
+{"sub_label": "traveling", "obj_label": "transportation", "masked_sentences": ["Traveling requires a mode of [MASK]."], "uuid": 501}
+{"sub_label": "traveling", "obj_label": "vehicle", "masked_sentences": ["The statement \"taking the bus is for traveling\" is true because The bus is a motor [MASK] run by the governement."], "uuid": 502}
+{"sub_label": "typing", "obj_label": "fingers", "masked_sentences": ["Typing  requires that you have [MASK]."], "uuid": 503}
+{"sub_label": "typing", "obj_label": "hands", "masked_sentences": ["Situation: I am typing with no [MASK]."], "uuid": 504}
+{"sub_label": "typing", "obj_label": "practice", "masked_sentences": ["Typing requires [MASK]."], "uuid": 505}
+{"sub_label": "typing", "obj_label": "speed", "masked_sentences": ["Typing requires [MASK]."], "uuid": 506}
+{"sub_label": "understand", "obj_label": "think", "masked_sentences": ["To understand the event \"Penny took a math test.\", it is important to know that Many people [MASK] math is boring."], "uuid": 507}
+{"sub_label": "urinate", "obj_label": "relax", "masked_sentences": ["If you want to urinate then you should [MASK]."], "uuid": 508}
+{"sub_label": "urinating", "obj_label": "bathroom", "masked_sentences": ["Urinating requires a [MASK]."], "uuid": 509}
+{"sub_label": "urinating", "obj_label": "bladder", "masked_sentences": ["Urinating is for relieving the [MASK]."], "uuid": 510}
+{"sub_label": "urinating", "obj_label": "dick", "masked_sentences": ["Urinating requires a [MASK]."], "uuid": 511}
+{"sub_label": "urinating", "obj_label": "fluid", "masked_sentences": ["Urinating requires [MASK]."], "uuid": 512}
+{"sub_label": "urinating", "obj_label": "liquid", "masked_sentences": ["Urinating is for expelling [MASK] waste."], "uuid": 513}
+{"sub_label": "urinating", "obj_label": "pressure", "masked_sentences": ["Urinating requires [MASK]."], "uuid": 514}
+{"sub_label": "walk", "obj_label": "stand", "masked_sentences": ["If you want to [MASK] in line then you should walk to the back of the line."], "uuid": 515}
+{"sub_label": "walking", "obj_label": "energy", "masked_sentences": ["Walking around a lake requires [MASK]."], "uuid": 516}
+{"sub_label": "walking", "obj_label": "feet", "masked_sentences": ["Something that might happen as a consequence of walking is your [MASK] get tired."], "uuid": 517}
+{"sub_label": "walking", "obj_label": "ground", "masked_sentences": ["[MASK] is related to walking."], "uuid": 518}
+{"sub_label": "walking", "obj_label": "legs", "masked_sentences": ["The statement \"Crayfish are freshwater crustaceans with four pairs of walking [MASK]\" helps answer the question \"How many fins does a crayfish have?\"."], "uuid": 519}
+{"sub_label": "walking", "obj_label": "momentum", "masked_sentences": ["Walking requires [MASK]."], "uuid": 520}
+{"sub_label": "woodworking", "obj_label": "tools", "masked_sentences": ["Woodworking requires [MASK]."], "uuid": 521}
+{"sub_label": "work", "obj_label": "concentrate", "masked_sentences": ["If you want to begin work then you should [MASK]."], "uuid": 522}
+{"sub_label": "work", "obj_label": "thinking", "masked_sentences": ["Work requires [MASK]."], "uuid": 523}
+{"sub_label": "work", "obj_label": "tools", "masked_sentences": ["You probably need smaller size [MASK] to work on a computer."], "uuid": 524}
+{"sub_label": "working", "obj_label": "ambition", "masked_sentences": ["Working requires [MASK]."], "uuid": 525}
+{"sub_label": "working", "obj_label": "concentration", "masked_sentences": ["Working requires [MASK]."], "uuid": 526}
+{"sub_label": "working", "obj_label": "dedication", "masked_sentences": ["Working requires [MASK]."], "uuid": 527}
+{"sub_label": "working", "obj_label": "energy", "masked_sentences": ["Working requires [MASK]."], "uuid": 528}
+{"sub_label": "working", "obj_label": "job", "masked_sentences": ["Working is for people who need a [MASK]."], "uuid": 529}
+{"sub_label": "wrestle", "obj_label": "exercise", "masked_sentences": ["If you want to wrestle then you should [MASK]."], "uuid": 530}
+{"sub_label": "wrestle", "obj_label": "stretch", "masked_sentences": ["Something you need to do before you wrestle is [MASK]."], "uuid": 531}
+{"sub_label": "wrestle", "obj_label": "strong", "masked_sentences": ["If you want to wrestle then you should be [MASK]."], "uuid": 532}
+{"sub_label": "wrestle", "obj_label": "wrestler", "masked_sentences": ["An activity a [MASK] can do is wrestle."], "uuid": 533}
+{"sub_label": "wrestling", "obj_label": "arms", "masked_sentences": ["Wrestling requires [MASK]."], "uuid": 534}
+{"sub_label": "wrestling", "obj_label": "body", "masked_sentences": ["Wrestling requires a [MASK]."], "uuid": 535}
+{"sub_label": "wrestling", "obj_label": "helmet", "masked_sentences": ["Wrestling requires a [MASK]."], "uuid": 536}
+{"sub_label": "wrestling", "obj_label": "strength", "masked_sentences": ["Wrestling is for increasing [MASK]."], "uuid": 537}
+{"sub_label": "write", "obj_label": "plan", "masked_sentences": ["If you want to open a business then you should write a business [MASK], get the finances, buy a place and open the business."], "uuid": 538}
+{"sub_label": "write", "obj_label": "research", "masked_sentences": ["If you want to write a term paper then you should [MASK] a topic."], "uuid": 539}
+{"sub_label": "writing", "obj_label": "creativity", "masked_sentences": ["To understand the event \"Josh wrote a story.  He started by thinking of an idea.  Then he wrote some sentences.\", it is important to know that writing need [MASK]."], "uuid": 540}
+{"sub_label": "writing", "obj_label": "hand", "masked_sentences": ["Writing has [MASK] typing."], "uuid": 541}
+{"sub_label": "writing", "obj_label": "knowledge", "masked_sentences": ["Another way to say \"writing a term paper is for the birds.\" is \"Some people do not understand the necessity of gaining [MASK] and having it \"put to the test.\"\"."], "uuid": 542}
+{"sub_label": "writing", "obj_label": "language", "masked_sentences": ["The statement \"writing a program requires knowledge of a [MASK]\" is true because languages include a set of semantic rules which are needed to properly write a program."], "uuid": 543}
+{"sub_label": "writing", "obj_label": "literacy", "masked_sentences": ["Writing a letter requires [MASK]."], "uuid": 544}
+{"sub_label": "writing", "obj_label": "paper", "masked_sentences": ["Writing a term [MASK] is for completing a course."], "uuid": 545}
+{"sub_label": "writing", "obj_label": "patience", "masked_sentences": ["Writing requires [MASK]."], "uuid": 546}
+{"sub_label": "writing", "obj_label": "pen", "masked_sentences": ["To understand the event \"Jill wrote a message with a [MASK].\", it is important to know that Writing is a skill which has to be learned."], "uuid": 547}
+{"sub_label": "writing", "obj_label": "pencil", "masked_sentences": ["Writing is a type of using [MASK]."], "uuid": 548}
+{"sub_label": "writing", "obj_label": "spelling", "masked_sentences": ["Something you might do while writing is check the [MASK]."], "uuid": 549}
+{"sub_label": "writing", "obj_label": "thought", "masked_sentences": ["Writing a term paper requires research, [MASK], and will."], "uuid": 550}
+{"sub_label": "writting", "obj_label": "ink", "masked_sentences": ["Writting requires [MASK]."], "uuid": 551}

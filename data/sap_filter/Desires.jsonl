@@ -1,0 +1,440 @@
+{"sub_label": "accountant", "obj_label": "balance", "masked_sentences": ["An accountant wants to [MASK]."], "uuid": 0}
+{"sub_label": "alcoholic", "obj_label": "liquor", "masked_sentences": ["To understand the event \"Fred is an alcoholic.\", it is important to know that Fred drinks a lot of [MASK]."], "uuid": 1}
+{"sub_label": "alexa", "obj_label": "sex", "masked_sentences": ["Alexa needs [MASK]."], "uuid": 2}
+{"sub_label": "alissa", "obj_label": "me", "masked_sentences": ["Alissa wants [MASK]."], "uuid": 3}
+{"sub_label": "anarchists", "obj_label": "free", "masked_sentences": ["Anarchists wants to be [MASK]."], "uuid": 4}
+{"sub_label": "anatoly", "obj_label": "sex", "masked_sentences": ["Anatoly needs [MASK]."], "uuid": 5}
+{"sub_label": "andrew", "obj_label": "sex", "masked_sentences": ["Andrew wants [MASK]."], "uuid": 6}
+{"sub_label": "animal", "obj_label": "eat", "masked_sentences": ["To understand the event \"The coyote ate the roadrunner.\", it is important to know that an animal in some cases [MASK] other animals."], "uuid": 7}
+{"sub_label": "animal", "obj_label": "reproduce", "masked_sentences": ["The statement \"A giraffe is an animal\" is true because animals are beeigs that move, eat and [MASK] themselves, such as a giraffe."], "uuid": 8}
+{"sub_label": "animals", "obj_label": "eat", "masked_sentences": ["It comes from animals.Most people [MASK] it."], "uuid": 9}
+{"sub_label": "asim", "obj_label": "sex", "masked_sentences": ["Asim wants [MASK]."], "uuid": 10}
+{"sub_label": "babies", "obj_label": "interact", "masked_sentences": ["Babies like to [MASK]."], "uuid": 11}
+{"sub_label": "baby", "obj_label": "comfort", "masked_sentences": ["A crying baby needs [MASK]."], "uuid": 12}
+{"sub_label": "bady", "obj_label": "bottle", "masked_sentences": ["A bady wants a [MASK]."], "uuid": 13}
+{"sub_label": "bee", "obj_label": "flower", "masked_sentences": ["You are likely to find a bee in a [MASK]'s blossom."], "uuid": 14}
+{"sub_label": "bill", "obj_label": "sex", "masked_sentences": ["Bill wants [MASK]."], "uuid": 15}
+{"sub_label": "bob", "obj_label": "sex", "masked_sentences": ["Bob needs [MASK]."], "uuid": 16}
+{"sub_label": "bobby", "obj_label": "sex", "masked_sentences": ["Bobby needs [MASK]."], "uuid": 17}
+{"sub_label": "boss", "obj_label": "work", "masked_sentences": ["In the event \"Michael was late to [MASK].\", something that changed was Michael's boss was mad."], "uuid": 18}
+{"sub_label": "brent", "obj_label": "sex", "masked_sentences": ["Brent wants [MASK]."], "uuid": 19}
+{"sub_label": "brian", "obj_label": "sex", "masked_sentences": ["Brian needs [MASK]."], "uuid": 20}
+{"sub_label": "bunny", "obj_label": "hop", "masked_sentences": ["[MASK] is a type of bunny move."], "uuid": 21}
+{"sub_label": "businesses", "obj_label": "succeed", "masked_sentences": ["Businesses like to [MASK]."], "uuid": 22}
+{"sub_label": "carrie", "obj_label": "sex", "masked_sentences": ["Carrie wants [MASK]."], "uuid": 23}
+{"sub_label": "cat", "obj_label": "control", "masked_sentences": ["A cat wants [MASK]."], "uuid": 24}
+{"sub_label": "cat", "obj_label": "eat", "masked_sentences": ["To understand the event \"A cat stalked a mouse.\", it is important to know that if order to [MASK] something, you must possess it."], "uuid": 25}
+{"sub_label": "cat", "obj_label": "food", "masked_sentences": ["A dog can eat cat [MASK] but probably shouldn't."], "uuid": 26}
+{"sub_label": "cat", "obj_label": "milk", "masked_sentences": ["A saucer is used for giving [MASK] to a cat."], "uuid": 27}
+{"sub_label": "cat", "obj_label": "mouse", "masked_sentences": ["Cat is a type of [MASK] killer."], "uuid": 28}
+{"sub_label": "cat", "obj_label": "nap", "masked_sentences": ["A cat wants to [MASK]."], "uuid": 29}
+{"sub_label": "cat", "obj_label": "stroked", "masked_sentences": ["A cat wants to be [MASK]."], "uuid": 30}
+{"sub_label": "cats", "obj_label": "play", "masked_sentences": ["A writing instrument is for cats to [MASK] with."], "uuid": 31}
+{"sub_label": "cats", "obj_label": "sleep", "masked_sentences": ["To understand the event \"The cat sleeps on the table.\", it is important to know that cats [MASK] a lot."], "uuid": 32}
+{"sub_label": "charles", "obj_label": "sex", "masked_sentences": ["Charles needs [MASK]."], "uuid": 33}
+{"sub_label": "chase", "obj_label": "sex", "masked_sentences": ["Chase wants [MASK]."], "uuid": 34}
+{"sub_label": "child", "obj_label": "balloon", "masked_sentences": ["A [MASK] can delight a child."], "uuid": 35}
+{"sub_label": "child", "obj_label": "candy", "masked_sentences": ["[MASK] can quiet a child."], "uuid": 36}
+{"sub_label": "child", "obj_label": "love", "masked_sentences": ["Child wants [MASK]."], "uuid": 37}
+{"sub_label": "child", "obj_label": "loved", "masked_sentences": ["To understand the event \"Humbert [MASK] Lolita.  Lolita was twelve years old.\", it is important to know that Lolita was a child."], "uuid": 38}
+{"sub_label": "children", "obj_label": "imagine", "masked_sentences": ["Most people erroneously [MASK] oil will run out for their children or grandchildren, but oil supply will suddenly tighten in the next few years.  ."], "uuid": 39}
+{"sub_label": "children", "obj_label": "jump", "masked_sentences": ["Children can [MASK]."], "uuid": 40}
+{"sub_label": "children", "obj_label": "pretend", "masked_sentences": ["To understand the event \"The children read the book.\", it is important to know that They [MASK] to read."], "uuid": 41}
+{"sub_label": "chipmunk", "obj_label": "nuts", "masked_sentences": ["A chipmunk wants [MASK]."], "uuid": 42}
+{"sub_label": "chris", "obj_label": "sex", "masked_sentences": ["Chris needs [MASK]."], "uuid": 43}
+{"sub_label": "chuck", "obj_label": "sex", "masked_sentences": ["Chuck needs [MASK]."], "uuid": 44}
+{"sub_label": "clint", "obj_label": "sex", "masked_sentences": ["Clint needs [MASK]."], "uuid": 45}
+{"sub_label": "company", "obj_label": "money", "masked_sentences": ["Company is used for making [MASK]."], "uuid": 46}
+{"sub_label": "company", "obj_label": "profits", "masked_sentences": ["Company has [MASK]."], "uuid": 47}
+{"sub_label": "connie", "obj_label": "sex", "masked_sentences": ["Connie wants [MASK]."], "uuid": 48}
+{"sub_label": "danny", "obj_label": "sex", "masked_sentences": ["Danny wants [MASK]."], "uuid": 49}
+{"sub_label": "dave", "obj_label": "food", "masked_sentences": ["To understand the event \"Dave shot a duck.\", it is important to know that A duck can be [MASK]."], "uuid": 50}
+{"sub_label": "debbie", "obj_label": "sex", "masked_sentences": ["Debbie wants [MASK] ."], "uuid": 51}
+{"sub_label": "dentists", "obj_label": "healthy", "masked_sentences": ["Dentists help us keep our teeth [MASK]."], "uuid": 52}
+{"sub_label": "dictator", "obj_label": "power", "masked_sentences": ["Dictator wants [MASK]."], "uuid": 53}
+{"sub_label": "diva", "obj_label": "sing", "masked_sentences": ["A diva can [MASK] in the opera."], "uuid": 54}
+{"sub_label": "doctor", "obj_label": "healthy", "masked_sentences": ["One of the things you do when you make sure you're [MASK] is go see a doctor."], "uuid": 55}
+{"sub_label": "dog", "obj_label": "affection", "masked_sentences": ["To understand the event \"Violet is Jill's dog.  Jill loves Violet.\", it is important to know that People typically feel [MASK] or love for their pets."], "uuid": 56}
+{"sub_label": "dog", "obj_label": "attention", "masked_sentences": ["In the event \"Bob was a dog.  Bob barked.\", something that changed was Bob got the [MASK] of animals around him."], "uuid": 57}
+{"sub_label": "dog", "obj_label": "bone", "masked_sentences": ["To understand the event \"Jeff gave the dog a [MASK].\", it is important to know that jeff is a person."], "uuid": 58}
+{"sub_label": "dog", "obj_label": "dig", "masked_sentences": ["A dog can [MASK] holes."], "uuid": 59}
+{"sub_label": "dog", "obj_label": "eat", "masked_sentences": ["To understand the event \"The dog ate our dinner.\", it is important to know that more food must be prepared for us to [MASK]."], "uuid": 60}
+{"sub_label": "dog", "obj_label": "food", "masked_sentences": ["Feed is dog [MASK]."], "uuid": 61}
+{"sub_label": "dog", "obj_label": "meat", "masked_sentences": ["To understand the event \"Bruce roasted some hot dogs.\", it is important to know that Hot dogs are not made of dog [MASK]."], "uuid": 62}
+{"sub_label": "dog", "obj_label": "play", "masked_sentences": ["To understand the event \"Dean played fetch with Fluffy.\", it is important to know that People [MASK] fetch with dogs by throwing an object and encouraging the dog to retrieve it."], "uuid": 63}
+{"sub_label": "dog", "obj_label": "walked", "masked_sentences": ["To understand the event \"Bill [MASK] the dog.\", it is important to know that Dogs like walks."], "uuid": 64}
+{"sub_label": "dogs", "obj_label": "eat", "masked_sentences": ["Many dogs can [MASK] grass on occasion."], "uuid": 65}
+{"sub_label": "dogs", "obj_label": "play", "masked_sentences": ["Most dogs like to [MASK] fetch."], "uuid": 66}
+{"sub_label": "dogs", "obj_label": "run", "masked_sentences": ["To understand the event \"The dog ran away.\", it is important to know that Dogs may [MASK] when they are frightened."], "uuid": 67}
+{"sub_label": "dogs", "obj_label": "sleep", "masked_sentences": ["Dogs can [MASK] soundly."], "uuid": 68}
+{"sub_label": "dwain", "obj_label": "sex", "masked_sentences": ["Dwain needs [MASK]."], "uuid": 69}
+{"sub_label": "employee", "obj_label": "raise", "masked_sentences": ["An employee can ask for a [MASK]."], "uuid": 70}
+{"sub_label": "everybody", "obj_label": "believed", "masked_sentences": ["Everybody wants to be [MASK]."], "uuid": 71}
+{"sub_label": "everybody", "obj_label": "cat", "masked_sentences": ["Everybody wants to be a [MASK]."], "uuid": 72}
+{"sub_label": "everybody", "obj_label": "good", "masked_sentences": ["Everybody loves a [MASK] cook."], "uuid": 73}
+{"sub_label": "everybody", "obj_label": "happy", "masked_sentences": ["Everybody wants to be [MASK]."], "uuid": 74}
+{"sub_label": "everyone", "obj_label": "happiness", "masked_sentences": ["Everyone can wants [MASK]."], "uuid": 75}
+{"sub_label": "everyone", "obj_label": "happy", "masked_sentences": ["Situation: send everyone off (for the day) with a warm \"goodbye\" and wishes for a [MASK], fulfilling day."], "uuid": 76}
+{"sub_label": "everyone", "obj_label": "understood", "masked_sentences": ["Everyone wants to be [MASK]."], "uuid": 77}
+{"sub_label": "explorer", "obj_label": "adventure", "masked_sentences": ["Explorer wants [MASK]."], "uuid": 78}
+{"sub_label": "fish", "obj_label": "food", "masked_sentences": ["One [MASK] that may be put in a pan is fish."], "uuid": 79}
+{"sub_label": "fishes", "obj_label": "swim", "masked_sentences": ["Fishes [MASK]."], "uuid": 80}
+{"sub_label": "gene", "obj_label": "sex", "masked_sentences": ["Gene wants [MASK]."], "uuid": 81}
+{"sub_label": "geta", "obj_label": "sex", "masked_sentences": ["Geta needs [MASK]."], "uuid": 82}
+{"sub_label": "goat", "obj_label": "food", "masked_sentences": ["A goat  wants [MASK] ."], "uuid": 83}
+{"sub_label": "goldfish", "obj_label": "bowl", "masked_sentences": ["Things that are often found together are: aquatic plant, water, fish [MASK], stones, goldfish."], "uuid": 84}
+{"sub_label": "gordon", "obj_label": "sex", "masked_sentences": ["Gordon needs [MASK]."], "uuid": 85}
+{"sub_label": "harry", "obj_label": "sex", "masked_sentences": ["Harry needs [MASK]."], "uuid": 86}
+{"sub_label": "henry", "obj_label": "sex", "masked_sentences": ["Henry wants [MASK]."], "uuid": 87}
+{"sub_label": "hobo", "obj_label": "pie", "masked_sentences": ["A hobo wants [MASK]."], "uuid": 88}
+{"sub_label": "hooker", "obj_label": "trick", "masked_sentences": ["A hooker wants a [MASK]."], "uuid": 89}
+{"sub_label": "horses", "obj_label": "dominated", "masked_sentences": ["Horses like to be [MASK]."], "uuid": 90}
+{"sub_label": "horses", "obj_label": "play", "masked_sentences": ["Sticks make good [MASK] substitutes for swords or horses."], "uuid": 91}
+{"sub_label": "human", "obj_label": "money", "masked_sentences": ["To understand the event \"While driving to work Tony ran out of gas.\", it is important to know that work is a word for activities that humans perform in return for [MASK]. work is also a term used to indicate a place where a human performs work."], "uuid": 92}
+{"sub_label": "humanity", "obj_label": "live", "masked_sentences": ["We [MASK] in a time where there is a reign of quantiy over quality.  Thus humanity has lost its center."], "uuid": 93}
+{"sub_label": "humans", "obj_label": "warm", "masked_sentences": ["Fur is for keeping humans [MASK] (with animal's furry skins)."], "uuid": 94}
+{"sub_label": "information", "obj_label": "free", "masked_sentences": ["A person wants [MASK] exchange of information."], "uuid": 95}
+{"sub_label": "jeff", "obj_label": "sex", "masked_sentences": ["To understand the event \"Jeff gave the dog a bone.\", it is important to know that then he had [MASK]."], "uuid": 96}
+{"sub_label": "jill", "obj_label": "sex", "masked_sentences": ["Jill wants [MASK]."], "uuid": 97}
+{"sub_label": "jim", "obj_label": "sex", "masked_sentences": ["Jim wants [MASK]."], "uuid": 98}
+{"sub_label": "joe", "obj_label": "sex", "masked_sentences": ["Jude Law plays Gigolo Joe, a [MASK] robot, in the 2001 movie \"A.I.\"."], "uuid": 99}
+{"sub_label": "john", "obj_label": "sex", "masked_sentences": ["A john can pay a prostitute  to have [MASK] with him."], "uuid": 100}
+{"sub_label": "judge", "obj_label": "order", "masked_sentences": ["A judge can [MASK] a sentence."], "uuid": 101}
+{"sub_label": "junkie", "obj_label": "fix", "masked_sentences": ["A junkie wants a [MASK]."], "uuid": 102}
+{"sub_label": "justin", "obj_label": "sex", "masked_sentences": ["Justin needs [MASK]."], "uuid": 103}
+{"sub_label": "katie", "obj_label": "sex", "masked_sentences": ["Katie wants [MASK]."], "uuid": 104}
+{"sub_label": "kids", "obj_label": "play", "masked_sentences": ["[MASK] is kids like."], "uuid": 105}
+{"sub_label": "kim", "obj_label": "sex", "masked_sentences": ["Kim wants [MASK]."], "uuid": 106}
+{"sub_label": "kirstin", "obj_label": "sex", "masked_sentences": ["Kirstin wants [MASK]."], "uuid": 107}
+{"sub_label": "lady", "obj_label": "diamonds", "masked_sentences": ["A lady wants [MASK]."], "uuid": 108}
+{"sub_label": "lemurs", "obj_label": "play", "masked_sentences": ["Lemurs like to [MASK]."], "uuid": 109}
+{"sub_label": "life", "obj_label": "grow", "masked_sentences": ["To understand the event \"Colby's Dad was a fireman.  Colby wanted to [MASK] up to be just like him.\", it is important to know that Colby's Dad was probably save at leas one life."], "uuid": 110}
+{"sub_label": "lion", "obj_label": "mate", "masked_sentences": ["A lion wants a [MASK]."], "uuid": 111}
+{"sub_label": "mary", "obj_label": "sex", "masked_sentences": ["Mary needs [MASK]."], "uuid": 112}
+{"sub_label": "mathmatician", "obj_label": "equality", "masked_sentences": ["A mathmatician wants [MASK]."], "uuid": 113}
+{"sub_label": "mike", "obj_label": "sex", "masked_sentences": ["Mike can have cathy to have [MASK] with."], "uuid": 114}
+{"sub_label": "milan", "obj_label": "sex", "masked_sentences": ["Milan wants [MASK]."], "uuid": 115}
+{"sub_label": "misery", "obj_label": "company", "masked_sentences": ["Misery is a type of loves [MASK]."], "uuid": 116}
+{"sub_label": "monkey", "obj_label": "banana", "masked_sentences": ["To understand the event \"The monkey ate some bananas.\", it is important to know that [MASK] is yellow."], "uuid": 117}
+{"sub_label": "narcissist", "obj_label": "admiration", "masked_sentences": ["A narcissist wants [MASK]."], "uuid": 118}
+{"sub_label": "nick", "obj_label": "sex", "masked_sentences": ["Nick wants [MASK]."], "uuid": 119}
+{"sub_label": "nudist", "obj_label": "naked", "masked_sentences": ["Nudist colonies allow people to be [MASK] outdoors safely."], "uuid": 120}
+{"sub_label": "organism", "obj_label": "live", "masked_sentences": ["An organism wants to [MASK]."], "uuid": 121}
+{"sub_label": "parasite", "obj_label": "host", "masked_sentences": ["The statement \"[MASK]-parasite interactions are important for evolution\" is true because evolut."], "uuid": 122}
+{"sub_label": "paul", "obj_label": "sex", "masked_sentences": ["Paul wants [MASK]."], "uuid": 123}
+{"sub_label": "pedobear", "obj_label": "cake", "masked_sentences": ["Pedobear wants [MASK]."], "uuid": 124}
+{"sub_label": "people", "obj_label": "amazed", "masked_sentences": ["People like to be [MASK]."], "uuid": 125}
+{"sub_label": "people", "obj_label": "bicycle", "masked_sentences": ["Some people have ridden a [MASK] across continents."], "uuid": 126}
+{"sub_label": "people", "obj_label": "compete", "masked_sentences": ["The statement \"a race can be refered to as a contest.\" is true because two or more people [MASK] to see who can run the fastest."], "uuid": 127}
+{"sub_label": "people", "obj_label": "explore", "masked_sentences": ["People can [MASK] space."], "uuid": 128}
+{"sub_label": "people", "obj_label": "pretend", "masked_sentences": ["People sometimes [MASK] to be who they are not."], "uuid": 129}
+{"sub_label": "people", "obj_label": "quiet", "masked_sentences": ["The statement \"You are likely to find a mouse in the basement\" is true because Mice like [MASK], dark places where people seldom come."], "uuid": 130}
+{"sub_label": "people", "obj_label": "slapped", "masked_sentences": ["The statement \"most people will become anrgry if another person hits or slaps them\" is true because being hit or [MASK] is not only painful, but also insulting."], "uuid": 131}
+{"sub_label": "people", "obj_label": "social", "masked_sentences": ["Another way to say \"religion causes trouble for many people\" is \"Religious is a disruptive [MASK] influence\"."], "uuid": 132}
+{"sub_label": "people", "obj_label": "swim", "masked_sentences": ["The statement \"You are likely to find water in a swimming pool.\" is true because People can [MASK] in water."], "uuid": 133}
+{"sub_label": "people", "obj_label": "thanked", "masked_sentences": ["Another way to say \"A person can thank god\" is \"God can be [MASK] by people.\"."], "uuid": 134}
+{"sub_label": "people", "obj_label": "vacation", "masked_sentences": ["August is a time when people often take a [MASK]."], "uuid": 135}
+{"sub_label": "person", "obj_label": "accomplish", "masked_sentences": ["A person wants to [MASK] goals."], "uuid": 136}
+{"sub_label": "person", "obj_label": "achieve", "masked_sentences": ["A person wants to feel accepted and would go to any length to [MASK] this even if it meant subverting their own personal goals and principles."], "uuid": 137}
+{"sub_label": "person", "obj_label": "added", "masked_sentences": ["If everyone [MASK] just one person to their carpool, the nationwide gasoline savings would amount to more than 33 million gallons of gasoline each day, enough to drive a car around the world 34,000 times ."], "uuid": 138}
+{"sub_label": "person", "obj_label": "admiration", "masked_sentences": ["A person wants [MASK]."], "uuid": 139}
+{"sub_label": "person", "obj_label": "advantages", "masked_sentences": ["A person wants all people all over the world to have the same [MASK] that they enjoy."], "uuid": 140}
+{"sub_label": "person", "obj_label": "affluent", "masked_sentences": ["Another way to say \"a person wants to [MASK]\" is \"affluence is a persons goal\"."], "uuid": 141}
+{"sub_label": "person", "obj_label": "agreement", "masked_sentences": ["If you want to reach a tentative [MASK] then you should talk to the other person."], "uuid": 142}
+{"sub_label": "person", "obj_label": "air", "masked_sentences": ["A person can ride in a hot [MASK] balloon."], "uuid": 143}
+{"sub_label": "person", "obj_label": "ambitions", "masked_sentences": ["A person wants [MASK]."], "uuid": 144}
+{"sub_label": "person", "obj_label": "answers", "masked_sentences": ["An informed person can supply the [MASK]."], "uuid": 145}
+{"sub_label": "person", "obj_label": "applause", "masked_sentences": ["A person wants [MASK]."], "uuid": 146}
+{"sub_label": "person", "obj_label": "art", "masked_sentences": ["Statue is [MASK] person."], "uuid": 147}
+{"sub_label": "person", "obj_label": "autonomous", "masked_sentences": ["A person wants to be [MASK]."], "uuid": 148}
+{"sub_label": "person", "obj_label": "autonomy", "masked_sentences": ["A person wants [MASK]."], "uuid": 149}
+{"sub_label": "person", "obj_label": "bargain", "masked_sentences": ["A person wants a [MASK]."], "uuid": 150}
+{"sub_label": "person", "obj_label": "be", "masked_sentences": ["A person wants to [MASK] appealing."], "uuid": 151}
+{"sub_label": "person", "obj_label": "beef", "masked_sentences": ["A person wants [MASK]."], "uuid": 152}
+{"sub_label": "person", "obj_label": "beer", "masked_sentences": ["To understand the event \"Marek loves to drink good [MASK].  Marek drank an excellent ale at the Brew Pub.\", it is important to know that Three beers can make a person dizzy."], "uuid": 153}
+{"sub_label": "person", "obj_label": "belief", "masked_sentences": ["Therianthropy is the [MASK] that a person has a spiritual, emotional, or mental connection with an animal."], "uuid": 154}
+{"sub_label": "person", "obj_label": "bliss", "masked_sentences": ["Person wants [MASK]."], "uuid": 155}
+{"sub_label": "person", "obj_label": "brains", "masked_sentences": ["A person wants to understand how their own [MASK] work."], "uuid": 156}
+{"sub_label": "person", "obj_label": "breakfast", "masked_sentences": ["A person wants [MASK]."], "uuid": 157}
+{"sub_label": "person", "obj_label": "build", "masked_sentences": ["A person wants [MASK]."], "uuid": 158}
+{"sub_label": "person", "obj_label": "busy", "masked_sentences": ["A person wants to be [MASK]."], "uuid": 159}
+{"sub_label": "person", "obj_label": "cake", "masked_sentences": ["To understand the event \"Jeff baked a [MASK].  Everyone had a piece.\", it is important to know that i am a hard working person."], "uuid": 160}
+{"sub_label": "person", "obj_label": "candy", "masked_sentences": ["Person wants sweet [MASK]."], "uuid": 161}
+{"sub_label": "person", "obj_label": "care", "masked_sentences": ["A person wants pets to [MASK] for."], "uuid": 162}
+{"sub_label": "person", "obj_label": "celebrate", "masked_sentences": ["The statement \"a person wants to [MASK] holidays.\" helps answer the question \"Should you be sad about having holidays?\"."], "uuid": 163}
+{"sub_label": "person", "obj_label": "celebrated", "masked_sentences": ["To understand the event \"It was Mary's birthday.  She got presents from her friends.\", it is important to know that A birthday is [MASK] on the day the person was born. ."], "uuid": 164}
+{"sub_label": "person", "obj_label": "champion", "masked_sentences": ["[MASK] is a type of winning person."], "uuid": 165}
+{"sub_label": "person", "obj_label": "choices", "masked_sentences": ["Person does not want too many [MASK]."], "uuid": 166}
+{"sub_label": "person", "obj_label": "clarity", "masked_sentences": ["A person wants [MASK]."], "uuid": 167}
+{"sub_label": "person", "obj_label": "clean", "masked_sentences": ["A person wants [MASK] water."], "uuid": 168}
+{"sub_label": "person", "obj_label": "clever", "masked_sentences": ["A person wants to look [MASK]."], "uuid": 169}
+{"sub_label": "person", "obj_label": "closure", "masked_sentences": ["A person wants [MASK]."], "uuid": 170}
+{"sub_label": "person", "obj_label": "clothes", "masked_sentences": ["A person doesn't want [MASK] that don't fit."], "uuid": 171}
+{"sub_label": "person", "obj_label": "clothing", "masked_sentences": ["The stereotypical civilized person wears more [MASK] than the stereotypical native ."], "uuid": 172}
+{"sub_label": "person", "obj_label": "coffee", "masked_sentences": ["A person drinks [MASK] to have more time to solve problems."], "uuid": 173}
+{"sub_label": "person", "obj_label": "commitment", "masked_sentences": ["Person wants [MASK] from others."], "uuid": 174}
+{"sub_label": "person", "obj_label": "communicate", "masked_sentences": ["One way to [MASK] with another person is to type them a letter."], "uuid": 175}
+{"sub_label": "person", "obj_label": "communication", "masked_sentences": ["If face-to-face [MASK] with a person is not possible, you may try calling them by telephone."], "uuid": 176}
+{"sub_label": "person", "obj_label": "company", "masked_sentences": ["To understand the event \"Rita sent a bill to her client.\", it is important to know that The client could be a person or a [MASK]."], "uuid": 177}
+{"sub_label": "person", "obj_label": "compassion", "masked_sentences": ["Situation: I feel [MASK] because I realize that person wants to be cared about."], "uuid": 178}
+{"sub_label": "person", "obj_label": "computer", "masked_sentences": ["A person doesn't want her [MASK] to lock up."], "uuid": 179}
+{"sub_label": "person", "obj_label": "computers", "masked_sentences": ["The statement \"a person wants more bandwith\" is true because because people don't like to wait for [MASK]."], "uuid": 180}
+{"sub_label": "person", "obj_label": "confidence", "masked_sentences": ["Another way to say \"a person wants self [MASK]\" is \"self confident people feel good about themselves and are liked by other people\"."], "uuid": 181}
+{"sub_label": "person", "obj_label": "confident", "masked_sentences": ["Another way to say \"a person wants self confidence\" is \"self [MASK] people feel good about themselves and are liked by other people\"."], "uuid": 182}
+{"sub_label": "person", "obj_label": "consistency", "masked_sentences": ["A person wants [MASK]."], "uuid": 183}
+{"sub_label": "person", "obj_label": "convenience", "masked_sentences": ["The statement \"a person wants to have convienience\" is true because [MASK] makes life simpler."], "uuid": 184}
+{"sub_label": "person", "obj_label": "conversation", "masked_sentences": ["A desire to meet an attractive person  would make you want to have a [MASK]."], "uuid": 185}
+{"sub_label": "person", "obj_label": "convertible", "masked_sentences": ["A person wants a [MASK]."], "uuid": 186}
+{"sub_label": "person", "obj_label": "courage", "masked_sentences": ["A person wants [MASK]."], "uuid": 187}
+{"sub_label": "person", "obj_label": "create", "masked_sentences": ["A person wants to [MASK] things."], "uuid": 188}
+{"sub_label": "person", "obj_label": "creativity", "masked_sentences": ["A person can enjoy watching the product of others' [MASK]."], "uuid": 189}
+{"sub_label": "person", "obj_label": "credible", "masked_sentences": ["A person doesn't want to protest too much if he wants to be [MASK]."], "uuid": 190}
+{"sub_label": "person", "obj_label": "dance", "masked_sentences": ["A person wants to [MASK] to music in the deep sea."], "uuid": 191}
+{"sub_label": "person", "obj_label": "dedication", "masked_sentences": ["A person wants [MASK]."], "uuid": 192}
+{"sub_label": "person", "obj_label": "details", "masked_sentences": ["An alert person can note small [MASK]."], "uuid": 193}
+{"sub_label": "person", "obj_label": "develop", "masked_sentences": ["A person wants to [MASK] her talents."], "uuid": 194}
+{"sub_label": "person", "obj_label": "devotion", "masked_sentences": ["A person wants [MASK]."], "uuid": 195}
+{"sub_label": "person", "obj_label": "dialogue", "masked_sentences": ["A person wants [MASK]."], "uuid": 196}
+{"sub_label": "person", "obj_label": "diamonds", "masked_sentences": ["To understand the event \"A thief stole mary's [MASK].\", it is important to know that Mary is a person."], "uuid": 197}
+{"sub_label": "person", "obj_label": "dignity", "masked_sentences": ["A person wants [MASK]."], "uuid": 198}
+{"sub_label": "person", "obj_label": "dinner", "masked_sentences": ["To understand the event \"Sally cooked [MASK].\", it is important to know that Sally might have made food for more than one person."], "uuid": 199}
+{"sub_label": "person", "obj_label": "diversity", "masked_sentences": ["A person wants [MASK]."], "uuid": 200}
+{"sub_label": "person", "obj_label": "drive", "masked_sentences": ["Person does not want to bears to [MASK] their car."], "uuid": 201}
+{"sub_label": "person", "obj_label": "educated", "masked_sentences": ["A person can become [MASK] without attending school, but in our modern society few choose that route ."], "uuid": 202}
+{"sub_label": "person", "obj_label": "education", "masked_sentences": ["A person can further their [MASK]."], "uuid": 203}
+{"sub_label": "person", "obj_label": "electricity", "masked_sentences": ["Touching [MASK] can cause a person to be hurt."], "uuid": 204}
+{"sub_label": "person", "obj_label": "elegant", "masked_sentences": ["A person wants to be [MASK]."], "uuid": 205}
+{"sub_label": "person", "obj_label": "energy", "masked_sentences": ["A person wants [MASK]."], "uuid": 206}
+{"sub_label": "person", "obj_label": "enjoy", "masked_sentences": ["A person wants to [MASK] work from a distance."], "uuid": 207}
+{"sub_label": "person", "obj_label": "enough", "masked_sentences": ["A person wants [MASK] money."], "uuid": 208}
+{"sub_label": "person", "obj_label": "equality", "masked_sentences": ["A person wants [MASK]."], "uuid": 209}
+{"sub_label": "person", "obj_label": "escape", "masked_sentences": ["A person wants to [MASK] earths bounds."], "uuid": 210}
+{"sub_label": "person", "obj_label": "esteem", "masked_sentences": ["Having bad skin can hurt a person's self [MASK]."], "uuid": 211}
+{"sub_label": "person", "obj_label": "everything", "masked_sentences": ["A person wants to get away with [MASK]."], "uuid": 212}
+{"sub_label": "person", "obj_label": "evidence", "masked_sentences": ["To understand the event \"The knife was entered into [MASK].\", it is important to know that If a knife was used to cut someone, it may have the person's DNA on it."], "uuid": 213}
+{"sub_label": "person", "obj_label": "examples", "masked_sentences": ["A person wants [MASK]."], "uuid": 214}
+{"sub_label": "person", "obj_label": "excited", "masked_sentences": ["To understand the event \"Someone yelled.\", it is important to know that The person was probably [MASK] in some way."], "uuid": 215}
+{"sub_label": "person", "obj_label": "experience", "masked_sentences": ["A sentence has 'face value' when the speaker is telling the truth according to his [MASK] as a person."], "uuid": 216}
+{"sub_label": "person", "obj_label": "experiment", "masked_sentences": ["A person wants to [MASK]."], "uuid": 217}
+{"sub_label": "person", "obj_label": "explain", "masked_sentences": ["A person can use a metaphor to [MASK] a process."], "uuid": 218}
+{"sub_label": "person", "obj_label": "explanations", "masked_sentences": ["A person wants [MASK]."], "uuid": 219}
+{"sub_label": "person", "obj_label": "explore", "masked_sentences": ["A person wants mankind to [MASK] the universe."], "uuid": 220}
+{"sub_label": "person", "obj_label": "expressive", "masked_sentences": ["An [MASK] person may draw in order to express."], "uuid": 221}
+{"sub_label": "person", "obj_label": "facial", "masked_sentences": ["A person wants a [MASK]."], "uuid": 222}
+{"sub_label": "person", "obj_label": "facts", "masked_sentences": ["A person can read about historical [MASK] in history books."], "uuid": 223}
+{"sub_label": "person", "obj_label": "fair", "masked_sentences": ["Person wants [MASK] winds."], "uuid": 224}
+{"sub_label": "person", "obj_label": "faith", "masked_sentences": ["A person doesn't want to be reminded of his false [MASK]."], "uuid": 225}
+{"sub_label": "person", "obj_label": "fed", "masked_sentences": ["A person wants to be rich and [MASK] and sheltered and clothed."], "uuid": 226}
+{"sub_label": "person", "obj_label": "feet", "masked_sentences": ["A person doesn't want to smelly [MASK]."], "uuid": 227}
+{"sub_label": "person", "obj_label": "fellowship", "masked_sentences": ["A person wants [MASK]."], "uuid": 228}
+{"sub_label": "person", "obj_label": "find", "masked_sentences": ["You are likely to [MASK] a person in train."], "uuid": 229}
+{"sub_label": "person", "obj_label": "fitness", "masked_sentences": ["The statement \"a person doesn't want to loose friends.\" is true because human beings are social animals, social animals have evolved to maximise [MASK] by helping each other. friends are people who help you."], "uuid": 230}
+{"sub_label": "person", "obj_label": "flowers", "masked_sentences": ["To understand the event \"Lisa is a gardener.  Lisa pruned a bush.\", it is important to know that A gardener is a person who works with plants and [MASK]."], "uuid": 231}
+{"sub_label": "person", "obj_label": "fly", "masked_sentences": ["A person can learn to [MASK]."], "uuid": 232}
+{"sub_label": "person", "obj_label": "forgiveness", "masked_sentences": ["A person wants [MASK]."], "uuid": 233}
+{"sub_label": "person", "obj_label": "fortune", "masked_sentences": ["A person wants good [MASK]."], "uuid": 234}
+{"sub_label": "person", "obj_label": "fuck", "masked_sentences": ["A person wants a [MASK]."], "uuid": 235}
+{"sub_label": "person", "obj_label": "fulfilled", "masked_sentences": ["Another way to say \"a person wants to be [MASK].\" is \"fulfillment is desired by people\"."], "uuid": 236}
+{"sub_label": "person", "obj_label": "full", "masked_sentences": ["To have a happy life a person should fill what's empty, empty what's [MASK], and scratch where it itches ."], "uuid": 237}
+{"sub_label": "person", "obj_label": "future", "masked_sentences": ["A person wants a healthy environment for [MASK] generations ."], "uuid": 238}
+{"sub_label": "person", "obj_label": "garlic", "masked_sentences": ["A person wants [MASK]."], "uuid": 239}
+{"sub_label": "person", "obj_label": "get", "masked_sentences": ["To understand the event \"Dan drove a car to the grocery store to [MASK] some peanut butter.\", it is important to know that Each person who buys a car gets a key that does not fit other cars."], "uuid": 240}
+{"sub_label": "person", "obj_label": "gift", "masked_sentences": ["If you want to give a [MASK] then you should try to remember what the person might want."], "uuid": 241}
+{"sub_label": "person", "obj_label": "gifts", "masked_sentences": ["A person wants to be given [MASK]."], "uuid": 242}
+{"sub_label": "person", "obj_label": "goal", "masked_sentences": ["The topic 'time' does not contain these words: [MASK], idea, 7, consist, person, MIT, dropper, unger-clark, tall, content, two, watch, certain."], "uuid": 243}
+{"sub_label": "person", "obj_label": "goals", "masked_sentences": ["A person wants to feel accepted and would go to any length to achieve this even if it meant subverting their own personal [MASK] and principles."], "uuid": 244}
+{"sub_label": "person", "obj_label": "gold", "masked_sentences": ["A person can mine for [MASK]."], "uuid": 245}
+{"sub_label": "person", "obj_label": "headache", "masked_sentences": ["A person doesn't want to get a [MASK]."], "uuid": 246}
+{"sub_label": "person", "obj_label": "hero", "masked_sentences": ["[MASK] is a type of person."], "uuid": 247}
+{"sub_label": "person", "obj_label": "hip", "masked_sentences": ["A person wants to be [MASK]."], "uuid": 248}
+{"sub_label": "person", "obj_label": "hold", "masked_sentences": ["A person can [MASK] onto a railing."], "uuid": 249}
+{"sub_label": "person", "obj_label": "honor", "masked_sentences": ["An honest person can [MASK] their debts."], "uuid": 250}
+{"sub_label": "person", "obj_label": "honored", "masked_sentences": ["A person wants to be [MASK]."], "uuid": 251}
+{"sub_label": "person", "obj_label": "hope", "masked_sentences": ["A person wants [MASK]."], "uuid": 252}
+{"sub_label": "person", "obj_label": "hospitality", "masked_sentences": ["A person wants [MASK]."], "uuid": 253}
+{"sub_label": "person", "obj_label": "hug", "masked_sentences": ["A person wants a [MASK]."], "uuid": 254}
+{"sub_label": "person", "obj_label": "hugged", "masked_sentences": ["A person wants to be [MASK]."], "uuid": 255}
+{"sub_label": "person", "obj_label": "hunger", "masked_sentences": ["A person wants [MASK]."], "uuid": 256}
+{"sub_label": "person", "obj_label": "identity", "masked_sentences": ["Name is person [MASK]."], "uuid": 257}
+{"sub_label": "person", "obj_label": "independence", "masked_sentences": ["The statement \"a person doesn't want smothering love.\" is true because People enjoy freedom, [MASK] even while in a relationship."], "uuid": 258}
+{"sub_label": "person", "obj_label": "independent", "masked_sentences": ["[MASK] is a type of person."], "uuid": 259}
+{"sub_label": "person", "obj_label": "influence", "masked_sentences": ["Drugs are substances which [MASK] a person's metabolism. Some drugs are legal and some drugs are illegal."], "uuid": 260}
+{"sub_label": "person", "obj_label": "influential", "masked_sentences": ["An [MASK] person is able to persuade others, or charismatic."], "uuid": 261}
+{"sub_label": "person", "obj_label": "informed", "masked_sentences": ["An [MASK] person can supply the answers."], "uuid": 262}
+{"sub_label": "person", "obj_label": "inspiration", "masked_sentences": ["A person wants [MASK]   ."], "uuid": 263}
+{"sub_label": "person", "obj_label": "inspired", "masked_sentences": ["A person wants to be [MASK]."], "uuid": 264}
+{"sub_label": "person", "obj_label": "integrity", "masked_sentences": ["A person wants [MASK]."], "uuid": 265}
+{"sub_label": "person", "obj_label": "intelligent", "masked_sentences": ["A vastly [MASK] misanthrope is the most dangerous type of person."], "uuid": 266}
+{"sub_label": "person", "obj_label": "interaction", "masked_sentences": ["The statement \"a person doesn't want to be scorned\" is true because [MASK] is important."], "uuid": 267}
+{"sub_label": "person", "obj_label": "jewellery", "masked_sentences": ["A person wants [MASK]."], "uuid": 268}
+{"sub_label": "person", "obj_label": "jewelry", "masked_sentences": ["A person wants [MASK]."], "uuid": 269}
+{"sub_label": "person", "obj_label": "justice", "masked_sentences": ["Situation: A person can demand [MASK]."], "uuid": 270}
+{"sub_label": "person", "obj_label": "king", "masked_sentences": ["[MASK] is person."], "uuid": 271}
+{"sub_label": "person", "obj_label": "known", "masked_sentences": ["A person who plays a piano is [MASK] as a pianist."], "uuid": 272}
+{"sub_label": "person", "obj_label": "land", "masked_sentences": ["A person cannot row on a bank of [MASK]."], "uuid": 273}
+{"sub_label": "person", "obj_label": "laughter", "masked_sentences": ["If you want to howl with [MASK] then you should talk to another person."], "uuid": 274}
+{"sub_label": "person", "obj_label": "leader", "masked_sentences": ["A person wants to be a [MASK]."], "uuid": 275}
+{"sub_label": "person", "obj_label": "leisure", "masked_sentences": ["A person wants time for [MASK] activities."], "uuid": 276}
+{"sub_label": "person", "obj_label": "less", "masked_sentences": ["A person wants to buy more for [MASK] money."], "uuid": 277}
+{"sub_label": "person", "obj_label": "liberty", "masked_sentences": ["A person wants [MASK]."], "uuid": 278}
+{"sub_label": "person", "obj_label": "licked", "masked_sentences": ["A person wants to be [MASK]."], "uuid": 279}
+{"sub_label": "person", "obj_label": "life", "masked_sentences": ["To have a happy [MASK] a person should fill what's empty, empty what's full, and scratch where it itches ."], "uuid": 280}
+{"sub_label": "person", "obj_label": "light", "masked_sentences": ["Person wants [MASK]."], "uuid": 281}
+{"sub_label": "person", "obj_label": "links", "masked_sentences": ["The person behind the anthrax attacks in the US is a lone American scientist with no [MASK] to Osama bin Laden."], "uuid": 282}
+{"sub_label": "person", "obj_label": "lover", "masked_sentences": ["The fact \"a person doesn't want to lose their [MASK]\" is illustrated with the story:1. Rex had no respect for Nancy.2. Nancy found a new boyfriend and left Rex.3. Rex begged her to come back to him."], "uuid": 283}
+{"sub_label": "person", "obj_label": "loyalty", "masked_sentences": ["A person wants [MASK]."], "uuid": 284}
+{"sub_label": "person", "obj_label": "luck", "masked_sentences": ["Person wants good [MASK]."], "uuid": 285}
+{"sub_label": "person", "obj_label": "luxury", "masked_sentences": ["A person wants [MASK]."], "uuid": 286}
+{"sub_label": "person", "obj_label": "magic", "masked_sentences": ["A person wants [MASK]."], "uuid": 287}
+{"sub_label": "person", "obj_label": "mail", "masked_sentences": ["A person can [MASK] a package."], "uuid": 288}
+{"sub_label": "person", "obj_label": "massage", "masked_sentences": ["The effect of socialising is making friends, and not being lonely.  Humans are really made to depend on each other.  one man may work on cars all day, while the other does roofs, one WILL need the others service someday.This is also why we need [MASK] therapy.  not only to relieve muscle tension and tightness, but also for another person to touch and take that tension away with their hands is a comforting feeling."], "uuid": 289}
+{"sub_label": "person", "obj_label": "meaning", "masked_sentences": ["A person doesn't want to go through life without [MASK]."], "uuid": 290}
+{"sub_label": "person", "obj_label": "mobile", "masked_sentences": ["A person wants to be [MASK]."], "uuid": 291}
+{"sub_label": "person", "obj_label": "mom", "masked_sentences": ["To understand the event \"Sam wrote a letter to his [MASK].\", it is important to know that Every person has a biological mother and father."], "uuid": 292}
+{"sub_label": "person", "obj_label": "moral", "masked_sentences": ["A person wants to be [MASK]."], "uuid": 293}
+{"sub_label": "person", "obj_label": "more", "masked_sentences": ["A person wants [MASK] than needs."], "uuid": 294}
+{"sub_label": "person", "obj_label": "motivation", "masked_sentences": ["A person wants [MASK]."], "uuid": 295}
+{"sub_label": "person", "obj_label": "move", "masked_sentences": ["Exercise can be done anywhere a person can [MASK]."], "uuid": 296}
+{"sub_label": "person", "obj_label": "music", "masked_sentences": ["A person wants beautiful [MASK]."], "uuid": 297}
+{"sub_label": "person", "obj_label": "mystery", "masked_sentences": ["Adventurer is a type of [MASK] person."], "uuid": 298}
+{"sub_label": "person", "obj_label": "neat", "masked_sentences": ["A [MASK] person can better the neighborhood."], "uuid": 299}
+{"sub_label": "person", "obj_label": "needed", "masked_sentences": ["A person wants to feel [MASK]."], "uuid": 300}
+{"sub_label": "person", "obj_label": "new", "masked_sentences": ["A person wants to be given [MASK] challenges."], "uuid": 301}
+{"sub_label": "person", "obj_label": "noticed", "masked_sentences": ["The statement \"a person doesn't want to be forgotten by others.\" is true because People like to be [MASK]."], "uuid": 302}
+{"sub_label": "person", "obj_label": "novelty", "masked_sentences": ["A person wants [MASK]."], "uuid": 303}
+{"sub_label": "person", "obj_label": "observe", "masked_sentences": ["A person wants to [MASK]."], "uuid": 304}
+{"sub_label": "person", "obj_label": "opportunity", "masked_sentences": ["The statement \"a person doesn't want to be discriminated against\" is true because People need and prefer unhampered [MASK]."], "uuid": 305}
+{"sub_label": "person", "obj_label": "order", "masked_sentences": ["To understand the event \"Joe plays the trumpet.  Joe gave a music lesson.\", it is important to know that A person must know how to play an instrument well in [MASK] to give a music lesson."], "uuid": 306}
+{"sub_label": "person", "obj_label": "orgasm", "masked_sentences": ["A person wants an [MASK]."], "uuid": 307}
+{"sub_label": "person", "obj_label": "parents", "masked_sentences": ["A person must be younger than their [MASK]."], "uuid": 308}
+{"sub_label": "person", "obj_label": "partner", "masked_sentences": ["[MASK] is a type of helping person."], "uuid": 309}
+{"sub_label": "person", "obj_label": "passion", "masked_sentences": ["A person wants [MASK]."], "uuid": 310}
+{"sub_label": "person", "obj_label": "patience", "masked_sentences": ["A person wants [MASK]."], "uuid": 311}
+{"sub_label": "person", "obj_label": "patient", "masked_sentences": ["A [MASK] is a person who is being treated by a doctor."], "uuid": 312}
+{"sub_label": "person", "obj_label": "peaceful", "masked_sentences": ["A [MASK] person is one who lives simply ."], "uuid": 313}
+{"sub_label": "person", "obj_label": "perfect", "masked_sentences": ["A person wants a [MASK] body."], "uuid": 314}
+{"sub_label": "person", "obj_label": "perform", "masked_sentences": ["One of the things a person can do on a stage is [MASK] monologues."], "uuid": 315}
+{"sub_label": "person", "obj_label": "pictures", "masked_sentences": ["A person doesn't want [MASK] of fat naked people."], "uuid": 316}
+{"sub_label": "person", "obj_label": "play", "masked_sentences": ["To understand the event \"Joe plays the trumpet.  Joe gave a music lesson.\", it is important to know that A person must know how to [MASK] an instrument well in order to give a music lesson."], "uuid": 317}
+{"sub_label": "person", "obj_label": "popularity", "masked_sentences": ["A person doesn't want to lose [MASK]."], "uuid": 318}
+{"sub_label": "person", "obj_label": "pornography", "masked_sentences": ["A person wants [MASK]."], "uuid": 319}
+{"sub_label": "person", "obj_label": "pot", "masked_sentences": ["To understand the event \"Daphne made a [MASK] of chili.\", it is important to know that A person cooks because they like to, because they are hungry or because someone else is hungry."], "uuid": 320}
+{"sub_label": "person", "obj_label": "praise", "masked_sentences": ["A person wants [MASK]."], "uuid": 321}
+{"sub_label": "person", "obj_label": "praised", "masked_sentences": ["A person wants to be [MASK] and loved."], "uuid": 322}
+{"sub_label": "person", "obj_label": "preferences", "masked_sentences": ["A person usually has [MASK]."], "uuid": 323}
+{"sub_label": "person", "obj_label": "prestige", "masked_sentences": ["A [MASK]-oriented person seeks esteem or recognition from others."], "uuid": 324}
+{"sub_label": "person", "obj_label": "pretty", "masked_sentences": ["The statement \"a person doesn't want to listen to bad music\" helps answer the question \"Why do people spend time looking through so many CD's in a record store when they could buy the first they lay their hands on, they all look [MASK] much the same?\"."], "uuid": 325}
+{"sub_label": "person", "obj_label": "privacy", "masked_sentences": ["A person may accept a contract as long as his [MASK] is protected."], "uuid": 326}
+{"sub_label": "person", "obj_label": "proof", "masked_sentences": ["A theater ticket is for [MASK] of where a person has been."], "uuid": 327}
+{"sub_label": "person", "obj_label": "prosperity", "masked_sentences": ["A person wants [MASK]."], "uuid": 328}
+{"sub_label": "person", "obj_label": "quality", "masked_sentences": ["The statement \"a person wants to be creative\" is true because Creativity is an admirable [MASK]."], "uuid": 329}
+{"sub_label": "person", "obj_label": "quiet", "masked_sentences": ["A [MASK] person is silent and not talkative."], "uuid": 330}
+{"sub_label": "person", "obj_label": "racist", "masked_sentences": ["A [MASK] is a person who hates people from different ethnic groups."], "uuid": 331}
+{"sub_label": "person", "obj_label": "raise", "masked_sentences": ["A person can [MASK] a salute."], "uuid": 332}
+{"sub_label": "person", "obj_label": "recognised", "masked_sentences": ["A person wants to be [MASK]."], "uuid": 333}
+{"sub_label": "person", "obj_label": "recognized", "masked_sentences": ["A person wants their achievements to be [MASK]."], "uuid": 334}
+{"sub_label": "person", "obj_label": "recover", "masked_sentences": ["A person wants to [MASK] from a nervous breakdown."], "uuid": 335}
+{"sub_label": "person", "obj_label": "relaxation", "masked_sentences": ["The statement \"Humans also walk for [MASK] and health.\" helps answer the question \"Why should a person leave the car home and walk?\"."], "uuid": 336}
+{"sub_label": "person", "obj_label": "reliability", "masked_sentences": ["A person wants [MASK]."], "uuid": 337}
+{"sub_label": "person", "obj_label": "remembered", "masked_sentences": ["A person wants to be [MASK] after death."], "uuid": 338}
+{"sub_label": "person", "obj_label": "reproduce", "masked_sentences": ["A person doesn't want the Ozbournes to [MASK]."], "uuid": 339}
+{"sub_label": "person", "obj_label": "results", "masked_sentences": ["A person wants accurate [MASK]."], "uuid": 340}
+{"sub_label": "person", "obj_label": "reward", "masked_sentences": ["A goal-oriented person seeks a set [MASK] or outcome."], "uuid": 341}
+{"sub_label": "person", "obj_label": "right", "masked_sentences": ["A person doesn't want to do math homework [MASK] now."], "uuid": 342}
+{"sub_label": "person", "obj_label": "rights", "masked_sentences": ["Person does not want have his [MASK] taken away."], "uuid": 343}
+{"sub_label": "person", "obj_label": "romance", "masked_sentences": ["A person wants [MASK]."], "uuid": 344}
+{"sub_label": "person", "obj_label": "run", "masked_sentences": ["Person does not want to be [MASK] over by a bus."], "uuid": 345}
+{"sub_label": "person", "obj_label": "safe", "masked_sentences": ["A person wants [MASK], but wild sex."], "uuid": 346}
+{"sub_label": "person", "obj_label": "salvation", "masked_sentences": ["Person wants eternal [MASK]."], "uuid": 347}
+{"sub_label": "person", "obj_label": "sanity", "masked_sentences": ["Person wants [MASK]."], "uuid": 348}
+{"sub_label": "person", "obj_label": "savings", "masked_sentences": ["If everyone added just one person to their carpool, the nationwide gasoline [MASK] would amount to more than 33 million gallons of gasoline each day, enough to drive a car around the world 34,000 times ."], "uuid": 349}
+{"sub_label": "person", "obj_label": "science", "masked_sentences": ["A person wants good [MASK]."], "uuid": 350}
+{"sub_label": "person", "obj_label": "see", "masked_sentences": ["A person wants to [MASK] good movies."], "uuid": 351}
+{"sub_label": "person", "obj_label": "sexy", "masked_sentences": ["A person wants to be [MASK]."], "uuid": 352}
+{"sub_label": "person", "obj_label": "shelter", "masked_sentences": ["A person wants to have [MASK] from the weather."], "uuid": 353}
+{"sub_label": "person", "obj_label": "simplicity", "masked_sentences": ["A person wants [MASK]."], "uuid": 354}
+{"sub_label": "person", "obj_label": "sincere", "masked_sentences": ["A person wants to be [MASK]."], "uuid": 355}
+{"sub_label": "person", "obj_label": "sing", "masked_sentences": ["The statement \"An activity someone can do is [MASK]\" helps answer the question \"What can a person do to amuse himself?\"."], "uuid": 356}
+{"sub_label": "person", "obj_label": "slim", "masked_sentences": ["A person wants to stay [MASK]."], "uuid": 357}
+{"sub_label": "person", "obj_label": "smart", "masked_sentences": ["A person wants to feel [MASK]."], "uuid": 358}
+{"sub_label": "person", "obj_label": "snake", "masked_sentences": ["A person could die from some [MASK] bites."], "uuid": 359}
+{"sub_label": "person", "obj_label": "solutions", "masked_sentences": ["A person wants [MASK]."], "uuid": 360}
+{"sub_label": "person", "obj_label": "space", "masked_sentences": ["A person doesn't want to lose all of their teeth, especially not within the [MASK] of a few minutes."], "uuid": 361}
+{"sub_label": "person", "obj_label": "special", "masked_sentences": ["Another way to say \"everyone has one [MASK] talent\" is \"Each person has a purpose especially related to their experience and genetic makeup.\"."], "uuid": 362}
+{"sub_label": "person", "obj_label": "speed", "masked_sentences": ["A person wants to [MASK] up a process."], "uuid": 363}
+{"sub_label": "person", "obj_label": "spirituality", "masked_sentences": ["A person wants [MASK]."], "uuid": 364}
+{"sub_label": "person", "obj_label": "sponsor", "masked_sentences": ["A person wants a [MASK]."], "uuid": 365}
+{"sub_label": "person", "obj_label": "spouse", "masked_sentences": ["The statement \"a person doesn't want their [MASK] to die\" is true because bereavement is a very stressful event."], "uuid": 366}
+{"sub_label": "person", "obj_label": "stable", "masked_sentences": ["Person wants a [MASK] relationship."], "uuid": 367}
+{"sub_label": "person", "obj_label": "stimulation", "masked_sentences": ["A person wants [MASK]."], "uuid": 368}
+{"sub_label": "person", "obj_label": "strength", "masked_sentences": ["A person wants [MASK] in mind, body and spirit."], "uuid": 369}
+{"sub_label": "person", "obj_label": "stretch", "masked_sentences": ["A person wants to [MASK]."], "uuid": 370}
+{"sub_label": "person", "obj_label": "stroked", "masked_sentences": ["A person wants to be [MASK]."], "uuid": 371}
+{"sub_label": "person", "obj_label": "study", "masked_sentences": ["A person can [MASK] archeology."], "uuid": 372}
+{"sub_label": "person", "obj_label": "sugar", "masked_sentences": ["A person sometimes eats [MASK] ."], "uuid": 373}
+{"sub_label": "person", "obj_label": "sunlight", "masked_sentences": ["The statement \"You are likely to find a lantern in a cave\" helps answer the question \"If [MASK] can't penetrate into a cave, how can a person see?\"."], "uuid": 374}
+{"sub_label": "person", "obj_label": "sunshine", "masked_sentences": ["Person wants [MASK]."], "uuid": 375}
+{"sub_label": "person", "obj_label": "support", "masked_sentences": ["Person wants [MASK] from their loved ones."], "uuid": 376}
+{"sub_label": "person", "obj_label": "surprised", "masked_sentences": ["Something that might happen as a consequence of surprising someone is the [MASK] person starts crying."], "uuid": 377}
+{"sub_label": "person", "obj_label": "surprises", "masked_sentences": ["A person wants [MASK]."], "uuid": 378}
+{"sub_label": "person", "obj_label": "sweet", "masked_sentences": ["Person wants [MASK] candy."], "uuid": 379}
+{"sub_label": "person", "obj_label": "swim", "masked_sentences": ["[MASK] is a type of person activity."], "uuid": 380}
+{"sub_label": "person", "obj_label": "sympathy", "masked_sentences": ["A person can milk a situation for [MASK] from other people."], "uuid": 381}
+{"sub_label": "person", "obj_label": "talent", "masked_sentences": ["Another way to say \"everyone has one special [MASK]\" is \"Each person has a purpose especially related to their experience and genetic makeup.\"."], "uuid": 382}
+{"sub_label": "person", "obj_label": "talented", "masked_sentences": ["Not every person is a [MASK] musician."], "uuid": 383}
+{"sub_label": "person", "obj_label": "taller", "masked_sentences": ["To understand the event \"My lemon tree grew [MASK].\", it is important to know that The lemon tree was planted by the person speaking."], "uuid": 384}
+{"sub_label": "person", "obj_label": "tan", "masked_sentences": ["A person wants a [MASK]."], "uuid": 385}
+{"sub_label": "person", "obj_label": "technology", "masked_sentences": ["A person doesn't want to be reminded of our overdependence on [MASK]."], "uuid": 386}
+{"sub_label": "person", "obj_label": "time", "masked_sentences": ["The story \"Loving Another\" has the step \"I've been particularly interested in another person for a long [MASK].\"."], "uuid": 387}
+{"sub_label": "person", "obj_label": "tobacco", "masked_sentences": ["A person wants [MASK]."], "uuid": 388}
+{"sub_label": "person", "obj_label": "toys", "masked_sentences": ["A person wants [MASK]."], "uuid": 389}
+{"sub_label": "person", "obj_label": "turtle", "masked_sentences": ["To understand the event \"Brian likes animals.  Brian has a [MASK] as a pet.\", it is important to know that a person is an animal."], "uuid": 390}
+{"sub_label": "person", "obj_label": "vacation", "masked_sentences": ["Another way to say \"a person wants to go on a nice [MASK].\" is \"nice vacations are desirable to human beings\"."], "uuid": 391}
+{"sub_label": "person", "obj_label": "value", "masked_sentences": ["A sentence has 'face [MASK]' when the speaker is telling the truth according to his experience as a person."], "uuid": 392}
+{"sub_label": "person", "obj_label": "valued", "masked_sentences": ["Person wants to be [MASK] at their work."], "uuid": 393}
+{"sub_label": "person", "obj_label": "victory", "masked_sentences": ["A person wants [MASK]."], "uuid": 394}
+{"sub_label": "person", "obj_label": "war", "masked_sentences": ["Person does not want to lose the [MASK]."], "uuid": 395}
+{"sub_label": "person", "obj_label": "wisdom", "masked_sentences": ["A person wants [MASK]."], "uuid": 396}
+{"sub_label": "person", "obj_label": "wise", "masked_sentences": ["A [MASK] person is eager for instruction."], "uuid": 397}
+{"sub_label": "person", "obj_label": "with", "masked_sentences": ["One way to communicate [MASK] another person is to type them a letter."], "uuid": 398}
+{"sub_label": "person", "obj_label": "world", "masked_sentences": ["The statement \"picture description: A tool that females are incapable of using.  When dimantled, can be used by Trombone player\" is true because people can be very opinionated about what they see. Do not take anything for granted, but always question it. Female incapability is not absolute, it is a generalisation that applies more to the [MASK] of the person who wrote that sentence. ."], "uuid": 399}
+{"sub_label": "politician", "obj_label": "elected", "masked_sentences": ["A politician wants to be re-[MASK]."], "uuid": 400}
+{"sub_label": "politician", "obj_label": "power", "masked_sentences": ["You would be a politician because you want [MASK]."], "uuid": 401}
+{"sub_label": "printer", "obj_label": "paper", "masked_sentences": ["A person can put [MASK] into a printer."], "uuid": 402}
+{"sub_label": "puppy", "obj_label": "attention", "masked_sentences": ["A puppy wants [MASK]."], "uuid": 403}
+{"sub_label": "question", "obj_label": "answer", "masked_sentences": ["The statement \"Harbor pilots can shore large ships\" helps [MASK] the question \"Who can shore large ships?\"."], "uuid": 404}
+{"sub_label": "rabies", "obj_label": "host", "masked_sentences": ["Rabies wants a [MASK]."], "uuid": 405}
+{"sub_label": "raiad", "obj_label": "friend", "masked_sentences": ["Raiad wants a [MASK]."], "uuid": 406}
+{"sub_label": "randy", "obj_label": "sex", "masked_sentences": ["Randy wants [MASK]."], "uuid": 407}
+{"sub_label": "rich", "obj_label": "sex", "masked_sentences": ["Rich wants [MASK]."], "uuid": 408}
+{"sub_label": "robert", "obj_label": "sex", "masked_sentences": ["Robert needs [MASK]."], "uuid": 409}
+{"sub_label": "rocky", "obj_label": "sex", "masked_sentences": ["Rocky needs [MASK]."], "uuid": 410}
+{"sub_label": "sailor", "obj_label": "wind", "masked_sentences": ["A sailor can [MASK] a winch."], "uuid": 411}
+{"sub_label": "saint", "obj_label": "good", "masked_sentences": ["Saint has [MASK] person."], "uuid": 412}
+{"sub_label": "shark", "obj_label": "eat", "masked_sentences": ["A shark wants to [MASK] you."], "uuid": 413}
+{"sub_label": "shawna", "obj_label": "sex", "masked_sentences": ["Shawna needs [MASK]."], "uuid": 414}
+{"sub_label": "sherrie", "obj_label": "sex", "masked_sentences": ["Sherrie wants [MASK]."], "uuid": 415}
+{"sub_label": "skiier", "obj_label": "snow", "masked_sentences": ["A skiier wants it to [MASK]."], "uuid": 416}
+{"sub_label": "smokers", "obj_label": "smoke", "masked_sentences": ["Pot smokers must [MASK] pot in secret to avoid being arrested."], "uuid": 417}
+{"sub_label": "spot", "obj_label": "run", "masked_sentences": ["See spot [MASK]. ."], "uuid": 418}
+{"sub_label": "spy", "obj_label": "information", "masked_sentences": ["A spy would be interested in important [MASK]."], "uuid": 419}
+{"sub_label": "squirrel", "obj_label": "nuts", "masked_sentences": ["Squirrel is eats [MASK]."], "uuid": 420}
+{"sub_label": "stacey", "obj_label": "sex", "masked_sentences": ["Stacey needs [MASK]."], "uuid": 421}
+{"sub_label": "steve", "obj_label": "sex", "masked_sentences": ["Steve needs [MASK]."], "uuid": 422}
+{"sub_label": "steven", "obj_label": "sex", "masked_sentences": ["Steven needs [MASK]."], "uuid": 423}
+{"sub_label": "students", "obj_label": "learn", "masked_sentences": ["To understand the event \"Jane taught a class on boating.\", it is important to know that Students [MASK] from teachers."], "uuid": 424}
+{"sub_label": "sun", "obj_label": "shine", "masked_sentences": ["Sunshine is [MASK] sun."], "uuid": 425}
+{"sub_label": "teacher", "obj_label": "attention", "masked_sentences": ["A teacher wants [MASK]."], "uuid": 426}
+{"sub_label": "teacher", "obj_label": "vacation", "masked_sentences": ["A teacher wants a [MASK]."], "uuid": 427}
+{"sub_label": "terrier", "obj_label": "dig", "masked_sentences": ["A terrier wants to [MASK]."], "uuid": 428}
+{"sub_label": "terrorist", "obj_label": "violence", "masked_sentences": ["Terrorist wants to [MASK]."], "uuid": 429}
+{"sub_label": "terry", "obj_label": "sex", "masked_sentences": ["Terry wants [MASK]."], "uuid": 430}
+{"sub_label": "thoroughbred", "obj_label": "run", "masked_sentences": ["A thoroughbred wants to [MASK]."], "uuid": 431}
+{"sub_label": "tree", "obj_label": "sunshine", "masked_sentences": ["A tree can enjoy the [MASK]."], "uuid": 432}
+{"sub_label": "tree", "obj_label": "water", "masked_sentences": ["To understand the event \"The tree grew fruit.\", it is important to know that Trees need [MASK] and sun to grow."], "uuid": 433}
+{"sub_label": "universe", "obj_label": "mess", "masked_sentences": ["The universe can wants to be a [MASK]."], "uuid": 434}
+{"sub_label": "victim", "obj_label": "closure", "masked_sentences": ["A victim wants [MASK]."], "uuid": 435}
+{"sub_label": "virus", "obj_label": "live", "masked_sentences": ["A virus wants to [MASK]."], "uuid": 436}
+{"sub_label": "we", "obj_label": "camp", "masked_sentences": ["We like to [MASK]."], "uuid": 437}
+{"sub_label": "willy", "obj_label": "sex", "masked_sentences": ["Willy needs [MASK]."], "uuid": 438}
+{"sub_label": "world", "obj_label": "cheated", "masked_sentences": ["The world wants to be [MASK], so cheat."], "uuid": 439}

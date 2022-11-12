@@ -1,0 +1,657 @@
+{"sub_label": "abdomen", "obj_label": "organs", "masked_sentences": ["The abdomen contains [MASK]."], "uuid": 0}
+{"sub_label": "accordian", "obj_label": "straps", "masked_sentences": ["An accordian has [MASK]."], "uuid": 1}
+{"sub_label": "accordion", "obj_label": "keyboard", "masked_sentences": ["An accordion has a [MASK]."], "uuid": 2}
+{"sub_label": "account", "obj_label": "dollars", "masked_sentences": ["Charge is the reduction of [MASK] from an account."], "uuid": 3}
+{"sub_label": "acorn", "obj_label": "seeds", "masked_sentences": ["An acorn has [MASK]."], "uuid": 4}
+{"sub_label": "actions", "obj_label": "consequences", "masked_sentences": ["Humans can perceive the [MASK] of actions that are outside the range of human awareness."], "uuid": 5}
+{"sub_label": "aeroplanes", "obj_label": "seats", "masked_sentences": ["Aeroplanes have [MASK]."], "uuid": 6}
+{"sub_label": "air", "obj_label": "oxygen", "masked_sentences": ["Air is made of [MASK] and nitrogen."], "uuid": 7}
+{"sub_label": "air", "obj_label": "pressure", "masked_sentences": ["Air [MASK] is greatest at sea level."], "uuid": 8}
+{"sub_label": "airplane", "obj_label": "wheels", "masked_sentences": ["An airplane has [MASK] because it must slow down on the ground before coming to a stop."], "uuid": 9}
+{"sub_label": "airplanes", "obj_label": "wings", "masked_sentences": ["Airplanes have [MASK]."], "uuid": 10}
+{"sub_label": "airports", "obj_label": "runways", "masked_sentences": ["To understand the event \"Sand blew across the runway.  Dhahran airport was in the Arabian desert.\", it is important to know that Airports have [MASK] from which airplanes take off and upon which they land."], "uuid": 11}
+{"sub_label": "airports", "obj_label": "windows", "masked_sentences": ["Airports have [MASK]."], "uuid": 12}
+{"sub_label": "alabama", "obj_label": "beaches", "masked_sentences": ["Alabama has [MASK]."], "uuid": 13}
+{"sub_label": "album", "obj_label": "songs", "masked_sentences": ["An album can contains [MASK]."], "uuid": 14}
+{"sub_label": "alexa", "obj_label": "kids", "masked_sentences": ["Alexa has [MASK]."], "uuid": 15}
+{"sub_label": "america", "obj_label": "beaches", "masked_sentences": ["America has [MASK]."], "uuid": 16}
+{"sub_label": "anatoly", "obj_label": "kids", "masked_sentences": ["Anatoly has [MASK]."], "uuid": 17}
+{"sub_label": "andrew", "obj_label": "kids", "masked_sentences": ["Andrew has [MASK]."], "uuid": 18}
+{"sub_label": "angels", "obj_label": "wings", "masked_sentences": ["Angels have [MASK]."], "uuid": 19}
+{"sub_label": "animal", "obj_label": "meat", "masked_sentences": ["[MASK] is the flesh of an animal."], "uuid": 20}
+{"sub_label": "animals", "obj_label": "babies", "masked_sentences": ["Very young animals are called [MASK]."], "uuid": 21}
+{"sub_label": "animals", "obj_label": "bodies", "masked_sentences": ["Animals have [MASK]."], "uuid": 22}
+{"sub_label": "animals", "obj_label": "bones", "masked_sentences": ["The statement \"Exercise is important to keep muscles and [MASK] strong, especially in the elderly.\" is true because Humans are animals. Animal's bodies are weak."], "uuid": 23}
+{"sub_label": "animals", "obj_label": "ears", "masked_sentences": ["To understand the event \"When the music started Eric danced across the room.\", it is important to know that [MASK] are found in most animals, including humans."], "uuid": 24}
+{"sub_label": "animals", "obj_label": "emotions", "masked_sentences": ["[MASK] can evolved to aid the survival of animals in a dangerous world."], "uuid": 25}
+{"sub_label": "animals", "obj_label": "eyes", "masked_sentences": ["Most animals have [MASK]."], "uuid": 26}
+{"sub_label": "animals", "obj_label": "feelings", "masked_sentences": ["Another way to say \"animals have [MASK] similar to humans\" is \"animal emotions are similar to human emotions\"."], "uuid": 27}
+{"sub_label": "animals", "obj_label": "fur", "masked_sentences": ["Carpets can be done from animals [MASK]."], "uuid": 28}
+{"sub_label": "animals", "obj_label": "muscles", "masked_sentences": ["The statement \"Exercise is important to keep [MASK] and bones strong, especially in the elderly.\" is true because Humans are animals. Animal's bodies are weak."], "uuid": 29}
+{"sub_label": "animals", "obj_label": "tail", "masked_sentences": ["A [MASK] is a fifth appendage on some animals to help with balance."], "uuid": 30}
+{"sub_label": "animals", "obj_label": "tails", "masked_sentences": ["Some animals have [MASK]."], "uuid": 31}
+{"sub_label": "apartment", "obj_label": "door", "masked_sentences": ["In the event \"Teresa did not clean the apartment.\", something that changed was There was a knock on the [MASK]."], "uuid": 32}
+{"sub_label": "apartment", "obj_label": "kitchen", "masked_sentences": ["A Kitchenette is a small [MASK] in a hotel room or small apartment."], "uuid": 33}
+{"sub_label": "apple", "obj_label": "core", "masked_sentences": ["Apple is a type of has [MASK]."], "uuid": 34}
+{"sub_label": "apple", "obj_label": "seeds", "masked_sentences": ["An apple can contains [MASK]."], "uuid": 35}
+{"sub_label": "apple", "obj_label": "skin", "masked_sentences": ["Apple is a type of red [MASK]."], "uuid": 36}
+{"sub_label": "apples", "obj_label": "seeds", "masked_sentences": ["Apples have [MASK] inside them."], "uuid": 37}
+{"sub_label": "apples", "obj_label": "stems", "masked_sentences": ["[MASK] attach apples to the tree."], "uuid": 38}
+{"sub_label": "aquarium", "obj_label": "filter", "masked_sentences": ["The statement \"To understand the event \"Brian likes animals.  Brian has a turtle as a pet.\", it is important to know that Turtles are not rewarding pets for most people.\" is true because Turtles do not make good pets for most people as they tend to poop in their water alot and you need to clean the water and [MASK] more than fish or other inhabitants of a typical aquarium."], "uuid": 39}
+{"sub_label": "aquarium", "obj_label": "water", "masked_sentences": ["[MASK] can be found in an aquarium."], "uuid": 40}
+{"sub_label": "armchair", "obj_label": "back", "masked_sentences": ["An armchair has a [MASK]."], "uuid": 41}
+{"sub_label": "army", "obj_label": "soldiers", "masked_sentences": ["The army consists of [MASK]."], "uuid": 42}
+{"sub_label": "artichokes", "obj_label": "leaves", "masked_sentences": ["Artichokes have [MASK]."], "uuid": 43}
+{"sub_label": "asim", "obj_label": "kids", "masked_sentences": ["Asim has [MASK]."], "uuid": 44}
+{"sub_label": "atlas", "obj_label": "maps", "masked_sentences": ["A collection of [MASK] is a atlas."], "uuid": 45}
+{"sub_label": "atoms", "obj_label": "electrons", "masked_sentences": ["Atoms are made of [MASK], protons, and neutrons."], "uuid": 46}
+{"sub_label": "atoms", "obj_label": "mass", "masked_sentences": ["Atoms have [MASK]."], "uuid": 47}
+{"sub_label": "automobile", "obj_label": "trunk", "masked_sentences": ["Automobile has [MASK]."], "uuid": 48}
+{"sub_label": "avocado", "obj_label": "skin", "masked_sentences": ["Avocado has a [MASK]."], "uuid": 49}
+{"sub_label": "backyard", "obj_label": "grass", "masked_sentences": ["A backyard has [MASK]."], "uuid": 50}
+{"sub_label": "bananas", "obj_label": "potassium", "masked_sentences": ["Bananas have [MASK]."], "uuid": 51}
+{"sub_label": "banjo", "obj_label": "strings", "masked_sentences": ["A banjo may have four or five [MASK] ."], "uuid": 52}
+{"sub_label": "banks", "obj_label": "accounts", "masked_sentences": ["The statement \"Some banks offer credit [MASK] with preapproved credit.\" is true because the bank  wants to loan money to people with good credit histories, because those people will probably pay the money back and the bank charges them interest besides."], "uuid": 53}
+{"sub_label": "banks", "obj_label": "branches", "masked_sentences": ["Banks have [MASK] in neighborhoods."], "uuid": 54}
+{"sub_label": "banks", "obj_label": "coins", "masked_sentences": ["Banks have [MASK]."], "uuid": 55}
+{"sub_label": "banks", "obj_label": "customers", "masked_sentences": ["[MASK] can borrow money from banks."], "uuid": 56}
+{"sub_label": "banks", "obj_label": "insurance", "masked_sentences": ["Banks have [MASK]."], "uuid": 57}
+{"sub_label": "banks", "obj_label": "officers", "masked_sentences": ["Bank [MASK] in private trading banks in Western Australia formed a union in 1920."], "uuid": 58}
+{"sub_label": "bars", "obj_label": "customers", "masked_sentences": ["Bars have [MASK]."], "uuid": 59}
+{"sub_label": "basin", "obj_label": "water", "masked_sentences": ["A basin can contains [MASK]."], "uuid": 60}
+{"sub_label": "bat", "obj_label": "wings", "masked_sentences": ["Muscles move a bat's [MASK]."], "uuid": 61}
+{"sub_label": "bathrooms", "obj_label": "sinks", "masked_sentences": ["Bathrooms have [MASK]."], "uuid": 62}
+{"sub_label": "bats", "obj_label": "eyes", "masked_sentences": ["Bats have [MASK]."], "uuid": 63}
+{"sub_label": "bats", "obj_label": "wings", "masked_sentences": ["An example of convergent evolution are the [MASK] of insects, birds and bats."], "uuid": 64}
+{"sub_label": "bear", "obj_label": "claws", "masked_sentences": ["A bear has [MASK]."], "uuid": 65}
+{"sub_label": "bear", "obj_label": "snout", "masked_sentences": ["A bear has a [MASK]."], "uuid": 66}
+{"sub_label": "bears", "obj_label": "fur", "masked_sentences": ["Another way to say \"polar bears are white\" is \"a polar bear is covered with white [MASK].\"."], "uuid": 67}
+{"sub_label": "bed", "obj_label": "mattress", "masked_sentences": ["[MASK] is part of bed."], "uuid": 68}
+{"sub_label": "bedroom", "obj_label": "chairs", "masked_sentences": ["A bedroom contains [MASK]."], "uuid": 69}
+{"sub_label": "bedroom", "obj_label": "floor", "masked_sentences": ["Similarity between a [MASK] and a linen chest: they are both found in a bedroom."], "uuid": 70}
+{"sub_label": "beds", "obj_label": "springs", "masked_sentences": ["Beds contains [MASK]."], "uuid": 71}
+{"sub_label": "beer", "obj_label": "water", "masked_sentences": ["Situation: He adulterated the beer with [MASK]."], "uuid": 72}
+{"sub_label": "belinda", "obj_label": "cold", "masked_sentences": ["Belinda has a [MASK]."], "uuid": 73}
+{"sub_label": "berries", "obj_label": "seeds", "masked_sentences": ["The statement \"Tomatoes are a fruit, because their [MASK] are inside them.\" is true because Because tomatoes are actually berries, which are a subset of fruits."], "uuid": 74}
+{"sub_label": "bicycle", "obj_label": "chain", "masked_sentences": ["Picture description: I see a bicycle.  It is a \"mountain bike\".  Its frame and seat are red.  It has two wheels.  It has pedals.  A [MASK] goes from the pedals to the rear wheel. ."], "uuid": 75}
+{"sub_label": "bicycles", "obj_label": "seats", "masked_sentences": ["Bicycles have [MASK]."], "uuid": 76}
+{"sub_label": "bicycles", "obj_label": "wheels", "masked_sentences": ["To understand the event \"Eric rode a bike on a path.\", it is important to know that Bicycles have two [MASK]."], "uuid": 77}
+{"sub_label": "bill", "obj_label": "numbers", "masked_sentences": ["A bill contains [MASK]."], "uuid": 78}
+{"sub_label": "bird", "obj_label": "feathers", "masked_sentences": ["Picture description: Colibri, small exotic bird, famous for its rapid wings and beautiful colored [MASK]."], "uuid": 79}
+{"sub_label": "bird", "obj_label": "wings", "masked_sentences": ["The statement \"Things that are often found together are: flying, [MASK], bird, beak, eye\" is true because these all belong to birds."], "uuid": 80}
+{"sub_label": "birds", "obj_label": "bills", "masked_sentences": ["Some birds have [MASK]."], "uuid": 81}
+{"sub_label": "birds", "obj_label": "eggs", "masked_sentences": ["Picture description: A birds nest with three [MASK] in it."], "uuid": 82}
+{"sub_label": "birds", "obj_label": "eyes", "masked_sentences": ["The statement \"People do not see things far away as well as birds see things far away.\" is true because Bird [MASK] have evolved to see movement at a greater distance than humans."], "uuid": 83}
+{"sub_label": "birds", "obj_label": "feathers", "masked_sentences": ["Another way to say \"a feather is for helping birds fly.\" is \"winged creatures need [MASK] for lift.\"."], "uuid": 84}
+{"sub_label": "birds", "obj_label": "tails", "masked_sentences": ["Many birds have [MASK]."], "uuid": 85}
+{"sub_label": "birds", "obj_label": "wings", "masked_sentences": ["The statement \"Things that are often found together are: flying, [MASK], bird, beak, eye\" is true because these all belong to birds."], "uuid": 86}
+{"sub_label": "blood", "obj_label": "proteins", "masked_sentences": ["The fact that humans and chimps have the exact same hemoglobin [MASK] in their blood is strong evidence for human evolution."], "uuid": 87}
+{"sub_label": "blood", "obj_label": "water", "masked_sentences": ["When the blood has too much [MASK] and too little sodium, the brain swells and pushes against the skull."], "uuid": 88}
+{"sub_label": "boat", "obj_label": "sails", "masked_sentences": ["The fact \"a mast is part of a sailboat\" is illustrated with the story:1. I met a man named Bill.2. He lived by the ocean and owned a sailboat.3. We took a trip on it.4. He taught me all about the boat and its parts.5. The mast is my favorite part since it holds up the [MASK]."], "uuid": 89}
+{"sub_label": "boats", "obj_label": "motors", "masked_sentences": ["Not all boats have [MASK]."], "uuid": 90}
+{"sub_label": "bob", "obj_label": "kids", "masked_sentences": ["Bob took his [MASK] to the zoo."], "uuid": 91}
+{"sub_label": "bodies", "obj_label": "bones", "masked_sentences": ["The statement \"We have lots of [MASK] in our bodies\" is true because each bone serves a specific function in our anatomy."], "uuid": 92}
+{"sub_label": "bodies", "obj_label": "organs", "masked_sentences": ["Bodies have [MASK]."], "uuid": 93}
+{"sub_label": "bodies", "obj_label": "tissue", "masked_sentences": ["Muscle is a [MASK] type found in the bodies of animals  ."], "uuid": 94}
+{"sub_label": "book", "obj_label": "cover", "masked_sentences": ["[MASK] is book outside."], "uuid": 95}
+{"sub_label": "book", "obj_label": "knowledge", "masked_sentences": ["Reading a book is for entertainment and [MASK]."], "uuid": 96}
+{"sub_label": "book", "obj_label": "pages", "masked_sentences": ["To understand the event \"Jill wrote a book about monsters.\", it is important to know that Books contain [MASK] of words and pictures."], "uuid": 97}
+{"sub_label": "book", "obj_label": "past", "masked_sentences": ["You would read a book because you want to understand the thoughts of [MASK] great people."], "uuid": 98}
+{"sub_label": "book", "obj_label": "story", "masked_sentences": ["[MASK] is not book."], "uuid": 99}
+{"sub_label": "books", "obj_label": "index", "masked_sentences": ["You can use a card catalog to lookup a books [MASK] umber."], "uuid": 100}
+{"sub_label": "books", "obj_label": "pages", "masked_sentences": ["To understand the event \"Jill wrote a book about monsters.\", it is important to know that Books contain [MASK] of words and pictures."], "uuid": 101}
+{"sub_label": "books", "obj_label": "sentences", "masked_sentences": ["Word is typically in [MASK] books."], "uuid": 102}
+{"sub_label": "books", "obj_label": "stories", "masked_sentences": ["To understand the event \"Jill wrote a book about children.\", it is important to know that Books are [MASK] or factual."], "uuid": 103}
+{"sub_label": "booth", "obj_label": "door", "masked_sentences": ["A booth has a [MASK]."], "uuid": 104}
+{"sub_label": "both", "obj_label": "shells", "masked_sentences": ["They both have [MASK]."], "uuid": 105}
+{"sub_label": "bottle", "obj_label": "liquid", "masked_sentences": ["The statement \"A bottle is a container for [MASK]\" is true because because containers have an internal volume and an opening on one end."], "uuid": 106}
+{"sub_label": "bread", "obj_label": "crust", "masked_sentences": ["[MASK] can refer to the outer edge of baked bread or the shell of a pie."], "uuid": 107}
+{"sub_label": "bread", "obj_label": "yeast", "masked_sentences": ["Making bread requires flour, [MASK], water and an oven."], "uuid": 108}
+{"sub_label": "brian", "obj_label": "kids", "masked_sentences": ["Brian has [MASK]."], "uuid": 109}
+{"sub_label": "britain", "obj_label": "monarchy", "masked_sentences": ["Britain has [MASK]."], "uuid": 110}
+{"sub_label": "building", "obj_label": "foundation", "masked_sentences": ["A building can needs a [MASK]."], "uuid": 111}
+{"sub_label": "buildings", "obj_label": "windows", "masked_sentences": ["Buildings usually have many [MASK]."], "uuid": 112}
+{"sub_label": "bulls", "obj_label": "horns", "masked_sentences": ["Bulls have [MASK]."], "uuid": 113}
+{"sub_label": "bus", "obj_label": "windows", "masked_sentences": ["Something you find in a bus is [MASK]."], "uuid": 114}
+{"sub_label": "butterflies", "obj_label": "wings", "masked_sentences": ["To understand the event \"The butterfly landed on the flower.\", it is important to know that Butterflies have [MASK]."], "uuid": 115}
+{"sub_label": "butterfly", "obj_label": "wings", "masked_sentences": ["To understand the event \"The catepillar turned into a butterfly.\", it is important to know that catepillars do not have [MASK]."], "uuid": 116}
+{"sub_label": "cabinets", "obj_label": "doors", "masked_sentences": ["Cabinets usually have [MASK]."], "uuid": 117}
+{"sub_label": "calculator", "obj_label": "buttons", "masked_sentences": ["A calculator has [MASK]."], "uuid": 118}
+{"sub_label": "california", "obj_label": "beaches", "masked_sentences": ["California is famous for its sunny sandy [MASK]."], "uuid": 119}
+{"sub_label": "camera", "obj_label": "flash", "masked_sentences": ["[MASK] is camera bulb."], "uuid": 120}
+{"sub_label": "cameras", "obj_label": "lens", "masked_sentences": ["Most cameras have a [MASK] ."], "uuid": 121}
+{"sub_label": "cameras", "obj_label": "lenses", "masked_sentences": ["Cameras have [MASK]."], "uuid": 122}
+{"sub_label": "canal", "obj_label": "water", "masked_sentences": ["Canal is typically near [MASK]."], "uuid": 123}
+{"sub_label": "car", "obj_label": "engine", "masked_sentences": ["To understand the event \"The car broke down.\", it is important to know that It was probably something in the [MASK] that broke."], "uuid": 124}
+{"sub_label": "car", "obj_label": "filter", "masked_sentences": ["A car contains a [MASK]."], "uuid": 125}
+{"sub_label": "car", "obj_label": "horn", "masked_sentences": ["[MASK] is a type of car thing."], "uuid": 126}
+{"sub_label": "car", "obj_label": "roof", "masked_sentences": ["Situation: I hear the rain drops tapping the [MASK] of my car."], "uuid": 127}
+{"sub_label": "car", "obj_label": "seat", "masked_sentences": ["Another way to say \"You are likely to find a [MASK] in a car\" is \"most   cars have seats\"."], "uuid": 128}
+{"sub_label": "car", "obj_label": "seats", "masked_sentences": ["Picture description: car [MASK]."], "uuid": 129}
+{"sub_label": "car", "obj_label": "tires", "masked_sentences": ["Driving a car requires [MASK]."], "uuid": 130}
+{"sub_label": "car", "obj_label": "wheels", "masked_sentences": ["Something you might do while washing your car is cleaning the [MASK]."], "uuid": 131}
+{"sub_label": "car", "obj_label": "windows", "masked_sentences": ["If you want to take the car for a drive then you should buy gas and wash the [MASK]."], "uuid": 132}
+{"sub_label": "carrie", "obj_label": "kids", "masked_sentences": ["Carrie has [MASK]."], "uuid": 133}
+{"sub_label": "cars", "obj_label": "bumper", "masked_sentences": ["To understand the event \"While driving to work Tony ran out of gas.  Tony had to walk to work.\", it is important to know that He kicked the cars [MASK] and blamed the car for running out of gas."], "uuid": 134}
+{"sub_label": "cars", "obj_label": "doors", "masked_sentences": ["To understand the event \"Joe walked to his car.  Joe opened the door.\", it is important to know that Cars have [MASK]."], "uuid": 135}
+{"sub_label": "cars", "obj_label": "engine", "masked_sentences": ["The last thing you do when you drive to work is turn off cars [MASK]."], "uuid": 136}
+{"sub_label": "cars", "obj_label": "radios", "masked_sentences": ["Cars have [MASK]."], "uuid": 137}
+{"sub_label": "cars", "obj_label": "seats", "masked_sentences": ["Another way to say \"You are likely to find a seat in a car\" is \"most   cars have [MASK]\"."], "uuid": 138}
+{"sub_label": "cars", "obj_label": "stripes", "masked_sentences": ["Some cars have [MASK]."], "uuid": 139}
+{"sub_label": "cars", "obj_label": "trunks", "masked_sentences": ["Smaller cars have smaller baggage [MASK]."], "uuid": 140}
+{"sub_label": "cars", "obj_label": "wheels", "masked_sentences": ["Cars ususally have 4 [MASK]."], "uuid": 141}
+{"sub_label": "cars", "obj_label": "windows", "masked_sentences": ["Dogs can stick their heads out of the [MASK] of cars to smell the air."], "uuid": 142}
+{"sub_label": "cat", "obj_label": "claws", "masked_sentences": ["To understand the event \"The cat fell on his head.\", it is important to know that Cats have [MASK] on their feet."], "uuid": 143}
+{"sub_label": "cat", "obj_label": "eyes", "masked_sentences": ["A cat has [MASK]."], "uuid": 144}
+{"sub_label": "cat", "obj_label": "hair", "masked_sentences": ["Almost any fiber, including cat [MASK], can be rolled to form yarn."], "uuid": 145}
+{"sub_label": "cat", "obj_label": "nose", "masked_sentences": ["A cat has a [MASK]."], "uuid": 146}
+{"sub_label": "catfish", "obj_label": "mouth", "masked_sentences": ["A catfish has a [MASK]."], "uuid": 147}
+{"sub_label": "cats", "obj_label": "bones", "masked_sentences": ["Cats have [MASK]."], "uuid": 148}
+{"sub_label": "cats", "obj_label": "claws", "masked_sentences": ["To understand the event \"The cat fell on his head.\", it is important to know that Cats have [MASK] on their feet."], "uuid": 149}
+{"sub_label": "cats", "obj_label": "eyes", "masked_sentences": ["To understand the event \"The cat sleeps on the table.\", it is important to know that Cats close their [MASK] when they sleep."], "uuid": 150}
+{"sub_label": "cats", "obj_label": "fur", "masked_sentences": ["To understand the event \"The cat fell on his head.\", it is important to know that Cats have [MASK]."], "uuid": 151}
+{"sub_label": "cats", "obj_label": "hair", "masked_sentences": ["Situation: I am brushing my cats [MASK]."], "uuid": 152}
+{"sub_label": "cats", "obj_label": "muscles", "masked_sentences": ["Cats has [MASK]."], "uuid": 153}
+{"sub_label": "cats", "obj_label": "penis", "masked_sentences": ["Cats has a [MASK]."], "uuid": 154}
+{"sub_label": "cd", "obj_label": "music", "masked_sentences": ["The statement \"a person doesn't want to listen to bad [MASK]\" helps answer the question \"Why do people spend time looking through so many CD's in a record store when they could buy the first they lay their hands on, they all look pretty much the same?\"."], "uuid": 155}
+{"sub_label": "chain", "obj_label": "links", "masked_sentences": ["A fast food chain does not have [MASK]."], "uuid": 156}
+{"sub_label": "chair", "obj_label": "legs", "masked_sentences": ["A typical chair has four [MASK]."], "uuid": 157}
+{"sub_label": "champagne", "obj_label": "bubbles", "masked_sentences": ["Champagne contains [MASK]."], "uuid": 158}
+{"sub_label": "change", "obj_label": "cost", "masked_sentences": ["Change has a [MASK]."], "uuid": 159}
+{"sub_label": "charles", "obj_label": "kids", "masked_sentences": ["Charles has [MASK]."], "uuid": 160}
+{"sub_label": "charles", "obj_label": "money", "masked_sentences": ["Charles has [MASK]."], "uuid": 161}
+{"sub_label": "chase", "obj_label": "kids", "masked_sentences": ["Chase has [MASK]."], "uuid": 162}
+{"sub_label": "checkbook", "obj_label": "checks", "masked_sentences": ["With [MASK] from your checkbook, one can get money from her bank account."], "uuid": 163}
+{"sub_label": "cheese", "obj_label": "flavor", "masked_sentences": ["You can use cheese to enhance the [MASK] of a hot dog."], "uuid": 164}
+{"sub_label": "cheeses", "obj_label": "holes", "masked_sentences": ["Some cheeses have [MASK]."], "uuid": 165}
+{"sub_label": "chickens", "obj_label": "feathers", "masked_sentences": ["I don't like eating chickens with [MASK]."], "uuid": 166}
+{"sub_label": "chickens", "obj_label": "feet", "masked_sentences": ["Chickens can fly only a few [MASK]."], "uuid": 167}
+{"sub_label": "chiffonier", "obj_label": "drawers", "masked_sentences": ["A chiffonier has [MASK]."], "uuid": 168}
+{"sub_label": "childs", "obj_label": "parents", "masked_sentences": ["[MASK] does not want  their childs to be stupid."], "uuid": 169}
+{"sub_label": "chuck", "obj_label": "kids", "masked_sentences": ["Chuck has [MASK]."], "uuid": 170}
+{"sub_label": "church", "obj_label": "windows", "masked_sentences": ["A church has [MASK]."], "uuid": 171}
+{"sub_label": "churchyards", "obj_label": "cemeteries", "masked_sentences": ["Some churchyards have [MASK]."], "uuid": 172}
+{"sub_label": "cigarette", "obj_label": "poison", "masked_sentences": ["A cigarette contains [MASK]."], "uuid": 173}
+{"sub_label": "cigarretts", "obj_label": "tobacco", "masked_sentences": ["Cigarretts have [MASK]."], "uuid": 174}
+{"sub_label": "classroom", "obj_label": "floor", "masked_sentences": ["A classroom has a [MASK]."], "uuid": 175}
+{"sub_label": "clint", "obj_label": "kids", "masked_sentences": ["Clint has [MASK]."], "uuid": 176}
+{"sub_label": "clock", "obj_label": "face", "masked_sentences": ["[MASK] is clock front."], "uuid": 177}
+{"sub_label": "coconuts", "obj_label": "milk", "masked_sentences": ["Coconuts have [MASK]."], "uuid": 178}
+{"sub_label": "comets", "obj_label": "ice", "masked_sentences": ["Comets have [MASK]."], "uuid": 179}
+{"sub_label": "company", "obj_label": "assets", "masked_sentences": ["A company has [MASK]."], "uuid": 180}
+{"sub_label": "company", "obj_label": "earnings", "masked_sentences": ["A company tries to increase its [MASK]."], "uuid": 181}
+{"sub_label": "composers", "obj_label": "friends", "masked_sentences": ["Composers have [MASK]."], "uuid": 182}
+{"sub_label": "computer", "obj_label": "keyboard", "masked_sentences": ["A piano and a computer have a [MASK] in common."], "uuid": 183}
+{"sub_label": "computer", "obj_label": "monitor", "masked_sentences": ["Situation: I am looking at my computer [MASK]."], "uuid": 184}
+{"sub_label": "computer", "obj_label": "mouse", "masked_sentences": ["Something you might do while using a computer is click a [MASK]."], "uuid": 185}
+{"sub_label": "computer", "obj_label": "software", "masked_sentences": ["A computer contains [MASK]."], "uuid": 186}
+{"sub_label": "computers", "obj_label": "keyboards", "masked_sentences": ["Monitors, computermice, and [MASK] are used by humans for communicating with computers."], "uuid": 187}
+{"sub_label": "computers", "obj_label": "monitors", "masked_sentences": ["A firewall [MASK] communications between your computer and other computers on the Internet."], "uuid": 188}
+{"sub_label": "congressman", "obj_label": "vote", "masked_sentences": ["A congressman has a [MASK]."], "uuid": 189}
+{"sub_label": "connie", "obj_label": "kids", "masked_sentences": ["Connie has [MASK]."], "uuid": 190}
+{"sub_label": "continent", "obj_label": "name", "masked_sentences": ["The statement \"India is a country in Asia.\" is true because someone gave the [MASK] india to a location on the asian continent."], "uuid": 191}
+{"sub_label": "continents", "obj_label": "beaches", "masked_sentences": ["Continents have [MASK]."], "uuid": 192}
+{"sub_label": "countries", "obj_label": "borders", "masked_sentences": ["Countries have [MASK]."], "uuid": 193}
+{"sub_label": "countries", "obj_label": "governments", "masked_sentences": ["The statement \"In most countries the citizens have to pay taxes on their income.\" is true because [MASK] run on peoples tax returns."], "uuid": 194}
+{"sub_label": "countries", "obj_label": "populations", "masked_sentences": ["Religious obsessions are common OCD symptoms in countries with large Muslim and Jewish [MASK]."], "uuid": 195}
+{"sub_label": "country", "obj_label": "borders", "masked_sentences": ["Country has [MASK]."], "uuid": 196}
+{"sub_label": "country", "obj_label": "inhabitants", "masked_sentences": ["Population is country [MASK]."], "uuid": 197}
+{"sub_label": "courthouse", "obj_label": "rooms", "masked_sentences": ["A courthouse has [MASK]."], "uuid": 198}
+{"sub_label": "cream", "obj_label": "taste", "masked_sentences": ["You would eat ice cream because you like the [MASK]."], "uuid": 199}
+{"sub_label": "crystals", "obj_label": "symmetry", "masked_sentences": ["Crystals have [MASK]."], "uuid": 200}
+{"sub_label": "cuba", "obj_label": "beaches", "masked_sentences": ["Cuba has [MASK]."], "uuid": 201}
+{"sub_label": "cup", "obj_label": "liquid", "masked_sentences": ["A cup can be used for putting a [MASK] in before you drink it."], "uuid": 202}
+{"sub_label": "danny", "obj_label": "kids", "masked_sentences": ["Danny has [MASK]."], "uuid": 203}
+{"sub_label": "dave", "obj_label": "date", "masked_sentences": ["To understand the event \"Dave drank a glass of milk.\", it is important to know that Milk has an expiration [MASK]--it goes sour."], "uuid": 204}
+{"sub_label": "debbie", "obj_label": "kids", "masked_sentences": ["Debbie has [MASK]."], "uuid": 205}
+{"sub_label": "decisions", "obj_label": "consequences", "masked_sentences": ["Decisions have [MASK]."], "uuid": 206}
+{"sub_label": "deer", "obj_label": "head", "masked_sentences": ["A deer has a [MASK]."], "uuid": 207}
+{"sub_label": "destinations", "obj_label": "popularity", "masked_sentences": ["Some destinations have [MASK]."], "uuid": 208}
+{"sub_label": "diary", "obj_label": "appointments", "masked_sentences": ["A diary contains [MASK]."], "uuid": 209}
+{"sub_label": "doctors", "obj_label": "study", "masked_sentences": ["Doctors have to [MASK] ."], "uuid": 210}
+{"sub_label": "dog", "obj_label": "brains", "masked_sentences": ["A dog has [MASK]."], "uuid": 211}
+{"sub_label": "dog", "obj_label": "fur", "masked_sentences": ["Flea is related to dog [MASK]."], "uuid": 212}
+{"sub_label": "dog", "obj_label": "nose", "masked_sentences": ["Dog has wet [MASK]."], "uuid": 213}
+{"sub_label": "dog", "obj_label": "penis", "masked_sentences": ["A dog is not a kind of [MASK]."], "uuid": 214}
+{"sub_label": "dog", "obj_label": "teeth", "masked_sentences": ["Dog has [MASK]."], "uuid": 215}
+{"sub_label": "dogs", "obj_label": "bones", "masked_sentences": ["Dogs like chewing on [MASK]."], "uuid": 216}
+{"sub_label": "dogs", "obj_label": "claws", "masked_sentences": ["Dogs have [MASK]."], "uuid": 217}
+{"sub_label": "dogs", "obj_label": "ears", "masked_sentences": ["Dogs can have pointed [MASK]."], "uuid": 218}
+{"sub_label": "dogs", "obj_label": "fur", "masked_sentences": ["Flea is typically near dogs [MASK]."], "uuid": 219}
+{"sub_label": "dogs", "obj_label": "tail", "masked_sentences": ["Situation: Dogs have four legs and a [MASK]."], "uuid": 220}
+{"sub_label": "dogs", "obj_label": "tails", "masked_sentences": ["Situation: Some dogs have been bred for stubbed [MASK]."], "uuid": 221}
+{"sub_label": "dogs", "obj_label": "teeth", "masked_sentences": ["Dogs have [MASK] strong enough to destroy many things."], "uuid": 222}
+{"sub_label": "dogs", "obj_label": "toys", "masked_sentences": ["Dogs can play with dog [MASK]."], "uuid": 223}
+{"sub_label": "doors", "obj_label": "arches", "masked_sentences": ["Some doors have [MASK]."], "uuid": 224}
+{"sub_label": "doors", "obj_label": "handles", "masked_sentences": ["Doors often have [MASK]."], "uuid": 225}
+{"sub_label": "dortmund", "obj_label": "airport", "masked_sentences": ["Dortmund has an [MASK]."], "uuid": 226}
+{"sub_label": "drawer", "obj_label": "clothing", "masked_sentences": ["You are likely to find [MASK] in the drawer."], "uuid": 227}
+{"sub_label": "duck", "obj_label": "feathers", "masked_sentences": ["[MASK] can be found on  duck."], "uuid": 228}
+{"sub_label": "ducks", "obj_label": "bill", "masked_sentences": ["Ducks have a [MASK]."], "uuid": 229}
+{"sub_label": "ducks", "obj_label": "bills", "masked_sentences": ["Ducks have [MASK]."], "uuid": 230}
+{"sub_label": "ducks", "obj_label": "bones", "masked_sentences": ["Ducks have [MASK]."], "uuid": 231}
+{"sub_label": "ducks", "obj_label": "feathers", "masked_sentences": ["Situation: Ducks have [MASK]."], "uuid": 232}
+{"sub_label": "dwain", "obj_label": "kids", "masked_sentences": ["Dwain has [MASK]."], "uuid": 233}
+{"sub_label": "eagle", "obj_label": "landed", "masked_sentences": ["The eagle has [MASK]."], "uuid": 234}
+{"sub_label": "earth", "obj_label": "atmosphere", "masked_sentences": ["The planet Mercury has minimal [MASK] as compared to the Earth."], "uuid": 235}
+{"sub_label": "earth", "obj_label": "gravity", "masked_sentences": ["[MASK] holds the Earth together."], "uuid": 236}
+{"sub_label": "earth", "obj_label": "surface", "masked_sentences": ["Something you find on the [MASK] of the earth is ice."], "uuid": 237}
+{"sub_label": "eggs", "obj_label": "shell", "masked_sentences": ["Chicken eggs have a hard [MASK]."], "uuid": 238}
+{"sub_label": "elephant", "obj_label": "nose", "masked_sentences": ["An elephant has a long [MASK] called \"trunk\"."], "uuid": 239}
+{"sub_label": "elephants", "obj_label": "trunks", "masked_sentences": ["Elephants [MASK] are used like vacuum cleaners."], "uuid": 240}
+{"sub_label": "elevator", "obj_label": "door", "masked_sentences": ["To understand the event \"Jeff rode the elevator down.\", it is important to know that Buttons are usually located left or right side of the [MASK]."], "uuid": 241}
+{"sub_label": "england", "obj_label": "beaches", "masked_sentences": ["England has [MASK]."], "uuid": 242}
+{"sub_label": "entities", "obj_label": "shape", "masked_sentences": ["Entities have [MASK]."], "uuid": 243}
+{"sub_label": "entryways", "obj_label": "steps", "masked_sentences": ["Some entryways have [MASK]."], "uuid": 244}
+{"sub_label": "envelope", "obj_label": "letter", "masked_sentences": ["To understand the event \"Jill sent a [MASK] to her mother.\", it is important to know that Jill probably put her mother's mailing address on the envelope."], "uuid": 245}
+{"sub_label": "everybody", "obj_label": "body", "masked_sentences": ["The statement \"Everybody will die.\" is true because The human [MASK] cannot last for ever."], "uuid": 246}
+{"sub_label": "everybody", "obj_label": "name", "masked_sentences": ["Not everybody [MASK] bill has blue eyes."], "uuid": 247}
+{"sub_label": "everyone", "obj_label": "body", "masked_sentences": ["To understand the event \"It was a windy day.  Everyone had to hold onto their hats.\", it is important to know that Hat is more likely to be blown as it is loosely held on the [MASK]."], "uuid": 248}
+{"sub_label": "everyone", "obj_label": "boss", "masked_sentences": ["My [MASK] can fire everyone."], "uuid": 249}
+{"sub_label": "everyone", "obj_label": "childhood", "masked_sentences": ["Everyone has a [MASK]."], "uuid": 250}
+{"sub_label": "everyone", "obj_label": "feelings", "masked_sentences": ["Everyone has [MASK]."], "uuid": 251}
+{"sub_label": "everyone", "obj_label": "name", "masked_sentences": ["[MASK] is for everyone."], "uuid": 252}
+{"sub_label": "everyone", "obj_label": "opinion", "masked_sentences": ["The statement \"Everyone has an [MASK]\" helps answer the question \"what makes it so difficuilt to find consens with others?\"."], "uuid": 253}
+{"sub_label": "everyone", "obj_label": "parents", "masked_sentences": ["Everyone has [MASK]."], "uuid": 254}
+{"sub_label": "everyone", "obj_label": "serve", "masked_sentences": ["The wedding cake is large enough to [MASK] everyone at the reception."], "uuid": 255}
+{"sub_label": "everyone", "obj_label": "standards", "masked_sentences": ["Everyone has different [MASK]."], "uuid": 256}
+{"sub_label": "everyone", "obj_label": "surname", "masked_sentences": ["Everyone has a [MASK]."], "uuid": 257}
+{"sub_label": "everyone", "obj_label": "values", "masked_sentences": ["Everyone has [MASK]."], "uuid": 258}
+{"sub_label": "everyone", "obj_label": "weakness", "masked_sentences": ["Everyone has a [MASK]."], "uuid": 259}
+{"sub_label": "everything", "obj_label": "name", "masked_sentences": ["Humans can [MASK] everything."], "uuid": 260}
+{"sub_label": "eye", "obj_label": "pupil", "masked_sentences": ["A [MASK] is part of an eye."], "uuid": 261}
+{"sub_label": "face", "obj_label": "nose", "masked_sentences": ["You are likely to find a [MASK] in a face."], "uuid": 262}
+{"sub_label": "fairies", "obj_label": "wings", "masked_sentences": ["Fairies have [MASK]."], "uuid": 263}
+{"sub_label": "family", "obj_label": "descendants", "masked_sentences": ["The fact \"Elizabeth II, Queen of England, Scotland, Ireland and Wales, is neither English, Scots, Irish nor Welsh.  She is German. \" is illustrated with the story:1. The royal line of Britain has been infused with the blood of royal families from many european countries2. Although Elizabeth II is German, her ancestors were closely related to the British Kings and Queens3. During the American Revolution, the British royal throne passed to the German side of the royal family4. The current royal family came to power as [MASK] of this German-born king5. His name was George."], "uuid": 264}
+{"sub_label": "fan", "obj_label": "blades", "masked_sentences": ["To understand the event \"The fan makes a noise when it runs.\", it is important to know that the [MASK] and motor are protected by housing and grill."], "uuid": 265}
+{"sub_label": "fence", "obj_label": "posts", "masked_sentences": ["A fence has [MASK]."], "uuid": 266}
+{"sub_label": "fiddle", "obj_label": "strings", "masked_sentences": ["Fiddle is [MASK]."], "uuid": 267}
+{"sub_label": "fights", "obj_label": "violence", "masked_sentences": ["Fights have [MASK]."], "uuid": 268}
+{"sub_label": "file", "obj_label": "information", "masked_sentences": ["A rotary file is for quick retrieval of [MASK]."], "uuid": 269}
+{"sub_label": "films", "obj_label": "duration", "masked_sentences": ["Films have a [MASK]."], "uuid": 270}
+{"sub_label": "fingers", "obj_label": "bones", "masked_sentences": ["Knuckle is [MASK] fingers."], "uuid": 271}
+{"sub_label": "fingers", "obj_label": "fingernails", "masked_sentences": ["Picture description: this is a nut on the left and a screw on the right, they are threaded together to hold stuff together. You need a screwdriver and/or a wrench to operate these unless you have strong [MASK] and small, hard fingers."], "uuid": 272}
+{"sub_label": "fionacat", "obj_label": "tail", "masked_sentences": ["Fionacat has a [MASK]."], "uuid": 273}
+{"sub_label": "fire", "obj_label": "temperature", "masked_sentences": ["To understand the event \"Kile and Donny were firefighters.  They burnt to death fighting a fire.\", it is important to know that High [MASK] kills living creatures."], "uuid": 274}
+{"sub_label": "fish", "obj_label": "bones", "masked_sentences": ["A stingray is a flat fish with cartilage instead of [MASK]."], "uuid": 275}
+{"sub_label": "fish", "obj_label": "fins", "masked_sentences": ["Fish is a type of [MASK] gills."], "uuid": 276}
+{"sub_label": "fish", "obj_label": "scales", "masked_sentences": ["Fish is a type of [MASK]."], "uuid": 277}
+{"sub_label": "fish", "obj_label": "tail", "masked_sentences": ["Fish has fins [MASK]."], "uuid": 278}
+{"sub_label": "fishmonger", "obj_label": "job", "masked_sentences": ["A fishmonger has a [MASK]."], "uuid": 279}
+{"sub_label": "flask", "obj_label": "liquid", "masked_sentences": ["Flask is a type of [MASK] container."], "uuid": 280}
+{"sub_label": "florida", "obj_label": "beaches", "masked_sentences": ["To understand the event \"Dan went to the beach in Florida.\", it is important to know that [MASK] are usually long and narrow shapes."], "uuid": 281}
+{"sub_label": "flowers", "obj_label": "pollen", "masked_sentences": ["[MASK] is in flowers."], "uuid": 282}
+{"sub_label": "fly", "obj_label": "wings", "masked_sentences": ["Fly is related to with [MASK]."], "uuid": 283}
+{"sub_label": "forests", "obj_label": "rivers", "masked_sentences": ["Some forests have [MASK]."], "uuid": 284}
+{"sub_label": "forrests", "obj_label": "trees", "masked_sentences": ["Forrests have [MASK]."], "uuid": 285}
+{"sub_label": "france", "obj_label": "beaches", "masked_sentences": ["France has [MASK]."], "uuid": 286}
+{"sub_label": "frogs", "obj_label": "bones", "masked_sentences": ["Frogs have [MASK]."], "uuid": 287}
+{"sub_label": "frogs", "obj_label": "knees", "masked_sentences": ["Frogs have [MASK]."], "uuid": 288}
+{"sub_label": "fruit", "obj_label": "seeds", "masked_sentences": ["To understand the event \"The tree grew fruit.\", it is important to know that Trees grow from [MASK]."], "uuid": 289}
+{"sub_label": "fruit", "obj_label": "sugar", "masked_sentences": ["Chutneys are usually made of fruit, onions, and raisins simmered with vinegar, brown [MASK] and spices."], "uuid": 290}
+{"sub_label": "fruit", "obj_label": "water", "masked_sentences": ["To understand the event \"The tree grew fruit.\", it is important to know that Trees need [MASK] and sun to grow."], "uuid": 291}
+{"sub_label": "games", "obj_label": "rules", "masked_sentences": ["The first thing you do when you play games is know the [MASK]."], "uuid": 292}
+{"sub_label": "garden", "obj_label": "flowers", "masked_sentences": ["Garden is has [MASK]."], "uuid": 293}
+{"sub_label": "garden", "obj_label": "lawn", "masked_sentences": ["The garden contains the [MASK]."], "uuid": 294}
+{"sub_label": "gas", "obj_label": "weight", "masked_sentences": ["The statement \"Another way to say \"Clouds float thruogh the sky\" is \"Clouds exist high above land and appear to float.\"\" is true because Clouds are gas state of water that has relatively same [MASK] as the surrounding air after a certain height."], "uuid": 295}
+{"sub_label": "gene", "obj_label": "kids", "masked_sentences": ["Gene has [MASK]."], "uuid": 296}
+{"sub_label": "georgia", "obj_label": "beaches", "masked_sentences": ["Georgia has [MASK]."], "uuid": 297}
+{"sub_label": "geta", "obj_label": "kids", "masked_sentences": ["Geta has [MASK]."], "uuid": 298}
+{"sub_label": "giants", "obj_label": "quarterback", "masked_sentences": ["The giants have a [MASK]."], "uuid": 299}
+{"sub_label": "giraffe", "obj_label": "nose", "masked_sentences": ["A giraffe has a [MASK]."], "uuid": 300}
+{"sub_label": "giraffes", "obj_label": "legs", "masked_sentences": ["Giraffes have [MASK]."], "uuid": 301}
+{"sub_label": "gold", "obj_label": "value", "masked_sentences": ["A dollar bill can has an imposed [MASK], and replaces older standards such as gold."], "uuid": 302}
+{"sub_label": "gordon", "obj_label": "kids", "masked_sentences": ["Gordon has [MASK]."], "uuid": 303}
+{"sub_label": "grass", "obj_label": "cut", "masked_sentences": ["I [MASK] the grass."], "uuid": 304}
+{"sub_label": "gravesite", "obj_label": "burial", "masked_sentences": ["A gravesite contains a [MASK]."], "uuid": 305}
+{"sub_label": "graveyard", "obj_label": "grave", "masked_sentences": ["The statement \"A graveyard has [MASK]\" helps answer the question \"what do graveyards have?\"."], "uuid": 306}
+{"sub_label": "hair", "obj_label": "roots", "masked_sentences": ["To understand the event \"Pricilla plucked her eyebrows to make herself appear sexier.\", it is important to know that Plucking is pulling a hair out by it's [MASK]."], "uuid": 307}
+{"sub_label": "hands", "obj_label": "fingers", "masked_sentences": ["Hands have [MASK]."], "uuid": 308}
+{"sub_label": "harbour", "obj_label": "boats", "masked_sentences": ["Picture description: [MASK] in a harbour."], "uuid": 309}
+{"sub_label": "harp", "obj_label": "strings", "masked_sentences": ["If you want to play a harp then you should pluck the [MASK]."], "uuid": 310}
+{"sub_label": "harry", "obj_label": "cold", "masked_sentences": ["Harry has a [MASK]. He is tossing violently."], "uuid": 311}
+{"sub_label": "harry", "obj_label": "kids", "masked_sentences": ["Harry has [MASK]."], "uuid": 312}
+{"sub_label": "head", "obj_label": "teeth", "masked_sentences": ["A toothbrush head is for cleaning [MASK]."], "uuid": 313}
+{"sub_label": "henry", "obj_label": "kids", "masked_sentences": ["Henry has [MASK]."], "uuid": 314}
+{"sub_label": "home", "obj_label": "bedrooms", "masked_sentences": ["Home has [MASK]."], "uuid": 315}
+{"sub_label": "homes", "obj_label": "bedrooms", "masked_sentences": ["Homes have [MASK]."], "uuid": 316}
+{"sub_label": "horse", "obj_label": "eyes", "masked_sentences": ["A horse has [MASK]."], "uuid": 317}
+{"sub_label": "hospitals", "obj_label": "patients", "masked_sentences": ["Urgent care is important in hospitals, [MASK] often come in need of imediate attention because of the severity of their injury."], "uuid": 318}
+{"sub_label": "hotel", "obj_label": "lobby", "masked_sentences": ["[MASK] is hotel entry."], "uuid": 319}
+{"sub_label": "house", "obj_label": "basement", "masked_sentences": ["You are likely to find a [MASK] in below your house."], "uuid": 320}
+{"sub_label": "house", "obj_label": "bathroom", "masked_sentences": ["You are likely to find a [MASK] with toilet in a house."], "uuid": 321}
+{"sub_label": "house", "obj_label": "door", "masked_sentences": ["You are likely to find a [MASK] on the house."], "uuid": 322}
+{"sub_label": "house", "obj_label": "doors", "masked_sentences": ["To understand the event \"Tim broke into Ned's house.\", it is important to know that For safety, Ned locks the his [MASK] and windows."], "uuid": 323}
+{"sub_label": "house", "obj_label": "floor", "masked_sentences": ["You are likely to find a [MASK] in a house."], "uuid": 324}
+{"sub_label": "house", "obj_label": "furniture", "masked_sentences": ["You are likely to find a [MASK] secretary in a house."], "uuid": 325}
+{"sub_label": "house", "obj_label": "kitchen", "masked_sentences": ["Something you find in a house is [MASK]."], "uuid": 326}
+{"sub_label": "house", "obj_label": "roof", "masked_sentences": ["[MASK] is house topping."], "uuid": 327}
+{"sub_label": "house", "obj_label": "windows", "masked_sentences": ["To understand the event \"Tim broke into Ned's house.\", it is important to know that For safety, Ned locks the his doors and [MASK]."], "uuid": 328}
+{"sub_label": "house", "obj_label": "yard", "masked_sentences": ["The entrance to a house often adjoins the front [MASK]."], "uuid": 329}
+{"sub_label": "houses", "obj_label": "bedrooms", "masked_sentences": ["[MASK] can be found inside houses."], "uuid": 330}
+{"sub_label": "houses", "obj_label": "doors", "masked_sentences": ["Telephones and [MASK] are both found in houses."], "uuid": 331}
+{"sub_label": "houses", "obj_label": "foundation", "masked_sentences": ["Houses have a [MASK]."], "uuid": 332}
+{"sub_label": "houses", "obj_label": "garden", "masked_sentences": ["[MASK] is behind houses."], "uuid": 333}
+{"sub_label": "houses", "obj_label": "pornography", "masked_sentences": ["Houses has [MASK]."], "uuid": 334}
+{"sub_label": "houses", "obj_label": "roofs", "masked_sentences": ["Things that are often found together are: houses, [MASK], tv antena."], "uuid": 335}
+{"sub_label": "houses", "obj_label": "walls", "masked_sentences": ["Houses have a layer of insulation behind their inner [MASK]."], "uuid": 336}
+{"sub_label": "human", "obj_label": "muscles", "masked_sentences": ["When the oxygen supply in a drowning human's body is consumed, his [MASK] stop working."], "uuid": 337}
+{"sub_label": "humans", "obj_label": "bodies", "masked_sentences": ["Another way to say \"humans are different shapes\" is \"human [MASK] can be many shapes\"."], "uuid": 338}
+{"sub_label": "humans", "obj_label": "bones", "masked_sentences": ["The statement \"Without gravity the [MASK] in a human will begin to lose calcium.\" is true because humans evolved on a planet with gravity and exhibit bone loss in space."], "uuid": 339}
+{"sub_label": "humans", "obj_label": "brains", "masked_sentences": ["Humans think with their [MASK]."], "uuid": 340}
+{"sub_label": "humans", "obj_label": "emotions", "masked_sentences": ["Humans exhibit [MASK]."], "uuid": 341}
+{"sub_label": "humans", "obj_label": "eyes", "masked_sentences": ["Humans can see with their [MASK]."], "uuid": 342}
+{"sub_label": "humans", "obj_label": "fingers", "masked_sentences": ["The statement \"An activity someone can do is crack their knuckles\" is true because humans have [MASK] which have knuckles which can occasionally become uncomfortable."], "uuid": 343}
+{"sub_label": "humans", "obj_label": "genes", "masked_sentences": ["Humans have [MASK]."], "uuid": 344}
+{"sub_label": "humans", "obj_label": "hair", "masked_sentences": ["Humans do not normally have green or blue [MASK]."], "uuid": 345}
+{"sub_label": "humans", "obj_label": "hands", "masked_sentences": ["Picture description: These are immature humans called \"children\" engaged in an activity called a \"game.\"  The game is called \"soccer\" in the United States of America and called \"foot ball\" in civilized countries.  The rules forbid use of the [MASK] by all players except one called the \"goalie.\"."], "uuid": 346}
+{"sub_label": "humans", "obj_label": "hormones", "masked_sentences": ["It can't be healthy for humans to eat animals that have been given growth [MASK]."], "uuid": 347}
+{"sub_label": "humans", "obj_label": "minds", "masked_sentences": ["Humans don't know much about their own [MASK]."], "uuid": 348}
+{"sub_label": "humans", "obj_label": "myths", "masked_sentences": ["Humans have [MASK]."], "uuid": 349}
+{"sub_label": "humans", "obj_label": "skin", "masked_sentences": ["The statement \"Crush injuries often involve damage to a great deal of [MASK], muscle and bone and medical aid should always be sought.\" is true because Damaged humans can be helped with medical aid."], "uuid": 350}
+{"sub_label": "humans", "obj_label": "teeth", "masked_sentences": ["Humans have 32 adult [MASK]."], "uuid": 351}
+{"sub_label": "humans", "obj_label": "thumbs", "masked_sentences": ["Humans have [MASK]."], "uuid": 352}
+{"sub_label": "hurricane", "obj_label": "eye", "masked_sentences": ["A hurricane has an [MASK]."], "uuid": 353}
+{"sub_label": "intestines", "obj_label": "worms", "masked_sentences": ["Animals can have [MASK] in their intestines."], "uuid": 354}
+{"sub_label": "iowa", "obj_label": "population", "masked_sentences": ["Iowa has a [MASK]."], "uuid": 355}
+{"sub_label": "is", "obj_label": "rings", "masked_sentences": ["To understand the event \"Jeff bought a ring.\", it is important to know that The giving of [MASK] can have a special meaning."], "uuid": 356}
+{"sub_label": "islands", "obj_label": "beaches", "masked_sentences": ["Situation: There are many activites in the islands of Hawaii: whatever your interest! Mountain hiking (including in snow!!), heliocoptors, surfing, sailing, swimming, memorials, anciet ruins, [MASK], hand gliding, horse back riding, water skiing, snorkeling, paint-ball activities, study, marine science and animals, scuba diving...well: you get the picture?"], "uuid": 357}
+{"sub_label": "israel", "obj_label": "bomb", "masked_sentences": ["Israel has the [MASK]."], "uuid": 358}
+{"sub_label": "jack", "obj_label": "legs", "masked_sentences": ["Jack has [MASK]."], "uuid": 359}
+{"sub_label": "jacket", "obj_label": "zipper", "masked_sentences": ["[MASK] is part of jacket."], "uuid": 360}
+{"sub_label": "jails", "obj_label": "locks", "masked_sentences": ["Jails have [MASK]."], "uuid": 361}
+{"sub_label": "jamaca", "obj_label": "beaches", "masked_sentences": ["Jamaca has [MASK]."], "uuid": 362}
+{"sub_label": "jane", "obj_label": "garden", "masked_sentences": ["Another way to say \"an orchardist can pick apples\" is \"Jane has a huge [MASK], filled with many varities of flowers and fruits.  She specializes in the orchid flower, but on her way back into the house, she stopped by an apple tree and picked a big red apple.\"."], "uuid": 363}
+{"sub_label": "japan", "obj_label": "beaches", "masked_sentences": ["Japan has [MASK]."], "uuid": 364}
+{"sub_label": "jar", "obj_label": "lid", "masked_sentences": ["Jar has a [MASK]."], "uuid": 365}
+{"sub_label": "jeep", "obj_label": "windows", "masked_sentences": ["A jeep has [MASK]."], "uuid": 366}
+{"sub_label": "jeff", "obj_label": "kids", "masked_sentences": ["Jeff has [MASK]."], "uuid": 367}
+{"sub_label": "jews", "obj_label": "children", "masked_sentences": ["Jews have [MASK]."], "uuid": 368}
+{"sub_label": "jim", "obj_label": "kids", "masked_sentences": ["To understand the event \"Jim watched cartoons on television.\", it is important to know that [MASK] watch cartoons."], "uuid": 369}
+{"sub_label": "joe", "obj_label": "kids", "masked_sentences": ["Joe has [MASK]."], "uuid": 370}
+{"sub_label": "john", "obj_label": "kids", "masked_sentences": ["John has [MASK]."], "uuid": 371}
+{"sub_label": "journal", "obj_label": "pages", "masked_sentences": ["A journal has [MASK]."], "uuid": 372}
+{"sub_label": "justin", "obj_label": "kids", "masked_sentences": ["Another way to say \"justin is pouting\" is \"Pouting children might be bratty [MASK].\"."], "uuid": 373}
+{"sub_label": "kangaroos", "obj_label": "tails", "masked_sentences": ["Kangaroos have [MASK]."], "uuid": 374}
+{"sub_label": "katie", "obj_label": "kids", "masked_sentences": ["Katie has [MASK]."], "uuid": 375}
+{"sub_label": "kettle", "obj_label": "handle", "masked_sentences": ["A kettle has a [MASK]."], "uuid": 376}
+{"sub_label": "keyboard", "obj_label": "keys", "masked_sentences": ["A piano keyboard has 88 [MASK]."], "uuid": 377}
+{"sub_label": "keyboards", "obj_label": "keys", "masked_sentences": ["Most keyboards have 101 [MASK]."], "uuid": 378}
+{"sub_label": "kim", "obj_label": "cold", "masked_sentences": ["To understand the event \"Kim has a [MASK].  She is coughing a lot.\", it is important to know that coughing is unpleasant."], "uuid": 379}
+{"sub_label": "kim", "obj_label": "kids", "masked_sentences": ["Kim has [MASK]."], "uuid": 380}
+{"sub_label": "king", "obj_label": "kingdom", "masked_sentences": ["A [MASK] is ruled by a king."], "uuid": 381}
+{"sub_label": "kings", "obj_label": "armies", "masked_sentences": ["Kings have [MASK]."], "uuid": 382}
+{"sub_label": "kirstin", "obj_label": "kids", "masked_sentences": ["Kirstin has [MASK]."], "uuid": 383}
+{"sub_label": "kite", "obj_label": "tail", "masked_sentences": ["You can use a [MASK] to make a kite fly better."], "uuid": 384}
+{"sub_label": "kittens", "obj_label": "fur", "masked_sentences": ["To understand the event \"Neko is a cat.  Neko licks her [MASK].\", it is important to know that Neko was born in a litter of other kittens."], "uuid": 385}
+{"sub_label": "lake", "obj_label": "fluid", "masked_sentences": ["A lake can contains [MASK]."], "uuid": 386}
+{"sub_label": "lake", "obj_label": "surface", "masked_sentences": ["Somewhere someone can be is on the [MASK] of a salt lake."], "uuid": 387}
+{"sub_label": "lambs", "obj_label": "ears", "masked_sentences": ["Lambs have [MASK]."], "uuid": 388}
+{"sub_label": "lambs", "obj_label": "wool", "masked_sentences": ["Sheep is [MASK] lambs."], "uuid": 389}
+{"sub_label": "landfill", "obj_label": "trash", "masked_sentences": ["Collected [MASK] is often placed in a landfill."], "uuid": 390}
+{"sub_label": "languages", "obj_label": "words", "masked_sentences": ["Some languages can read [MASK] from the top of a page to the bottom."], "uuid": 391}
+{"sub_label": "larry", "obj_label": "kids", "masked_sentences": ["Larry has [MASK]."], "uuid": 392}
+{"sub_label": "lemons", "obj_label": "seeds", "masked_sentences": ["Lemons have [MASK]."], "uuid": 393}
+{"sub_label": "leopards", "obj_label": "fur", "masked_sentences": ["Leopards have [MASK]."], "uuid": 394}
+{"sub_label": "librararies", "obj_label": "books", "masked_sentences": ["Librararies have [MASK]."], "uuid": 395}
+{"sub_label": "library", "obj_label": "books", "masked_sentences": ["You are likely to find [MASK] in a library."], "uuid": 396}
+{"sub_label": "library", "obj_label": "literature", "masked_sentences": ["[MASK] is typically in library."], "uuid": 397}
+{"sub_label": "limes", "obj_label": "seeds", "masked_sentences": ["Limes have [MASK]."], "uuid": 398}
+{"sub_label": "lions", "obj_label": "fur", "masked_sentences": ["Lions have [MASK]."], "uuid": 399}
+{"sub_label": "lizards", "obj_label": "backbone", "masked_sentences": ["Lizards have a [MASK]."], "uuid": 400}
+{"sub_label": "lizards", "obj_label": "bones", "masked_sentences": ["Lizards have [MASK]."], "uuid": 401}
+{"sub_label": "lizards", "obj_label": "tail", "masked_sentences": ["Lizards have a [MASK]."], "uuid": 402}
+{"sub_label": "lobby", "obj_label": "walls", "masked_sentences": ["A lobby has [MASK]."], "uuid": 403}
+{"sub_label": "magazine", "obj_label": "articles", "masked_sentences": ["A magazine contains [MASK]."], "uuid": 404}
+{"sub_label": "magazine", "obj_label": "pages", "masked_sentences": ["One of the things you do when you read a magazine is turn the [MASK]."], "uuid": 405}
+{"sub_label": "mailbox", "obj_label": "flag", "masked_sentences": ["Things that are often found together are: handle, mail, [MASK], door, mailbox."], "uuid": 406}
+{"sub_label": "malls", "obj_label": "bars", "masked_sentences": ["Another way to say \"Some malls have [MASK]\" is \"perhaps one can find a bar at a mall\"."], "uuid": 407}
+{"sub_label": "mammals", "obj_label": "breasts", "masked_sentences": ["Mammals have [MASK]."], "uuid": 408}
+{"sub_label": "mammals", "obj_label": "fur", "masked_sentences": ["The statement \"Weasels are mammals\" helps answer the question \"Does a weasel have [MASK]?\"."], "uuid": 409}
+{"sub_label": "mammals", "obj_label": "hair", "masked_sentences": ["You are likely to find [MASK] in mammals."], "uuid": 410}
+{"sub_label": "mammals", "obj_label": "heart", "masked_sentences": ["You are likely to find a [MASK] in all mammals."], "uuid": 411}
+{"sub_label": "mammals", "obj_label": "legs", "masked_sentences": ["Dolphins are mammals without [MASK] ."], "uuid": 412}
+{"sub_label": "marsupials", "obj_label": "pouch", "masked_sentences": ["Marsupials are born hairless and blind and essentially continue their embryonic development within the [MASK]."], "uuid": 413}
+{"sub_label": "mary", "obj_label": "kids", "masked_sentences": ["Mary has [MASK]."], "uuid": 414}
+{"sub_label": "mathew", "obj_label": "kids", "masked_sentences": ["Mathew has [MASK]."], "uuid": 415}
+{"sub_label": "matresses", "obj_label": "springs", "masked_sentences": ["Matresses have [MASK]."], "uuid": 416}
+{"sub_label": "matt", "obj_label": "kids", "masked_sentences": ["Matt has [MASK]."], "uuid": 417}
+{"sub_label": "meat", "obj_label": "fat", "masked_sentences": ["When grease is inside meat, the grease is called, \"[MASK].\"."], "uuid": 418}
+{"sub_label": "menus", "obj_label": "pages", "masked_sentences": ["Another way to say \"Menus have [MASK]\" is \"A menu is often more than one page long.\"."], "uuid": 419}
+{"sub_label": "mexico", "obj_label": "beaches", "masked_sentences": ["To understand the event \"Dan went to the beach in Florida.\", it is important to know that Florida has a lot of  [MASK] because much of its border runs along the Atlantic Ocean and also the Gulf of Mexico."], "uuid": 420}
+{"sub_label": "mice", "obj_label": "fur", "masked_sentences": ["Mice have [MASK]."], "uuid": 421}
+{"sub_label": "mike", "obj_label": "kids", "masked_sentences": ["To understand the event \"Mike and Kerrie decided to start a family.\", it is important to know that People who love ecah other want to have [MASK]."], "uuid": 422}
+{"sub_label": "milan", "obj_label": "kids", "masked_sentences": ["Milan has [MASK]."], "uuid": 423}
+{"sub_label": "milk", "obj_label": "calcium", "masked_sentences": ["Milk is [MASK] source."], "uuid": 424}
+{"sub_label": "milk", "obj_label": "energy", "masked_sentences": ["You can use a glass of milk to get an [MASK] boost."], "uuid": 425}
+{"sub_label": "milk", "obj_label": "water", "masked_sentences": ["You are likely to find [MASK] around in milk."], "uuid": 426}
+{"sub_label": "minibar", "obj_label": "food", "masked_sentences": ["A minibar is for storing [MASK]."], "uuid": 427}
+{"sub_label": "monday", "obj_label": "evening", "masked_sentences": ["Monday has an [MASK]."], "uuid": 428}
+{"sub_label": "money", "obj_label": "budget", "masked_sentences": ["A [MASK] allocates money that can be used to pay expenses."], "uuid": 429}
+{"sub_label": "monkey", "obj_label": "nose", "masked_sentences": ["The common name for Cercopithecus erythrotis is red-eared [MASK]-spotted monkey."], "uuid": 430}
+{"sub_label": "moon", "obj_label": "phases", "masked_sentences": ["The Moon has [MASK]."], "uuid": 431}
+{"sub_label": "moths", "obj_label": "wings", "masked_sentences": ["Moths have [MASK]."], "uuid": 432}
+{"sub_label": "mountains", "obj_label": "peak", "masked_sentences": ["Mountains have a [MASK]."], "uuid": 433}
+{"sub_label": "mouth", "obj_label": "teeth", "masked_sentences": ["To understand the event \"Dale is a dentist.  Dale pulled out Annie's tooth.\", it is important to know that [MASK] are exposed bone in the mouth meant for chewing food."], "uuid": 434}
+{"sub_label": "movie", "obj_label": "ending", "masked_sentences": ["If you want to ruin a movie then you should tell eveyone the [MASK]."], "uuid": 435}
+{"sub_label": "movies", "obj_label": "stories", "masked_sentences": ["Movies are visual [MASK]. Saw is the past tense of see, see means to recieve visual information. A godd example is I saw a movie."], "uuid": 436}
+{"sub_label": "museum", "obj_label": "exhibits", "masked_sentences": ["The last thing you do when you see [MASK] is leave the museum ."], "uuid": 437}
+{"sub_label": "music", "obj_label": "information", "masked_sentences": ["The statement \"listening to the radio is for hearing music or news, or for [MASK].\" helps answer the question \"Let's sit down in front of the radio, okay?\"."], "uuid": 438}
+{"sub_label": "nature", "obj_label": "life", "masked_sentences": ["Nature contains [MASK]."], "uuid": 439}
+{"sub_label": "navy", "obj_label": "sailors", "masked_sentences": ["The navy has [MASK]."], "uuid": 440}
+{"sub_label": "neutrons", "obj_label": "spin", "masked_sentences": ["Neutrons have [MASK]."], "uuid": 441}
+{"sub_label": "nick", "obj_label": "kids", "masked_sentences": ["Nick has [MASK]."], "uuid": 442}
+{"sub_label": "nissan", "obj_label": "tires", "masked_sentences": ["Nissan is a company that makes cars that have [MASK]."], "uuid": 443}
+{"sub_label": "oak", "obj_label": "leaves", "masked_sentences": ["An oak has [MASK]."], "uuid": 444}
+{"sub_label": "object", "obj_label": "surface", "masked_sentences": ["To understand the event \"Jane painted a chair.\", it is important to know that Painting is the act of applying colour to the [MASK] of an object."], "uuid": 445}
+{"sub_label": "objects", "obj_label": "mass", "masked_sentences": ["Objects have [MASK]."], "uuid": 446}
+{"sub_label": "objects", "obj_label": "volume", "masked_sentences": ["Objects have [MASK]."], "uuid": 447}
+{"sub_label": "ocean", "obj_label": "salt", "masked_sentences": ["Ocean is [MASK] water."], "uuid": 448}
+{"sub_label": "ocean", "obj_label": "waves", "masked_sentences": ["Things that are often found together are: [MASK], submarine, sailors, ocean."], "uuid": 449}
+{"sub_label": "oceans", "obj_label": "fish", "masked_sentences": ["[MASK] is typically near oceans rivers."], "uuid": 450}
+{"sub_label": "ofen", "obj_label": "kids", "masked_sentences": ["The statement \"we ofen have [MASK]\" is true because When humans reproduce they have children."], "uuid": 451}
+{"sub_label": "onions", "obj_label": "skin", "masked_sentences": ["Onions have a [MASK]."], "uuid": 452}
+{"sub_label": "oranges", "obj_label": "seed", "masked_sentences": ["[MASK] is typically in oranges."], "uuid": 453}
+{"sub_label": "organizations", "obj_label": "members", "masked_sentences": ["Organizations have [MASK]."], "uuid": 454}
+{"sub_label": "owls", "obj_label": "eyes", "masked_sentences": ["To understand the event \"An owl swooped down upon a mouse.\", it is important to know that Owls have great [MASK]."], "uuid": 455}
+{"sub_label": "page", "obj_label": "text", "masked_sentences": ["Page has [MASK]."], "uuid": 456}
+{"sub_label": "paper", "obj_label": "pulp", "masked_sentences": ["Paper can be made from wood [MASK]. people with an affliction for wooly hats may inform oyu that we murder the trees. they are wrong."], "uuid": 457}
+{"sub_label": "parents", "obj_label": "children", "masked_sentences": ["To understand the event \"The parents took their [MASK] to the fair.\", it is important to know that They are all Jew."], "uuid": 458}
+{"sub_label": "parrots", "obj_label": "feathers", "masked_sentences": ["Parrots have [MASK]."], "uuid": 459}
+{"sub_label": "parrots", "obj_label": "wings", "masked_sentences": ["Parrots have [MASK]."], "uuid": 460}
+{"sub_label": "passageway", "obj_label": "doors", "masked_sentences": ["A passageway has [MASK]."], "uuid": 461}
+{"sub_label": "patons", "obj_label": "bill", "masked_sentences": ["Patons have a [MASK]."], "uuid": 462}
+{"sub_label": "paul", "obj_label": "kids", "masked_sentences": ["Paul has [MASK]."], "uuid": 463}
+{"sub_label": "peach", "obj_label": "pit", "masked_sentences": ["A [MASK] is for the name of the seed kernel in fruits like a peach."], "uuid": 464}
+{"sub_label": "pen", "obj_label": "ink", "masked_sentences": ["Picture description: an envelope on which the contents that it will contain as well as the pen and [MASK] used to write on them rest."], "uuid": 465}
+{"sub_label": "pens", "obj_label": "caps", "masked_sentences": ["Some pens have [MASK]."], "uuid": 466}
+{"sub_label": "pens", "obj_label": "ink", "masked_sentences": ["The statement \"pens can contain [MASK] of multiple colours.\" helps answer the question \"What color is a pen?\"."], "uuid": 467}
+{"sub_label": "people", "obj_label": "beliefs", "masked_sentences": ["Situation: Different people have different religious [MASK]."], "uuid": 468}
+{"sub_label": "people", "obj_label": "brains", "masked_sentences": ["All people has [MASK]."], "uuid": 469}
+{"sub_label": "people", "obj_label": "consciousness", "masked_sentences": ["Losing [MASK] is for people who drink too much."], "uuid": 470}
+{"sub_label": "people", "obj_label": "ears", "masked_sentences": ["To understand the event \"My [MASK] are ringing.  The music is to loud.\", it is important to know that Loud music is annoying to some people."], "uuid": 471}
+{"sub_label": "people", "obj_label": "eat", "masked_sentences": ["An eatery is where people [MASK]."], "uuid": 472}
+{"sub_label": "people", "obj_label": "emotions", "masked_sentences": ["Groups of people share [MASK]."], "uuid": 473}
+{"sub_label": "people", "obj_label": "eyes", "masked_sentences": ["People need light so they can use their [MASK]."], "uuid": 474}
+{"sub_label": "people", "obj_label": "feelings", "masked_sentences": ["People express their [MASK] with music."], "uuid": 475}
+{"sub_label": "people", "obj_label": "feet", "masked_sentences": ["People who go barefoot have tough [MASK] ."], "uuid": 476}
+{"sub_label": "people", "obj_label": "flaws", "masked_sentences": ["People have [MASK]."], "uuid": 477}
+{"sub_label": "people", "obj_label": "information", "masked_sentences": ["People look up [MASK] on the web."], "uuid": 478}
+{"sub_label": "people", "obj_label": "manufactured", "masked_sentences": ["People can have [MASK] it."], "uuid": 479}
+{"sub_label": "people", "obj_label": "mission", "masked_sentences": ["The story \"Killing People\" has the step \"I was assigned to a [MASK].\"."], "uuid": 480}
+{"sub_label": "people", "obj_label": "muscles", "masked_sentences": ["When people exercise they create tension in their [MASK]."], "uuid": 481}
+{"sub_label": "people", "obj_label": "names", "masked_sentences": ["To understand the event \"Bones sleeps by the fire.  Bones is a dog.\", it is important to know that People give [MASK] to their animal companions; Bones is a companion to a person."], "uuid": 482}
+{"sub_label": "people", "obj_label": "offspring", "masked_sentences": ["People have [MASK]."], "uuid": 483}
+{"sub_label": "people", "obj_label": "rights", "masked_sentences": ["People enter into a social contract when they agree to define and limit the [MASK] and duties of one another."], "uuid": 484}
+{"sub_label": "people", "obj_label": "sex", "masked_sentences": ["Something you find in the backseat of a car is two people having [MASK]."], "uuid": 485}
+{"sub_label": "people", "obj_label": "skin", "masked_sentences": ["People wear clothing over their [MASK]."], "uuid": 486}
+{"sub_label": "people", "obj_label": "souls", "masked_sentences": ["Most people sell their [MASK] for money ."], "uuid": 487}
+{"sub_label": "people", "obj_label": "teeth", "masked_sentences": ["There are people with fillings in their [MASK]."], "uuid": 488}
+{"sub_label": "people", "obj_label": "wants", "masked_sentences": ["Another way to say \"a person [MASK] to be fulfilled.\" is \"fulfillment is desired by people\"."], "uuid": 489}
+{"sub_label": "peopt", "obj_label": "passion", "masked_sentences": ["Peopt has [MASK]."], "uuid": 490}
+{"sub_label": "perrier", "obj_label": "bubbles", "masked_sentences": ["Perrier has [MASK]."], "uuid": 491}
+{"sub_label": "person", "obj_label": "fingernails", "masked_sentences": ["A person doesn't want dirty [MASK]."], "uuid": 492}
+{"sub_label": "person", "obj_label": "head", "masked_sentences": ["A hardhat is used to protect a person's [MASK]."], "uuid": 493}
+{"sub_label": "person", "obj_label": "mouth", "masked_sentences": ["You are likely to find a mouthwash in a person's [MASK]."], "uuid": 494}
+{"sub_label": "person", "obj_label": "name", "masked_sentences": ["You can use a title to [MASK] a person, place, or thing."], "uuid": 495}
+{"sub_label": "person", "obj_label": "nose", "masked_sentences": ["A person wants a clean [MASK]."], "uuid": 496}
+{"sub_label": "phrases", "obj_label": "rhythm", "masked_sentences": ["Song: long tones with phrases, words, and [MASK]."], "uuid": 497}
+{"sub_label": "pianos", "obj_label": "keyboards", "masked_sentences": ["Pianos have [MASK]."], "uuid": 498}
+{"sub_label": "pie", "obj_label": "crust", "masked_sentences": ["Pie is a [MASK]."], "uuid": 499}
+{"sub_label": "pigs", "obj_label": "bones", "masked_sentences": ["Pigs have [MASK]."], "uuid": 500}
+{"sub_label": "places", "obj_label": "mountains", "masked_sentences": ["Some places have [MASK]."], "uuid": 501}
+{"sub_label": "planes", "obj_label": "seats", "masked_sentences": ["Planes have [MASK]."], "uuid": 502}
+{"sub_label": "planes", "obj_label": "tails", "masked_sentences": ["Planes have [MASK]."], "uuid": 503}
+{"sub_label": "planes", "obj_label": "wings", "masked_sentences": ["Birds, planes, insects and maxi pads can all have [MASK]."], "uuid": 504}
+{"sub_label": "planets", "obj_label": "size", "masked_sentences": ["The statement \"jupiter is larger than pluto\" is true because Planets vary in [MASK]."], "uuid": 505}
+{"sub_label": "plants", "obj_label": "flowers", "masked_sentences": ["To understand the event \"Sally picked a pretty flower.\", it is important to know that [MASK] are plants."], "uuid": 506}
+{"sub_label": "plants", "obj_label": "leaves", "masked_sentences": ["Plants need their [MASK] so they can make food for themselves."], "uuid": 507}
+{"sub_label": "plants", "obj_label": "roots", "masked_sentences": ["Plants have [MASK]."], "uuid": 508}
+{"sub_label": "pool", "obj_label": "water", "masked_sentences": ["A pool is a man made body of [MASK]."], "uuid": 509}
+{"sub_label": "postman", "obj_label": "hands", "masked_sentences": ["A postman has [MASK]."], "uuid": 510}
+{"sub_label": "pumpkin", "obj_label": "seeds", "masked_sentences": ["A pumpkin has [MASK]."], "uuid": 511}
+{"sub_label": "rabbits", "obj_label": "fur", "masked_sentences": ["Rabbits have [MASK]."], "uuid": 512}
+{"sub_label": "raccoons", "obj_label": "integrity", "masked_sentences": ["Raccoons have [MASK]."], "uuid": 513}
+{"sub_label": "rain", "obj_label": "oxygen", "masked_sentences": ["Rain contains [MASK]."], "uuid": 514}
+{"sub_label": "ranches", "obj_label": "horses", "masked_sentences": ["Some ranches have [MASK]."], "uuid": 515}
+{"sub_label": "randy", "obj_label": "kids", "masked_sentences": ["Randy has [MASK]."], "uuid": 516}
+{"sub_label": "raptors", "obj_label": "claws", "masked_sentences": ["Raptors have [MASK]."], "uuid": 517}
+{"sub_label": "record", "obj_label": "information", "masked_sentences": ["Record is a type of [MASK] file."], "uuid": 518}
+{"sub_label": "religions", "obj_label": "ceremonies", "masked_sentences": ["Different religions have different [MASK]."], "uuid": 519}
+{"sub_label": "religions", "obj_label": "ministers", "masked_sentences": ["Some religions have [MASK]."], "uuid": 520}
+{"sub_label": "restaurant", "obj_label": "bathroom", "masked_sentences": ["Something you might do while eating in a fast food restaurant is go to the [MASK]."], "uuid": 521}
+{"sub_label": "restaurant", "obj_label": "seats", "masked_sentences": ["If you want to eat in a restaurant then you should choose a table with enough [MASK] for your group."], "uuid": 522}
+{"sub_label": "restaurants", "obj_label": "them", "masked_sentences": ["The statement \"Menus have pages\" is true because Restaurants that offer a large selection of foods need to have menus with a few pages in [MASK]."], "uuid": 523}
+{"sub_label": "rich", "obj_label": "kids", "masked_sentences": ["Rich has [MASK]."], "uuid": 524}
+{"sub_label": "river", "obj_label": "water", "masked_sentences": ["River is a type of [MASK] passage."], "uuid": 525}
+{"sub_label": "robert", "obj_label": "kids", "masked_sentences": ["Robert has [MASK]."], "uuid": 526}
+{"sub_label": "rocky", "obj_label": "kids", "masked_sentences": ["Rocky has [MASK]."], "uuid": 527}
+{"sub_label": "rollerblades", "obj_label": "wheels", "masked_sentences": ["Rollerblades have [MASK]."], "uuid": 528}
+{"sub_label": "room", "obj_label": "walls", "masked_sentences": ["A room usually has 4 [MASK]."], "uuid": 529}
+{"sub_label": "rooms", "obj_label": "doors", "masked_sentences": ["Those who study water in reservoirs in the earth probably live in homes that have [MASK] between rooms."], "uuid": 530}
+{"sub_label": "rooms", "obj_label": "windows", "masked_sentences": ["To understand the event \"Steve's room is dark.  Steve turns on the light.\", it is important to know that Rooms sometimes have curtains covering the [MASK]."], "uuid": 531}
+{"sub_label": "rooster", "obj_label": "comb", "masked_sentences": ["A rooster has a [MASK]."], "uuid": 532}
+{"sub_label": "rowboat", "obj_label": "accessories", "masked_sentences": ["Rowboat has [MASK]."], "uuid": 533}
+{"sub_label": "sailboats", "obj_label": "mast", "masked_sentences": ["The statement \"You are likely to find a [MASK] in a boat.\" is true because sailboats need masts to support the sails."], "uuid": 534}
+{"sub_label": "sailboats", "obj_label": "sails", "masked_sentences": ["To understand the event \"Guido bought a sailboat.\", it is important to know that Sailboats have [MASK]."], "uuid": 535}
+{"sub_label": "saltshaker", "obj_label": "salt", "masked_sentences": ["A saltshaker is used to season some food with [MASK]."], "uuid": 536}
+{"sub_label": "satanists", "obj_label": "hair", "masked_sentences": ["Some satanists have [MASK]."], "uuid": 537}
+{"sub_label": "school", "obj_label": "classrooms", "masked_sentences": ["There are [MASK] in a school."], "uuid": 538}
+{"sub_label": "schools", "obj_label": "classrooms", "masked_sentences": ["[MASK] are found in schools."], "uuid": 539}
+{"sub_label": "screws", "obj_label": "threads", "masked_sentences": ["Screws have [MASK]."], "uuid": 540}
+{"sub_label": "sea", "obj_label": "salt", "masked_sentences": ["Sea water has [MASK] in it."], "uuid": 541}
+{"sub_label": "secretary", "obj_label": "boss", "masked_sentences": ["A secretary can forward a message to her [MASK]."], "uuid": 542}
+{"sub_label": "sentence", "obj_label": "words", "masked_sentences": ["The statement \"A sentence is a group of [MASK] that is a statement, question, exclamation, or command\" helps answer the question \"what is a sentance\"."], "uuid": 543}
+{"sub_label": "shawna", "obj_label": "kids", "masked_sentences": ["Shawna has [MASK]."], "uuid": 544}
+{"sub_label": "shed", "obj_label": "tools", "masked_sentences": ["Shed is used for storing [MASK]."], "uuid": 545}
+{"sub_label": "sheep", "obj_label": "wool", "masked_sentences": ["Sheep serve for providing milk, meat and [MASK] to humans."], "uuid": 546}
+{"sub_label": "shellac", "obj_label": "wax", "masked_sentences": ["Shellac contains [MASK]."], "uuid": 547}
+{"sub_label": "sherrie", "obj_label": "kids", "masked_sentences": ["Sherrie has [MASK]."], "uuid": 548}
+{"sub_label": "ship", "obj_label": "bridge", "masked_sentences": ["A ship is conned from the [MASK]."], "uuid": 549}
+{"sub_label": "ships", "obj_label": "captains", "masked_sentences": ["Ships have [MASK]."], "uuid": 550}
+{"sub_label": "ships", "obj_label": "mast", "masked_sentences": ["[MASK] is on ships."], "uuid": 551}
+{"sub_label": "shirt", "obj_label": "buttons", "masked_sentences": ["Situation: My shirt has [MASK]."], "uuid": 552}
+{"sub_label": "shirts", "obj_label": "buttons", "masked_sentences": ["You do not push the [MASK] on shirts."], "uuid": 553}
+{"sub_label": "shoes", "obj_label": "heel", "masked_sentences": ["Another way to say \"Women wear high [MASK] shoes.\" is \"high heeled pumps are worn by women\"."], "uuid": 554}
+{"sub_label": "shoes", "obj_label": "heels", "masked_sentences": ["Women sometimes wear shoes that are called [MASK]."], "uuid": 555}
+{"sub_label": "shoes", "obj_label": "sole", "masked_sentences": ["Not all shoes have a [MASK]."], "uuid": 556}
+{"sub_label": "should", "obj_label": "bed", "masked_sentences": ["If you want to go to sleep then you should turn down your [MASK]."], "uuid": 557}
+{"sub_label": "shows", "obj_label": "episodes", "masked_sentences": ["T.v. shows have many [MASK]."], "uuid": 558}
+{"sub_label": "sidewalk", "obj_label": "cracks", "masked_sentences": ["Something that might happen while going to another place in the same city cheaply is stepping over [MASK] in the sidewalk."], "uuid": 559}
+{"sub_label": "snake", "obj_label": "scales", "masked_sentences": ["Snake has [MASK]."], "uuid": 560}
+{"sub_label": "snakes", "obj_label": "scales", "masked_sentences": ["The story \"Seeing Something New\" has the step \"The [MASK] and patterns on the snakes were interesting.\"."], "uuid": 561}
+{"sub_label": "sofa", "obj_label": "legs", "masked_sentences": ["A sofa has [MASK]."], "uuid": 562}
+{"sub_label": "some", "obj_label": "graves", "masked_sentences": ["Some have [MASK]."], "uuid": 563}
+{"sub_label": "song", "obj_label": "title", "masked_sentences": ["My heart yearns... could be the [MASK] of a religious song."], "uuid": 564}
+{"sub_label": "sports", "obj_label": "rules", "masked_sentences": ["Sports have [MASK]."], "uuid": 565}
+{"sub_label": "sports", "obj_label": "winners", "masked_sentences": ["Some sports events reward [MASK] with money and prizes."], "uuid": 566}
+{"sub_label": "squares", "obj_label": "sides", "masked_sentences": ["Squares have [MASK]."], "uuid": 567}
+{"sub_label": "squash", "obj_label": "seeds", "masked_sentences": ["A squash has [MASK]."], "uuid": 568}
+{"sub_label": "stacey", "obj_label": "kids", "masked_sentences": ["Stacey has [MASK]."], "uuid": 569}
+{"sub_label": "stairway", "obj_label": "steps", "masked_sentences": ["A moving stairway consisting of [MASK] attached to a continuously circulating belt."], "uuid": 570}
+{"sub_label": "stars", "obj_label": "names", "masked_sentences": ["The statement \"The planets of the solar system are named after roman gods\" is true because [MASK] are given to planets and stars."], "uuid": 571}
+{"sub_label": "states", "obj_label": "populations", "masked_sentences": ["Situation: If humans descended from monkeys, why are there still monkeys? This surprisingly common argument relects several levels of ignorance about evolution. The first mistake is that evolution does not teach that humans descended from monkeys; it states that both have a common ancestor. The deepe error is that this objection is tantamount to asking, \"If children descended from adults, why are there still adults?\" New species evolve by splintering off from established ones, when [MASK] of organisms become isolated from the main branch of their family and acquire sufficient difference to remain forever distinct. The parent species may survive indefinitely thereafter, or may become extinct."], "uuid": 572}
+{"sub_label": "steve", "obj_label": "kids", "masked_sentences": ["Steve has [MASK]."], "uuid": 573}
+{"sub_label": "steven", "obj_label": "kids", "masked_sentences": ["Steven has [MASK]."], "uuid": 574}
+{"sub_label": "stories", "obj_label": "sentences", "masked_sentences": ["To understand the event \"Josh wrote a story.  He started by thinking of an idea.  Then he wrote some [MASK].\", it is important to know that Stories are frequently about fictional characters and situations."], "uuid": 575}
+{"sub_label": "story", "obj_label": "sentence", "masked_sentences": ["The story \"Deciding A Criminal S Fate\" has the step \"He could [MASK] Michel to death.\"."], "uuid": 576}
+{"sub_label": "street", "obj_label": "name", "masked_sentences": ["Main is street [MASK]."], "uuid": 577}
+{"sub_label": "students", "obj_label": "notebook", "masked_sentences": ["Things that are often found together are: table, books, people, [MASK], students."], "uuid": 578}
+{"sub_label": "students", "obj_label": "pets", "masked_sentences": ["Some Students have [MASK]."], "uuid": 579}
+{"sub_label": "sun", "obj_label": "hydrogen", "masked_sentences": ["The sun is mostly [MASK]."], "uuid": 580}
+{"sub_label": "sun", "obj_label": "iron", "masked_sentences": ["The sun contains [MASK]."], "uuid": 581}
+{"sub_label": "surgeons", "obj_label": "jobs", "masked_sentences": ["Surgeons have [MASK]."], "uuid": 582}
+{"sub_label": "survive", "obj_label": "fit", "masked_sentences": ["To survive you have to be [MASK]."], "uuid": 583}
+{"sub_label": "table", "obj_label": "legs", "masked_sentences": ["The statement \"IT HAS GOT FOUR [MASK], AND WE OFTEN SIT AROUND IT AT MEALTIMES\" is true because a table is a pieces of furniture used during meals."], "uuid": 584}
+{"sub_label": "tahiti", "obj_label": "beaches", "masked_sentences": ["Tahiti has [MASK]."], "uuid": 585}
+{"sub_label": "teams", "obj_label": "players", "masked_sentences": ["The statement \"Teams have [MASK].\" is true because a team is made up of more than one participant."], "uuid": 586}
+{"sub_label": "teams", "obj_label": "things", "masked_sentences": ["One of the [MASK] you do when you play sport is choose teams."], "uuid": 587}
+{"sub_label": "telemarketers", "obj_label": "scripts", "masked_sentences": ["Telemarketers have [MASK]."], "uuid": 588}
+{"sub_label": "term", "obj_label": "meaning", "masked_sentences": ["The term supervolcano has no specifically defined scientific [MASK]."], "uuid": 589}
+{"sub_label": "terry", "obj_label": "kids", "masked_sentences": ["Terry has [MASK]."], "uuid": 590}
+{"sub_label": "texas", "obj_label": "coast", "masked_sentences": ["The [MASK] of Texas lies along the Gulf of Mexico ."], "uuid": 591}
+{"sub_label": "text", "obj_label": "words", "masked_sentences": ["The statement \"An illustration is a picture created to clarify or accompany a text.\" is true because Information can be represented both in [MASK] and visually."], "uuid": 592}
+{"sub_label": "textiles", "obj_label": "texture", "masked_sentences": ["Textiles have [MASK]."], "uuid": 593}
+{"sub_label": "theater", "obj_label": "walls", "masked_sentences": ["A theater has [MASK]."], "uuid": 594}
+{"sub_label": "theaters", "obj_label": "roofs", "masked_sentences": ["Theaters have [MASK]."], "uuid": 595}
+{"sub_label": "thief", "obj_label": "stolen", "masked_sentences": ["To understand the event \"A thief stole mary's diamonds.\", it is important to know that Mary was [MASK]."], "uuid": 596}
+{"sub_label": "things", "obj_label": "colour", "masked_sentences": ["[MASK] is related to seeing things."], "uuid": 597}
+{"sub_label": "things", "obj_label": "limits", "masked_sentences": ["Some things do not have [MASK]."], "uuid": 598}
+{"sub_label": "tim", "obj_label": "kids", "masked_sentences": ["Tim has [MASK]."], "uuid": 599}
+{"sub_label": "timothy", "obj_label": "kids", "masked_sentences": ["Timothy has [MASK]."], "uuid": 600}
+{"sub_label": "tortises", "obj_label": "shells", "masked_sentences": ["Tortises have [MASK]."], "uuid": 601}
+{"sub_label": "tortoises", "obj_label": "shells", "masked_sentences": ["Tortoises have [MASK]."], "uuid": 602}
+{"sub_label": "tracey", "obj_label": "kids", "masked_sentences": ["Tracey has [MASK]."], "uuid": 603}
+{"sub_label": "train", "obj_label": "carriages", "masked_sentences": ["A train has [MASK]."], "uuid": 604}
+{"sub_label": "tree", "obj_label": "roots", "masked_sentences": ["A tree has [MASK], branches, leaves and a trunk."], "uuid": 605}
+{"sub_label": "tree", "obj_label": "trunk", "masked_sentences": ["Tree is a type of branches [MASK]."], "uuid": 606}
+{"sub_label": "trees", "obj_label": "branches", "masked_sentences": ["To understand the event \"The trees are covered in snow.\", it is important to know that Snow is light enough to rest on tree [MASK]."], "uuid": 607}
+{"sub_label": "trees", "obj_label": "leaves", "masked_sentences": ["Situation: evergreen trees never lose their [MASK]."], "uuid": 608}
+{"sub_label": "trees", "obj_label": "roots", "masked_sentences": ["Trees must be planted with their [MASK] in the ground."], "uuid": 609}
+{"sub_label": "trees", "obj_label": "seeds", "masked_sentences": ["To understand the event \"The tree grew fruit.\", it is important to know that Trees grow from [MASK]."], "uuid": 610}
+{"sub_label": "tricycle", "obj_label": "wheels", "masked_sentences": ["Another way to say \"A tricycle has three [MASK]\" is \"Tricycles are three-wheeled.\"."], "uuid": 611}
+{"sub_label": "turtle", "obj_label": "shield", "masked_sentences": ["A turtle has a [MASK]."], "uuid": 612}
+{"sub_label": "turtles", "obj_label": "shell", "masked_sentences": ["Turtles can hide in their [MASK]."], "uuid": 613}
+{"sub_label": "tv", "obj_label": "channels", "masked_sentences": ["The story \"Shopping\" has the step \"I see many shopping [MASK] on TV.\"."], "uuid": 614}
+{"sub_label": "typewriter", "obj_label": "ribbon", "masked_sentences": ["A typewriter [MASK] contains ink."], "uuid": 615}
+{"sub_label": "university", "obj_label": "classrooms", "masked_sentences": ["Something you find at a university is [MASK]."], "uuid": 616}
+{"sub_label": "us", "obj_label": "military", "masked_sentences": ["US [MASK] prisons in Afghanistan ignore the Geneva conventions."], "uuid": 617}
+{"sub_label": "utterance", "obj_label": "sound", "masked_sentences": ["An utterance has [MASK]."], "uuid": 618}
+{"sub_label": "vehicles", "obj_label": "wheels", "masked_sentences": ["Steering [MASK] are used to steer vehicles."], "uuid": 619}
+{"sub_label": "vertebrates", "obj_label": "spines", "masked_sentences": ["Vertebrates have [MASK]."], "uuid": 620}
+{"sub_label": "vines", "obj_label": "flowers", "masked_sentences": ["Some vines have [MASK]."], "uuid": 621}
+{"sub_label": "violets", "obj_label": "leaves", "masked_sentences": ["Violets have [MASK]."], "uuid": 622}
+{"sub_label": "violin", "obj_label": "strings", "masked_sentences": ["Things that are often found together are: chinrest, pegs, bridge, [MASK], violin."], "uuid": 623}
+{"sub_label": "violins", "obj_label": "strings", "masked_sentences": ["Violins can make music using vibrating [MASK]."], "uuid": 624}
+{"sub_label": "volcano", "obj_label": "crater", "masked_sentences": ["Volcano is [MASK] fire."], "uuid": 625}
+{"sub_label": "wagon", "obj_label": "wheels", "masked_sentences": ["Wagon has [MASK]."], "uuid": 626}
+{"sub_label": "walnut", "obj_label": "shell", "masked_sentences": ["Walnut has [MASK]."], "uuid": 627}
+{"sub_label": "warrior", "obj_label": "honor", "masked_sentences": ["A warrior has [MASK]."], "uuid": 628}
+{"sub_label": "wars", "obj_label": "violence", "masked_sentences": ["Another way to say \"wars are usually violent\" is \"War and [MASK] go hand in hand.\"."], "uuid": 629}
+{"sub_label": "watches", "obj_label": "hands", "masked_sentences": ["Watches have [MASK]."], "uuid": 630}
+{"sub_label": "water", "obj_label": "cycle", "masked_sentences": ["Current is a type of water [MASK]."], "uuid": 631}
+{"sub_label": "water", "obj_label": "surface", "masked_sentences": ["A killer whale's heart beats 30 times a minute under water, 60 times a minute on the [MASK]."], "uuid": 632}
+{"sub_label": "water", "obj_label": "weight", "masked_sentences": ["Boats can displace a quantity of water equal to their [MASK]."], "uuid": 633}
+{"sub_label": "watermellon", "obj_label": "seeds", "masked_sentences": ["A watermellon has [MASK]."], "uuid": 634}
+{"sub_label": "we", "obj_label": "fingers", "masked_sentences": ["We have five [MASK] on each hand."], "uuid": 635}
+{"sub_label": "we", "obj_label": "toes", "masked_sentences": ["We have [MASK]."], "uuid": 636}
+{"sub_label": "weasel", "obj_label": "nose", "masked_sentences": ["A weasel has a [MASK]."], "uuid": 637}
+{"sub_label": "weddings", "obj_label": "reception", "masked_sentences": ["Weddings have a [MASK]."], "uuid": 638}
+{"sub_label": "whales", "obj_label": "bones", "masked_sentences": ["Modern whales have hip [MASK] that they do not use because they do not walk and therefore they probably evolved from mammals that did walk  ."], "uuid": 639}
+{"sub_label": "willy", "obj_label": "kids", "masked_sentences": ["Willy has [MASK]."], "uuid": 640}
+{"sub_label": "wilmington", "obj_label": "apartments", "masked_sentences": ["Wilmington contains [MASK]."], "uuid": 641}
+{"sub_label": "windows", "obj_label": "frame", "masked_sentences": ["Windows have a [MASK]."], "uuid": 642}
+{"sub_label": "wolves", "obj_label": "teeth", "masked_sentences": ["Wolves have [MASK]."], "uuid": 643}
+{"sub_label": "woodchucks", "obj_label": "cautious", "masked_sentences": ["Woodchucks have to [MASK]."], "uuid": 644}
+{"sub_label": "words", "obj_label": "meaning", "masked_sentences": ["It is impossible to write down a dozen words on a piece of paper and have two people unequivocally agree on their [MASK]."], "uuid": 645}
+{"sub_label": "world", "obj_label": "atmosphere", "masked_sentences": ["The statement \"the world has an [MASK]\" helps answer the question \"What allows and protects life on Earth?\"."], "uuid": 646}
+{"sub_label": "world", "obj_label": "ecosystems", "masked_sentences": ["The world has [MASK]."], "uuid": 647}
+{"sub_label": "world", "obj_label": "life", "masked_sentences": ["Understanding the world can make [MASK] easier."], "uuid": 648}
+{"sub_label": "world", "obj_label": "mountains", "masked_sentences": ["The world has [MASK]."], "uuid": 649}
+{"sub_label": "world", "obj_label": "oceans", "masked_sentences": ["[MASK] cover three quarters of the world's surface."], "uuid": 650}
+{"sub_label": "world", "obj_label": "water", "masked_sentences": ["Much of the world's [MASK] has been polluted by humans."], "uuid": 651}
+{"sub_label": "zack", "obj_label": "headache", "masked_sentences": ["Zack has a [MASK]. He goes to a drug store."], "uuid": 652}
+{"sub_label": "zebra", "obj_label": "eyes", "masked_sentences": ["A zebra has [MASK]."], "uuid": 653}
+{"sub_label": "zebra", "obj_label": "nose", "masked_sentences": ["A zebra has a [MASK]."], "uuid": 654}
+{"sub_label": "zebra", "obj_label": "stripes", "masked_sentences": ["Zebra [MASK] help them hide in the tall grass."], "uuid": 655}
+{"sub_label": "zebras", "obj_label": "stripes", "masked_sentences": ["Zebras have [MASK]."], "uuid": 656}

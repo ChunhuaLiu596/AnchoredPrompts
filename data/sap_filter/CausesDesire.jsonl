@@ -1,0 +1,207 @@
+{"sub_label": "accompaniment", "obj_label": "sing", "masked_sentences": ["Accompaniment would make you want to [MASK]."], "uuid": 0}
+{"sub_label": "acting", "obj_label": "pretend", "masked_sentences": ["You would [MASK] because you were acting."], "uuid": 1}
+{"sub_label": "activity", "obj_label": "judge", "masked_sentences": ["An activity a [MASK]  can do is uphold the separation between church and state ."], "uuid": 2}
+{"sub_label": "addiction", "obj_label": "smoke", "masked_sentences": ["An addiction would make you want to [MASK]."], "uuid": 3}
+{"sub_label": "adrenaline", "obj_label": "ski", "masked_sentences": ["Adrenaline would make you want to [MASK]."], "uuid": 4}
+{"sub_label": "advertisement", "obj_label": "eat", "masked_sentences": ["An advertisement  would make you want to [MASK]."], "uuid": 5}
+{"sub_label": "alcohol", "obj_label": "dance", "masked_sentences": ["Alcohol would make you want to [MASK]."], "uuid": 6}
+{"sub_label": "alcohol", "obj_label": "sleep", "masked_sentences": ["Alcohol would make you want to [MASK]."], "uuid": 7}
+{"sub_label": "ambition", "obj_label": "study", "masked_sentences": ["Ambition would make you want to [MASK]."], "uuid": 8}
+{"sub_label": "anarchism", "obj_label": "independent", "masked_sentences": ["Anarchism would make you want to be [MASK]."], "uuid": 9}
+{"sub_label": "anger", "obj_label": "fight", "masked_sentences": ["[MASK] is related to anger."], "uuid": 10}
+{"sub_label": "anger", "obj_label": "kill", "masked_sentences": ["Anger would make you want to [MASK] someone."], "uuid": 11}
+{"sub_label": "anger", "obj_label": "punch", "masked_sentences": ["You would hit a [MASK] bag because you want to express anger."], "uuid": 12}
+{"sub_label": "anniversary", "obj_label": "remember", "masked_sentences": ["On your anniversary, you would [MASK] good times."], "uuid": 13}
+{"sub_label": "anxiety", "obj_label": "perform", "masked_sentences": ["If you want to [MASK] then you should have little anxiety."], "uuid": 14}
+{"sub_label": "apology", "obj_label": "forgive", "masked_sentences": ["To understand the event \"Dwight apologized to Anne.\", it is important to know that An apology is when you ask someone to [MASK] you and show regret for your actions."], "uuid": 15}
+{"sub_label": "applause", "obj_label": "perform", "masked_sentences": ["You would [MASK] because you want applause."], "uuid": 16}
+{"sub_label": "appreciation", "obj_label": "thank", "masked_sentences": ["The statement \"You would [MASK] someone because you want to acknowledge their help\" helps answer the question \"How do I show my appreciation of someone's help?\"."], "uuid": 17}
+{"sub_label": "approbation", "obj_label": "judge", "masked_sentences": ["Approbation would make you want to [MASK] someone."], "uuid": 18}
+{"sub_label": "argument", "obj_label": "walk", "masked_sentences": ["An argument would make you want to [MASK]."], "uuid": 19}
+{"sub_label": "arrogance", "obj_label": "judge", "masked_sentences": ["Arrogance would make you want to [MASK] someone."], "uuid": 20}
+{"sub_label": "asphyxiation", "obj_label": "breathe", "masked_sentences": ["Asphyxiation would make you want to [MASK]."], "uuid": 21}
+{"sub_label": "attack", "obj_label": "fence", "masked_sentences": ["An attack  would make you want to [MASK]."], "uuid": 22}
+{"sub_label": "attraction", "obj_label": "kiss", "masked_sentences": ["To understand the event \"Briana and Ryan are in Love.  Ryan gives Briana a [MASK].\", it is important to know that love is an attraction between two people."], "uuid": 23}
+{"sub_label": "bees", "obj_label": "run", "masked_sentences": ["Bees would make you want to [MASK]."], "uuid": 24}
+{"sub_label": "birthday", "obj_label": "buy", "masked_sentences": ["Situation: I will [MASK] her a first edition for her birthday."], "uuid": 25}
+{"sub_label": "book", "obj_label": "sleep", "masked_sentences": ["Something that might happen when you read a book is it might put you to [MASK] ."], "uuid": 26}
+{"sub_label": "boots", "obj_label": "hike", "masked_sentences": ["Something you need to do before you [MASK] is  make sure you have good hiking boots."], "uuid": 27}
+{"sub_label": "boredom", "obj_label": "dream", "masked_sentences": ["Boredom would make you want to [MASK]."], "uuid": 28}
+{"sub_label": "boredom", "obj_label": "entertain", "masked_sentences": ["Seeing boredom on their faces would make you want to [MASK] people."], "uuid": 29}
+{"sub_label": "boredom", "obj_label": "fiddle", "masked_sentences": ["Boredom would make you want to [MASK]."], "uuid": 30}
+{"sub_label": "boredom", "obj_label": "play", "masked_sentences": ["Boredom would make you want to [MASK] games."], "uuid": 31}
+{"sub_label": "boredom", "obj_label": "sleep", "masked_sentences": ["Something that might happen when you do the housework is get a good grade, loss of [MASK], boredom, anger, depression, and lots of cussing."], "uuid": 32}
+{"sub_label": "boredom", "obj_label": "surf", "masked_sentences": ["Boredom  would make you want to [MASK] the net."], "uuid": 33}
+{"sub_label": "boredom", "obj_label": "travel", "masked_sentences": ["Boredom would make you want to [MASK]."], "uuid": 34}
+{"sub_label": "boredom", "obj_label": "work", "masked_sentences": ["Something that might happen as a consequence of going to [MASK] is boredom ."], "uuid": 35}
+{"sub_label": "breathing", "obj_label": "drink", "masked_sentences": ["Breathing would make you want to [MASK]."], "uuid": 36}
+{"sub_label": "caffine", "obj_label": "exercise", "masked_sentences": ["Caffine would make you want to [MASK]."], "uuid": 37}
+{"sub_label": "car", "obj_label": "drive", "masked_sentences": ["The story \"Taking The Car For A [MASK]\" has the step \"It was a beautiful day outside\"."], "uuid": 38}
+{"sub_label": "chair", "obj_label": "sit", "masked_sentences": ["The fact \"Something you find at the MIT Media Lab is chairs\" is illustrated with the story:1. Zak went to the MIT Media Lab2. Zak wanted to [MASK] down3. Zak sat on a chair that was there."], "uuid": 39}
+{"sub_label": "challenge", "obj_label": "compete", "masked_sentences": ["A challenge. would make you want to [MASK]."], "uuid": 40}
+{"sub_label": "cliff", "obj_label": "climb", "masked_sentences": ["A cliff would make you want to [MASK]."], "uuid": 41}
+{"sub_label": "cold", "obj_label": "spit", "masked_sentences": ["Cold coffee is very bitter and can cause a person to [MASK]."], "uuid": 42}
+{"sub_label": "commercials", "obj_label": "eat", "masked_sentences": ["Commercials would make you want to [MASK] lunch."], "uuid": 43}
+{"sub_label": "compassion", "obj_label": "forgive", "masked_sentences": ["Compassion would make you want to [MASK] someone."], "uuid": 44}
+{"sub_label": "compliment", "obj_label": "kiss", "masked_sentences": ["A compliment would make you want to [MASK]."], "uuid": 45}
+{"sub_label": "conscience", "obj_label": "help", "masked_sentences": ["Your conscience would make you want to [MASK] someone."], "uuid": 46}
+{"sub_label": "creativity", "obj_label": "write", "masked_sentences": ["Creativity would make you want to [MASK] a story."], "uuid": 47}
+{"sub_label": "crisis", "obj_label": "pray", "masked_sentences": ["A crisis would make you want to [MASK]."], "uuid": 48}
+{"sub_label": "crying", "obj_label": "help", "masked_sentences": ["Someone crying would make you want to [MASK] someone."], "uuid": 49}
+{"sub_label": "curiosity", "obj_label": "learn", "masked_sentences": ["Curiosity would make you want to [MASK] something new."], "uuid": 50}
+{"sub_label": "curiosity", "obj_label": "read", "masked_sentences": ["Curiosity   would make you want to [MASK]."], "uuid": 51}
+{"sub_label": "danger", "obj_label": "lie", "masked_sentences": ["Danger would make you want to [MASK]."], "uuid": 52}
+{"sub_label": "death", "obj_label": "cry", "masked_sentences": ["To understand the event \"Pam started to [MASK].  Pam was at a funeral.\", it is important to know that A funeral is a gathering of people to mourn the death of an acquaintance or relative."], "uuid": 53}
+{"sub_label": "desire", "obj_label": "buy", "masked_sentences": ["Something that might happen as a consequence of going to the mall is a desire to [MASK] things."], "uuid": 54}
+{"sub_label": "desire", "obj_label": "perform", "masked_sentences": ["To understand the event \"Anne washed the laundry.\", it is important to know that Anne's desire to [MASK] the task."], "uuid": 55}
+{"sub_label": "devil", "obj_label": "lie", "masked_sentences": ["The devil would make you want to [MASK]."], "uuid": 56}
+{"sub_label": "dirt", "obj_label": "clean", "masked_sentences": ["The statement \"One of the things you do when you [MASK] the house is vacuum the carpet\" is true because it removes the dust and dirt from the floors."], "uuid": 57}
+{"sub_label": "dirtiness", "obj_label": "clean", "masked_sentences": ["Dirtiness would make you want to [MASK]."], "uuid": 58}
+{"sub_label": "disobedience", "obj_label": "punish", "masked_sentences": ["Disobedience would make you want to [MASK] someone."], "uuid": 59}
+{"sub_label": "divorce", "obj_label": "drink", "masked_sentences": ["Divorce would make you want to [MASK]."], "uuid": 60}
+{"sub_label": "dustballs", "obj_label": "clean", "masked_sentences": ["Dustballs would make you want to [MASK]."], "uuid": 61}
+{"sub_label": "emergency", "obj_label": "run", "masked_sentences": ["An emergency would make you want to [MASK]."], "uuid": 62}
+{"sub_label": "excitement", "obj_label": "dance", "masked_sentences": ["Excitement would make you want to [MASK]."], "uuid": 63}
+{"sub_label": "exercise", "obj_label": "rest", "masked_sentences": ["A set is a given number of repetitions of a specific exercise that are performed without a [MASK]."], "uuid": 64}
+{"sub_label": "exhaustion", "obj_label": "sleep", "masked_sentences": ["Exhaustion would make you want to [MASK]."], "uuid": 65}
+{"sub_label": "expectation", "obj_label": "awake", "masked_sentences": ["Expectation would make you want to [MASK]."], "uuid": 66}
+{"sub_label": "faith", "obj_label": "kill", "masked_sentences": ["Faith would make you want to [MASK] someone."], "uuid": 67}
+{"sub_label": "faith", "obj_label": "pray", "masked_sentences": ["Faith would make you want to [MASK]."], "uuid": 68}
+{"sub_label": "family", "obj_label": "live", "masked_sentences": ["A family all [MASK] in a home."], "uuid": 69}
+{"sub_label": "fantasizing", "obj_label": "pretend", "masked_sentences": ["Fantasizing would make you want to [MASK]."], "uuid": 70}
+{"sub_label": "fatigue", "obj_label": "rest", "masked_sentences": ["The statement \"a person wants to sleep\" is true because After being awake for about 16 hours, a person feels fatigue, and needs to [MASK]."], "uuid": 71}
+{"sub_label": "fatigue", "obj_label": "sleep", "masked_sentences": ["The statement \"a person wants to [MASK]\" is true because After being awake for about 16 hours, a person feels fatigue, and needs to rest."], "uuid": 72}
+{"sub_label": "favor", "obj_label": "thank", "masked_sentences": ["Anyone can [MASK] another person for a favor."], "uuid": 73}
+{"sub_label": "fear", "obj_label": "run", "masked_sentences": ["Fear would make you want to [MASK]."], "uuid": 74}
+{"sub_label": "fiancee", "obj_label": "kiss", "masked_sentences": ["My fiancee would make you want to [MASK]."], "uuid": 75}
+{"sub_label": "flab", "obj_label": "exercise", "masked_sentences": ["Flab would make you want to [MASK]."], "uuid": 76}
+{"sub_label": "flood", "obj_label": "climb", "masked_sentences": ["A flood would make you want to [MASK]."], "uuid": 77}
+{"sub_label": "friendliness", "obj_label": "talk", "masked_sentences": ["Friendliness would make you want to [MASK]."], "uuid": 78}
+{"sub_label": "friends", "obj_label": "talk", "masked_sentences": ["One of the things you do when you go to a party is [MASK] with friends."], "uuid": 79}
+{"sub_label": "friendship", "obj_label": "surprise", "masked_sentences": ["Friendship would make you want to [MASK] someone."], "uuid": 80}
+{"sub_label": "game", "obj_label": "compete", "masked_sentences": ["You would play a game because you want [MASK]."], "uuid": 81}
+{"sub_label": "generosity", "obj_label": "help", "masked_sentences": ["Generosity would make you want to [MASK] someone."], "uuid": 82}
+{"sub_label": "gift", "obj_label": "thank", "masked_sentences": ["One of the things you do when you open a gift is [MASK] the giver."], "uuid": 83}
+{"sub_label": "goal", "obj_label": "get", "masked_sentences": ["The statement \"In the event \"Billy is a soccer player.  Billy scored a goal.\", something that changed was Billy's team won the soccer game\" helps answer the question \"How do you [MASK] points in a soccer game?\"."], "uuid": 84}
+{"sub_label": "graduating", "obj_label": "celebrate", "masked_sentences": ["Graduating would make you want to [MASK]."], "uuid": 85}
+{"sub_label": "greed", "obj_label": "get", "masked_sentences": ["Greed would make you want to [MASK] something."], "uuid": 86}
+{"sub_label": "greed", "obj_label": "lie", "masked_sentences": ["Greed would make you want to [MASK]."], "uuid": 87}
+{"sub_label": "guilt", "obj_label": "lie", "masked_sentences": ["A sociopath can [MASK] with out feeling guilt."], "uuid": 88}
+{"sub_label": "happiness", "obj_label": "fiddle", "masked_sentences": ["Happiness would make you want to [MASK]."], "uuid": 89}
+{"sub_label": "happiness", "obj_label": "sing", "masked_sentences": ["Happiness would make you want to [MASK]."], "uuid": 90}
+{"sub_label": "hate", "obj_label": "kill", "masked_sentences": ["You would [MASK] people because you hate them."], "uuid": 91}
+{"sub_label": "hatred", "obj_label": "judge", "masked_sentences": ["Hatred would make you want to [MASK] someone."], "uuid": 92}
+{"sub_label": "hatred", "obj_label": "punch", "masked_sentences": ["Hatred would make you want to [MASK] someone."], "uuid": 93}
+{"sub_label": "heat", "obj_label": "swim", "masked_sentences": ["Heat would make you want to go for a [MASK]."], "uuid": 94}
+{"sub_label": "hunger", "obj_label": "buy", "masked_sentences": ["Something that might happen when you [MASK] food is hunger."], "uuid": 95}
+{"sub_label": "hunger", "obj_label": "cook", "masked_sentences": ["Hunger would make you want to [MASK]."], "uuid": 96}
+{"sub_label": "hunger", "obj_label": "eat", "masked_sentences": ["The statement \"hunger would make you want to [MASK] in a restaurant\" helps answer the question \"What can one to when one is hungry?\"."], "uuid": 97}
+{"sub_label": "hunger", "obj_label": "fish", "masked_sentences": ["Hunger would make you want to [MASK]."], "uuid": 98}
+{"sub_label": "ignorance", "obj_label": "judge", "masked_sentences": ["Ignorance would make you want to [MASK] someone."], "uuid": 99}
+{"sub_label": "ignorance", "obj_label": "learn", "masked_sentences": ["Ignorance would make you want to [MASK] something new."], "uuid": 100}
+{"sub_label": "impressed", "obj_label": "learn", "masked_sentences": ["Something that impressed you would make you want to [MASK]."], "uuid": 101}
+{"sub_label": "incentive", "obj_label": "perform", "masked_sentences": ["An incentive would make you want to [MASK]."], "uuid": 102}
+{"sub_label": "injury", "obj_label": "punish", "masked_sentences": ["An injury would make you want to [MASK] someone."], "uuid": 103}
+{"sub_label": "insanity", "obj_label": "kill", "masked_sentences": ["Insanity would make you want to [MASK] people."], "uuid": 104}
+{"sub_label": "inspiration", "obj_label": "type", "masked_sentences": ["Inspiration would make you want to [MASK]."], "uuid": 105}
+{"sub_label": "inspiration", "obj_label": "write", "masked_sentences": ["Inspiration would make you want to [MASK]."], "uuid": 106}
+{"sub_label": "insult", "obj_label": "fence", "masked_sentences": ["An insult would make you want to [MASK]."], "uuid": 107}
+{"sub_label": "jealousy", "obj_label": "compete", "masked_sentences": ["Jealousy would make you want to [MASK]."], "uuid": 108}
+{"sub_label": "jealousy", "obj_label": "judge", "masked_sentences": ["Jealousy would make you want to [MASK] someone."], "uuid": 109}
+{"sub_label": "joke", "obj_label": "laugh", "masked_sentences": ["Hearing a joke would make you want to make people [MASK]."], "uuid": 110}
+{"sub_label": "joy", "obj_label": "sing", "masked_sentences": ["[MASK] joy."], "uuid": 111}
+{"sub_label": "kiss", "obj_label": "help", "masked_sentences": ["A kiss would make you want to [MASK] someone."], "uuid": 112}
+{"sub_label": "library", "obj_label": "read", "masked_sentences": ["To understand the event \"John borrowed some books from the library.\", it is important to know that John loves to [MASK] books."], "uuid": 113}
+{"sub_label": "love", "obj_label": "entertain", "masked_sentences": ["Falling in love would make you want to [MASK] someone."], "uuid": 114}
+{"sub_label": "love", "obj_label": "forgive", "masked_sentences": ["You would [MASK] someone because you love them and realize people make mistakes."], "uuid": 115}
+{"sub_label": "love", "obj_label": "get", "masked_sentences": ["The statement \"St. John said, 'God is love.'\" is true because St. John believed that about God, and was trying to [MASK] other people to believe the same thing."], "uuid": 116}
+{"sub_label": "love", "obj_label": "lie", "masked_sentences": ["Love would make you want to [MASK]."], "uuid": 117}
+{"sub_label": "love", "obj_label": "paint", "masked_sentences": ["Love would make you want to [MASK]."], "uuid": 118}
+{"sub_label": "love", "obj_label": "reproduce", "masked_sentences": ["If you want to [MASK] then you should make love."], "uuid": 119}
+{"sub_label": "love", "obj_label": "sing", "masked_sentences": ["The statement \"It is psychologically good for people to [MASK] and dance and make love.\" helps answer the question \"how can I improve my psychological health?\"."], "uuid": 120}
+{"sub_label": "loving", "obj_label": "kiss", "masked_sentences": ["Something you might do while loving another is [MASK]."], "uuid": 121}
+{"sub_label": "lust", "obj_label": "kiss", "masked_sentences": ["Picture description: man giving in to his lust as he extends to [MASK] a woman."], "uuid": 122}
+{"sub_label": "malice", "obj_label": "kill", "masked_sentences": ["Malice would make you want to [MASK]."], "uuid": 123}
+{"sub_label": "mistakes", "obj_label": "lie", "masked_sentences": ["Mistakes would make you want to [MASK]."], "uuid": 124}
+{"sub_label": "money", "obj_label": "spend", "masked_sentences": ["You might like to [MASK] some money on food."], "uuid": 125}
+{"sub_label": "money", "obj_label": "work", "masked_sentences": ["The story \"Working\" has the step \"some types of [MASK] pay more money than others\"."], "uuid": 126}
+{"sub_label": "mood", "obj_label": "smoke", "masked_sentences": ["Mood would make you want to [MASK]."], "uuid": 127}
+{"sub_label": "motivation", "obj_label": "study", "masked_sentences": ["Motivation would make you want to [MASK]."], "uuid": 128}
+{"sub_label": "muff", "obj_label": "dive", "masked_sentences": ["Muff would make you want to [MASK]."], "uuid": 129}
+{"sub_label": "music", "obj_label": "dance", "masked_sentences": ["A person wants to [MASK] to music in the deep sea."], "uuid": 130}
+{"sub_label": "music", "obj_label": "fiddle", "masked_sentences": ["The statement \"music would make you want to [MASK]\" is true because Watching an activity can cause a desire to imitate the activity in the viewer."], "uuid": 131}
+{"sub_label": "music", "obj_label": "listen", "masked_sentences": ["If you want to relax then you should [MASK] to music."], "uuid": 132}
+{"sub_label": "music", "obj_label": "sing", "masked_sentences": ["Vocalists can [MASK] the lyrics for music."], "uuid": 133}
+{"sub_label": "music", "obj_label": "skate", "masked_sentences": ["One of the things you do when you [MASK] is dance to romantic music."], "uuid": 134}
+{"sub_label": "need", "obj_label": "buy", "masked_sentences": ["Something you need to do before you go to the zoo is [MASK] a ticket."], "uuid": 135}
+{"sub_label": "needing", "obj_label": "buy", "masked_sentences": ["Needing to [MASK] groceries would make you want to make a shopping list."], "uuid": 136}
+{"sub_label": "numb", "obj_label": "walk", "masked_sentences": ["Numb would make you want to [MASK]."], "uuid": 137}
+{"sub_label": "obesity", "obj_label": "exercise", "masked_sentences": ["Sometimes using a television causes obesity if used in place of [MASK]."], "uuid": 138}
+{"sub_label": "oceans", "obj_label": "surf", "masked_sentences": ["Oceans would make you want to [MASK]."], "uuid": 139}
+{"sub_label": "opportunity", "obj_label": "surprise", "masked_sentences": ["An opportunity would make you want to [MASK] someone."], "uuid": 140}
+{"sub_label": "orgasm", "obj_label": "relax", "masked_sentences": ["An orgasm would make you want to [MASK]."], "uuid": 141}
+{"sub_label": "overeating", "obj_label": "exercise", "masked_sentences": ["Overeating would make you want to [MASK]."], "uuid": 142}
+{"sub_label": "passion", "obj_label": "work", "masked_sentences": ["A passion for tickets would make you want to [MASK] the box office."], "uuid": 143}
+{"sub_label": "people", "obj_label": "cry", "masked_sentences": ["To understand the event \"Pam started to [MASK].  Pam was at a funeral.\", it is important to know that funerals are gatherings for the friends and relatives of people who die."], "uuid": 144}
+{"sub_label": "perfume", "obj_label": "kiss", "masked_sentences": ["Perfume would make you want to [MASK]."], "uuid": 145}
+{"sub_label": "picture", "obj_label": "remember", "masked_sentences": ["Picture description: I can't [MASK] what th is is."], "uuid": 146}
+{"sub_label": "pills", "obj_label": "sleep", "masked_sentences": ["Taking sleeping pills would make you want to go to [MASK]."], "uuid": 147}
+{"sub_label": "pizza", "obj_label": "drink", "masked_sentences": ["Pizza would make you want to [MASK]."], "uuid": 148}
+{"sub_label": "powerlessness", "obj_label": "suicide", "masked_sentences": ["Powerlessness would make you want to [MASK]."], "uuid": 149}
+{"sub_label": "prejudice", "obj_label": "punch", "masked_sentences": ["Prejudice would make you want to [MASK] someone."], "uuid": 150}
+{"sub_label": "problem", "obj_label": "program", "masked_sentences": ["The need to solve a problem would make you want to [MASK] a computer."], "uuid": 151}
+{"sub_label": "provocation", "obj_label": "compete", "masked_sentences": ["Provocation would make you want to [MASK]."], "uuid": 152}
+{"sub_label": "question", "obj_label": "think", "masked_sentences": ["The statement \"joining the army is for killing people\" helps answer the question \"What is a pacifist to [MASK] of the armed forces?\"."], "uuid": 153}
+{"sub_label": "quiz", "obj_label": "remember", "masked_sentences": ["A quiz would make you want to [MASK]."], "uuid": 154}
+{"sub_label": "rage", "obj_label": "kill", "masked_sentences": ["Rage would make you want to [MASK]."], "uuid": 155}
+{"sub_label": "reading", "obj_label": "think", "masked_sentences": ["You may not [MASK] about reading while you are enjoying the fresh air."], "uuid": 156}
+{"sub_label": "reality", "obj_label": "pretend", "masked_sentences": ["Something that might happen when you [MASK] is losing touch with reality."], "uuid": 157}
+{"sub_label": "relationships", "obj_label": "live", "masked_sentences": ["Relationships would make you want to [MASK]."], "uuid": 158}
+{"sub_label": "restlessness", "obj_label": "hike", "masked_sentences": ["Restlessness would make you want to [MASK]."], "uuid": 159}
+{"sub_label": "revenge", "obj_label": "write", "masked_sentences": ["Revenge would make you want to [MASK]."], "uuid": 160}
+{"sub_label": "rock", "obj_label": "climb", "masked_sentences": ["[MASK] is a type of rock traversing."], "uuid": 161}
+{"sub_label": "romance", "obj_label": "cook", "masked_sentences": ["Romance would make you want to [MASK]."], "uuid": 162}
+{"sub_label": "romance", "obj_label": "kiss", "masked_sentences": ["Romance is ALWAYS in the \"little things\": a word, a glance, an acknowledgement, a perception, a helping hand, a [MASK], a bed made, laundry done, flowers for no reason, a hand written note, a poem on the refrigerator, a meal prepared, the toilet washed, a kind hand -- patting, a shoulder to cry on, a person to laugh with, a committment like no other, a friend, a child hugged, a dirty diaper changed, warm bodies, wet places, companionhip treasured."], "uuid": 163}
+{"sub_label": "running", "obj_label": "rest", "masked_sentences": ["Something you might do while running twenty six miles is have to stop for a [MASK]."], "uuid": 164}
+{"sub_label": "sadness", "obj_label": "cry", "masked_sentences": ["[MASK] is sadness action."], "uuid": 165}
+{"sub_label": "sensitivity", "obj_label": "judge", "masked_sentences": ["Sensitivity would make you want to [MASK] someone."], "uuid": 166}
+{"sub_label": "sex", "obj_label": "smoke", "masked_sentences": ["The last thing you do when you enjoy the day is [MASK] after sex."], "uuid": 167}
+{"sub_label": "skydiving", "obj_label": "fall", "masked_sentences": ["Skydiving would make you want to [MASK]."], "uuid": 168}
+{"sub_label": "snow", "obj_label": "ski", "masked_sentences": ["People can [MASK] on snow."], "uuid": 169}
+{"sub_label": "sorrow", "obj_label": "forgive", "masked_sentences": ["Sorrow would make you want to [MASK] someone."], "uuid": 170}
+{"sub_label": "speaking", "obj_label": "listen", "masked_sentences": ["[MASK] is related to speaking."], "uuid": 171}
+{"sub_label": "spring", "obj_label": "hike", "masked_sentences": ["Spring would make you want to [MASK]."], "uuid": 172}
+{"sub_label": "springtime", "obj_label": "sing", "masked_sentences": ["Springtime would make you want to [MASK]."], "uuid": 173}
+{"sub_label": "starvation", "obj_label": "kill", "masked_sentences": ["Starvation would make you want to [MASK]."], "uuid": 174}
+{"sub_label": "stress", "obj_label": "breathe", "masked_sentences": ["Stress would make you want to [MASK]."], "uuid": 175}
+{"sub_label": "stress", "obj_label": "dream", "masked_sentences": ["Stress would make you want to [MASK]."], "uuid": 176}
+{"sub_label": "success", "obj_label": "celebrate", "masked_sentences": ["Success would make you want to [MASK]."], "uuid": 177}
+{"sub_label": "success", "obj_label": "reproduce", "masked_sentences": ["Success would make you want to [MASK]."], "uuid": 178}
+{"sub_label": "summer", "obj_label": "fish", "masked_sentences": ["Children can [MASK] during the summer."], "uuid": 179}
+{"sub_label": "surprise", "obj_label": "think", "masked_sentences": ["You would surprise someone because you [MASK] it is funny."], "uuid": 180}
+{"sub_label": "sympathy", "obj_label": "forgive", "masked_sentences": ["Sympathy would make you want to [MASK] someone."], "uuid": 181}
+{"sub_label": "teacher", "obj_label": "study", "masked_sentences": ["Situation: The administration will view the [MASK] hall as the teacher's preparation time. ."], "uuid": 182}
+{"sub_label": "tedium", "obj_label": "sleep", "masked_sentences": ["Tedium would make you want to [MASK]."], "uuid": 183}
+{"sub_label": "terrorism", "obj_label": "hide", "masked_sentences": ["Terrorism would make you want to [MASK]."], "uuid": 184}
+{"sub_label": "thirst", "obj_label": "drink", "masked_sentences": ["[MASK] is used for satisfying thirst."], "uuid": 185}
+{"sub_label": "tiredness", "obj_label": "sleep", "masked_sentences": ["Tiredness would make you want to [MASK] at night."], "uuid": 186}
+{"sub_label": "tobacco", "obj_label": "spit", "masked_sentences": ["Tobacco would make you want to [MASK]."], "uuid": 187}
+{"sub_label": "trampolines", "obj_label": "jump", "masked_sentences": ["Some people like to [MASK] on trampolines."], "uuid": 188}
+{"sub_label": "vanity", "obj_label": "groom", "masked_sentences": ["Vanity would make you want to [MASK]."], "uuid": 189}
+{"sub_label": "vengeance", "obj_label": "kill", "masked_sentences": ["The vengeance would make you want to [MASK] someone."], "uuid": 190}
+{"sub_label": "victory", "obj_label": "celebrate", "masked_sentences": ["You would [MASK] because you want others to know about your victory."], "uuid": 191}
+{"sub_label": "waiting", "obj_label": "fiddle", "masked_sentences": ["Waiting would make you want to [MASK]."], "uuid": 192}
+{"sub_label": "wanting", "obj_label": "get", "masked_sentences": ["Wanting to [MASK] on the internet would make you want to use a computer."], "uuid": 193}
+{"sub_label": "war", "obj_label": "kill", "masked_sentences": ["One of the things you do when you go to war is [MASK]."], "uuid": 194}
+{"sub_label": "waves", "obj_label": "surf", "masked_sentences": ["[MASK] is ride waves."], "uuid": 195}
+{"sub_label": "wine", "obj_label": "talk", "masked_sentences": ["Wine would make you want to [MASK]."], "uuid": 196}
+{"sub_label": "winning", "obj_label": "celebrate", "masked_sentences": ["Winning would make you want to [MASK]."], "uuid": 197}
+{"sub_label": "winning", "obj_label": "compete", "masked_sentences": ["If you want to [MASK] against someone then you should understand that winning is not everything: playing the game is the thing!"], "uuid": 198}
+{"sub_label": "winter", "obj_label": "knit", "masked_sentences": ["Winter would make you want to [MASK]."], "uuid": 199}
+{"sub_label": "winter", "obj_label": "skate", "masked_sentences": ["[MASK] is used for winter sport."], "uuid": 200}
+{"sub_label": "winter", "obj_label": "ski", "masked_sentences": ["Another way to say \"people like to [MASK] in the winter\" is \"people enjoy skiing\"."], "uuid": 201}
+{"sub_label": "wisdom", "obj_label": "listen", "masked_sentences": ["Wisdom would make you want to [MASK]."], "uuid": 202}
+{"sub_label": "wondering", "obj_label": "remember", "masked_sentences": ["Wondering would make you want to [MASK]."], "uuid": 203}
+{"sub_label": "work", "obj_label": "rest", "masked_sentences": ["Having a [MASK] requires stopping your work."], "uuid": 204}
+{"sub_label": "working", "obj_label": "rest", "masked_sentences": ["[MASK] is a type of stop working."], "uuid": 205}
+{"sub_label": "wrongdoing", "obj_label": "punish", "masked_sentences": ["Wrongdoing would make you want to [MASK] someone."], "uuid": 206}

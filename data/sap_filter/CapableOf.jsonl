@@ -1,0 +1,582 @@
+{"sub_label": "a", "obj_label": "container", "masked_sentences": ["Like a [MASK], it holds various items."], "uuid": 0}
+{"sub_label": "accomodations", "obj_label": "hotels", "masked_sentences": ["Accomodations can be [MASK]."], "uuid": 1}
+{"sub_label": "actor", "obj_label": "pretend", "masked_sentences": ["You would [MASK] because you want to be an actor."], "uuid": 2}
+{"sub_label": "adult", "obj_label": "marry", "masked_sentences": ["To understand the event \"My son was going to be married on Saturday.  He decided not to get married a few days before the wedding.\", it is important to know that His or her son had found an adult female person and at one point had agreed to [MASK] this person."], "uuid": 3}
+{"sub_label": "adult", "obj_label": "work", "masked_sentences": ["An activity adult can do is [MASK]."], "uuid": 4}
+{"sub_label": "adults", "obj_label": "count", "masked_sentences": ["Adults can [MASK] ."], "uuid": 5}
+{"sub_label": "airplanes", "obj_label": "accelerate", "masked_sentences": ["Airplanes can [MASK]."], "uuid": 6}
+{"sub_label": "airplanes", "obj_label": "bomb", "masked_sentences": ["Airplanes can plan to [MASK] targets."], "uuid": 7}
+{"sub_label": "airplanes", "obj_label": "crash", "masked_sentences": ["To understand the event \"Sharon was afraid to fly on the airplane.\", it is important to know that Airplanes sometimes [MASK]."], "uuid": 8}
+{"sub_label": "airplanes", "obj_label": "stall", "masked_sentences": ["Airplanes can [MASK]."], "uuid": 9}
+{"sub_label": "airplanes", "obj_label": "taxi", "masked_sentences": ["Airplanes can [MASK]."], "uuid": 10}
+{"sub_label": "alcohol", "obj_label": "burn", "masked_sentences": ["Alcohol can [MASK]."], "uuid": 11}
+{"sub_label": "alcohol", "obj_label": "fool", "masked_sentences": ["Alcohol can [MASK] you."], "uuid": 12}
+{"sub_label": "alive", "obj_label": "grow", "masked_sentences": ["The statement \"rocks are not alive\" is true because rocks do not move or [MASK]."], "uuid": 13}
+{"sub_label": "animal", "obj_label": "eating", "masked_sentences": ["Graze is a type of animal [MASK]."], "uuid": 14}
+{"sub_label": "animal", "obj_label": "live", "masked_sentences": ["Worms is a kind of animal that [MASK] in the ground."], "uuid": 15}
+{"sub_label": "animals", "obj_label": "attack", "masked_sentences": ["Several species of animals and reptiles are likely to [MASK] humans."], "uuid": 16}
+{"sub_label": "animals", "obj_label": "bite", "masked_sentences": ["Wild animals can will sometimes [MASK]."], "uuid": 17}
+{"sub_label": "animals", "obj_label": "drink", "masked_sentences": ["The broken hydrant will spill water animals may [MASK]."], "uuid": 18}
+{"sub_label": "animals", "obj_label": "fly", "masked_sentences": ["To understand the event \"A bird flew onto a branch.\", it is important to know that Birds are small, winged animals that [MASK]."], "uuid": 19}
+{"sub_label": "animals", "obj_label": "gay", "masked_sentences": ["Animals can be [MASK]."], "uuid": 20}
+{"sub_label": "animals", "obj_label": "males", "masked_sentences": ["Animals can be [MASK]."], "uuid": 21}
+{"sub_label": "animals", "obj_label": "move", "masked_sentences": ["Unlike most animals' jaws, both the sharks' upper and lower jaws [MASK]. ."], "uuid": 22}
+{"sub_label": "animals", "obj_label": "travel", "masked_sentences": ["Horses are social animals, and [MASK] in herds."], "uuid": 23}
+{"sub_label": "antagonist", "obj_label": "needle", "masked_sentences": ["An antagonist can [MASK] someone."], "uuid": 24}
+{"sub_label": "antibiotic", "obj_label": "prescribed", "masked_sentences": ["An antibiotic can be [MASK]."], "uuid": 25}
+{"sub_label": "ants", "obj_label": "crawl", "masked_sentences": ["An activity ants can do is [MASK]."], "uuid": 26}
+{"sub_label": "ants", "obj_label": "fly", "masked_sentences": ["Most ants cannot [MASK]."], "uuid": 27}
+{"sub_label": "anybody", "obj_label": "forget", "masked_sentences": ["Anybody can [MASK] anything."], "uuid": 28}
+{"sub_label": "anyone", "obj_label": "awesome", "masked_sentences": ["Anyone can be [MASK]."], "uuid": 29}
+{"sub_label": "anyone", "obj_label": "breathe", "masked_sentences": ["An activity anyone can do is [MASK]."], "uuid": 30}
+{"sub_label": "anyone", "obj_label": "gay", "masked_sentences": ["Anyone can be [MASK]."], "uuid": 31}
+{"sub_label": "anyone", "obj_label": "kiss", "masked_sentences": ["In some cultures, a [MASK] on the cheek is a greeting exchanged with anyone you know."], "uuid": 32}
+{"sub_label": "anyone", "obj_label": "record", "masked_sentences": ["Anyone can [MASK] anything."], "uuid": 33}
+{"sub_label": "anyone", "obj_label": "say", "masked_sentences": ["The statement \"Another way to [MASK] \"A writer writes a book.\" is \"books are written by writers\"\" is true because anyone who writes a book is called a writer."], "uuid": 34}
+{"sub_label": "anyone", "obj_label": "think", "masked_sentences": ["An activity anyone can do is [MASK]."], "uuid": 35}
+{"sub_label": "anyone", "obj_label": "try", "masked_sentences": ["The statement \"Sometimes running in a marathon causes fatigue collapse\" helps answer the question \"People in marathons run for long distances to [MASK] to be the first to cross a ribbon.  This effort can cause most anyone to collapse onto the ground from fatigue.\"."], "uuid": 36}
+{"sub_label": "anything", "obj_label": "surprise", "masked_sentences": ["Anything can [MASK] you."], "uuid": 37}
+{"sub_label": "anything", "obj_label": "whatever", "masked_sentences": ["Anything can be [MASK]."], "uuid": 38}
+{"sub_label": "archeologists", "obj_label": "dig", "masked_sentences": ["An activity archeologists can do is [MASK]."], "uuid": 39}
+{"sub_label": "architects", "obj_label": "disagree", "masked_sentences": ["Architects can [MASK]."], "uuid": 40}
+{"sub_label": "arguments", "obj_label": "persuade", "masked_sentences": ["To [MASK], avoid arguments."], "uuid": 41}
+{"sub_label": "artist", "obj_label": "create", "masked_sentences": ["An artist wants to [MASK]."], "uuid": 42}
+{"sub_label": "artist", "obj_label": "draw", "masked_sentences": ["[MASK] is typically in artist work."], "uuid": 43}
+{"sub_label": "artist", "obj_label": "paint", "masked_sentences": ["[MASK] is a type of artist tool."], "uuid": 44}
+{"sub_label": "athlete", "obj_label": "compete", "masked_sentences": ["An activity an athlete  can do is is [MASK]."], "uuid": 45}
+{"sub_label": "athlete", "obj_label": "sprint", "masked_sentences": ["An activity an athlete can do is [MASK]."], "uuid": 46}
+{"sub_label": "author", "obj_label": "write", "masked_sentences": ["To understand the event \"Robert Munch is an author.  Robert Munch wrote a book.\", it is important to know that robert munch can [MASK]."], "uuid": 47}
+{"sub_label": "b", "obj_label": "follow", "masked_sentences": ["B can [MASK] A."], "uuid": 48}
+{"sub_label": "babies", "obj_label": "cry", "masked_sentences": ["Babies [MASK] often."], "uuid": 49}
+{"sub_label": "babies", "obj_label": "giggle", "masked_sentences": ["Babies can [MASK]."], "uuid": 50}
+{"sub_label": "baby", "obj_label": "cry", "masked_sentences": ["To understand the event \"The baby cried.  Lisa fed it a bottle.\", it is important to know that Sometimes, babies [MASK] with hunger."], "uuid": 51}
+{"sub_label": "baby", "obj_label": "nurse", "masked_sentences": ["A [MASK] can use milk to feed a newborn baby."], "uuid": 52}
+{"sub_label": "bag", "obj_label": "carry", "masked_sentences": ["The statement \"a holdall is a kind of bag\" is true because Some large [MASK] totes hold many items."], "uuid": 53}
+{"sub_label": "bag", "obj_label": "goal", "masked_sentences": ["A bag can be a [MASK]."], "uuid": 54}
+{"sub_label": "ball", "obj_label": "bounce", "masked_sentences": ["Something that might happen while playing basketball is you [MASK] the ball."], "uuid": 55}
+{"sub_label": "balls", "obj_label": "pop", "masked_sentences": ["Balls can [MASK]."], "uuid": 56}
+{"sub_label": "bat", "obj_label": "fly", "masked_sentences": ["An activity a bat can do is [MASK]."], "uuid": 57}
+{"sub_label": "bats", "obj_label": "fly", "masked_sentences": ["Bats can [MASK] in aeroplanes, but this is generally not allowed."], "uuid": 58}
+{"sub_label": "bear", "obj_label": "swim", "masked_sentences": ["A bear can [MASK]."], "uuid": 59}
+{"sub_label": "bee", "obj_label": "sting", "masked_sentences": ["A bee is an insect that can [MASK]."], "uuid": 60}
+{"sub_label": "beetles", "obj_label": "fly", "masked_sentences": ["An activity some beetles can do is [MASK]."], "uuid": 61}
+{"sub_label": "believer", "obj_label": "pray", "masked_sentences": ["An activity a true believer  can do is [MASK] ."], "uuid": 62}
+{"sub_label": "bells", "obj_label": "rang", "masked_sentences": ["To understand the event \"Betty [MASK] the bell.\", it is important to know that Bells contain a knocker."], "uuid": 63}
+{"sub_label": "bike", "obj_label": "crash", "masked_sentences": ["A bike can [MASK]."], "uuid": 64}
+{"sub_label": "bird", "obj_label": "pet", "masked_sentences": ["Canary is [MASK] bird."], "uuid": 65}
+{"sub_label": "bird", "obj_label": "sing", "masked_sentences": ["Beth can [MASK] like a bird."], "uuid": 66}
+{"sub_label": "birds", "obj_label": "breathe", "masked_sentences": ["All birds can [MASK]."], "uuid": 67}
+{"sub_label": "birds", "obj_label": "eat", "masked_sentences": ["Some birds [MASK] seeds."], "uuid": 68}
+{"sub_label": "birds", "obj_label": "grow", "masked_sentences": ["Birds can [MASK]."], "uuid": 69}
+{"sub_label": "birds", "obj_label": "hatch", "masked_sentences": ["Birds [MASK] from eggs."], "uuid": 70}
+{"sub_label": "birds", "obj_label": "land", "masked_sentences": ["To understand the event \"A bird flew onto a branch.\", it is important to know that Relatively small birds can [MASK] on the branch of a tree."], "uuid": 71}
+{"sub_label": "birds", "obj_label": "mate", "masked_sentences": ["Birds can [MASK]."], "uuid": 72}
+{"sub_label": "birds", "obj_label": "perch", "masked_sentences": ["[MASK] is related to birds sitting."], "uuid": 73}
+{"sub_label": "birds", "obj_label": "reproduce", "masked_sentences": ["To understand the event \"The chicken laid an egg.\", it is important to know that An egg is how birds [MASK] ."], "uuid": 74}
+{"sub_label": "bladder", "obj_label": "empty", "masked_sentences": ["When you [MASK] your bladder you do the following: 1. urinate, 2. go into the bathroom, 3. pull out your penis, 4. pull down your zipper."], "uuid": 75}
+{"sub_label": "bladder", "obj_label": "filled", "masked_sentences": ["A bladder can be [MASK]."], "uuid": 76}
+{"sub_label": "bladder", "obj_label": "full", "masked_sentences": ["A [MASK] bladder would make you want to have a pee."], "uuid": 77}
+{"sub_label": "boats", "obj_label": "sink", "masked_sentences": ["Boats sometimes [MASK]."], "uuid": 78}
+{"sub_label": "bomb", "obj_label": "destroy", "masked_sentences": ["An aerial bomb can be dropped from a plane and [MASK] life on ground below."], "uuid": 79}
+{"sub_label": "bombs", "obj_label": "explode", "masked_sentences": ["The statement \"a vehicle bomb is used for destroying a target\" is true because Bombs [MASK], which moves pieces of material in an outward direction at a very high velocity."], "uuid": 80}
+{"sub_label": "bones", "obj_label": "break", "masked_sentences": ["Pride is easier to [MASK] than bones."], "uuid": 81}
+{"sub_label": "boxer", "obj_label": "punch", "masked_sentences": ["You would hit a [MASK] bag because you want to train as a boxer."], "uuid": 82}
+{"sub_label": "bricklayers", "obj_label": "smoke", "masked_sentences": ["Some bricklayers may [MASK]."], "uuid": 83}
+{"sub_label": "brother", "obj_label": "bug", "masked_sentences": ["A little brother can needle his sister to [MASK] her."], "uuid": 84}
+{"sub_label": "brother", "obj_label": "protect", "masked_sentences": ["A brother can [MASK] you."], "uuid": 85}
+{"sub_label": "bubble", "obj_label": "burst", "masked_sentences": ["A bubble can [MASK]."], "uuid": 86}
+{"sub_label": "buddha", "obj_label": "do", "masked_sentences": ["The buddha can [MASK] anything."], "uuid": 87}
+{"sub_label": "bug", "obj_label": "anger", "masked_sentences": ["A bug can [MASK] me."], "uuid": 88}
+{"sub_label": "building", "obj_label": "target", "masked_sentences": ["A cannon is a big heavy gun used to fire a projectile at a large [MASK] such as a ship, vehicle or building."], "uuid": 89}
+{"sub_label": "bull", "obj_label": "charge", "masked_sentences": ["A bull can [MASK] a matador."], "uuid": 90}
+{"sub_label": "bully", "obj_label": "corner", "masked_sentences": ["A bully can [MASK] someone."], "uuid": 91}
+{"sub_label": "bullying", "obj_label": "costly", "masked_sentences": ["Bullying can be [MASK]."], "uuid": 92}
+{"sub_label": "butterfly", "obj_label": "delight", "masked_sentences": ["A butterfly can [MASK] anyone."], "uuid": 93}
+{"sub_label": "butterfly", "obj_label": "fly", "masked_sentences": ["To understand the event \"The butterfly landed on the flower.\", it is important to know that butterflies [MASK] in the air."], "uuid": 94}
+{"sub_label": "buttons", "obj_label": "explode", "masked_sentences": ["Buttons can [MASK]."], "uuid": 95}
+{"sub_label": "cable", "obj_label": "connect", "masked_sentences": ["The statement \"Something you find under a desk is a cable\" is true because cables [MASK] computer components."], "uuid": 96}
+{"sub_label": "cancer", "obj_label": "kill", "masked_sentences": ["Cancer can [MASK]."], "uuid": 97}
+{"sub_label": "cans", "obj_label": "places", "masked_sentences": ["Cans can be [MASK]."], "uuid": 98}
+{"sub_label": "car", "obj_label": "crash", "masked_sentences": ["Something that might happen when you drive a car is you may [MASK]."], "uuid": 99}
+{"sub_label": "car", "obj_label": "stall", "masked_sentences": ["An activity a car can do is [MASK]."], "uuid": 100}
+{"sub_label": "cars", "obj_label": "crash", "masked_sentences": ["Cars sometimes [MASK]."], "uuid": 101}
+{"sub_label": "cars", "obj_label": "race", "masked_sentences": ["A racer can [MASK] cars."], "uuid": 102}
+{"sub_label": "cat", "obj_label": "scratch", "masked_sentences": ["A person doesn't want a cat [MASK] ."], "uuid": 103}
+{"sub_label": "cats", "obj_label": "claw", "masked_sentences": ["[MASK] is typically in cats."], "uuid": 104}
+{"sub_label": "cats", "obj_label": "think", "masked_sentences": ["Cats can [MASK]."], "uuid": 105}
+{"sub_label": "ceiling", "obj_label": "leak", "masked_sentences": ["Ceiling can [MASK]."], "uuid": 106}
+{"sub_label": "ceiling", "obj_label": "metaphor", "masked_sentences": ["A ceiling can be a [MASK]."], "uuid": 107}
+{"sub_label": "cells", "obj_label": "die", "masked_sentences": ["Without oxygen brain cells will [MASK] in  minutes."], "uuid": 108}
+{"sub_label": "chalk", "obj_label": "break", "masked_sentences": ["Chalkboards do not [MASK] as easily as chalk does,."], "uuid": 109}
+{"sub_label": "chicken", "obj_label": "pet", "masked_sentences": ["A chicken can be a [MASK]."], "uuid": 110}
+{"sub_label": "child", "obj_label": "breathe", "masked_sentences": ["A child can [MASK]."], "uuid": 111}
+{"sub_label": "child", "obj_label": "pain", "masked_sentences": ["A child can [MASK] you."], "uuid": 112}
+{"sub_label": "children", "obj_label": "awesome", "masked_sentences": ["Children can be [MASK]."], "uuid": 113}
+{"sub_label": "children", "obj_label": "enjoyed", "masked_sentences": ["Children can be [MASK]."], "uuid": 114}
+{"sub_label": "children", "obj_label": "laugh", "masked_sentences": ["Children [MASK] more than adults."], "uuid": 115}
+{"sub_label": "children", "obj_label": "skip", "masked_sentences": ["Children can [MASK]."], "uuid": 116}
+{"sub_label": "children", "obj_label": "walk", "masked_sentences": ["A lot of children like to [MASK] on a curb like a balance beam."], "uuid": 117}
+{"sub_label": "children", "obj_label": "wish", "masked_sentences": ["If adults are responsible for the care of a child or children and they [MASK] to leave home to see a movie, it is necessary for them to arrange for a babysitter to come into the home to look after the child while they are away."], "uuid": 118}
+{"sub_label": "chimney", "obj_label": "smoke", "masked_sentences": ["[MASK] travels through a chimney."], "uuid": 119}
+{"sub_label": "chimpanzees", "obj_label": "display", "masked_sentences": ["An activity chimpanzees can do is [MASK]."], "uuid": 120}
+{"sub_label": "chocolate", "obj_label": "melt", "masked_sentences": ["Chocolate can [MASK]."], "uuid": 121}
+{"sub_label": "christian", "obj_label": "fail", "masked_sentences": ["A Christian can [MASK]."], "uuid": 122}
+{"sub_label": "christian", "obj_label": "forgive", "masked_sentences": ["You would [MASK] someone because you are a Christian."], "uuid": 123}
+{"sub_label": "christian", "obj_label": "pray", "masked_sentences": ["A Christian wants to [MASK]."], "uuid": 124}
+{"sub_label": "christian", "obj_label": "rebel", "masked_sentences": ["A Christian can [MASK]."], "uuid": 125}
+{"sub_label": "christian", "obj_label": "restored", "masked_sentences": ["A Christian can be [MASK]."], "uuid": 126}
+{"sub_label": "christian", "obj_label": "stumble", "masked_sentences": ["A Christian can [MASK]."], "uuid": 127}
+{"sub_label": "cities", "obj_label": "flood", "masked_sentences": ["Cities sometimes [MASK]."], "uuid": 128}
+{"sub_label": "citizen", "obj_label": "vote", "masked_sentences": ["Preparing for a [MASK] is for any citizen."], "uuid": 129}
+{"sub_label": "claws", "obj_label": "scratch", "masked_sentences": ["Another way to say \"Claws can [MASK].\" is \"Knees can itch.\"."], "uuid": 130}
+{"sub_label": "clothes", "obj_label": "fit", "masked_sentences": ["A person doesn't want clothes that don't [MASK]."], "uuid": 131}
+{"sub_label": "clouds", "obj_label": "rain", "masked_sentences": ["The statement \"a cloud is for bringing [MASK].\" helps answer the question \"What is the purpose of clouds\"."], "uuid": 132}
+{"sub_label": "clown", "obj_label": "surprise", "masked_sentences": ["A clown can [MASK] you."], "uuid": 133}
+{"sub_label": "community", "obj_label": "broken", "masked_sentences": ["A community can be [MASK]."], "uuid": 134}
+{"sub_label": "computer", "obj_label": "calculate", "masked_sentences": ["If you want to [MASK] things quickly then you should use a computer."], "uuid": 135}
+{"sub_label": "computer", "obj_label": "count", "masked_sentences": ["A computer can [MASK] symbols."], "uuid": 136}
+{"sub_label": "computer", "obj_label": "crash", "masked_sentences": ["Person does not want his computer to [MASK]."], "uuid": 137}
+{"sub_label": "computer", "obj_label": "do", "masked_sentences": ["One of the things you [MASK] when you fix a computer is take off the cover."], "uuid": 138}
+{"sub_label": "computer", "obj_label": "think", "masked_sentences": ["One of the things you do when you program a computer is [MASK]."], "uuid": 139}
+{"sub_label": "computers", "obj_label": "crash", "masked_sentences": ["The statement \"Something that might happen while using a computer is a [MASK]\" is true because computers, having no common sense, will do whatever a program tells it to do, even if it results in system failure."], "uuid": 140}
+{"sub_label": "computers", "obj_label": "teach", "masked_sentences": ["Situation: I want to [MASK] computers."], "uuid": 141}
+{"sub_label": "contest", "obj_label": "game", "masked_sentences": ["[MASK] is a type of baseball contest."], "uuid": 142}
+{"sub_label": "contribution", "obj_label": "gift", "masked_sentences": ["Contribution is a [MASK]."], "uuid": 143}
+{"sub_label": "cops", "obj_label": "jump", "masked_sentences": ["Cops can [MASK] you."], "uuid": 144}
+{"sub_label": "cords", "obj_label": "bind", "masked_sentences": ["Cords can [MASK]."], "uuid": 145}
+{"sub_label": "couple", "obj_label": "communicate", "masked_sentences": ["An activity a couple  can do is [MASK] ."], "uuid": 146}
+{"sub_label": "couple", "obj_label": "dance", "masked_sentences": ["An activity a couple  can do is [MASK] ."], "uuid": 147}
+{"sub_label": "cow", "obj_label": "pet", "masked_sentences": ["A cow can be a [MASK]."], "uuid": 148}
+{"sub_label": "crayons", "obj_label": "melt", "masked_sentences": ["Crayons will [MASK] in the sun."], "uuid": 149}
+{"sub_label": "cuts", "obj_label": "bleed", "masked_sentences": ["Cuts often [MASK]."], "uuid": 150}
+{"sub_label": "cynics", "obj_label": "doubt", "masked_sentences": ["Cynics can [MASK] anything."], "uuid": 151}
+{"sub_label": "diagnosis", "obj_label": "change", "masked_sentences": ["A diagnosis can [MASK]."], "uuid": 152}
+{"sub_label": "dinosaur", "obj_label": "eat", "masked_sentences": ["A dinosaur can [MASK] you."], "uuid": 153}
+{"sub_label": "dinosaurs", "obj_label": "big", "masked_sentences": ["Dinosaurs can be [MASK]."], "uuid": 154}
+{"sub_label": "disease", "obj_label": "strike", "masked_sentences": ["Disease can [MASK] unexpectedly."], "uuid": 155}
+{"sub_label": "diseases", "obj_label": "kill", "masked_sentences": ["Another way to say \"diseases can [MASK] animals\" is \"If an animal catches a disease, it might die as a result.\"."], "uuid": 156}
+{"sub_label": "doctor", "obj_label": "care", "masked_sentences": ["Doctor is [MASK] giver."], "uuid": 157}
+{"sub_label": "doctor", "obj_label": "examine", "masked_sentences": ["A doctor can [MASK] you."], "uuid": 158}
+{"sub_label": "dog", "obj_label": "bite", "masked_sentences": ["A friendly dog is unlikely to [MASK].  ."], "uuid": 159}
+{"sub_label": "dog", "obj_label": "breathe", "masked_sentences": ["A dog can [MASK]."], "uuid": 160}
+{"sub_label": "dog", "obj_label": "run", "masked_sentences": ["To understand the event \"The dog ran away.\", it is important to know that Dogs may [MASK] when they are frightened."], "uuid": 161}
+{"sub_label": "dog", "obj_label": "stray", "masked_sentences": ["The story \"Gaining More Land\" has the step \"I wanted to open a dog sanctuary for [MASK] and abused dogs.\"."], "uuid": 162}
+{"sub_label": "dogs", "obj_label": "attack", "masked_sentences": ["Situation: Others say their dogs can sense an [MASK] on the way (on the owner)."], "uuid": 163}
+{"sub_label": "dogs", "obj_label": "bark", "masked_sentences": ["Dogs [MASK] at rabbits."], "uuid": 164}
+{"sub_label": "dogs", "obj_label": "bite", "masked_sentences": ["To understand the event \"The dog was growling at the man.\", it is important to know that Dogs [MASK] people."], "uuid": 165}
+{"sub_label": "dogs", "obj_label": "defend", "masked_sentences": ["Dogs can [MASK]."], "uuid": 166}
+{"sub_label": "dogs", "obj_label": "grow", "masked_sentences": ["Puppies will [MASK] and become dogs."], "uuid": 167}
+{"sub_label": "dogs", "obj_label": "hear", "masked_sentences": ["Dogs can [MASK] high-pitched noises."], "uuid": 168}
+{"sub_label": "dogs", "obj_label": "males", "masked_sentences": ["Dogs can be [MASK]."], "uuid": 169}
+{"sub_label": "dogs", "obj_label": "mate", "masked_sentences": ["Dogs can [MASK]."], "uuid": 170}
+{"sub_label": "dogs", "obj_label": "reproduce", "masked_sentences": ["Dogs can [MASK]."], "uuid": 171}
+{"sub_label": "dogs", "obj_label": "see", "masked_sentences": ["To understand the event \"Dave went to [MASK] a man about a dog.\", it is important to know that People sell certain dogs."], "uuid": 172}
+{"sub_label": "dogs", "obj_label": "trained", "masked_sentences": ["Another way to say \"A person can train a dog to sniff drugs.\" is \"Dogs can be [MASK] to sniff for drugs.\"."], "uuid": 173}
+{"sub_label": "dolphins", "obj_label": "swim", "masked_sentences": ["To understand the event \"Dolphins played in front of the ship.\", it is important to know that you need water to [MASK]."], "uuid": 174}
+{"sub_label": "donuts", "obj_label": "eaten", "masked_sentences": ["To understand the event \"Mary had a bagel for breakfast.\", it is important to know that Bagels, like donuts, are usually only [MASK] at breakfast."], "uuid": 175}
+{"sub_label": "door", "obj_label": "close", "masked_sentences": ["A private person can [MASK] the door."], "uuid": 176}
+{"sub_label": "door", "obj_label": "glass", "masked_sentences": ["[MASK] is not door."], "uuid": 177}
+{"sub_label": "door", "obj_label": "open", "masked_sentences": ["If the door to his room is closed he will need to [MASK] it to go down the hall to the bathroom to shower."], "uuid": 178}
+{"sub_label": "doves", "obj_label": "fly", "masked_sentences": ["Doves can [MASK]."], "uuid": 179}
+{"sub_label": "dragon", "obj_label": "fly", "masked_sentences": ["My mom was on the phone she asked me to tell her about a dragon [MASK]."], "uuid": 180}
+{"sub_label": "dragonfly", "obj_label": "fly", "masked_sentences": ["An activity a dragonfly can do is [MASK]."], "uuid": 181}
+{"sub_label": "drain", "obj_label": "tube", "masked_sentences": ["A drain can be a [MASK]."], "uuid": 182}
+{"sub_label": "dress", "obj_label": "action", "masked_sentences": ["Dress can be an [MASK].  whareing a coat is dressing."], "uuid": 183}
+{"sub_label": "drive", "obj_label": "street", "masked_sentences": ["You can drive faster on a thoroughfare than on a residential [MASK]."], "uuid": 184}
+{"sub_label": "drugs", "obj_label": "damage", "masked_sentences": ["Some people use legal drugs and cause [MASK] to their health."], "uuid": 185}
+{"sub_label": "ducks", "obj_label": "cooked", "masked_sentences": ["Ducks can be [MASK]\\."], "uuid": 186}
+{"sub_label": "dunes", "obj_label": "move", "masked_sentences": ["Dunes [MASK] themselves over time."], "uuid": 187}
+{"sub_label": "dynamite", "obj_label": "explode", "masked_sentences": ["If you want to [MASK] something then you should get some dynamite."], "uuid": 188}
+{"sub_label": "earth", "obj_label": "rotate", "masked_sentences": ["The statement \"The sun rises in the east and sets in the west.\" is true because The earth must [MASK] counterclockwise if the sun rises in the east and sets in the west?"], "uuid": 189}
+{"sub_label": "edges", "obj_label": "hurt", "masked_sentences": ["Edges can [MASK]."], "uuid": 190}
+{"sub_label": "elastic", "obj_label": "stretch", "masked_sentences": ["[MASK] is use elastic."], "uuid": 191}
+{"sub_label": "electricity", "obj_label": "shock", "masked_sentences": ["[MASK] is electricity action."], "uuid": 192}
+{"sub_label": "elephants", "obj_label": "breathe", "masked_sentences": ["Elephants can [MASK]."], "uuid": 193}
+{"sub_label": "emacs", "obj_label": "save", "masked_sentences": ["Emacs can [MASK]."], "uuid": 194}
+{"sub_label": "engineers", "obj_label": "design", "masked_sentences": ["The statement \"To understand the event \"Alice is a freshman at Boston University.  Alice decided to major in mechanical engineering.\", it is important to know that Engineers [MASK] and build many things\" helps answer the question \"Why is Alice an engineering major?\"."], "uuid": 195}
+{"sub_label": "entance", "obj_label": "doorway", "masked_sentences": ["An entance can be a [MASK]."], "uuid": 196}
+{"sub_label": "event", "obj_label": "surprise", "masked_sentences": ["To understand the event \"Ariel wanted to [MASK] Beth.  Ariel bought Beth a puppy.\", it is important to know that Ariel and Beth are friends."], "uuid": 197}
+{"sub_label": "everybody", "obj_label": "exist", "masked_sentences": ["An activity everybody can do is [MASK]."], "uuid": 198}
+{"sub_label": "everyone", "obj_label": "learn", "masked_sentences": ["You can try to [MASK] from what everyone is telling you."], "uuid": 199}
+{"sub_label": "exercise", "obj_label": "condition", "masked_sentences": ["A human's physical [MASK] is improved by exercise."], "uuid": 200}
+{"sub_label": "eye", "obj_label": "cry", "masked_sentences": ["[MASK] is eye tears."], "uuid": 201}
+{"sub_label": "eye", "obj_label": "focus", "masked_sentences": ["If the eyeball is too short or the lens too flat or inflexible, the light rays entering the eye - particularly those from nearby objects - will not be brought to a [MASK] by the time they strike the retina."], "uuid": 202}
+{"sub_label": "failure", "obj_label": "illusion", "masked_sentences": ["Failure can be an [MASK]."], "uuid": 203}
+{"sub_label": "fajitas", "obj_label": "eat", "masked_sentences": ["You can [MASK] fajitas when having a barbecue."], "uuid": 204}
+{"sub_label": "falling", "obj_label": "hurt", "masked_sentences": ["To understand the event \"George fell down the stairs.\", it is important to know that Falling down stairs can [MASK]."], "uuid": 205}
+{"sub_label": "falling", "obj_label": "hurts", "masked_sentences": ["Another way to say \"To fall usually [MASK].\" is \"Falling usually causes pain.\"."], "uuid": 206}
+{"sub_label": "faucet", "obj_label": "break", "masked_sentences": ["A faucet can [MASK]."], "uuid": 207}
+{"sub_label": "fbi", "obj_label": "investigate", "masked_sentences": ["The FBI can [MASK]."], "uuid": 208}
+{"sub_label": "fedex", "obj_label": "ship", "masked_sentences": ["Fedex can [MASK] anything."], "uuid": 209}
+{"sub_label": "felt", "obj_label": "emotion", "masked_sentences": ["To understand the event \"Judy felt confused.\", it is important to know that Judy experienced an [MASK]."], "uuid": 210}
+{"sub_label": "fencers", "obj_label": "attack", "masked_sentences": ["Fencers can [MASK]."], "uuid": 211}
+{"sub_label": "ferret", "obj_label": "pet", "masked_sentences": ["You are likely to find a ferret in a [MASK] store around at the mall."], "uuid": 212}
+{"sub_label": "ferrets", "obj_label": "bite", "masked_sentences": ["Ferrets can [MASK]."], "uuid": 213}
+{"sub_label": "fingers", "obj_label": "bend", "masked_sentences": ["The last thing you do when you make a fist is [MASK] your thumb over your curved fingers."], "uuid": 214}
+{"sub_label": "fire", "obj_label": "burn", "masked_sentences": ["Something that might happen as a consequence of starting a fire is a building might [MASK] down."], "uuid": 215}
+{"sub_label": "fire", "obj_label": "harm", "masked_sentences": ["Trees can trust that fire will [MASK] them."], "uuid": 216}
+{"sub_label": "fire", "obj_label": "hurt", "masked_sentences": ["Situation: Fire can [MASK] you if you touch it."], "uuid": 217}
+{"sub_label": "fire", "obj_label": "kill", "masked_sentences": ["Fire can [MASK] people."], "uuid": 218}
+{"sub_label": "fire", "obj_label": "murder", "masked_sentences": ["Fire can [MASK]."], "uuid": 219}
+{"sub_label": "fireworks", "obj_label": "boom", "masked_sentences": ["Fireworks [MASK]."], "uuid": 220}
+{"sub_label": "fish", "obj_label": "pets", "masked_sentences": ["People often keep fish in a tank as [MASK]."], "uuid": 221}
+{"sub_label": "fish", "obj_label": "swim", "masked_sentences": ["A fish can can't [MASK] out of water."], "uuid": 222}
+{"sub_label": "fishermen", "obj_label": "fish", "masked_sentences": ["Fishermen can catch [MASK]."], "uuid": 223}
+{"sub_label": "flags", "obj_label": "wave", "masked_sentences": ["An activity flags can do is [MASK]."], "uuid": 224}
+{"sub_label": "flea", "obj_label": "jump", "masked_sentences": ["A flea can [MASK]."], "uuid": 225}
+{"sub_label": "flower", "obj_label": "close", "masked_sentences": ["A flower can [MASK]."], "uuid": 226}
+{"sub_label": "flower", "obj_label": "open", "masked_sentences": ["To understand the event \"The butterfly landed on the flower.\", it is important to know that None of your god damn business. The [MASK] Mind Inititive is unethical. Think about it. People contribute their collective wisdom. And Cui Bono? Who Profits? The corporations who fund MIT."], "uuid": 227}
+{"sub_label": "forest", "obj_label": "place", "masked_sentences": ["The story \"Going To A [MASK] That Is Too Far To Walk To\" has the step \"We drove to the forest.\"."], "uuid": 228}
+{"sub_label": "friend", "obj_label": "call", "masked_sentences": ["The story \"Making A Phone [MASK]\" has the step \"I had a conversion with my friend.\"."], "uuid": 229}
+{"sub_label": "friend", "obj_label": "needle", "masked_sentences": ["A friend can [MASK] a person."], "uuid": 230}
+{"sub_label": "friend", "obj_label": "talk", "masked_sentences": ["You would ring a friend because you need to [MASK]."], "uuid": 231}
+{"sub_label": "friend", "obj_label": "trust", "masked_sentences": ["A friend is someone you [MASK] and confide in."], "uuid": 232}
+{"sub_label": "friends", "obj_label": "comfort", "masked_sentences": ["You would [MASK] a friend because friends help each other in times of need."], "uuid": 233}
+{"sub_label": "friends", "obj_label": "leave", "masked_sentences": ["The last thing you do when you have friends over is clean up after they [MASK]."], "uuid": 234}
+{"sub_label": "frisbee", "obj_label": "fly", "masked_sentences": ["A frisbee can [MASK]."], "uuid": 235}
+{"sub_label": "frog", "obj_label": "leap", "masked_sentences": ["An activity a frog can do is [MASK]."], "uuid": 236}
+{"sub_label": "frog", "obj_label": "pet", "masked_sentences": ["A frog can be a [MASK]."], "uuid": 237}
+{"sub_label": "frogs", "obj_label": "hop", "masked_sentences": ["Frogs can [MASK]."], "uuid": 238}
+{"sub_label": "frogs", "obj_label": "jump", "masked_sentences": ["Frogs [MASK] to get around."], "uuid": 239}
+{"sub_label": "frogs", "obj_label": "leap", "masked_sentences": ["Frogs can [MASK]."], "uuid": 240}
+{"sub_label": "frogs", "obj_label": "swim", "masked_sentences": ["An activity frogs can do is [MASK]."], "uuid": 241}
+{"sub_label": "fruit", "obj_label": "decay", "masked_sentences": ["Fruit can [MASK]."], "uuid": 242}
+{"sub_label": "games", "obj_label": "competition", "masked_sentences": ["To understand the event \"Dave's golf game improved.\", it is important to know that Games are done for fun and [MASK]."], "uuid": 243}
+{"sub_label": "gas", "obj_label": "expand", "masked_sentences": ["An activity gas can do is [MASK]."], "uuid": 244}
+{"sub_label": "gas", "obj_label": "explode", "masked_sentences": ["Gas can [MASK]."], "uuid": 245}
+{"sub_label": "gate", "obj_label": "swing", "masked_sentences": ["A gate can [MASK]."], "uuid": 246}
+{"sub_label": "geese", "obj_label": "fly", "masked_sentences": ["Geese [MASK] north in the summer."], "uuid": 247}
+{"sub_label": "glass", "obj_label": "shattering", "masked_sentences": ["A glass can [MASK]."], "uuid": 248}
+{"sub_label": "gloves", "obj_label": "fit", "masked_sentences": ["My gloves can [MASK] me."], "uuid": 249}
+{"sub_label": "glue", "obj_label": "dry", "masked_sentences": ["Situation: Let the glue [MASK]."], "uuid": 250}
+{"sub_label": "glue", "obj_label": "set", "masked_sentences": ["Glue can [MASK]."], "uuid": 251}
+{"sub_label": "gnat", "obj_label": "fly", "masked_sentences": ["An activity a gnat can do is [MASK]."], "uuid": 252}
+{"sub_label": "god", "obj_label": "anything", "masked_sentences": ["The Judeo-Christian God can do [MASK]."], "uuid": 253}
+{"sub_label": "god", "obj_label": "everywhere", "masked_sentences": ["God is [MASK]."], "uuid": 254}
+{"sub_label": "goose", "obj_label": "fly", "masked_sentences": ["Goose can [MASK]."], "uuid": 255}
+{"sub_label": "grandaughter", "obj_label": "baby", "masked_sentences": ["A grandaughter can be a [MASK]."], "uuid": 256}
+{"sub_label": "grandma", "obj_label": "welcome", "masked_sentences": ["Grandma can [MASK] me."], "uuid": 257}
+{"sub_label": "grass", "obj_label": "burn", "masked_sentences": ["Grass can [MASK]."], "uuid": 258}
+{"sub_label": "grenade", "obj_label": "kill", "masked_sentences": ["A grenade can [MASK] someone."], "uuid": 259}
+{"sub_label": "gundog", "obj_label": "find", "masked_sentences": ["A gundog can [MASK]."], "uuid": 260}
+{"sub_label": "gundog", "obj_label": "retrieve", "masked_sentences": ["A gundog can [MASK]."], "uuid": 261}
+{"sub_label": "gundog", "obj_label": "seek", "masked_sentences": ["A gundog can [MASK]."], "uuid": 262}
+{"sub_label": "gundog", "obj_label": "work", "masked_sentences": ["A gundog can [MASK]."], "uuid": 263}
+{"sub_label": "guns", "obj_label": "break", "masked_sentences": ["Guns can [MASK]."], "uuid": 264}
+{"sub_label": "guns", "obj_label": "jam", "masked_sentences": ["Guns can [MASK]."], "uuid": 265}
+{"sub_label": "gymnasts", "obj_label": "gymnastics", "masked_sentences": ["[MASK] is for gymnasts."], "uuid": 266}
+{"sub_label": "gyms", "obj_label": "clubs", "masked_sentences": ["Gyms can be [MASK]."], "uuid": 267}
+{"sub_label": "hammers", "obj_label": "hit", "masked_sentences": ["Hammers can ...[MASK]."], "uuid": 268}
+{"sub_label": "hand", "obj_label": "write", "masked_sentences": ["An address label is for Preventing you having to [MASK] the address by hand."], "uuid": 269}
+{"sub_label": "hands", "obj_label": "soft", "masked_sentences": ["Situation: My hands feel smooth and [MASK]."], "uuid": 270}
+{"sub_label": "happiness", "obj_label": "spread", "masked_sentences": ["Happiness can [MASK]."], "uuid": 271}
+{"sub_label": "head", "obj_label": "ache", "masked_sentences": ["A head [MASK] is something you could get from drinking."], "uuid": 272}
+{"sub_label": "heart", "obj_label": "beat", "masked_sentences": ["Something that might happen while scoring a home run is your heart will [MASK] faster."], "uuid": 273}
+{"sub_label": "helicoptors", "obj_label": "fly", "masked_sentences": ["Helicoptors can [MASK]."], "uuid": 274}
+{"sub_label": "helping", "obj_label": "good", "masked_sentences": ["Getting a [MASK] grade is for helping to pass school."], "uuid": 275}
+{"sub_label": "hoatzins", "obj_label": "fly", "masked_sentences": ["Hoatzins can [MASK]."], "uuid": 276}
+{"sub_label": "home", "obj_label": "sanctuary", "masked_sentences": ["Home is [MASK]."], "uuid": 277}
+{"sub_label": "home", "obj_label": "welcome", "masked_sentences": ["Home teams can [MASK] visitors."], "uuid": 278}
+{"sub_label": "horse", "obj_label": "pet", "masked_sentences": ["You can use a horse to fulfill need for [MASK]."], "uuid": 279}
+{"sub_label": "houses", "obj_label": "burn", "masked_sentences": ["The statement \"fire can destroy houses\" is true because Uncontrolled combustion or accidential flames can [MASK] material to non-existence."], "uuid": 280}
+{"sub_label": "human", "obj_label": "die", "masked_sentences": ["All human beings should try to learn before they [MASK] what they are running from, and to, and why."], "uuid": 281}
+{"sub_label": "human", "obj_label": "scream", "masked_sentences": ["Human can [MASK]."], "uuid": 282}
+{"sub_label": "human", "obj_label": "smile", "masked_sentences": ["To understand the event \"Jim smiled.\", it is important to know that [MASK] is a typical geometrical shape that the human face takes."], "uuid": 283}
+{"sub_label": "human", "obj_label": "stand", "masked_sentences": ["A vending [MASK] is used to raise the coin process and product process to human height."], "uuid": 284}
+{"sub_label": "human", "obj_label": "torture", "masked_sentences": ["To understand the event \"The leather couch sits by the wall.\", it is important to know that Some humans believe it is wrong to [MASK] and kill other animals to serve human needs."], "uuid": 285}
+{"sub_label": "human", "obj_label": "write", "masked_sentences": ["A human called rich wellner is a complete idiot and yet he thinks he is clever because he can [MASK] scripts."], "uuid": 286}
+{"sub_label": "humans", "obj_label": "act", "masked_sentences": ["Humans can [MASK]."], "uuid": 287}
+{"sub_label": "humans", "obj_label": "appreciate", "masked_sentences": ["The statement \"animals can be domesticated to be used as labour, food or for other renewable resources such as milk or wool\" helps answer the question \"Did she [MASK] all that animals give humans?\"."], "uuid": 288}
+{"sub_label": "humans", "obj_label": "attack", "masked_sentences": ["To understand the event \"Sharks attacked Dwight.\", it is important to know that Sharks rarely [MASK] humans."], "uuid": 289}
+{"sub_label": "humans", "obj_label": "bend", "masked_sentences": ["Humans can [MASK]."], "uuid": 290}
+{"sub_label": "humans", "obj_label": "change", "masked_sentences": ["From ages 20 to 40, humans do not [MASK] very much with age."], "uuid": 291}
+{"sub_label": "humans", "obj_label": "coding", "masked_sentences": ["Humans can [MASK]."], "uuid": 292}
+{"sub_label": "humans", "obj_label": "crazy", "masked_sentences": ["Humans can be [MASK]."], "uuid": 293}
+{"sub_label": "humans", "obj_label": "criminals", "masked_sentences": ["Humans can be [MASK]."], "uuid": 294}
+{"sub_label": "humans", "obj_label": "cry", "masked_sentences": ["Humans can [MASK]."], "uuid": 295}
+{"sub_label": "humans", "obj_label": "dance", "masked_sentences": ["Humans [MASK] for entertainment."], "uuid": 296}
+{"sub_label": "humans", "obj_label": "destroy", "masked_sentences": ["Situation: I am fearfull for the world, because humans pollute and [MASK] wherever they go."], "uuid": 297}
+{"sub_label": "humans", "obj_label": "die", "masked_sentences": ["Humans have a finite lifespan and then they [MASK]."], "uuid": 298}
+{"sub_label": "humans", "obj_label": "draw", "masked_sentences": ["Humans can [MASK] what they see."], "uuid": 299}
+{"sub_label": "humans", "obj_label": "dream", "masked_sentences": ["Humans [MASK] in sleep."], "uuid": 300}
+{"sub_label": "humans", "obj_label": "heal", "masked_sentences": ["Humans can [MASK]."], "uuid": 301}
+{"sub_label": "humans", "obj_label": "laugh", "masked_sentences": ["Situation: a joke is something that makes humans [MASK] because it took ingenuityand often contains words connected in an irrational manner."], "uuid": 302}
+{"sub_label": "humans", "obj_label": "learn", "masked_sentences": ["Dogs [MASK] to play games with humans."], "uuid": 303}
+{"sub_label": "humans", "obj_label": "lie", "masked_sentences": ["Humans usually [MASK] down when sleeping."], "uuid": 304}
+{"sub_label": "humans", "obj_label": "listen", "masked_sentences": ["Humans can [MASK]."], "uuid": 305}
+{"sub_label": "humans", "obj_label": "plan", "masked_sentences": ["Humans can [MASK]."], "uuid": 306}
+{"sub_label": "humans", "obj_label": "punch", "masked_sentences": ["Humans can [MASK]."], "uuid": 307}
+{"sub_label": "humans", "obj_label": "reason", "masked_sentences": ["[MASK] is typically in humans."], "uuid": 308}
+{"sub_label": "humans", "obj_label": "reproduce", "masked_sentences": ["To understand the event \"Elise sang her baby a lullaby.\", it is important to know that A baby is how humans [MASK]."], "uuid": 309}
+{"sub_label": "humans", "obj_label": "run", "masked_sentences": ["Will humans eat each other when we [MASK] out of oil? ."], "uuid": 310}
+{"sub_label": "humans", "obj_label": "sad", "masked_sentences": ["Death is very [MASK] for humans."], "uuid": 311}
+{"sub_label": "humans", "obj_label": "share", "masked_sentences": ["That humans and other apes [MASK] a common ancestor is as much a scientific fact as that the earth revolves around the sun."], "uuid": 312}
+{"sub_label": "humans", "obj_label": "sleep", "masked_sentences": ["To understand the event \"Sam is tired  Sam went to [MASK]\", it is important to know that humans are inclined to get sleepy at night."], "uuid": 313}
+{"sub_label": "humans", "obj_label": "talk", "masked_sentences": ["Humans and fish don't [MASK]."], "uuid": 314}
+{"sub_label": "humans", "obj_label": "think", "masked_sentences": ["Computers can [MASK] faster than humans."], "uuid": 315}
+{"sub_label": "humans", "obj_label": "violent", "masked_sentences": ["Humans can be [MASK]."], "uuid": 316}
+{"sub_label": "humans", "obj_label": "wish", "masked_sentences": ["Humans resist death strongly because they [MASK] to live forever."], "uuid": 317}
+{"sub_label": "humans", "obj_label": "wonder", "masked_sentences": ["Humans [MASK] about their existence."], "uuid": 318}
+{"sub_label": "ice", "obj_label": "melt", "masked_sentences": ["Salt can be used to [MASK] ice."], "uuid": 319}
+{"sub_label": "idiot", "obj_label": "bug", "masked_sentences": ["An idiot can [MASK] you."], "uuid": 320}
+{"sub_label": "idiots", "obj_label": "surprise", "masked_sentences": ["Idiots can [MASK] me."], "uuid": 321}
+{"sub_label": "image", "obj_label": "see", "masked_sentences": ["The statement \"humans can draw what they [MASK]\" is true because An image that the brain understands by seeing can be drawn using other parts of the brain to direct the hand and fingers."], "uuid": 322}
+{"sub_label": "infant", "obj_label": "sleep", "masked_sentences": ["To understand the event \"The baby went to [MASK].\", it is important to know that a baby is an infant."], "uuid": 323}
+{"sub_label": "injury", "obj_label": "hurts", "masked_sentences": ["An injury often [MASK]."], "uuid": 324}
+{"sub_label": "ink", "obj_label": "colour", "masked_sentences": ["Ink can be any [MASK]."], "uuid": 325}
+{"sub_label": "insects", "obj_label": "buzz", "masked_sentences": ["An activity insects can do is [MASK]."], "uuid": 326}
+{"sub_label": "insects", "obj_label": "fly", "masked_sentences": ["Another way to say \"The [MASK] is a buzzing, flying insect\" is \"Some insects wings, buzzing,  are heard by humans\"."], "uuid": 327}
+{"sub_label": "insects", "obj_label": "move", "masked_sentences": ["Insects can [MASK]."], "uuid": 328}
+{"sub_label": "internet", "obj_label": "market", "masked_sentences": ["If you want to know how the stock [MASK] performed then you should use the Internet."], "uuid": 329}
+{"sub_label": "invalid", "obj_label": "read", "masked_sentences": ["An activity an invalid can do is [MASK]."], "uuid": 330}
+{"sub_label": "is", "obj_label": "expensive", "masked_sentences": ["Something you need to do before you go see a film is get a job, movies are [MASK]."], "uuid": 331}
+{"sub_label": "jew", "obj_label": "pray", "masked_sentences": ["A Jew can [MASK]."], "uuid": 332}
+{"sub_label": "kangaroos", "obj_label": "leap", "masked_sentences": ["Another way to say \"kangaroos can jump high\" is \"an ability of the kangaroo is its ability to [MASK] to great heights\"."], "uuid": 333}
+{"sub_label": "key", "obj_label": "free", "masked_sentences": ["A key can [MASK] a prisoner."], "uuid": 334}
+{"sub_label": "king", "obj_label": "vomit", "masked_sentences": ["A king can [MASK]."], "uuid": 335}
+{"sub_label": "kite", "obj_label": "fly", "masked_sentences": ["You would [MASK] a kite because you want have fun."], "uuid": 336}
+{"sub_label": "knife", "obj_label": "hurt", "masked_sentences": ["I can [MASK] myself with a rubber knife."], "uuid": 337}
+{"sub_label": "knives", "obj_label": "hurt", "masked_sentences": ["Guns and knives [MASK] people."], "uuid": 338}
+{"sub_label": "labels", "obj_label": "pictures", "masked_sentences": ["Labels can be [MASK]."], "uuid": 339}
+{"sub_label": "lesbians", "obj_label": "marry", "masked_sentences": ["Lesbians can [MASK]."], "uuid": 340}
+{"sub_label": "liar", "obj_label": "fool", "masked_sentences": ["A liar can [MASK] you."], "uuid": 341}
+{"sub_label": "liars", "obj_label": "promise", "masked_sentences": ["Liars can [MASK] anything to please people."], "uuid": 342}
+{"sub_label": "life", "obj_label": "die", "masked_sentences": ["Another way to say \"Water is essential for life on Earth.\" is \"Without enough water living things [MASK].\"."], "uuid": 343}
+{"sub_label": "life", "obj_label": "end", "masked_sentences": ["To understand the event \"The tree died.\", it is important to know that death is the [MASK] of life."], "uuid": 344}
+{"sub_label": "light", "obj_label": "travel", "masked_sentences": ["A car cannot [MASK] at the speed of light."], "uuid": 345}
+{"sub_label": "lion", "obj_label": "roar", "masked_sentences": ["A lion can [MASK]."], "uuid": 346}
+{"sub_label": "lions", "obj_label": "hunt", "masked_sentences": ["Lions can [MASK] for food."], "uuid": 347}
+{"sub_label": "lions", "obj_label": "kill", "masked_sentences": ["To understand the event \"Lions killed the gazelle.\", it is important to know that carnivorous animals [MASK] the animals they are going to eat."], "uuid": 348}
+{"sub_label": "liquid", "obj_label": "flow", "masked_sentences": ["[MASK] is liquid movement."], "uuid": 349}
+{"sub_label": "lizard", "obj_label": "pet", "masked_sentences": ["You are likely to find a lizard around in the [MASK] store."], "uuid": 350}
+{"sub_label": "lizards", "obj_label": "exercise", "masked_sentences": ["Lizards can [MASK]."], "uuid": 351}
+{"sub_label": "llama", "obj_label": "pet", "masked_sentences": ["A llama can be a [MASK]."], "uuid": 352}
+{"sub_label": "lock", "obj_label": "open", "masked_sentences": ["A lock is designed so that only a particular key will [MASK] it."], "uuid": 353}
+{"sub_label": "logic", "obj_label": "help", "masked_sentences": ["Logic can [MASK] you."], "uuid": 354}
+{"sub_label": "lord", "obj_label": "guide", "masked_sentences": ["The lord can [MASK] you."], "uuid": 355}
+{"sub_label": "love", "obj_label": "destroy", "masked_sentences": ["The governing principle in human relationships is the principle of love, which always seeks the welfare of others and never seeks to hurt or [MASK]."], "uuid": 356}
+{"sub_label": "love", "obj_label": "hurt", "masked_sentences": ["Love can [MASK]."], "uuid": 357}
+{"sub_label": "lover", "obj_label": "complete", "masked_sentences": ["A lover can [MASK] you."], "uuid": 358}
+{"sub_label": "lovers", "obj_label": "argue", "masked_sentences": ["An activity lovers can do is [MASK]."], "uuid": 359}
+{"sub_label": "lovers", "obj_label": "kiss", "masked_sentences": ["Things that are often found together are: shirt, [MASK], lovers, hair, jacket."], "uuid": 360}
+{"sub_label": "lovers", "obj_label": "kissing", "masked_sentences": ["[MASK] is for lovers."], "uuid": 361}
+{"sub_label": "lyrics", "obj_label": "poems", "masked_sentences": ["Lyrics can be [MASK]."], "uuid": 362}
+{"sub_label": "lyrics", "obj_label": "rhyme", "masked_sentences": ["Lyrics often [MASK]."], "uuid": 363}
+{"sub_label": "machine", "obj_label": "construct", "masked_sentences": ["Machine is a type of mechanical [MASK]."], "uuid": 364}
+{"sub_label": "machines", "obj_label": "fly", "masked_sentences": ["To understand the event \"Dwight fell out of the airplane.\", it is important to know that Airplanes are machines that can [MASK]."], "uuid": 365}
+{"sub_label": "magician", "obj_label": "fool", "masked_sentences": ["A magician can [MASK] an audience."], "uuid": 366}
+{"sub_label": "mammal", "obj_label": "mate", "masked_sentences": ["An activity a mammal  can do is [MASK] ."], "uuid": 367}
+{"sub_label": "mammal", "obj_label": "play", "masked_sentences": ["An activity a mammal can do is [MASK]."], "uuid": 368}
+{"sub_label": "mammmal", "obj_label": "fly", "masked_sentences": ["A mammmal that can [MASK]."], "uuid": 369}
+{"sub_label": "mankind", "obj_label": "reach", "masked_sentences": ["Mankind can [MASK] anything."], "uuid": 370}
+{"sub_label": "match", "obj_label": "competition", "masked_sentences": ["The fact \"alexa watches sumo\" is illustrated with the story:1. Sumo is a Japanese sport played by very fat men.2. Only 2 sumo wrestlers can compete against each other, during a match.3. Alexa might be a sumo wrestler, but if she is not, she cannot enter a [MASK].4. Instead, she watches the sumo wrestlers.5. They throw salt with ceremonial gestures, then try to push each other out of the ring."], "uuid": 371}
+{"sub_label": "medicine", "obj_label": "cargo", "masked_sentences": ["Medicine can be [MASK]."], "uuid": 372}
+{"sub_label": "metal", "obj_label": "burns", "masked_sentences": ["Metal sometimes [MASK]."], "uuid": 373}
+{"sub_label": "metals", "obj_label": "burn", "masked_sentences": ["Finely divided metals, glass, ceramics, carbon, and even water [MASK] in fluorine with a bright flame."], "uuid": 374}
+{"sub_label": "midgets", "obj_label": "steal", "masked_sentences": ["Midgets can [MASK]."], "uuid": 375}
+{"sub_label": "mind", "obj_label": "tended", "masked_sentences": ["Situation: A healthy mind, body and spirit can be [MASK]."], "uuid": 376}
+{"sub_label": "mine", "obj_label": "explode", "masked_sentences": ["A mine can [MASK]."], "uuid": 377}
+{"sub_label": "mommy", "obj_label": "fix", "masked_sentences": ["Mommy can [MASK] it."], "uuid": 378}
+{"sub_label": "monument", "obj_label": "statue", "masked_sentences": ["[MASK] is liberty monument."], "uuid": 379}
+{"sub_label": "mosquito", "obj_label": "fly", "masked_sentences": ["Mosquito is about the same size as [MASK]."], "uuid": 380}
+{"sub_label": "mosquitoes", "obj_label": "fly", "masked_sentences": ["An activity mosquitoes can do is [MASK]."], "uuid": 381}
+{"sub_label": "mouse", "obj_label": "pet", "masked_sentences": ["You are likely to find a mouse in a [MASK] shop."], "uuid": 382}
+{"sub_label": "movie", "obj_label": "touch", "masked_sentences": ["A good movie can [MASK] your heart."], "uuid": 383}
+{"sub_label": "murderer", "obj_label": "kill", "masked_sentences": ["To understand the event \"Gina is a murderer.\", it is important to know that To murder is to [MASK] a person."], "uuid": 384}
+{"sub_label": "muscle", "obj_label": "contract", "masked_sentences": ["The statement \"a muscle can [MASK] and expand\" is true because Muscles are very durable."], "uuid": 385}
+{"sub_label": "muscles", "obj_label": "relax", "masked_sentences": ["The statement \"a person wants to have nice hot showers\" is true because hot showers [MASK] your muscles and reduce your stress."], "uuid": 386}
+{"sub_label": "music", "obj_label": "heal", "masked_sentences": ["Music can [MASK]."], "uuid": 387}
+{"sub_label": "name", "obj_label": "change", "masked_sentences": ["A name can [MASK]."], "uuid": 388}
+{"sub_label": "need", "obj_label": "opener", "masked_sentences": ["You need a can [MASK]."], "uuid": 389}
+{"sub_label": "newspaper", "obj_label": "announce", "masked_sentences": ["A newspaper can [MASK]."], "uuid": 390}
+{"sub_label": "newspaper", "obj_label": "communicate", "masked_sentences": ["A newspaper can [MASK]."], "uuid": 391}
+{"sub_label": "newspaper", "obj_label": "educate", "masked_sentences": ["A newspaper can [MASK]."], "uuid": 392}
+{"sub_label": "newspaper", "obj_label": "inform", "masked_sentences": ["The statement \"The story \"Reading The Newspaper\" has the step \"I felt better informed\"\" is true because Newspapers [MASK] you with information."], "uuid": 393}
+{"sub_label": "nose", "obj_label": "run", "masked_sentences": ["A nose can [MASK]."], "uuid": 394}
+{"sub_label": "nun", "obj_label": "pray", "masked_sentences": ["An activity a nun can do is [MASK]."], "uuid": 395}
+{"sub_label": "one", "obj_label": "human", "masked_sentences": ["Situation: One should not - and does not - find modern [MASK] fossils embedded in strata from the Jurassic period (6.5 million year ago.)."], "uuid": 396}
+{"sub_label": "organism", "obj_label": "need", "masked_sentences": ["An organism can [MASK] something."], "uuid": 397}
+{"sub_label": "organisms", "obj_label": "die", "masked_sentences": ["Organisms can [MASK]."], "uuid": 398}
+{"sub_label": "orphan", "obj_label": "adopted", "masked_sentences": ["An orphan can be [MASK]."], "uuid": 399}
+{"sub_label": "owls", "obj_label": "fly", "masked_sentences": ["To understand the event \"An owl swooped down upon a mouse.\", it is important to know that Owls can [MASK]."], "uuid": 400}
+{"sub_label": "oxygen", "obj_label": "freeze", "masked_sentences": ["Oxygen can [MASK]."], "uuid": 401}
+{"sub_label": "paint", "obj_label": "dry", "masked_sentences": ["Paint can fast [MASK]."], "uuid": 402}
+{"sub_label": "pana", "obj_label": "eat", "masked_sentences": ["A pana can [MASK]."], "uuid": 403}
+{"sub_label": "paper", "obj_label": "burn", "masked_sentences": ["To understand the event \"Someone smoked a cigarette.\", it is important to know that Tobacco and paper will [MASK] slowly."], "uuid": 404}
+{"sub_label": "parrots", "obj_label": "talk", "masked_sentences": ["Parrots can be taught to [MASK]."], "uuid": 405}
+{"sub_label": "pens", "obj_label": "artworks", "masked_sentences": ["Pens can be [MASK]."], "uuid": 406}
+{"sub_label": "peole", "obj_label": "dance", "masked_sentences": ["Peole can [MASK]."], "uuid": 407}
+{"sub_label": "people", "obj_label": "agree", "masked_sentences": ["The statement \"the sunset is beautiful\" is true because nobody can explain beautiful, but most people [MASK] that sunsets are beautiful."], "uuid": 408}
+{"sub_label": "people", "obj_label": "baby", "masked_sentences": ["To understand the event \"The [MASK] put his toy in his mouth.\", it is important to know that Babies are young and relatively helpless people."], "uuid": 409}
+{"sub_label": "people", "obj_label": "believe", "masked_sentences": ["Many sane people [MASK] in fairies."], "uuid": 410}
+{"sub_label": "people", "obj_label": "bite", "masked_sentences": ["Situation: Children must learn not to [MASK] other people."], "uuid": 411}
+{"sub_label": "people", "obj_label": "blink", "masked_sentences": ["People can [MASK] every few seconds."], "uuid": 412}
+{"sub_label": "people", "obj_label": "choke", "masked_sentences": ["To understand the event \"The baby put his toy in his mouth.\", it is important to know that People can [MASK]."], "uuid": 413}
+{"sub_label": "people", "obj_label": "coding", "masked_sentences": ["People can [MASK]."], "uuid": 414}
+{"sub_label": "people", "obj_label": "count", "masked_sentences": ["People can [MASK] sheep."], "uuid": 415}
+{"sub_label": "people", "obj_label": "donate", "masked_sentences": ["To understand the event \"People [MASK] blood to the Red Cross.\", it is important to know that The Red Cross is an organization dedicated to selling blood."], "uuid": 416}
+{"sub_label": "people", "obj_label": "forgive", "masked_sentences": ["To understand the event \"Cindy yelled at Joe.  Cindy asked Joe to [MASK] her.\", it is important to know that People yell when they are angry."], "uuid": 417}
+{"sub_label": "people", "obj_label": "gay", "masked_sentences": ["The statement \"fruits come in many varieties\" is true because yes, [MASK] people can be black, or white...."], "uuid": 418}
+{"sub_label": "people", "obj_label": "imagine", "masked_sentences": ["Situation: [MASK] the people in your life as tiny infants and as one-hundred-year old adults."], "uuid": 419}
+{"sub_label": "people", "obj_label": "judge", "masked_sentences": ["Many humans [MASK] people by judging their appearance."], "uuid": 420}
+{"sub_label": "people", "obj_label": "jump", "masked_sentences": ["Why is it that some people have to [MASK] through hoops to enjoy sex?"], "uuid": 421}
+{"sub_label": "people", "obj_label": "lie", "masked_sentences": ["People can [MASK] for many reasons."], "uuid": 422}
+{"sub_label": "people", "obj_label": "pain", "masked_sentences": ["The story \"Killing People\" has the step \"She was delirious with [MASK] every day.\"."], "uuid": 423}
+{"sub_label": "people", "obj_label": "passengers", "masked_sentences": ["People can be [MASK]."], "uuid": 424}
+{"sub_label": "people", "obj_label": "plan", "masked_sentences": ["The statement \"people must [MASK] for their retirement\" is true because you need to prepare for when you can't work anymore."], "uuid": 425}
+{"sub_label": "people", "obj_label": "promise", "masked_sentences": ["Some people  can [MASK] special favors to others in exchange for preferential treatment."], "uuid": 426}
+{"sub_label": "people", "obj_label": "shout", "masked_sentences": ["You would [MASK] at the top of your voice because you want to get people's attention."], "uuid": 427}
+{"sub_label": "people", "obj_label": "sing", "masked_sentences": ["The statement \"Something you find in church is songbooks\" is true because You find people who [MASK] in church."], "uuid": 428}
+{"sub_label": "people", "obj_label": "speak", "masked_sentences": ["People can [MASK] softly."], "uuid": 429}
+{"sub_label": "people", "obj_label": "stand", "masked_sentences": ["The statement \"hanging out at the bar is for meeting and drinking\" is true because bars serve drinks and force people to [MASK] near one another and encourages meetings."], "uuid": 430}
+{"sub_label": "people", "obj_label": "think", "masked_sentences": ["Some people [MASK] human beings once lived in the sea."], "uuid": 431}
+{"sub_label": "performer", "obj_label": "dance", "masked_sentences": ["A performer can [MASK]."], "uuid": 432}
+{"sub_label": "person", "obj_label": "eat", "masked_sentences": ["A person doesn't want to [MASK] toenails."], "uuid": 433}
+{"sub_label": "person", "obj_label": "fail", "masked_sentences": ["Person does not want to [MASK] or be forgotten."], "uuid": 434}
+{"sub_label": "person", "obj_label": "hand", "masked_sentences": ["Person can holding dart in [MASK]."], "uuid": 435}
+{"sub_label": "person", "obj_label": "judge", "masked_sentences": ["A person can [MASK] the taste of something."], "uuid": 436}
+{"sub_label": "person", "obj_label": "leap", "masked_sentences": ["A person can [MASK]."], "uuid": 437}
+{"sub_label": "person", "obj_label": "master", "masked_sentences": ["A person can [MASK] a skill."], "uuid": 438}
+{"sub_label": "person", "obj_label": "own", "masked_sentences": ["A person wants their [MASK] home."], "uuid": 439}
+{"sub_label": "person", "obj_label": "shout", "masked_sentences": ["A person can [MASK] something."], "uuid": 440}
+{"sub_label": "person", "obj_label": "sprint", "masked_sentences": ["A person can [MASK]."], "uuid": 441}
+{"sub_label": "person", "obj_label": "taste", "masked_sentences": ["A person can judge the [MASK] of something."], "uuid": 442}
+{"sub_label": "phones", "obj_label": "ring", "masked_sentences": ["Phones [MASK] when someone is calling."], "uuid": 443}
+{"sub_label": "photographs", "obj_label": "map", "masked_sentences": ["Photographs can [MASK]."], "uuid": 444}
+{"sub_label": "pickle", "obj_label": "sour", "masked_sentences": ["Pickle is [MASK] cucumber."], "uuid": 445}
+{"sub_label": "pilots", "obj_label": "land", "masked_sentences": ["Pilots can [MASK] a plane."], "uuid": 446}
+{"sub_label": "pistol", "obj_label": "wound", "masked_sentences": ["A pistol can [MASK] you."], "uuid": 447}
+{"sub_label": "plane", "obj_label": "crash", "masked_sentences": ["Pilots can explain that the plane will not [MASK]."], "uuid": 448}
+{"sub_label": "plane", "obj_label": "fall", "masked_sentences": ["A plane can [MASK]."], "uuid": 449}
+{"sub_label": "planes", "obj_label": "crash", "masked_sentences": ["Planes can [MASK]."], "uuid": 450}
+{"sub_label": "planes", "obj_label": "fly", "masked_sentences": ["Planes although heavier than air can still [MASK]."], "uuid": 451}
+{"sub_label": "plans", "obj_label": "fail", "masked_sentences": ["Plans can [MASK]."], "uuid": 452}
+{"sub_label": "plastic", "obj_label": "burn", "masked_sentences": ["Plastic can [MASK]."], "uuid": 453}
+{"sub_label": "plastic", "obj_label": "melt", "masked_sentences": ["If you put a Furby into a heated furnace, it will [MASK] into a puddle of plastic."], "uuid": 454}
+{"sub_label": "plumbing", "obj_label": "get", "masked_sentences": ["You can use an underground area to [MASK] access to plumbing."], "uuid": 455}
+{"sub_label": "police", "obj_label": "arrest", "masked_sentences": ["To understand the event \"Bob is a police officer.  Bob arrested Jim.\", it is important to know that Bob has the authority to [MASK] Jim."], "uuid": 456}
+{"sub_label": "policemen", "obj_label": "help", "masked_sentences": ["Policemen can [MASK] you."], "uuid": 457}
+{"sub_label": "policman", "obj_label": "help", "masked_sentences": ["The policman can [MASK] you."], "uuid": 458}
+{"sub_label": "politician", "obj_label": "lie", "masked_sentences": ["A politician  can use the truth and a [MASK] with equal skill ."], "uuid": 459}
+{"sub_label": "pony", "obj_label": "pet", "masked_sentences": ["A pony can be a [MASK]."], "uuid": 460}
+{"sub_label": "pornstar", "obj_label": "fuck", "masked_sentences": ["A pornstar can [MASK]."], "uuid": 461}
+{"sub_label": "prices", "obj_label": "vary", "masked_sentences": ["Prices may [MASK]."], "uuid": 462}
+{"sub_label": "priest", "obj_label": "pray", "masked_sentences": ["To understand the event \"The priest prayed to God.\", it is important to know that To [MASK] means to speak with God."], "uuid": 463}
+{"sub_label": "printer", "obj_label": "work", "masked_sentences": ["School [MASK] would make you want to print on the printer."], "uuid": 464}
+{"sub_label": "printers", "obj_label": "print", "masked_sentences": ["Printers  can [MASK]."], "uuid": 465}
+{"sub_label": "puppy", "obj_label": "pet", "masked_sentences": ["A popular [MASK] for a child is a puppy."], "uuid": 466}
+{"sub_label": "questions", "obj_label": "surprise", "masked_sentences": ["Some questions can [MASK] me."], "uuid": 467}
+{"sub_label": "rat", "obj_label": "pet", "masked_sentences": ["A rat can be a [MASK]."], "uuid": 468}
+{"sub_label": "rats", "obj_label": "bite", "masked_sentences": ["Rats can [MASK]."], "uuid": 469}
+{"sub_label": "ravens", "obj_label": "fly", "masked_sentences": ["An activity ravens can do is [MASK]."], "uuid": 470}
+{"sub_label": "relative", "obj_label": "visit", "masked_sentences": ["A relative can [MASK] you."], "uuid": 471}
+{"sub_label": "rhetoric", "obj_label": "inspire", "masked_sentences": ["Rhetoric can [MASK]."], "uuid": 472}
+{"sub_label": "ribbon", "obj_label": "color", "masked_sentences": ["A ribbon is used for adding [MASK]."], "uuid": 473}
+{"sub_label": "rich", "obj_label": "buy", "masked_sentences": ["When you run in a marathon you do the following: 1. [MASK] running shoes, 2. eat foods rich in starch, 3. practice running for 26 miles."], "uuid": 474}
+{"sub_label": "rider", "obj_label": "trainer", "masked_sentences": ["A rider can be a [MASK]."], "uuid": 475}
+{"sub_label": "robber", "obj_label": "steal", "masked_sentences": ["Robber can [MASK]."], "uuid": 476}
+{"sub_label": "robot", "obj_label": "repetitive", "masked_sentences": ["A robot is for performing [MASK] tasks."], "uuid": 477}
+{"sub_label": "rooster", "obj_label": "crow", "masked_sentences": ["A rooster can [MASK] ."], "uuid": 478}
+{"sub_label": "rooster", "obj_label": "pet", "masked_sentences": ["The statement \"A rooster can be a [MASK].\" is true because some people keep chickens or other birds as pets."], "uuid": 479}
+{"sub_label": "runner", "obj_label": "running", "masked_sentences": ["To understand the event \"Mike put on [MASK] shoes  Mike ran a marathon\", it is important to know that Mike is a long distance runner."], "uuid": 480}
+{"sub_label": "running", "obj_label": "wind", "masked_sentences": ["[MASK] is running air."], "uuid": 481}
+{"sub_label": "sail", "obj_label": "raised", "masked_sentences": ["A sail can be [MASK]."], "uuid": 482}
+{"sub_label": "sand", "obj_label": "flow", "masked_sentences": ["The sand can will [MASK] form the top to the bottom."], "uuid": 483}
+{"sub_label": "scientist", "obj_label": "experiment", "masked_sentences": ["[MASK] is mad scientist."], "uuid": 484}
+{"sub_label": "scorpian", "obj_label": "sting", "masked_sentences": ["A scorpian can [MASK] you."], "uuid": 485}
+{"sub_label": "screwdriver", "obj_label": "weapon", "masked_sentences": ["A screwdriver can be a [MASK]."], "uuid": 486}
+{"sub_label": "secret", "obj_label": "bug", "masked_sentences": ["A secret can [MASK] you."], "uuid": 487}
+{"sub_label": "secretaries", "obj_label": "type", "masked_sentences": ["Secretaries can [MASK]."], "uuid": 488}
+{"sub_label": "secretary", "obj_label": "page", "masked_sentences": ["A secretary can [MASK] on the phone."], "uuid": 489}
+{"sub_label": "seed", "obj_label": "grow", "masked_sentences": ["Another way to say \"Acorns [MASK] into trees.\" is \"And acorn is a tree seed \"."], "uuid": 490}
+{"sub_label": "shark", "obj_label": "swim", "masked_sentences": ["You would go for a [MASK] because you want to become shark bait."], "uuid": 491}
+{"sub_label": "ships", "obj_label": "have", "masked_sentences": ["To understand the event \"I ran around the ship's pool, and fell in.  A man dived in and rescued me.\", it is important to know that Some big ships [MASK] pools."], "uuid": 492}
+{"sub_label": "shirley", "obj_label": "fancy", "masked_sentences": ["Shirley  can [MASK] that."], "uuid": 493}
+{"sub_label": "shoe", "obj_label": "trip", "masked_sentences": ["A shoe can [MASK] you."], "uuid": 494}
+{"sub_label": "skeptics", "obj_label": "doubt", "masked_sentences": ["Skeptics can [MASK] that aliens exist."], "uuid": 495}
+{"sub_label": "skunk", "obj_label": "spray", "masked_sentences": ["An activity any skunk can do is [MASK]."], "uuid": 496}
+{"sub_label": "snake", "obj_label": "pet", "masked_sentences": ["A snake can be a [MASK]."], "uuid": 497}
+{"sub_label": "snake", "obj_label": "rude", "masked_sentences": ["A snake can  be [MASK]."], "uuid": 498}
+{"sub_label": "soap", "obj_label": "liquid", "masked_sentences": ["Some soap is in the shape of a bar and some is [MASK]."], "uuid": 499}
+{"sub_label": "soda", "obj_label": "settle", "masked_sentences": ["Soda can [MASK] ."], "uuid": 500}
+{"sub_label": "soliders", "obj_label": "die", "masked_sentences": ["Soliders can [MASK]."], "uuid": 501}
+{"sub_label": "solids", "obj_label": "melt", "masked_sentences": ["Solids can [MASK] to form liquids."], "uuid": 502}
+{"sub_label": "spring", "obj_label": "bounce", "masked_sentences": ["A spring can [MASK]."], "uuid": 503}
+{"sub_label": "spy", "obj_label": "following", "masked_sentences": ["A spy  can be [MASK] you."], "uuid": 504}
+{"sub_label": "star", "obj_label": "explode", "masked_sentences": ["An activity a star can do is [MASK]."], "uuid": 505}
+{"sub_label": "statement", "obj_label": "lie", "masked_sentences": ["The statement \"a bed is usually to [MASK] on and sleep\" helps answer the question \"Where might a person get some rest?\"."], "uuid": 506}
+{"sub_label": "statistics", "obj_label": "prove", "masked_sentences": ["Statistics can [MASK] anything."], "uuid": 507}
+{"sub_label": "stocks", "obj_label": "bought", "masked_sentences": ["Situation: My stocks are worth less than when I [MASK] them."], "uuid": 508}
+{"sub_label": "stocks", "obj_label": "converted", "masked_sentences": ["Stocks can be [MASK]."], "uuid": 509}
+{"sub_label": "stocks", "obj_label": "sold", "masked_sentences": ["Stocks can be [MASK]."], "uuid": 510}
+{"sub_label": "student", "obj_label": "talk", "masked_sentences": ["To understand the event \"Sheila raised her hand and asked a question.\", it is important to know that a student must raise her hand before she may [MASK]."], "uuid": 511}
+{"sub_label": "student", "obj_label": "think", "masked_sentences": ["A student can [MASK] a lot."], "uuid": 512}
+{"sub_label": "students", "obj_label": "study", "masked_sentences": ["Students can [MASK] homework."], "uuid": 513}
+{"sub_label": "submarines", "obj_label": "dive", "masked_sentences": ["Submarines can [MASK]."], "uuid": 514}
+{"sub_label": "submarines", "obj_label": "sink", "masked_sentences": ["Submarines can [MASK]."], "uuid": 515}
+{"sub_label": "superman", "obj_label": "best", "masked_sentences": ["Superman can [MASK] anyone."], "uuid": 516}
+{"sub_label": "swimmer", "obj_label": "kick", "masked_sentences": ["An activity swimmer can do is [MASK]."], "uuid": 517}
+{"sub_label": "tea", "obj_label": "drank", "masked_sentences": ["Tea can be [MASK]."], "uuid": 518}
+{"sub_label": "teacher", "obj_label": "demonstrate", "masked_sentences": ["An activity a teacher can do is [MASK]."], "uuid": 519}
+{"sub_label": "teacher", "obj_label": "educate", "masked_sentences": ["To understand the event \"The teacher graded the homework assignments.\", it is important to know that teachers [MASK] students."], "uuid": 520}
+{"sub_label": "teacher", "obj_label": "encourage", "masked_sentences": ["An activity a teacher can do is [MASK]."], "uuid": 521}
+{"sub_label": "teacher", "obj_label": "explain", "masked_sentences": ["A teacher can [MASK] math."], "uuid": 522}
+{"sub_label": "teens", "obj_label": "homework", "masked_sentences": ["An activity teens  can do is [MASK]."], "uuid": 523}
+{"sub_label": "teens", "obj_label": "smoke", "masked_sentences": ["An activity teens can do is [MASK]."], "uuid": 524}
+{"sub_label": "teens", "obj_label": "volunteer", "masked_sentences": ["An activity teens can do is [MASK]."], "uuid": 525}
+{"sub_label": "teeth", "obj_label": "decay", "masked_sentences": ["Tooth [MASK] can be prevented by brushing the teeth."], "uuid": 526}
+{"sub_label": "telephone", "obj_label": "ring", "masked_sentences": ["Call is telephone [MASK]."], "uuid": 527}
+{"sub_label": "temperature", "obj_label": "increase", "masked_sentences": ["To understand the event \"Sara felt feverish.\", it is important to know that A fever is an [MASK] in body temperature usually caused by an infection."], "uuid": 528}
+{"sub_label": "terrorists", "obj_label": "killed", "masked_sentences": ["Terrorists can be [MASK]."], "uuid": 529}
+{"sub_label": "text", "obj_label": "fade", "masked_sentences": ["Text can [MASK]."], "uuid": 530}
+{"sub_label": "thief", "obj_label": "steal", "masked_sentences": ["To understand the event \"A thief stole mary's diamonds.\", it is important to know that Thieves [MASK] valuable items."], "uuid": 531}
+{"sub_label": "thought", "obj_label": "create", "masked_sentences": ["Situation: [MASK] a menu you thought you'd never be able to cook."], "uuid": 532}
+{"sub_label": "tiger", "obj_label": "eat", "masked_sentences": ["It would be unlikely for a tiger to [MASK] a banana."], "uuid": 533}
+{"sub_label": "tiger", "obj_label": "kill", "masked_sentences": ["A tiger can [MASK] you."], "uuid": 534}
+{"sub_label": "time", "obj_label": "age", "masked_sentences": ["The statement \"Homeschooling is better than public school\" is true because in homeschool, you have more time to interact with all members of the community, and in public school, you mostly interact with children your own [MASK]."], "uuid": 535}
+{"sub_label": "tnt", "obj_label": "explode", "masked_sentences": ["TNT can [MASK]."], "uuid": 536}
+{"sub_label": "todd", "obj_label": "burn", "masked_sentences": ["Todd can [MASK] anything."], "uuid": 537}
+{"sub_label": "tornadoes", "obj_label": "disaster", "masked_sentences": ["The statement \"A natural [MASK] can kill a very large number of people\" is true because tornadoes, hurricanes, and earthquakes can be very large in scope and effect large, densely populated  areas."], "uuid": 538}
+{"sub_label": "torpedo", "obj_label": "explode", "masked_sentences": ["Torpedo can [MASK]."], "uuid": 539}
+{"sub_label": "track", "obj_label": "circle", "masked_sentences": ["A track often is a [MASK]."], "uuid": 540}
+{"sub_label": "trains", "obj_label": "accelerate", "masked_sentences": ["Trains can [MASK]."], "uuid": 541}
+{"sub_label": "trains", "obj_label": "brake", "masked_sentences": ["Trains can [MASK]."], "uuid": 542}
+{"sub_label": "tree", "obj_label": "grow", "masked_sentences": ["To understand the event \"The tree grew fruit.\", it is important to know that Trees [MASK] from seeds."], "uuid": 543}
+{"sub_label": "trees", "obj_label": "burn", "masked_sentences": ["Dead trees [MASK] easily."], "uuid": 544}
+{"sub_label": "trees", "obj_label": "die", "masked_sentences": ["Trees [MASK]."], "uuid": 545}
+{"sub_label": "trees", "obj_label": "fall", "masked_sentences": ["Leaves [MASK] from trees."], "uuid": 546}
+{"sub_label": "trees", "obj_label": "grow", "masked_sentences": ["Trees can [MASK] in the mountains."], "uuid": 547}
+{"sub_label": "trying", "obj_label": "lying", "masked_sentences": ["Trying can be \"[MASK]\".  \"Doing\" is better."], "uuid": 548}
+{"sub_label": "turtle", "obj_label": "pet", "masked_sentences": ["To understand the event \"Brian likes animals.  Brian has a turtle as a [MASK].\", it is important to know that regular pets are cats and dogs."], "uuid": 549}
+{"sub_label": "tweety", "obj_label": "fly", "masked_sentences": ["Tweety can [MASK]."], "uuid": 550}
+{"sub_label": "twelve", "obj_label": "be", "masked_sentences": ["To understand the event \"Humbert loved Lolita.  Lolita was twelve years old.\", it is important to know that At 12 years old, Lolita is too young to [MASK] involved in a love affair."], "uuid": 551}
+{"sub_label": "u", "obj_label": "read", "masked_sentences": ["When you impanel a jury you do the following: 1. look to try for newer dishes and recipes, 2. talk with whom U have come,if alone [MASK] newspaper, 3. look for thr surroundings, 4. look at the state of art at the place, 5. look for proper ventilation and air."], "uuid": 552}
+{"sub_label": "ufos", "obj_label": "glow", "masked_sentences": ["Ufos can [MASK]."], "uuid": 553}
+{"sub_label": "umbrella", "obj_label": "color", "masked_sentences": ["An umbrella can be any [MASK]."], "uuid": 554}
+{"sub_label": "vampires", "obj_label": "bite", "masked_sentences": ["Vampires can [MASK]."], "uuid": 555}
+{"sub_label": "van", "obj_label": "transport", "masked_sentences": ["A van can [MASK] anything."], "uuid": 556}
+{"sub_label": "virus", "obj_label": "reproduce", "masked_sentences": ["A virus wants to [MASK]."], "uuid": 557}
+{"sub_label": "walker", "obj_label": "walk", "masked_sentences": ["An activity a walker can do is [MASK]."], "uuid": 558}
+{"sub_label": "wasps", "obj_label": "sting", "masked_sentences": ["Wasps can [MASK]."], "uuid": 559}
+{"sub_label": "water", "obj_label": "drank", "masked_sentences": ["To understand the event \"Joe was thirsty  Joe [MASK] some water\", it is important to know that Joe was a man."], "uuid": 560}
+{"sub_label": "water", "obj_label": "flow", "masked_sentences": ["A portable shower head is used for spreading water [MASK] into a larger area."], "uuid": 561}
+{"sub_label": "water", "obj_label": "freeze", "masked_sentences": ["Winter is sometimes cold enough to [MASK] water."], "uuid": 562}
+{"sub_label": "water", "obj_label": "wet", "masked_sentences": ["Another way to say \"a sink is for [MASK] work.\" is \"A sink is used for washing dishes in soap and water.\"."], "uuid": 563}
+{"sub_label": "wax", "obj_label": "burn", "masked_sentences": ["Candle wax will [MASK] only as a vapour."], "uuid": 564}
+{"sub_label": "wax", "obj_label": "melt", "masked_sentences": ["Wax is candle [MASK]."], "uuid": 565}
+{"sub_label": "we", "obj_label": "control", "masked_sentences": ["Setting a cup on the table requires more [MASK] than we realize."], "uuid": 566}
+{"sub_label": "we", "obj_label": "invade", "masked_sentences": ["We can [MASK]."], "uuid": 567}
+{"sub_label": "we", "obj_label": "state", "masked_sentences": ["We can [MASK] that water is purple."], "uuid": 568}
+{"sub_label": "whales", "obj_label": "swim", "masked_sentences": ["Whales [MASK] in the oceans of planet Earth."], "uuid": 569}
+{"sub_label": "who", "obj_label": "doubt", "masked_sentences": ["Who can [MASK] that you will go through with it?"], "uuid": 570}
+{"sub_label": "who", "obj_label": "explain", "masked_sentences": ["It is often impossible to [MASK] the experience of depression to someone who has never been there."], "uuid": 571}
+{"sub_label": "whorehouse", "obj_label": "fun", "masked_sentences": ["A whorehouse can be [MASK]."], "uuid": 572}
+{"sub_label": "wood", "obj_label": "burn", "masked_sentences": ["Some stoves [MASK] wood ."], "uuid": 573}
+{"sub_label": "word", "obj_label": "mean", "masked_sentences": ["A statement 'dinner is a meal eaten in the evening' helps answer the question 'what does the word 'dinner' [MASK]?'."], "uuid": 574}
+{"sub_label": "work", "obj_label": "pain", "masked_sentences": ["You can use a pool to distract from the [MASK] of hard work."], "uuid": 575}
+{"sub_label": "workers", "obj_label": "hurry", "masked_sentences": ["Workers can [MASK] something."], "uuid": 576}
+{"sub_label": "worms", "obj_label": "eat", "masked_sentences": ["To understand the event \"The birds ate the worms.\", it is important to know that Birds [MASK] insects."], "uuid": 577}
+{"sub_label": "wound", "obj_label": "kill", "masked_sentences": ["A gunshot wound can [MASK] a man."], "uuid": 578}
+{"sub_label": "yoda", "obj_label": "try", "masked_sentences": ["Yoda can [MASK] anything."], "uuid": 579}
+{"sub_label": "young", "obj_label": "enjoy", "masked_sentences": ["To understand the event \"When Ernie was three years old, he picked a ripe chilli and ate it.\", it is important to know that Adults [MASK] chillis more than young children."], "uuid": 580}
+{"sub_label": "youtube", "obj_label": "entertain", "masked_sentences": ["YouTube can [MASK]."], "uuid": 581}

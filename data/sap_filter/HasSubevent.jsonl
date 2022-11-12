@@ -1,0 +1,536 @@
+{"sub_label": "alive", "obj_label": "think", "masked_sentences": ["One of the things you do when you are alive is [MASK]."], "uuid": 0}
+{"sub_label": "analysing", "obj_label": "analysis", "masked_sentences": ["Something that might happen while analysing something is [MASK]."], "uuid": 1}
+{"sub_label": "analysing", "obj_label": "education", "masked_sentences": ["Something that might happen while analysing something is [MASK]."], "uuid": 2}
+{"sub_label": "analysing", "obj_label": "idea", "masked_sentences": ["Something that might happen while analysing something is coming up with a new [MASK]."], "uuid": 3}
+{"sub_label": "analysing", "obj_label": "smell", "masked_sentences": ["Something you might do while analysing something is [MASK] it."], "uuid": 4}
+{"sub_label": "angry", "obj_label": "yelling", "masked_sentences": ["One of the things you do when you are angry is [MASK]."], "uuid": 5}
+{"sub_label": "asleep", "obj_label": "dreaming", "masked_sentences": ["The story \"[MASK]\" has the step \"I fell asleep.\"."], "uuid": 6}
+{"sub_label": "awake", "obj_label": "stretch", "masked_sentences": ["The statement \"Something that might happen when you awake is you [MASK].\" is true because After sleeping, the body has lain relatively motionless."], "uuid": 7}
+{"sub_label": "awake", "obj_label": "think", "masked_sentences": ["If you want to [MASK] then you should be awake."], "uuid": 8}
+{"sub_label": "awaking", "obj_label": "alarm", "masked_sentences": ["Something that might happen while awaking is realising that you haven't heard the [MASK] and that you are late for work."], "uuid": 9}
+{"sub_label": "awaking", "obj_label": "stretch", "masked_sentences": ["Something you might do while awaking is [MASK] like a cat."], "uuid": 10}
+{"sub_label": "bathing", "obj_label": "drown", "masked_sentences": ["Something you might do while bathing is [MASK]."], "uuid": 11}
+{"sub_label": "bathing", "obj_label": "read", "masked_sentences": ["While bathing some people [MASK] magazines."], "uuid": 12}
+{"sub_label": "bathing", "obj_label": "relax", "masked_sentences": ["Something you might do while bathing is [MASK]."], "uuid": 13}
+{"sub_label": "breathing", "obj_label": "choke", "masked_sentences": ["Something you might do while breathing is [MASK]."], "uuid": 14}
+{"sub_label": "breathing", "obj_label": "cough", "masked_sentences": ["Something that might happen while breathing is [MASK]."], "uuid": 15}
+{"sub_label": "breathing", "obj_label": "live", "masked_sentences": ["If you're breathing and have a place to [MASK], everything else is a bonus."], "uuid": 16}
+{"sub_label": "breathing", "obj_label": "sigh", "masked_sentences": ["Something you might do while breathing is [MASK]."], "uuid": 17}
+{"sub_label": "buying", "obj_label": "act", "masked_sentences": ["When I want to buy something, I get into the [MASK] of buying."], "uuid": 18}
+{"sub_label": "buying", "obj_label": "bargain", "masked_sentences": ["The fact \"a salesman can offer a good deal\" is illustrated with the story:1. a good deal is the right object at the right price2. a good deal is buying a pizza and getting another one free.3. a good deal is a nice car for $1000.004. salesmen get paid to sell things to people like you and me5. a salesman can offer you a good deal, or you may be able to [MASK] with him to lower the price."], "uuid": 19}
+{"sub_label": "buying", "obj_label": "decide", "masked_sentences": ["To understand the event \"Fred was thinking of buying a motorcycle.\", it is important to know that fred was also trying to [MASK] wether he was going to buy the motorcycle or not."], "uuid": 20}
+{"sub_label": "buying", "obj_label": "feel", "masked_sentences": ["Something you might do while buying fresh fruits and vegetables is [MASK] them to see if they are ripe."], "uuid": 21}
+{"sub_label": "buying", "obj_label": "investigate", "masked_sentences": ["Something you might do while buying something is [MASK] it."], "uuid": 22}
+{"sub_label": "buying", "obj_label": "negotiate", "masked_sentences": ["Something that might happen while buying a house is that you will need to [MASK] on the price with the people who are selling the house."], "uuid": 23}
+{"sub_label": "buying", "obj_label": "observe", "masked_sentences": ["Something you might do while buying something is [MASK] it."], "uuid": 24}
+{"sub_label": "buying", "obj_label": "pinch", "masked_sentences": ["Something you might do while buying something is [MASK] it."], "uuid": 25}
+{"sub_label": "buying", "obj_label": "sample", "masked_sentences": ["Something you might do while buying something is taste a [MASK]."], "uuid": 26}
+{"sub_label": "buying", "obj_label": "selective", "masked_sentences": ["Something you might do while buying something is be [MASK]."], "uuid": 27}
+{"sub_label": "buying", "obj_label": "sharp", "masked_sentences": ["Something you might do while buying something is be [MASK]."], "uuid": 28}
+{"sub_label": "buying", "obj_label": "skeptical", "masked_sentences": ["Something you might do while buying something is be [MASK]."], "uuid": 29}
+{"sub_label": "buying", "obj_label": "smell", "masked_sentences": ["Something you might do while buying something is [MASK] it."], "uuid": 30}
+{"sub_label": "buying", "obj_label": "study", "masked_sentences": ["Something you might do while buying something is [MASK] it."], "uuid": 31}
+{"sub_label": "buying", "obj_label": "suspicious", "masked_sentences": ["The statement \"The story \"Buying Something\" has the step \"She talked to me in a soothing tone.\"\" is true because She needed to convince me not to be [MASK] of her."], "uuid": 32}
+{"sub_label": "buying", "obj_label": "worry", "masked_sentences": ["Something you might do while buying something is [MASK]."], "uuid": 33}
+{"sub_label": "celebrating", "obj_label": "applause", "masked_sentences": ["Something that might happen while celebrating is [MASK]."], "uuid": 34}
+{"sub_label": "celebrating", "obj_label": "chaos", "masked_sentences": ["Something that might happen while celebrating is [MASK]."], "uuid": 35}
+{"sub_label": "celebrating", "obj_label": "contest", "masked_sentences": ["Something that might happen while celebrating is a [MASK]."], "uuid": 36}
+{"sub_label": "celebrating", "obj_label": "dance", "masked_sentences": ["Something you might do while celebrating is [MASK]."], "uuid": 37}
+{"sub_label": "celebrating", "obj_label": "drink", "masked_sentences": ["Something you might do while celebrating is [MASK]."], "uuid": 38}
+{"sub_label": "celebrating", "obj_label": "fireworks", "masked_sentences": ["Something that might happen while celebrating is [MASK]."], "uuid": 39}
+{"sub_label": "celebrating", "obj_label": "happy", "masked_sentences": ["The statement \"You would celebrate because you want to feel [MASK]\" is true because because celebrating is how you lift your spirit."], "uuid": 40}
+{"sub_label": "celebrating", "obj_label": "hosting", "masked_sentences": ["The statement \"Another way to say \"having a party is for celebrating\" is \"People celebrate events by [MASK] parties.\"\" is true because The first phrase in quotes has a very similar meaning to the second phrase in quotes."], "uuid": 41}
+{"sub_label": "celebrating", "obj_label": "humor", "masked_sentences": ["Something that might happen while celebrating is [MASK]."], "uuid": 42}
+{"sub_label": "celebrating", "obj_label": "kissing", "masked_sentences": ["Something that might happen while celebrating is [MASK]."], "uuid": 43}
+{"sub_label": "celebrating", "obj_label": "laughter", "masked_sentences": ["Something that might happen while celebrating is [MASK]."], "uuid": 44}
+{"sub_label": "celebrating", "obj_label": "noise", "masked_sentences": ["Something that might happen while celebrating is [MASK]."], "uuid": 45}
+{"sub_label": "celebrating", "obj_label": "parade", "masked_sentences": ["Something that might happen while celebrating is a [MASK]."], "uuid": 46}
+{"sub_label": "celebrating", "obj_label": "riot", "masked_sentences": ["Something that might happen while celebrating is a [MASK]."], "uuid": 47}
+{"sub_label": "celebrating", "obj_label": "screaming", "masked_sentences": ["Something that might happen while celebrating is [MASK]."], "uuid": 48}
+{"sub_label": "choke", "obj_label": "gag", "masked_sentences": ["One of the things you do when you choke is [MASK]."], "uuid": 49}
+{"sub_label": "cleaning", "obj_label": "dust", "masked_sentences": ["Something that might happen while cleaning the house is plugging in the vacuum and pushing it around on the carpet to pick up [MASK], dirt, dog hair, and other small items."], "uuid": 50}
+{"sub_label": "cleaning", "obj_label": "sweep", "masked_sentences": ["Something you might do while cleaning is [MASK] floors."], "uuid": 51}
+{"sub_label": "cleaning", "obj_label": "thinking", "masked_sentences": ["Something you might do while cleaning is [MASK]."], "uuid": 52}
+{"sub_label": "cleaning", "obj_label": "vacuum", "masked_sentences": ["Something that might happen while cleaning the house is plugging in the [MASK] and pushing it around on the carpet to pick up dust, dirt, dog hair, and other small items."], "uuid": 53}
+{"sub_label": "climb", "obj_label": "fall", "masked_sentences": ["To understand the event \"Sam went to climb a tree.\", it is important to know that Sam could possibly [MASK] and break something."], "uuid": 54}
+{"sub_label": "climb", "obj_label": "falling", "masked_sentences": ["Something that might happen when you climb is [MASK]."], "uuid": 55}
+{"sub_label": "climb", "obj_label": "grab", "masked_sentences": ["One of the things you do when you climb is [MASK] something."], "uuid": 56}
+{"sub_label": "cogitating", "obj_label": "creativity", "masked_sentences": ["Something that might happen while cogitating is [MASK]."], "uuid": 57}
+{"sub_label": "cogitating", "obj_label": "enjoy", "masked_sentences": ["Something that might happen while cogitating is you [MASK] it."], "uuid": 58}
+{"sub_label": "college", "obj_label": "learn", "masked_sentences": ["There a hundreds of drinking games to [MASK] at college."], "uuid": 59}
+{"sub_label": "comfort", "obj_label": "hug", "masked_sentences": ["The first thing you do when you comfort a friend is give your friend a [MASK]."], "uuid": 60}
+{"sub_label": "communicate", "obj_label": "laughing", "masked_sentences": ["Something that might happen when you communicate is [MASK]."], "uuid": 61}
+{"sub_label": "communicating", "obj_label": "distortion", "masked_sentences": ["Something that might happen while communicating is [MASK]."], "uuid": 62}
+{"sub_label": "communicating", "obj_label": "flirting", "masked_sentences": ["Something you might do while communicating is [MASK]."], "uuid": 63}
+{"sub_label": "communicating", "obj_label": "knowledge", "masked_sentences": ["Communicating is for gaining [MASK]."], "uuid": 64}
+{"sub_label": "communicating", "obj_label": "learn", "masked_sentences": ["Something that might happen while communicating is you [MASK]."], "uuid": 65}
+{"sub_label": "communicating", "obj_label": "listen", "masked_sentences": ["Something you might do while communicating is [MASK]."], "uuid": 66}
+{"sub_label": "communicating", "obj_label": "speak", "masked_sentences": ["Learning a language is for communicating with people who [MASK] that language."], "uuid": 67}
+{"sub_label": "communicating", "obj_label": "speaking", "masked_sentences": ["Something that might happen while communicating is [MASK]."], "uuid": 68}
+{"sub_label": "communicating", "obj_label": "talk", "masked_sentences": ["If OpenMind cannot [MASK], OpenMind will have problems communicating with many humans."], "uuid": 69}
+{"sub_label": "communicating", "obj_label": "yell", "masked_sentences": ["Something you might do while communicating is [MASK]."], "uuid": 70}
+{"sub_label": "compete", "obj_label": "enjoyment", "masked_sentences": ["Something that might happen when you compete is [MASK]."], "uuid": 71}
+{"sub_label": "competing", "obj_label": "loose", "masked_sentences": ["Something that might happen while competing is you [MASK]."], "uuid": 72}
+{"sub_label": "competing", "obj_label": "losing", "masked_sentences": ["The effect of competing against someone is [MASK]."], "uuid": 73}
+{"sub_label": "competing", "obj_label": "race", "masked_sentences": ["Running is for competing in a political [MASK]."], "uuid": 74}
+{"sub_label": "competing", "obj_label": "rankings", "masked_sentences": ["Something that might happen while competing is [MASK]."], "uuid": 75}
+{"sub_label": "competing", "obj_label": "touchdown", "masked_sentences": ["Something that might happen while competing is a [MASK]."], "uuid": 76}
+{"sub_label": "competing", "obj_label": "upset", "masked_sentences": ["Something that might happen while competing is an [MASK]."], "uuid": 77}
+{"sub_label": "competing", "obj_label": "win", "masked_sentences": ["Competing against someone requires a desire to [MASK]."], "uuid": 78}
+{"sub_label": "contemplate", "obj_label": "headache", "masked_sentences": ["Something that might happen when you contemplate is [MASK]."], "uuid": 79}
+{"sub_label": "contemplate", "obj_label": "thinking", "masked_sentences": ["[MASK] that \"rich people are evil\" is something a warped mind might contemplate while waiting in line."], "uuid": 80}
+{"sub_label": "contemplating", "obj_label": "silence", "masked_sentences": ["Something that might happen while contemplating is [MASK]."], "uuid": 81}
+{"sub_label": "contemplating", "obj_label": "sitting", "masked_sentences": ["Something that might happen while contemplating is [MASK]."], "uuid": 82}
+{"sub_label": "cooking", "obj_label": "burn", "masked_sentences": ["Something that might happen as a consequence of cooking dinner is you [MASK] the fod."], "uuid": 83}
+{"sub_label": "cooking", "obj_label": "eat", "masked_sentences": ["[MASK] requires cooking a meal."], "uuid": 84}
+{"sub_label": "cooking", "obj_label": "sing", "masked_sentences": ["Something you might do while cooking is [MASK]."], "uuid": 85}
+{"sub_label": "cooking", "obj_label": "spill", "masked_sentences": ["Something that might happen while cooking is a [MASK]."], "uuid": 86}
+{"sub_label": "copulate", "obj_label": "kiss", "masked_sentences": ["One of the things you do when you copulate is [MASK]."], "uuid": 87}
+{"sub_label": "copulate", "obj_label": "moan", "masked_sentences": ["One of the things you do when you copulate is [MASK]."], "uuid": 88}
+{"sub_label": "copulate", "obj_label": "pleasure", "masked_sentences": ["You would copulate because you want to [MASK] a partner."], "uuid": 89}
+{"sub_label": "copulating", "obj_label": "moan", "masked_sentences": ["Something you might do while copulating is [MASK]."], "uuid": 90}
+{"sub_label": "copulating", "obj_label": "orgasm", "masked_sentences": ["Something that might happen while copulating is [MASK]."], "uuid": 91}
+{"sub_label": "dance", "obj_label": "fitness", "masked_sentences": ["Something that might happen when you dance is [MASK]."], "uuid": 92}
+{"sub_label": "dance", "obj_label": "smiling", "masked_sentences": ["One of the things you do when you dance is [MASK]."], "uuid": 93}
+{"sub_label": "dance", "obj_label": "spin", "masked_sentences": ["One of the things you do when you dance is [MASK]."], "uuid": 94}
+{"sub_label": "dance", "obj_label": "trip", "masked_sentences": ["Something that might happen when you dance is [MASK]."], "uuid": 95}
+{"sub_label": "dancing", "obj_label": "dip", "masked_sentences": ["Something you might do while dancing is [MASK]."], "uuid": 96}
+{"sub_label": "dancing", "obj_label": "fall", "masked_sentences": ["Something that might happen as a consequence of dancing the samba is you could [MASK] in love with your dance partner."], "uuid": 97}
+{"sub_label": "dancing", "obj_label": "moving", "masked_sentences": ["Another way to say \"jill is dancing\" is \"Jill is [MASK] rhythmically to music.\"."], "uuid": 98}
+{"sub_label": "dancing", "obj_label": "trip", "masked_sentences": ["Something you might do while dancing is [MASK]."], "uuid": 99}
+{"sub_label": "date", "obj_label": "kissing", "masked_sentences": ["One of the things you do when you date is [MASK]."], "uuid": 100}
+{"sub_label": "dating", "obj_label": "kiss", "masked_sentences": ["Something you might do while dating is [MASK]."], "uuid": 101}
+{"sub_label": "dating", "obj_label": "kissing", "masked_sentences": ["Something you might do while dating is [MASK]."], "uuid": 102}
+{"sub_label": "die", "obj_label": "dream", "masked_sentences": ["Situation: Hold fast to [MASK]. For if dreams die, life is a broken-winged bird that cannot fly."], "uuid": 103}
+{"sub_label": "die", "obj_label": "funeral", "masked_sentences": ["To understand the event \"Pam started to cry.  Pam was at a [MASK].\", it is important to know that funerals are gatherings for the friends and relatives of people who die."], "uuid": 104}
+{"sub_label": "disagree", "obj_label": "debate", "masked_sentences": ["One of the things you do when you disagree is [MASK]."], "uuid": 105}
+{"sub_label": "dive", "obj_label": "speed", "masked_sentences": ["One of the things you do when you dive is [MASK]."], "uuid": 106}
+{"sub_label": "diving", "obj_label": "careful", "masked_sentences": ["To understand the event \"I went diving.\", it is important to know that You must be [MASK] ."], "uuid": 107}
+{"sub_label": "dream", "obj_label": "fly", "masked_sentences": ["Situation: Hold fast to dream. For if dreams die, life is a broken-winged bird that cannot [MASK]."], "uuid": 108}
+{"sub_label": "dream", "obj_label": "frightening", "masked_sentences": ["A nightmare is a [MASK] dream."], "uuid": 109}
+{"sub_label": "dream", "obj_label": "twitch", "masked_sentences": ["Something that might happen when you dream is [MASK]."], "uuid": 110}
+{"sub_label": "dreaming", "obj_label": "fly", "masked_sentences": ["Something you might do while dreaming is [MASK] like a bird or run like a tiger."], "uuid": 111}
+{"sub_label": "dreaming", "obj_label": "smile", "masked_sentences": ["Something you might do while dreaming is [MASK]."], "uuid": 112}
+{"sub_label": "drink", "obj_label": "choke", "masked_sentences": ["Something that might happen when you drink is you [MASK]."], "uuid": 113}
+{"sub_label": "drink", "obj_label": "die", "masked_sentences": ["Another way to say \"People need to drink water verey day\" is \"without water people would [MASK].\"."], "uuid": 114}
+{"sub_label": "drink", "obj_label": "stumble", "masked_sentences": ["Something that might happen when you drink is you [MASK]."], "uuid": 115}
+{"sub_label": "drinking", "obj_label": "choke", "masked_sentences": ["Something you might do while drinking is [MASK]."], "uuid": 116}
+{"sub_label": "drinking", "obj_label": "choking", "masked_sentences": ["Something that might happen while drinking is [MASK]."], "uuid": 117}
+{"sub_label": "drinking", "obj_label": "smoke", "masked_sentences": ["Something you might do while drinking is [MASK]."], "uuid": 118}
+{"sub_label": "drinking", "obj_label": "stumbling", "masked_sentences": ["Something you might do while drinking is [MASK]."], "uuid": 119}
+{"sub_label": "drive", "obj_label": "slice", "masked_sentences": ["Something that might happen when you drive is a [MASK]."], "uuid": 120}
+{"sub_label": "driving", "obj_label": "careful", "masked_sentences": ["You must always be [MASK] driving through housing developments during the day because of children playing in the streets."], "uuid": 121}
+{"sub_label": "driving", "obj_label": "crash", "masked_sentences": ["Something that might happen as a consequence of driving your car is car [MASK]."], "uuid": 122}
+{"sub_label": "driving", "obj_label": "distraction", "masked_sentences": ["Something that might happen while driving is a [MASK]."], "uuid": 123}
+{"sub_label": "driving", "obj_label": "following", "masked_sentences": ["Something that might happen while driving is [MASK] someone."], "uuid": 124}
+{"sub_label": "driving", "obj_label": "read", "masked_sentences": ["Something you might do while driving to work is Eat, [MASK] the paper, talk on a cell phone and put on makeup all at once."], "uuid": 125}
+{"sub_label": "driving", "obj_label": "sing", "masked_sentences": ["Something you might do while driving to work is [MASK]."], "uuid": 126}
+{"sub_label": "driving", "obj_label": "smoking", "masked_sentences": ["Something you might do while driving is [MASK]."], "uuid": 127}
+{"sub_label": "driving", "obj_label": "stall", "masked_sentences": ["Something that might happen while driving is a [MASK]."], "uuid": 128}
+{"sub_label": "driving", "obj_label": "steer", "masked_sentences": ["Something you might do while driving a car is [MASK]."], "uuid": 129}
+{"sub_label": "driving", "obj_label": "study", "masked_sentences": ["Something that might happen while driving is to [MASK] something on tape, or CD."], "uuid": 130}
+{"sub_label": "driving", "obj_label": "turn", "masked_sentences": ["Something you might do while driving to work is signal a [MASK]."], "uuid": 131}
+{"sub_label": "driving", "obj_label": "wear", "masked_sentences": ["Something that might happen as a consequence of driving is tire [MASK]."], "uuid": 132}
+{"sub_label": "drowning", "obj_label": "yelling", "masked_sentences": ["Something you might do while drowning is [MASK]."], "uuid": 133}
+{"sub_label": "dying", "obj_label": "fear", "masked_sentences": ["The statement \"Sometimes dying causes relatives to grieve\" is true because humans have been conditioned to [MASK] death."], "uuid": 134}
+{"sub_label": "dying", "obj_label": "sickness", "masked_sentences": ["Something that might happen while dying is [MASK]."], "uuid": 135}
+{"sub_label": "eat", "obj_label": "chewing", "masked_sentences": ["Eat is a type of [MASK]."], "uuid": 136}
+{"sub_label": "eating", "obj_label": "bite", "masked_sentences": ["[MASK] is used for eating."], "uuid": 137}
+{"sub_label": "eating", "obj_label": "choking", "masked_sentences": ["Something that might happen while eating is [MASK]."], "uuid": 138}
+{"sub_label": "eating", "obj_label": "drink", "masked_sentences": ["Something you might do while eating in a restaurant is order a [MASK]."], "uuid": 139}
+{"sub_label": "eating", "obj_label": "hum", "masked_sentences": ["Something that might happen while eating is you [MASK]."], "uuid": 140}
+{"sub_label": "eating", "obj_label": "swallow", "masked_sentences": ["Eating requires that you [MASK]."], "uuid": 141}
+{"sub_label": "eating", "obj_label": "swallowing", "masked_sentences": ["The effect of eating quickly is [MASK] air."], "uuid": 142}
+{"sub_label": "entertaining", "obj_label": "fight", "masked_sentences": ["Something that might happen while entertaining someone is a [MASK]."], "uuid": 143}
+{"sub_label": "entertaining", "obj_label": "introduced", "masked_sentences": ["Something you might do while entertaining someone is to be [MASK]."], "uuid": 144}
+{"sub_label": "entertaining", "obj_label": "recognize", "masked_sentences": ["Something you might do while entertaining someone is [MASK] them."], "uuid": 145}
+{"sub_label": "entertaining", "obj_label": "sing", "masked_sentences": ["Something you might do while entertaining someone is [MASK]."], "uuid": 146}
+{"sub_label": "entertaining", "obj_label": "smiling", "masked_sentences": ["Something you might do while entertaining someone is [MASK]."], "uuid": 147}
+{"sub_label": "entertaining", "obj_label": "tease", "masked_sentences": ["Something you might do while entertaining someone is [MASK] them."], "uuid": 148}
+{"sub_label": "exercise", "obj_label": "fatigue", "masked_sentences": ["Something that might happen when you exercise is [MASK]."], "uuid": 149}
+{"sub_label": "exercise", "obj_label": "mistake", "masked_sentences": ["Something that might happen when you exercise is [MASK]."], "uuid": 150}
+{"sub_label": "exercising", "obj_label": "breathe", "masked_sentences": ["Something you might do while exercising is [MASK]."], "uuid": 151}
+{"sub_label": "exercising", "obj_label": "collapse", "masked_sentences": ["Something that might happen while exercising is you [MASK]."], "uuid": 152}
+{"sub_label": "exercising", "obj_label": "eat", "masked_sentences": ["Something you might do while exercising is [MASK]."], "uuid": 153}
+{"sub_label": "exercising", "obj_label": "error", "masked_sentences": ["Something that might happen while exercising is an [MASK]."], "uuid": 154}
+{"sub_label": "exercising", "obj_label": "run", "masked_sentences": ["The story \"Exercising\" has the step \"I had stairs. So, I decided to [MASK] up and down the stairs a few times to get some excercise.\"."], "uuid": 155}
+{"sub_label": "falling", "obj_label": "accelerate", "masked_sentences": ["To understand the event \"Christine drove her car off a cliff.\", it is important to know that Falling down from a cliff means to [MASK] until one has reached the lower level."], "uuid": 156}
+{"sub_label": "falling", "obj_label": "fear", "masked_sentences": ["To understand the event \"Zelda has a [MASK] of heights.\", it is important to know that Falling from a height will hurt."], "uuid": 157}
+{"sub_label": "falling", "obj_label": "fight", "masked_sentences": ["Something you might do while falling is [MASK] to keep balance."], "uuid": 158}
+{"sub_label": "falling", "obj_label": "gasp", "masked_sentences": ["Something you might do while falling is [MASK]."], "uuid": 159}
+{"sub_label": "falling", "obj_label": "giggle", "masked_sentences": ["Something you might do while falling is [MASK]."], "uuid": 160}
+{"sub_label": "falling", "obj_label": "groan", "masked_sentences": ["Something you might do while falling is [MASK]."], "uuid": 161}
+{"sub_label": "falling", "obj_label": "hit", "masked_sentences": ["To understand the event \"Raindrops [MASK] the surface of the river.\", it is important to know that When rain \"hits\" something, it is falling upon it."], "uuid": 162}
+{"sub_label": "falling", "obj_label": "land", "masked_sentences": ["Something you might do while falling is [MASK] in the ocean."], "uuid": 163}
+{"sub_label": "falling", "obj_label": "laugh", "masked_sentences": ["Humans can [MASK] at people falling."], "uuid": 164}
+{"sub_label": "falling", "obj_label": "roll", "masked_sentences": ["At the Aikido dojo you can enjoy falling and learning to [MASK] gracefully."], "uuid": 165}
+{"sub_label": "falling", "obj_label": "scream", "masked_sentences": ["Something you might do while falling is [MASK]."], "uuid": 166}
+{"sub_label": "falling", "obj_label": "stumble", "masked_sentences": ["[MASK] is a kind of falling down."], "uuid": 167}
+{"sub_label": "falling", "obj_label": "wave", "masked_sentences": ["Something you might do while falling is [MASK] at the crowd."], "uuid": 168}
+{"sub_label": "falling", "obj_label": "yell", "masked_sentences": ["Something you might do while falling is [MASK]."], "uuid": 169}
+{"sub_label": "fart", "obj_label": "laugh", "masked_sentences": ["One of the things you do when you fart is [MASK]."], "uuid": 170}
+{"sub_label": "fart", "obj_label": "laughter", "masked_sentences": ["Something that might happen when you fart is [MASK]."], "uuid": 171}
+{"sub_label": "farting", "obj_label": "embarrassment", "masked_sentences": ["The effect of farting is social [MASK]."], "uuid": 172}
+{"sub_label": "fence", "obj_label": "jump", "masked_sentences": ["A horse can [MASK] a fence."], "uuid": 173}
+{"sub_label": "fence", "obj_label": "loose", "masked_sentences": ["Something that might happen when you fence is that you [MASK]."], "uuid": 174}
+{"sub_label": "fencing", "obj_label": "thrusting", "masked_sentences": ["Something that might happen while fencing is [MASK]."], "uuid": 175}
+{"sub_label": "fiddle", "obj_label": "break", "masked_sentences": ["Something that might happen when you fiddle is you [MASK] something."], "uuid": 176}
+{"sub_label": "fiddle", "obj_label": "breaking", "masked_sentences": ["Something that might happen when you fiddle is [MASK] it."], "uuid": 177}
+{"sub_label": "fiddle", "obj_label": "dance", "masked_sentences": ["Something that might happen when you fiddle is people [MASK]."], "uuid": 178}
+{"sub_label": "fiddling", "obj_label": "break", "masked_sentences": ["Something that might happen while fiddling is [MASK] something."], "uuid": 179}
+{"sub_label": "fiddling", "obj_label": "entertainment", "masked_sentences": ["Something that might happen while fiddling is [MASK]."], "uuid": 180}
+{"sub_label": "fiddling", "obj_label": "look", "masked_sentences": ["Something you might do while fiddling is [MASK]."], "uuid": 181}
+{"sub_label": "fight", "obj_label": "bleed", "masked_sentences": ["One of the things you do when you fight is [MASK]."], "uuid": 182}
+{"sub_label": "fight", "obj_label": "kick", "masked_sentences": ["One of the things you do when you fight is [MASK] somebody."], "uuid": 183}
+{"sub_label": "fight", "obj_label": "punch", "masked_sentences": ["To understand the event \"Frank and Will are friends.  Frank punched Will.\", it is important to know that feople [MASK] each other in a fight."], "uuid": 184}
+{"sub_label": "fight", "obj_label": "shout", "masked_sentences": ["Something that might happen when you [MASK] at somebody is you start a fight."], "uuid": 185}
+{"sub_label": "fight", "obj_label": "sweat", "masked_sentences": ["One of the things you do when you fight is [MASK]."], "uuid": 186}
+{"sub_label": "fight", "obj_label": "yell", "masked_sentences": ["One of the things you do when you fight is [MASK]."], "uuid": 187}
+{"sub_label": "fish", "obj_label": "cast", "masked_sentences": ["One of the things you do when you fish is to [MASK] the fishing line."], "uuid": 188}
+{"sub_label": "fish", "obj_label": "catch", "masked_sentences": ["Another way to say \"jill is fishing\" is \"Jill is trying to [MASK] fish.\"."], "uuid": 189}
+{"sub_label": "fish", "obj_label": "wait", "masked_sentences": ["Something that might happen when you fish is you will [MASK]."], "uuid": 190}
+{"sub_label": "fishing", "obj_label": "cast", "masked_sentences": ["The first thing you do when you go fishing is [MASK] your line."], "uuid": 191}
+{"sub_label": "fishing", "obj_label": "drink", "masked_sentences": ["Something you might do while fishing is [MASK] a beer."], "uuid": 192}
+{"sub_label": "fishing", "obj_label": "relax", "masked_sentences": ["A way to [MASK] is to go fishing."], "uuid": 193}
+{"sub_label": "fishing", "obj_label": "smoking", "masked_sentences": ["Something you might do while fishing is [MASK]."], "uuid": 194}
+{"sub_label": "fishing", "obj_label": "think", "masked_sentences": ["Something you might do while going fishing is sit and [MASK]."], "uuid": 195}
+{"sub_label": "flirt", "obj_label": "fun", "masked_sentences": ["If you want to flirt then you should have [MASK]."], "uuid": 196}
+{"sub_label": "flirt", "obj_label": "touch", "masked_sentences": ["Something that might happen when you flirt is you [MASK]."], "uuid": 197}
+{"sub_label": "flirt", "obj_label": "wink", "masked_sentences": ["One of the things you do when you flirt is [MASK]."], "uuid": 198}
+{"sub_label": "flirting", "obj_label": "giggle", "masked_sentences": ["Something you might do while flirting is [MASK]."], "uuid": 199}
+{"sub_label": "flirting", "obj_label": "kissing", "masked_sentences": ["Something that might happen while flirting is [MASK]."], "uuid": 200}
+{"sub_label": "flirting", "obj_label": "rejection", "masked_sentences": ["Something that might happen while flirting is [MASK]."], "uuid": 201}
+{"sub_label": "flirting", "obj_label": "smile", "masked_sentences": ["Something you might do while flirting is [MASK]."], "uuid": 202}
+{"sub_label": "forgive", "obj_label": "happiness", "masked_sentences": ["Something that might happen when you forgive someone is [MASK]."], "uuid": 203}
+{"sub_label": "forgive", "obj_label": "hug", "masked_sentences": ["Something that might happen when you forgive someone is you [MASK] them."], "uuid": 204}
+{"sub_label": "forgive", "obj_label": "kiss", "masked_sentences": ["Something that might happen when you forgive someone is you [MASK]."], "uuid": 205}
+{"sub_label": "forgive", "obj_label": "sex", "masked_sentences": ["Something that might happen when you forgive someone is [MASK]."], "uuid": 206}
+{"sub_label": "forgiving", "obj_label": "bitterness", "masked_sentences": ["Sometimes forgiving someone causes [MASK] to end."], "uuid": 207}
+{"sub_label": "forgiving", "obj_label": "hug", "masked_sentences": ["Something you might do while forgiving someone is [MASK] them."], "uuid": 208}
+{"sub_label": "forgiving", "obj_label": "kiss", "masked_sentences": ["Something you might do while forgiving someone is [MASK] them."], "uuid": 209}
+{"sub_label": "gardening", "obj_label": "sweat", "masked_sentences": ["Something you might do while gardening is [MASK]."], "uuid": 210}
+{"sub_label": "get", "obj_label": "debt", "masked_sentences": ["If you want to get out of [MASK] then you should pay your creditors."], "uuid": 211}
+{"sub_label": "get", "obj_label": "receiving", "masked_sentences": ["Sometimes [MASK] a degree causes you to get a better job."], "uuid": 212}
+{"sub_label": "getting", "obj_label": "enjoy", "masked_sentences": ["The statement \"You would walk in the rain because you had an umbrella and could [MASK] the rain without getting all wet.\" is true because Light rain can be refreshing."], "uuid": 213}
+{"sub_label": "getting", "obj_label": "envy", "masked_sentences": ["Something that might happen while getting something is [MASK]."], "uuid": 214}
+{"sub_label": "getting", "obj_label": "smile", "masked_sentences": ["Something you might do while getting a good grade is [MASK]."], "uuid": 215}
+{"sub_label": "getting", "obj_label": "taking", "masked_sentences": ["[MASK] a walk is for getting freash air."], "uuid": 216}
+{"sub_label": "getting", "obj_label": "walk", "masked_sentences": ["Going for a [MASK] is for getting from one place to another."], "uuid": 217}
+{"sub_label": "happy", "obj_label": "sing", "masked_sentences": ["Situation: I [MASK] when I am happy."], "uuid": 218}
+{"sub_label": "help", "obj_label": "reward", "masked_sentences": ["If you help people in need without expecting a [MASK], then you are volunteering your services."], "uuid": 219}
+{"sub_label": "help", "obj_label": "supporting", "masked_sentences": ["One of the things you do when you help someone is [MASK]."], "uuid": 220}
+{"sub_label": "help", "obj_label": "thank", "masked_sentences": ["Something that might happen when you help someone is that they [MASK] you."], "uuid": 221}
+{"sub_label": "helping", "obj_label": "dying", "masked_sentences": ["Something you might do while helping someone is [MASK]."], "uuid": 222}
+{"sub_label": "helping", "obj_label": "panic", "masked_sentences": ["Something that might happen while helping someone is you [MASK]."], "uuid": 223}
+{"sub_label": "helping", "obj_label": "smile", "masked_sentences": ["Something that might happen while helping someone is a [MASK]."], "uuid": 224}
+{"sub_label": "helping", "obj_label": "thank", "masked_sentences": ["Something that might happen as a consequence of helping someone is they will [MASK] you."], "uuid": 225}
+{"sub_label": "hike", "obj_label": "sweat", "masked_sentences": ["Something that might happen when you hike is [MASK]."], "uuid": 226}
+{"sub_label": "hike", "obj_label": "sweating", "masked_sentences": ["Something that might happen when you hike is [MASK]."], "uuid": 227}
+{"sub_label": "judge", "obj_label": "to", "masked_sentences": ["Something you need [MASK] do before you judge someone is observe them."], "uuid": 228}
+{"sub_label": "judging", "obj_label": "assess", "masked_sentences": ["Something you might do while judging someone is [MASK] them."], "uuid": 229}
+{"sub_label": "judging", "obj_label": "watch", "masked_sentences": ["Something you might do while judging someone is [MASK] them."], "uuid": 230}
+{"sub_label": "jump", "obj_label": "fall", "masked_sentences": ["One of the things you do when you bungee jump from a high bridge is free [MASK] for a short distance ."], "uuid": 231}
+{"sub_label": "kill", "obj_label": "dies", "masked_sentences": ["Something that might happen when you kill is someone [MASK]."], "uuid": 232}
+{"sub_label": "kill", "obj_label": "guilt", "masked_sentences": ["Something that might happen when you kill people is a strong feeling of [MASK]."], "uuid": 233}
+{"sub_label": "kill", "obj_label": "laugh", "masked_sentences": ["The last thing you do when you kill is make the audience [MASK]."], "uuid": 234}
+{"sub_label": "kill", "obj_label": "punching", "masked_sentences": ["One of the things you do when you kill is [MASK]."], "uuid": 235}
+{"sub_label": "killing", "obj_label": "bleeding", "masked_sentences": ["Something that might happen while killing someone is [MASK]."], "uuid": 236}
+{"sub_label": "killing", "obj_label": "cutting", "masked_sentences": ["Something you might do while killing is [MASK]."], "uuid": 237}
+{"sub_label": "killing", "obj_label": "die", "masked_sentences": ["Something that might happen when you killing someone is [MASK]."], "uuid": 238}
+{"sub_label": "killing", "obj_label": "dying", "masked_sentences": ["Something that might happen while killing is [MASK] ."], "uuid": 239}
+{"sub_label": "killing", "obj_label": "hurting", "masked_sentences": ["Killing someone is for preventing them from [MASK] otheres."], "uuid": 240}
+{"sub_label": "killing", "obj_label": "laughing", "masked_sentences": ["Something you might do while killing someone is [MASK]."], "uuid": 241}
+{"sub_label": "killing", "obj_label": "scream", "masked_sentences": ["Something that might happen while killing is a [MASK]."], "uuid": 242}
+{"sub_label": "killing", "obj_label": "shoot", "masked_sentences": ["Something you might do while killing someone is [MASK] them."], "uuid": 243}
+{"sub_label": "killing", "obj_label": "shooting", "masked_sentences": ["The effect of [MASK] is killing."], "uuid": 244}
+{"sub_label": "killing", "obj_label": "smoke", "masked_sentences": ["Something you might do while killing someone is [MASK]."], "uuid": 245}
+{"sub_label": "killing", "obj_label": "stab", "masked_sentences": ["Something you might do while killing is [MASK]."], "uuid": 246}
+{"sub_label": "kiss", "obj_label": "fuck", "masked_sentences": ["Something that might happen when you kiss someone is you [MASK] them."], "uuid": 247}
+{"sub_label": "kiss", "obj_label": "lust", "masked_sentences": ["Picture description: man giving in to his [MASK] as he extends to kiss a woman."], "uuid": 248}
+{"sub_label": "kiss", "obj_label": "sex", "masked_sentences": ["Something you might do while kissing is kiss someone of the same [MASK]."], "uuid": 249}
+{"sub_label": "kiss", "obj_label": "slap", "masked_sentences": ["Something that might happen when you kiss someone is they [MASK] you in the face."], "uuid": 250}
+{"sub_label": "kiss", "obj_label": "tongue", "masked_sentences": ["One of the things you do when you kiss is [MASK]."], "uuid": 251}
+{"sub_label": "kissing", "obj_label": "embrace", "masked_sentences": ["Something you might do while kissing someone is [MASK] them."], "uuid": 252}
+{"sub_label": "kissing", "obj_label": "erotic", "masked_sentences": ["Something that might happen while kissing someone is [MASK]."], "uuid": 253}
+{"sub_label": "kissing", "obj_label": "hug", "masked_sentences": ["Something you might do while kissing is [MASK]."], "uuid": 254}
+{"sub_label": "kissing", "obj_label": "kissed", "masked_sentences": ["To understand the event \"Lisa [MASK] Steve.\", it is important to know that Kissing is very nice."], "uuid": 255}
+{"sub_label": "kissing", "obj_label": "laugh", "masked_sentences": ["Something you might do while kissing someone is [MASK]."], "uuid": 256}
+{"sub_label": "kissing", "obj_label": "passion", "masked_sentences": ["Kissing someone is for showing your [MASK]."], "uuid": 257}
+{"sub_label": "knitting", "obj_label": "talk", "masked_sentences": ["Something you might do while knitting is [MASK]."], "uuid": 258}
+{"sub_label": "laugh", "obj_label": "smile", "masked_sentences": ["Laugh is a type of vocal [MASK]."], "uuid": 259}
+{"sub_label": "learning", "obj_label": "forgetting", "masked_sentences": ["Something that might happen while learning is [MASK]."], "uuid": 260}
+{"sub_label": "learning", "obj_label": "insight", "masked_sentences": ["Situation: There are certain pillars which have been established as the unshakeable supports of the Faith of God. The mightiest of these is learning and the use of the mind, the expansion of consciousness, and [MASK] into the realities of the universe and the hidden mysteries of Almighty God. To promote knowledge is thus an inescapable duty imposed on every one of the friends of God."], "uuid": 261}
+{"sub_label": "learning", "obj_label": "listen", "masked_sentences": ["Something you might do while learning is [MASK] to the teacher."], "uuid": 262}
+{"sub_label": "learning", "obj_label": "reading", "masked_sentences": ["Something that might happen as a consequence of [MASK] a letter is learning what a far-away friend has been doing."], "uuid": 263}
+{"sub_label": "learning", "obj_label": "thinking", "masked_sentences": ["Learning includes feeling, watching, [MASK], and doing."], "uuid": 264}
+{"sub_label": "lie", "obj_label": "injury", "masked_sentences": ["Something that might happen when you lie is [MASK]."], "uuid": 265}
+{"sub_label": "like", "obj_label": "smile", "masked_sentences": ["The statement \"To understand the event \"Helena does not know Alfred.  As Helena passed Alfred in the hall, she smiled at him.\", it is important to know that Helena likes Alfred\" is true because People [MASK] at things they like."], "uuid": 266}
+{"sub_label": "listening", "obj_label": "comprehend", "masked_sentences": ["Something you might do while listening is [MASK]."], "uuid": 267}
+{"sub_label": "listening", "obj_label": "learn", "masked_sentences": ["Something that might happen while listening is you [MASK]."], "uuid": 268}
+{"sub_label": "listening", "obj_label": "sing", "masked_sentences": ["Something that might happen when you [MASK] is people listening."], "uuid": 269}
+{"sub_label": "listening", "obj_label": "understand", "masked_sentences": ["To [MASK] the event \"Joe bought a new stereo.\", it is important to know that A stereo is for listening to music."], "uuid": 270}
+{"sub_label": "live", "obj_label": "breathing", "masked_sentences": ["If you're [MASK] and have a place to live, everything else is a bonus."], "uuid": 271}
+{"sub_label": "living", "obj_label": "breathe", "masked_sentences": ["Something you might do while living a life is [MASK]."], "uuid": 272}
+{"sub_label": "living", "obj_label": "die", "masked_sentences": ["Another way to say \"Water is essential for life on Earth.\" is \"Without enough water living things [MASK].\"."], "uuid": 273}
+{"sub_label": "living", "obj_label": "experiencing", "masked_sentences": ["Something that might happen as a consequence of living a life is [MASK] events."], "uuid": 274}
+{"sub_label": "living", "obj_label": "growth", "masked_sentences": ["A statement 'something that might happen while living is [MASK]' helps answer the question 'what is a essential aspect of life?'."], "uuid": 275}
+{"sub_label": "living", "obj_label": "reproduce", "masked_sentences": ["Living entity wants to [MASK]."], "uuid": 276}
+{"sub_label": "living", "obj_label": "seeing", "masked_sentences": ["Checking vital signs is for [MASK] if someone is living or not."], "uuid": 277}
+{"sub_label": "living", "obj_label": "working", "masked_sentences": ["Something that might happen while living is [MASK]."], "uuid": 278}
+{"sub_label": "lying", "obj_label": "blush", "masked_sentences": ["Something you might do while lying is [MASK]."], "uuid": 279}
+{"sub_label": "lying", "obj_label": "panic", "masked_sentences": ["Something that might happen while lying is [MASK]."], "uuid": 280}
+{"sub_label": "lying", "obj_label": "sleeping", "masked_sentences": ["The story \"Staying In Bed\" has the step \"I don't feel like [MASK] anymore, but lying in bed feels good.\"."], "uuid": 281}
+{"sub_label": "memorising", "obj_label": "concentrate", "masked_sentences": ["Something you might do while memorising is [MASK]."], "uuid": 282}
+{"sub_label": "memorising", "obj_label": "repeat", "masked_sentences": ["Something you might do while memorising is [MASK]."], "uuid": 283}
+{"sub_label": "memorize", "obj_label": "knowledge", "masked_sentences": ["Something that might happen when you memorize is [MASK]."], "uuid": 284}
+{"sub_label": "memorize", "obj_label": "remembering", "masked_sentences": ["Something that might happen when you memorize is [MASK]."], "uuid": 285}
+{"sub_label": "memorize", "obj_label": "think", "masked_sentences": ["One of the things you do when you memorize is [MASK]."], "uuid": 286}
+{"sub_label": "misbehave", "obj_label": "cheat", "masked_sentences": ["One of the things you do when you misbehave is [MASK]."], "uuid": 287}
+{"sub_label": "misbehave", "obj_label": "lie", "masked_sentences": ["One of the things you do when you misbehave is [MASK]."], "uuid": 288}
+{"sub_label": "misbehave", "obj_label": "steal", "masked_sentences": ["One of the things you do when you misbehave is [MASK]."], "uuid": 289}
+{"sub_label": "money", "obj_label": "sweat", "masked_sentences": ["Something that might happen while money is [MASK]."], "uuid": 290}
+{"sub_label": "names", "obj_label": "creates", "masked_sentences": ["When someone names something, he [MASK] it."], "uuid": 291}
+{"sub_label": "paint", "obj_label": "art", "masked_sentences": ["[MASK] has paint."], "uuid": 292}
+{"sub_label": "painting", "obj_label": "mask", "masked_sentences": ["Something you might do while painting is [MASK]."], "uuid": 293}
+{"sub_label": "party", "obj_label": "dance", "masked_sentences": ["[MASK] is used for party amusement."], "uuid": 294}
+{"sub_label": "perform", "obj_label": "accident", "masked_sentences": ["Something that might happen when you perform is an [MASK]."], "uuid": 295}
+{"sub_label": "perform", "obj_label": "accomplish", "masked_sentences": ["Something that might happen when you perform is [MASK] something."], "uuid": 296}
+{"sub_label": "perform", "obj_label": "music", "masked_sentences": ["Love to the [MASK] would make you want to watch a musician perform."], "uuid": 297}
+{"sub_label": "perform", "obj_label": "smile", "masked_sentences": ["One of the things you do when you perform is [MASK]."], "uuid": 298}
+{"sub_label": "performing", "obj_label": "act", "masked_sentences": ["Going on the stage is for performing an [MASK]."], "uuid": 299}
+{"sub_label": "performing", "obj_label": "dance", "masked_sentences": ["Something you might do while performing is [MASK]."], "uuid": 300}
+{"sub_label": "performing", "obj_label": "laugh", "masked_sentences": ["To understand the event \"Martin is a comedian.\", it is important to know that A comedian makes people [MASK] by telling and performing funny things."], "uuid": 301}
+{"sub_label": "performing", "obj_label": "sing", "masked_sentences": ["Something you might do while performing is [MASK]."], "uuid": 302}
+{"sub_label": "performing", "obj_label": "smile", "masked_sentences": ["Something you might do while performing is [MASK]."], "uuid": 303}
+{"sub_label": "performing", "obj_label": "sweat", "masked_sentences": ["Something you might do while performing is [MASK]."], "uuid": 304}
+{"sub_label": "play", "obj_label": "compete", "masked_sentences": ["The last thing you do when you play sports is [MASK]."], "uuid": 305}
+{"sub_label": "play", "obj_label": "grab", "masked_sentences": ["One of the things you do when you play is [MASK]."], "uuid": 306}
+{"sub_label": "play", "obj_label": "laugh", "masked_sentences": ["Person wants to [MASK] and play."], "uuid": 307}
+{"sub_label": "playing", "obj_label": "cheat", "masked_sentences": ["Something you might do while playing games is [MASK]."], "uuid": 308}
+{"sub_label": "playing", "obj_label": "education", "masked_sentences": ["Something that might happen while playing is [MASK]."], "uuid": 309}
+{"sub_label": "playing", "obj_label": "laugh", "masked_sentences": ["God is a comedian playing to an audience too afraid to [MASK]."], "uuid": 310}
+{"sub_label": "playing", "obj_label": "laughing", "masked_sentences": ["Something you find in a park is children playing and [MASK]."], "uuid": 311}
+{"sub_label": "playing", "obj_label": "laughter", "masked_sentences": ["Something that might happen while playing is [MASK]."], "uuid": 312}
+{"sub_label": "playing", "obj_label": "learn", "masked_sentences": ["Playing is a way to [MASK] social skills."], "uuid": 313}
+{"sub_label": "playing", "obj_label": "running", "masked_sentences": ["[MASK] after the ball is for playing."], "uuid": 314}
+{"sub_label": "practice", "obj_label": "improve", "masked_sentences": ["To understand the event \"Our local football team spent extra hours practicing this week.  The annual championship game was won by the local team.\", it is important to know that Teams practice in order to [MASK]."], "uuid": 315}
+{"sub_label": "pray", "obj_label": "salvation", "masked_sentences": ["Something that might happen when you pray is [MASK]."], "uuid": 316}
+{"sub_label": "pray", "obj_label": "wonder", "masked_sentences": ["Something that might happen when you pray is a [MASK]."], "uuid": 317}
+{"sub_label": "praying", "obj_label": "bow", "masked_sentences": ["Something you might do while praying is [MASK]."], "uuid": 318}
+{"sub_label": "praying", "obj_label": "kneeling", "masked_sentences": ["Something you might do while praying is [MASK]."], "uuid": 319}
+{"sub_label": "pretend", "obj_label": "laughter", "masked_sentences": ["Something that might happen when you pretend is [MASK]."], "uuid": 320}
+{"sub_label": "pretend", "obj_label": "religion", "masked_sentences": ["Something that might happen when you pretend is [MASK]. ."], "uuid": 321}
+{"sub_label": "pretending", "obj_label": "forget", "masked_sentences": ["Something that might happen while pretending is you [MASK]."], "uuid": 322}
+{"sub_label": "pretending", "obj_label": "laughter", "masked_sentences": ["Something that might happen while pretending is [MASK]."], "uuid": 323}
+{"sub_label": "pretending", "obj_label": "religion", "masked_sentences": ["Something you might do while pretending is start a new age [MASK] ."], "uuid": 324}
+{"sub_label": "pretending", "obj_label": "smile", "masked_sentences": ["Something you might do while pretending is [MASK]."], "uuid": 325}
+{"sub_label": "procreate", "obj_label": "kiss", "masked_sentences": ["One of the things you do when you procreate is [MASK]."], "uuid": 326}
+{"sub_label": "procreate", "obj_label": "moaning", "masked_sentences": ["Something that might happen when you procreate is [MASK]."], "uuid": 327}
+{"sub_label": "procreating", "obj_label": "breathe", "masked_sentences": ["Something you might do while procreating is [MASK]."], "uuid": 328}
+{"sub_label": "procreating", "obj_label": "cum", "masked_sentences": ["Something you might do while procreating is [MASK]."], "uuid": 329}
+{"sub_label": "procreating", "obj_label": "enjoyment", "masked_sentences": ["Something that might happen while procreating is [MASK]."], "uuid": 330}
+{"sub_label": "procreating", "obj_label": "fuck", "masked_sentences": ["Something you might do while procreating is [MASK]."], "uuid": 331}
+{"sub_label": "procreating", "obj_label": "hurry", "masked_sentences": ["Something you might do while procreating is [MASK]."], "uuid": 332}
+{"sub_label": "procreating", "obj_label": "kiss", "masked_sentences": ["Something you might do while procreating is [MASK] your partner."], "uuid": 333}
+{"sub_label": "procreating", "obj_label": "naked", "masked_sentences": ["Something you might do while procreating is be [MASK]."], "uuid": 334}
+{"sub_label": "procreating", "obj_label": "orgasm", "masked_sentences": ["Something you might do while procreating is [MASK]."], "uuid": 335}
+{"sub_label": "procreating", "obj_label": "sweat", "masked_sentences": ["Something you might do while procreating is [MASK]."], "uuid": 336}
+{"sub_label": "procreating", "obj_label": "talk", "masked_sentences": ["Something you might do while procreating is [MASK]."], "uuid": 337}
+{"sub_label": "program", "obj_label": "deploy", "masked_sentences": ["One of the things you do when you program is [MASK]."], "uuid": 338}
+{"sub_label": "program", "obj_label": "type", "masked_sentences": ["To understand the event \"John had to write a paper for school.  John used her computer to [MASK] up the paper.\", it is important to know that John used a word processing program to help him write the paper."], "uuid": 339}
+{"sub_label": "program", "obj_label": "typing", "masked_sentences": ["[MASK] is for writing a computer program."], "uuid": 340}
+{"sub_label": "punch", "obj_label": "insult", "masked_sentences": ["Something that might happen when you punch someone is an [MASK]."], "uuid": 341}
+{"sub_label": "punch", "obj_label": "pain", "masked_sentences": ["Something that might happen when you punch someone is [MASK]."], "uuid": 342}
+{"sub_label": "punching", "obj_label": "fighting", "masked_sentences": ["Something that might happen while punching someone is [MASK]."], "uuid": 343}
+{"sub_label": "punishing", "obj_label": "avoid", "masked_sentences": ["Something you might do while punishing someone is [MASK] them."], "uuid": 344}
+{"sub_label": "punishing", "obj_label": "hit", "masked_sentences": ["Something you might do while punishing someone is [MASK] them."], "uuid": 345}
+{"sub_label": "punishing", "obj_label": "hurt", "masked_sentences": ["Something you might do while punishing someone is [MASK] them."], "uuid": 346}
+{"sub_label": "punishing", "obj_label": "ignore", "masked_sentences": ["Something you might do while punishing someone is [MASK] them."], "uuid": 347}
+{"sub_label": "punishing", "obj_label": "sadness", "masked_sentences": ["Something that might happen while punishing someone is [MASK]."], "uuid": 348}
+{"sub_label": "punishing", "obj_label": "yell", "masked_sentences": ["Something you might do while punishing someone is [MASK] at them."], "uuid": 349}
+{"sub_label": "reading", "obj_label": "laugh", "masked_sentences": ["The story \"Reading A Book\" has the step \"[MASK] and put the book down\"."], "uuid": 350}
+{"sub_label": "reading", "obj_label": "sleep", "masked_sentences": ["Something you might do while reading a book is relax the mind and [MASK]."], "uuid": 351}
+{"sub_label": "reading", "obj_label": "thinking", "masked_sentences": ["Something you might do while reading is [MASK]."], "uuid": 352}
+{"sub_label": "relax", "obj_label": "sleep", "masked_sentences": ["Rest is a type of [MASK] relax."], "uuid": 353}
+{"sub_label": "relaxing", "obj_label": "die", "masked_sentences": ["Something you might do while relaxing is [MASK]."], "uuid": 354}
+{"sub_label": "relaxing", "obj_label": "r", "masked_sentences": ["Something you might do while relaxing is [MASK]."], "uuid": 355}
+{"sub_label": "relaxing", "obj_label": "read", "masked_sentences": ["Something you might do while relaxing is [MASK] a book."], "uuid": 356}
+{"sub_label": "relaxing", "obj_label": "reading", "masked_sentences": ["The effect of [MASK] is usually very relaxing."], "uuid": 357}
+{"sub_label": "relaxing", "obj_label": "rest", "masked_sentences": ["Having a [MASK] is for relaxing your body."], "uuid": 358}
+{"sub_label": "remember", "obj_label": "cry", "masked_sentences": ["To understand the event \"Pam started to [MASK].  Pam was at a funeral.\", it is important to know that a funeral is an event to remember the one who died."], "uuid": 359}
+{"sub_label": "remember", "obj_label": "hurts", "masked_sentences": ["Something that might happen when you remember something is that it [MASK]."], "uuid": 360}
+{"sub_label": "remember", "obj_label": "reflect", "masked_sentences": ["One of the things you do when you remember is [MASK]."], "uuid": 361}
+{"sub_label": "remember", "obj_label": "revelation", "masked_sentences": ["Something that might happen when you remember something is [MASK]."], "uuid": 362}
+{"sub_label": "remembering", "obj_label": "forgetting", "masked_sentences": ["Something that might happen as a consequence of remembering something is [MASK] it again."], "uuid": 363}
+{"sub_label": "remembering", "obj_label": "glancing", "masked_sentences": ["Something that might happen while remembering is [MASK]."], "uuid": 364}
+{"sub_label": "remembering", "obj_label": "smiling", "masked_sentences": ["Something that might happen while remembering is [MASK]."], "uuid": 365}
+{"sub_label": "remembering", "obj_label": "staring", "masked_sentences": ["Something that might happen while remembering is [MASK]."], "uuid": 366}
+{"sub_label": "remembering", "obj_label": "think", "masked_sentences": ["Something that might happen while remembering is [MASK] of what your supposed to be doing."], "uuid": 367}
+{"sub_label": "reproduce", "obj_label": "lawsuit", "masked_sentences": ["Something that might happen when you reproduce is a [MASK]."], "uuid": 368}
+{"sub_label": "reproducing", "obj_label": "flirting", "masked_sentences": ["Something that might happen while reproducing is [MASK]."], "uuid": 369}
+{"sub_label": "reproducing", "obj_label": "kiss", "masked_sentences": ["Something you might do while reproducing is [MASK]."], "uuid": 370}
+{"sub_label": "rest", "obj_label": "read", "masked_sentences": ["The story \"Having A Rest\" has the step \"I like to [MASK] about history.\"."], "uuid": 371}
+{"sub_label": "resting", "obj_label": "breathe", "masked_sentences": ["One of the things you do when you resting is [MASK]."], "uuid": 372}
+{"sub_label": "resting", "obj_label": "dream", "masked_sentences": ["One of the things you do when you resting is [MASK]."], "uuid": 373}
+{"sub_label": "run", "obj_label": "exhaustion", "masked_sentences": ["If before you run out of steam the situation is on the verge of [MASK], then afterwards the situation is likely to be tired and sweaty."], "uuid": 374}
+{"sub_label": "run", "obj_label": "sweat", "masked_sentences": ["Something that might happen when you run twenty-six miles is [MASK]."], "uuid": 375}
+{"sub_label": "running", "obj_label": "breath", "masked_sentences": ["Sometimes running causes shortness of [MASK]."], "uuid": 376}
+{"sub_label": "running", "obj_label": "trip", "masked_sentences": ["Something you might do while running is [MASK]."], "uuid": 377}
+{"sub_label": "sad", "obj_label": "cry", "masked_sentences": ["[MASK] is related to sad."], "uuid": 378}
+{"sub_label": "sad", "obj_label": "crying", "masked_sentences": ["Something you need to do before [MASK] is be sad."], "uuid": 379}
+{"sub_label": "scared", "obj_label": "trembling", "masked_sentences": ["One of the things you do when you are scared is [MASK]."], "uuid": 380}
+{"sub_label": "sewing", "obj_label": "cutting", "masked_sentences": ["Something you might do while sewing is [MASK]."], "uuid": 381}
+{"sub_label": "sewing", "obj_label": "hum", "masked_sentences": ["Something you might do while sewing is [MASK]."], "uuid": 382}
+{"sub_label": "sewing", "obj_label": "sing", "masked_sentences": ["Something that might happen while sewing is to  [MASK]."], "uuid": 383}
+{"sub_label": "shop", "obj_label": "buying", "masked_sentences": ["The story \"[MASK] Something\" has the step \"I entered the shop\"."], "uuid": 384}
+{"sub_label": "shop", "obj_label": "fatigue", "masked_sentences": ["Something that might happen when you shop is [MASK]."], "uuid": 385}
+{"sub_label": "shop", "obj_label": "purchasing", "masked_sentences": ["The last thing you do when you shop is pay for the goods you are [MASK]."], "uuid": 386}
+{"sub_label": "shopping", "obj_label": "buying", "masked_sentences": ["Shopping is for looking at products other people are [MASK]."], "uuid": 387}
+{"sub_label": "shopping", "obj_label": "purchasing", "masked_sentences": ["Another way to say \"milan is shopping\" is \"[MASK] is an activity that Milan may do.\"."], "uuid": 388}
+{"sub_label": "shopping", "obj_label": "selecting", "masked_sentences": ["Something you might do while shopping is [MASK]."], "uuid": 389}
+{"sub_label": "shopping", "obj_label": "stop", "masked_sentences": ["Something you might do while shopping is [MASK]!"], "uuid": 390}
+{"sub_label": "shot", "obj_label": "scream", "masked_sentences": ["One of the things you do when you are shot is [MASK]."], "uuid": 391}
+{"sub_label": "showering", "obj_label": "sing", "masked_sentences": ["Something you might do while showering is [MASK]."], "uuid": 392}
+{"sub_label": "sick", "obj_label": "cry", "masked_sentences": ["To understand the event \"The baby cried.\", it is important to know that A baby might [MASK] because it is sick or hurt."], "uuid": 393}
+{"sub_label": "sing", "obj_label": "breathe", "masked_sentences": ["If you want to sing then you should [MASK] deeply."], "uuid": 394}
+{"sub_label": "sitting", "obj_label": "think", "masked_sentences": ["The story \"Sitting On A Chair\" has the step \"I [MASK] they all love me.\"."], "uuid": 395}
+{"sub_label": "skate", "obj_label": "dance", "masked_sentences": ["One of the things you do when you skate is [MASK]."], "uuid": 396}
+{"sub_label": "skate", "obj_label": "fall", "masked_sentences": ["Something that might happen when you skate is [MASK] down."], "uuid": 397}
+{"sub_label": "skate", "obj_label": "glide", "masked_sentences": ["One of the things you do when you skate is [MASK]."], "uuid": 398}
+{"sub_label": "skate", "obj_label": "jump", "masked_sentences": ["One of the things you do when you skate is [MASK]."], "uuid": 399}
+{"sub_label": "skate", "obj_label": "romance", "masked_sentences": ["Something that might happen when you skate is [MASK]."], "uuid": 400}
+{"sub_label": "skate", "obj_label": "spin", "masked_sentences": ["One of the things you do when you skate is [MASK]."], "uuid": 401}
+{"sub_label": "skateboard", "obj_label": "balance", "masked_sentences": ["If you want to skateboard then you should learn how to [MASK]."], "uuid": 402}
+{"sub_label": "skateboard", "obj_label": "fall", "masked_sentences": ["The last thing you do when you skateboard is [MASK] off."], "uuid": 403}
+{"sub_label": "skating", "obj_label": "fall", "masked_sentences": ["Something you might do while skating is [MASK] on your butt."], "uuid": 404}
+{"sub_label": "skating", "obj_label": "slip", "masked_sentences": ["Something you might do while skating is [MASK]."], "uuid": 405}
+{"sub_label": "ski", "obj_label": "balance", "masked_sentences": ["One of the things you do when you ski is keep your [MASK]."], "uuid": 406}
+{"sub_label": "ski", "obj_label": "bleeding", "masked_sentences": ["Something that might happen when you ski is [MASK]."], "uuid": 407}
+{"sub_label": "ski", "obj_label": "pleasure", "masked_sentences": ["Something that might happen when you ski is [MASK]."], "uuid": 408}
+{"sub_label": "ski", "obj_label": "sweat", "masked_sentences": ["One of the things you do when you ski is [MASK]."], "uuid": 409}
+{"sub_label": "skiing", "obj_label": "accident", "masked_sentences": ["At skiing, you would have an [MASK]."], "uuid": 410}
+{"sub_label": "skiing", "obj_label": "fall", "masked_sentences": ["Something that might happen as a consequence of skiing is you might [MASK] into the water."], "uuid": 411}
+{"sub_label": "sleep", "obj_label": "breathing", "masked_sentences": ["In the event \"The baby went to sleep.\", something that changed was the baby's [MASK] slowed down."], "uuid": 412}
+{"sub_label": "sleep", "obj_label": "dreaming", "masked_sentences": ["Something you might do while [MASK] is sleep."], "uuid": 413}
+{"sub_label": "sleep", "obj_label": "sweat", "masked_sentences": ["Something that might happen when you sleep is you [MASK]."], "uuid": 414}
+{"sub_label": "sleeping", "obj_label": "talking", "masked_sentences": ["Something that might happen while sleeping is [MASK]."], "uuid": 415}
+{"sub_label": "smell", "obj_label": "shower", "masked_sentences": ["If people dont [MASK], they smell bad."], "uuid": 416}
+{"sub_label": "smoke", "obj_label": "cancer", "masked_sentences": ["To understand the event \"I am trying not to smoke cigarettes.\", it is important to know that cigarettes often give [MASK] to users."], "uuid": 417}
+{"sub_label": "smoking", "obj_label": "cough", "masked_sentences": ["Smoking is for making raiad1024 [MASK]."], "uuid": 418}
+{"sub_label": "smoking", "obj_label": "coughing", "masked_sentences": ["Something that might happen while smoking is [MASK]."], "uuid": 419}
+{"sub_label": "smoking", "obj_label": "relax", "masked_sentences": ["Something you might do while smoking is [MASK]."], "uuid": 420}
+{"sub_label": "smoking", "obj_label": "talking", "masked_sentences": ["[MASK], smoking."], "uuid": 421}
+{"sub_label": "sneeze", "obj_label": "spray", "masked_sentences": ["Something that might happen when you sneeze is [MASK]."], "uuid": 422}
+{"sub_label": "snoring", "obj_label": "dream", "masked_sentences": ["Something you might do while snoring is [MASK]."], "uuid": 423}
+{"sub_label": "socialising", "obj_label": "chat", "masked_sentences": ["Something you might do while socialising is [MASK]."], "uuid": 424}
+{"sub_label": "socialising", "obj_label": "eating", "masked_sentences": ["Something that might happen while socialising is [MASK]."], "uuid": 425}
+{"sub_label": "socialising", "obj_label": "talk", "masked_sentences": ["Sometimes socialising causes a lot of small [MASK]."], "uuid": 426}
+{"sub_label": "socialize", "obj_label": "talking", "masked_sentences": ["Something that might happen when you socialize is [MASK]."], "uuid": 427}
+{"sub_label": "speak", "obj_label": "talk", "masked_sentences": ["If you want to [MASK] then you should speak outloud."], "uuid": 428}
+{"sub_label": "spit", "obj_label": "blow", "masked_sentences": ["One of the things you do when you spit is [MASK]."], "uuid": 429}
+{"sub_label": "spit", "obj_label": "hit", "masked_sentences": ["Something that might happen when you spit is you [MASK] someone."], "uuid": 430}
+{"sub_label": "spit", "obj_label": "insult", "masked_sentences": ["Something that might happen when you spit is [MASK] someone."], "uuid": 431}
+{"sub_label": "studying", "obj_label": "reading", "masked_sentences": ["Studying for a subject requires [MASK]."], "uuid": 432}
+{"sub_label": "surfing", "obj_label": "drown", "masked_sentences": ["Something you might do while surfing is [MASK]."], "uuid": 433}
+{"sub_label": "surprise", "obj_label": "gasp", "masked_sentences": ["Something that might happen when you surprise someone is they [MASK]."], "uuid": 434}
+{"sub_label": "surprise", "obj_label": "laugh", "masked_sentences": ["The statement \"You would howl with laughter because you heard a good joke\" is true because A joke is often a paradoxical play of words that startles people in an unexpected way, often causing people to [MASK] at the surprise."], "uuid": 435}
+{"sub_label": "surprise", "obj_label": "shock", "masked_sentences": ["Surprise is amaze [MASK]."], "uuid": 436}
+{"sub_label": "surprised", "obj_label": "gaping", "masked_sentences": ["One of the things you do when you are surprised is [MASK]."], "uuid": 437}
+{"sub_label": "surprising", "obj_label": "amusing", "masked_sentences": ["Something you might do while surprising someone is [MASK]."], "uuid": 438}
+{"sub_label": "surprising", "obj_label": "gasp", "masked_sentences": ["Something that might happen while surprising someone is they [MASK]."], "uuid": 439}
+{"sub_label": "surprising", "obj_label": "grab", "masked_sentences": ["Something you might do while surprising someone is [MASK] their arms."], "uuid": 440}
+{"sub_label": "surprising", "obj_label": "grin", "masked_sentences": ["Something you might do while surprising someone is [MASK]."], "uuid": 441}
+{"sub_label": "surprising", "obj_label": "hide", "masked_sentences": ["Something you might do while surprising someone is [MASK]."], "uuid": 442}
+{"sub_label": "surprising", "obj_label": "kiss", "masked_sentences": ["Something you might do while surprising someone is [MASK] them."], "uuid": 443}
+{"sub_label": "surprising", "obj_label": "knock", "masked_sentences": ["Something you might do while surprising someone is [MASK]."], "uuid": 444}
+{"sub_label": "surprising", "obj_label": "laugh", "masked_sentences": ["Surprising someone is for making them [MASK]."], "uuid": 445}
+{"sub_label": "surprising", "obj_label": "scare", "masked_sentences": ["The statement \"Sometimes surprising someone causes them to pee their pants.\" helps answer the question \"What could happen when you [MASK] someone?\"."], "uuid": 446}
+{"sub_label": "surprising", "obj_label": "screams", "masked_sentences": ["Something that might happen while surprising someone is [MASK]."], "uuid": 447}
+{"sub_label": "surprising", "obj_label": "shout", "masked_sentences": ["Surprising someone is for making them [MASK]."], "uuid": 448}
+{"sub_label": "surprising", "obj_label": "shouting", "masked_sentences": ["Something you might do while surprising someone is [MASK]."], "uuid": 449}
+{"sub_label": "surprising", "obj_label": "smile", "masked_sentences": ["Surprising someone is for making them [MASK]."], "uuid": 450}
+{"sub_label": "surprising", "obj_label": "yell", "masked_sentences": ["Something you might do while surprising someone is [MASK] \"surprise!\"."], "uuid": 451}
+{"sub_label": "swimming", "obj_label": "dive", "masked_sentences": ["[MASK] is swimming."], "uuid": 452}
+{"sub_label": "swimming", "obj_label": "diving", "masked_sentences": ["[MASK] requires swimming skill."], "uuid": 453}
+{"sub_label": "swimming", "obj_label": "float", "masked_sentences": ["Something you might do while swimming is [MASK] on the surface of the water."], "uuid": 454}
+{"sub_label": "swimming", "obj_label": "kick", "masked_sentences": ["Something you might do while swimming is [MASK] your legs."], "uuid": 455}
+{"sub_label": "swimming", "obj_label": "stroking", "masked_sentences": ["Something you might do while swimming is [MASK]."], "uuid": 456}
+{"sub_label": "talk", "obj_label": "communication", "masked_sentences": ["The statement \"If you want to talk with someone far away then you should chat with them on the internet.\" helps answer the question \"What is one method of long-distance [MASK]?\"."], "uuid": 457}
+{"sub_label": "talking", "obj_label": "breathe", "masked_sentences": ["Something you might do while talking is [MASK]."], "uuid": 458}
+{"sub_label": "talking", "obj_label": "cough", "masked_sentences": ["Something you might do while talking is pausing to [MASK] or sneeze."], "uuid": 459}
+{"sub_label": "talking", "obj_label": "debate", "masked_sentences": ["Something that might happen while talking is [MASK]."], "uuid": 460}
+{"sub_label": "talking", "obj_label": "lie", "masked_sentences": ["Something you might do while talking is [MASK]."], "uuid": 461}
+{"sub_label": "talking", "obj_label": "listening", "masked_sentences": ["We may gain better experience by [MASK] than by talking."], "uuid": 462}
+{"sub_label": "talking", "obj_label": "speak", "masked_sentences": ["Sometimes when people are talking, the [MASK] the english language."], "uuid": 463}
+{"sub_label": "talking", "obj_label": "think", "masked_sentences": ["Something you might do while talking is [MASK]."], "uuid": 464}
+{"sub_label": "talking", "obj_label": "walking", "masked_sentences": ["Something you might do while [MASK] is talking on the cell phone."], "uuid": 465}
+{"sub_label": "teach", "obj_label": "communicate", "masked_sentences": ["You would write a story because you want to [MASK], teach or entertain."], "uuid": 466}
+{"sub_label": "teaches", "obj_label": "teaching", "masked_sentences": ["To understand the event \"Mrs. Sanchez teaches at the local elementary school  She has 32 students in her class.\", it is important to know that [MASK] requires patience."], "uuid": 467}
+{"sub_label": "thanking", "obj_label": "appreciation", "masked_sentences": ["Thanking someone is for showing [MASK]."], "uuid": 468}
+{"sub_label": "thanking", "obj_label": "speaking", "masked_sentences": ["Something that might happen while thanking someone is [MASK]."], "uuid": 469}
+{"sub_label": "thanking", "obj_label": "touch", "masked_sentences": ["Something you might do while thanking someone is [MASK] them."], "uuid": 470}
+{"sub_label": "think", "obj_label": "associate", "masked_sentences": ["One of the things you do when you think is [MASK]."], "uuid": 471}
+{"sub_label": "think", "obj_label": "quiet", "masked_sentences": ["If you want to create an idea then you should find a [MASK] place to think ."], "uuid": 472}
+{"sub_label": "think", "obj_label": "solution", "masked_sentences": ["The statement \"If you want to maintain good health then you should think much about health\" is true because thinking about something is part of the [MASK]."], "uuid": 473}
+{"sub_label": "think", "obj_label": "worry", "masked_sentences": ["To understand the event \"Sally is compassionate.  Sally cares about sad people.\", it is important to know that \"To care\" means to think about and [MASK] about, etc, a person or thing."], "uuid": 474}
+{"sub_label": "thinking", "obj_label": "concentrate", "masked_sentences": ["Something you might do while thinking is to [MASK]."], "uuid": 475}
+{"sub_label": "thinking", "obj_label": "headache", "masked_sentences": ["Thinking too much can give you a [MASK]."], "uuid": 476}
+{"sub_label": "tickle", "obj_label": "laughing", "masked_sentences": ["Something that might happen when you tickle is [MASK]."], "uuid": 477}
+{"sub_label": "travel", "obj_label": "read", "masked_sentences": ["You would [MASK] the newspaper because you want to select a travel tour."], "uuid": 478}
+{"sub_label": "traveling", "obj_label": "accident", "masked_sentences": ["Something that might happen while traveling is an [MASK]."], "uuid": 479}
+{"sub_label": "traveling", "obj_label": "bargaining", "masked_sentences": ["Something that might happen while traveling is [MASK]."], "uuid": 480}
+{"sub_label": "traveling", "obj_label": "driving", "masked_sentences": ["Traveling by bicycle is faster than [MASK] a car, if all the costs are considered and counted as time ."], "uuid": 481}
+{"sub_label": "traveling", "obj_label": "losing", "masked_sentences": ["Something that might happen while traveling is [MASK] something."], "uuid": 482}
+{"sub_label": "traveling", "obj_label": "reading", "masked_sentences": ["Something you might do while traveling is pass the time by [MASK] a book."], "uuid": 483}
+{"sub_label": "traveling", "obj_label": "shopping", "masked_sentences": ["Another way to say \"[MASK] requires you to travel.\" is \"one cannot  shop without traveling\"."], "uuid": 484}
+{"sub_label": "traveling", "obj_label": "sing", "masked_sentences": ["Something you might do while traveling is [MASK]."], "uuid": 485}
+{"sub_label": "traveling", "obj_label": "unexpected", "masked_sentences": ["Something that might happen while traveling is the [MASK]."], "uuid": 486}
+{"sub_label": "type", "obj_label": "click", "masked_sentences": ["Point is a type of and [MASK]."], "uuid": 487}
+{"sub_label": "type", "obj_label": "create", "masked_sentences": ["Writing is a type of [MASK] book."], "uuid": 488}
+{"sub_label": "type", "obj_label": "think", "masked_sentences": ["[MASK] is a type of thought."], "uuid": 489}
+{"sub_label": "typing", "obj_label": "read", "masked_sentences": ["Something you might do while typing is [MASK] the screen."], "uuid": 490}
+{"sub_label": "typing", "obj_label": "sitting", "masked_sentences": ["Something that might happen while [MASK] down is typing."], "uuid": 491}
+{"sub_label": "typing", "obj_label": "think", "masked_sentences": ["Something you might do while typing is [MASK]."], "uuid": 492}
+{"sub_label": "urinate", "obj_label": "satisfaction", "masked_sentences": ["Something that might happen when you urinate is [MASK]."], "uuid": 493}
+{"sub_label": "urinating", "obj_label": "aim", "masked_sentences": ["Something you might do while urinating is [MASK]."], "uuid": 494}
+{"sub_label": "urinating", "obj_label": "sit", "masked_sentences": ["Something that might happen while urinating is that you [MASK] on the toilet."], "uuid": 495}
+{"sub_label": "urinating", "obj_label": "whistle", "masked_sentences": ["Something you might do while urinating is [MASK]."], "uuid": 496}
+{"sub_label": "waiting", "obj_label": "read", "masked_sentences": ["You would [MASK] the newspaper because you want to have something to do while waiting for a dentist."], "uuid": 497}
+{"sub_label": "walk", "obj_label": "cause", "masked_sentences": ["Something that might happen when you walk is [MASK]."], "uuid": 498}
+{"sub_label": "walk", "obj_label": "talk", "masked_sentences": ["The story \"Going To A Place That Is Too Far To Walk To\" has the step \"With an animated smile and cheerful [MASK], the baby  was buckled into the seat.\"."], "uuid": 499}
+{"sub_label": "walk", "obj_label": "trip", "masked_sentences": ["Something that might happen when you go to a place that is too far to walk to is you buy a round [MASK] ticket."], "uuid": 500}
+{"sub_label": "walk", "obj_label": "whistle", "masked_sentences": ["If you want to walk the dog then you should grab your coat and [MASK] for the dog's attention."], "uuid": 501}
+{"sub_label": "walking", "obj_label": "falling", "masked_sentences": ["Something that might happen as a consequence of walking around a lake is [MASK] in and drowning."], "uuid": 502}
+{"sub_label": "walking", "obj_label": "stumble", "masked_sentences": ["[MASK] is related to walking."], "uuid": 503}
+{"sub_label": "walking", "obj_label": "stumbling", "masked_sentences": ["The statement \"Something that might happen while walking is [MASK]\" helps answer the question \"What problems could you encounter while trying to cross a dark room?\"."], "uuid": 504}
+{"sub_label": "walking", "obj_label": "trip", "masked_sentences": ["It is a long [MASK] from Washington, D.C. to New York City if you are walking."], "uuid": 505}
+{"sub_label": "walking", "obj_label": "whistle", "masked_sentences": ["Situation: I like to [MASK] when I'm walking on the street."], "uuid": 506}
+{"sub_label": "work", "obj_label": "create", "masked_sentences": ["If you want to [MASK] an idea then you should work at an interesting place."], "uuid": 507}
+{"sub_label": "work", "obj_label": "plan", "masked_sentences": ["The statement \"people must [MASK] for their retirement\" is true because you need to prepare for when you can't work anymore."], "uuid": 508}
+{"sub_label": "work", "obj_label": "problem", "masked_sentences": ["Something you might do while getting up early is solve a [MASK] at work over the phone."], "uuid": 509}
+{"sub_label": "working", "obj_label": "complain", "masked_sentences": ["The statement \"Something you might do while working is [MASK]\" is true because work can often be challenging or stressful."], "uuid": 510}
+{"sub_label": "working", "obj_label": "crazy", "masked_sentences": ["Something that might happen while working is [MASK]."], "uuid": 511}
+{"sub_label": "working", "obj_label": "sleep", "masked_sentences": ["Something you might do while working is [MASK]."], "uuid": 512}
+{"sub_label": "working", "obj_label": "think", "masked_sentences": ["Something you might do while working is [MASK] about the clouds."], "uuid": 513}
+{"sub_label": "working", "obj_label": "thinking", "masked_sentences": ["Something you might do while working is [MASK]."], "uuid": 514}
+{"sub_label": "working", "obj_label": "whistle", "masked_sentences": ["Something you might do while working is [MASK] a song."], "uuid": 515}
+{"sub_label": "wrestle", "obj_label": "fall", "masked_sentences": ["Something that might happen when you wrestle is you [MASK]."], "uuid": 516}
+{"sub_label": "wrestle", "obj_label": "sweat", "masked_sentences": ["One of the things you do when you wrestle is [MASK]."], "uuid": 517}
+{"sub_label": "wrestling", "obj_label": "erection", "masked_sentences": ["Something that might happen while wrestling is an [MASK]."], "uuid": 518}
+{"sub_label": "wrestling", "obj_label": "fall", "masked_sentences": ["Something that might happen while wrestling is you might accidentally slip and your clothes will [MASK] off and you'll have anal sex."], "uuid": 519}
+{"sub_label": "wrestling", "obj_label": "pin", "masked_sentences": ["Something you might do while wrestling is [MASK] your oppanent."], "uuid": 520}
+{"sub_label": "wrestling", "obj_label": "punch", "masked_sentences": ["Something you might do while wrestling is [MASK] someone."], "uuid": 521}
+{"sub_label": "write", "obj_label": "creativity", "masked_sentences": ["[MASK] would make you want to write a story."], "uuid": 522}
+{"sub_label": "write", "obj_label": "pen", "masked_sentences": ["[MASK] is to write."], "uuid": 523}
+{"sub_label": "writing", "obj_label": "acknowledge", "masked_sentences": ["Something you might do while writing is [MASK]."], "uuid": 524}
+{"sub_label": "writing", "obj_label": "begin", "masked_sentences": ["An author can [MASK] writing a book and never finish it."], "uuid": 525}
+{"sub_label": "writing", "obj_label": "define", "masked_sentences": ["Something you might do while writing is [MASK]."], "uuid": 526}
+{"sub_label": "writing", "obj_label": "drink", "masked_sentences": ["Something you might do while writing is [MASK] tea."], "uuid": 527}
+{"sub_label": "writing", "obj_label": "eat", "masked_sentences": ["Something you might do while writing is [MASK]."], "uuid": 528}
+{"sub_label": "writing", "obj_label": "end", "masked_sentences": ["Writing a program is for a practical [MASK]."], "uuid": 529}
+{"sub_label": "writing", "obj_label": "expand", "masked_sentences": ["Something you might do while writing is [MASK]."], "uuid": 530}
+{"sub_label": "writing", "obj_label": "initial", "masked_sentences": ["Something you might do while writing is [MASK]."], "uuid": 531}
+{"sub_label": "writing", "obj_label": "singing", "masked_sentences": ["I am describing the writing of musical notes. music that you hear consists of sounds that are created by some musical instrument or the [MASK] voice of a human being. each sound has been assigned a particular designation on a scale. these scales can be w can be used to record all the notes or sounds that make up a song."], "uuid": 532}
+{"sub_label": "writing", "obj_label": "snack", "masked_sentences": ["Something you might do while writing is [MASK]."], "uuid": 533}
+{"sub_label": "writing", "obj_label": "think", "masked_sentences": ["Something you might do while writing is [MASK]."], "uuid": 534}
+{"sub_label": "writing", "obj_label": "type", "masked_sentences": ["Writing is a [MASK] of using pencil."], "uuid": 535}

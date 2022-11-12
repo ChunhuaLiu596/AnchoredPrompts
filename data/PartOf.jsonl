@@ -1,0 +1,579 @@
+{"pred": "PartOf", "masked_sentences": ["[MASK] is a type of in order."], "obj_label": "alphabet", "uuid": "1046037c21cd6016b2e29bd28621e021", "sub_label": "a"}
+{"pred": "PartOf", "masked_sentences": ["An abdomen   is part of an [MASK] ."], "obj_label": "insect", "uuid": "6c1b65030cc35c6bf94cc0a133abb2ef", "sub_label": "abdomen"}
+{"pred": "PartOf", "masked_sentences": ["An abdomen is part of a [MASK]."], "obj_label": "torso", "uuid": "3c283acc5cab1760f6dfddbd2157a21c", "sub_label": "abdomen"}
+{"pred": "PartOf", "masked_sentences": ["An abstract is part of a [MASK]."], "obj_label": "patent", "uuid": "1af507e456d302af099d2954af90e5c9", "sub_label": "abstract"}
+{"pred": "PartOf", "masked_sentences": ["To act in a [MASK] means that you were cast in a role after an event called an audition."], "obj_label": "play", "uuid": "c501a2594b9f3ab511f9888b886f2c3e", "sub_label": "act"}
+{"pred": "PartOf", "masked_sentences": ["Acting is part of [MASK]."], "obj_label": "theater", "uuid": "50d785cfe35ab4d07ead7f6a30a03d3f", "sub_label": "acting"}
+{"pred": "PartOf", "masked_sentences": ["Adaptation is part of [MASK]."], "obj_label": "evolution", "uuid": "fc8a17fb890580a76048d9e07714e628", "sub_label": "adaptation"}
+{"pred": "PartOf", "masked_sentences": ["Advertising is part of a [MASK]."], "obj_label": "promotion", "uuid": "eadf508e3f7d7e1bb64a891eaa7906d4", "sub_label": "advertising"}
+{"pred": "PartOf", "masked_sentences": ["Afters is part of a [MASK]."], "obj_label": "meal", "uuid": "d4f124278453b2531de65c6d39f26750", "sub_label": "afters"}
+{"pred": "PartOf", "masked_sentences": ["AIDS is part of [MASK]."], "obj_label": "tfz", "uuid": "ef0e71b46c15108c36ad30da190a8be5", "sub_label": "aids"}
+{"pred": "PartOf", "masked_sentences": ["Aksaray is part of [MASK]."], "obj_label": "istanbul", "uuid": "453ce1d29a19ae22b139188fb21ceeaf", "sub_label": "aksaray"}
+{"pred": "PartOf", "masked_sentences": ["Alberta is a province in [MASK]."], "obj_label": "canada", "uuid": "7176dd508e648b704dd52e6d2dbfa4dc", "sub_label": "alberta"}
+{"pred": "PartOf", "masked_sentences": ["A [MASK] has an alternator."], "obj_label": "car", "uuid": "08c801f6ef1701c0fe1c06b3ea784a8c", "sub_label": "alternator"}
+{"pred": "PartOf", "masked_sentences": ["Amanda is part of  [MASK]."], "obj_label": "danilo", "uuid": "7fc93f778c7f9b3a672bab700ddd7044", "sub_label": "amanda"}
+{"pred": "PartOf", "masked_sentences": ["Perhaps one day the United States of America will cease this ridiculous \"War on Drugs.\"  When did a drug ever attack a human?  Answer: never.  Humans attack humans.  If you want to eliminate the problems in this [MASK], YOU MUST ELIMINATE ALL THE HUMANS.  Watch \"Terminator 2\" by James Cameron.  Also see the TV series \"Dark Angel\", created by him as well."], "obj_label": "world", "uuid": "7574138f8c7b85bea98b0c8bc0ed08fa", "sub_label": "america"}
+{"pred": "PartOf", "masked_sentences": ["Anhui is part of [MASK]."], "obj_label": "china", "uuid": "06d23af9f1f35842011ea44cef7f4f2b", "sub_label": "anhui"}
+{"pred": "PartOf", "masked_sentences": ["Situation: I finished university units in animal and plant [MASK]."], "obj_label": "ecology", "uuid": "89c1124a9e1a16b99154d472f29991bb", "sub_label": "animal"}
+{"pred": "PartOf", "masked_sentences": ["An animal is part of an [MASK]."], "obj_label": "ecosystem", "uuid": "d6c3f5c802f8e6c4583cdb69f0838e0d", "sub_label": "animal"}
+{"pred": "PartOf", "masked_sentences": ["Creature is [MASK] animal."], "obj_label": "nature", "uuid": "2017f173e92f4a177a7bbf7fd7db1223", "sub_label": "animal"}
+{"pred": "PartOf", "masked_sentences": ["An antenna is part of a [MASK]."], "obj_label": "radio", "uuid": "a1309f5515ad810f51ea4c8decb823b8", "sub_label": "antenna"}
+{"pred": "PartOf", "masked_sentences": ["An appendange is part of a [MASK]."], "obj_label": "body", "uuid": "f7489e68b37741f093763027d2f3bbb0", "sub_label": "appendange"}
+{"pred": "PartOf", "masked_sentences": ["Arm is related to [MASK]."], "obj_label": "body", "uuid": "149775dadbe83930fa606cd29151f0d0", "sub_label": "arm"}
+{"pred": "PartOf", "masked_sentences": ["To understand the event \"Lucy fell and broke her arm.\", it is important to know that Lucy is a [MASK]."], "obj_label": "person", "uuid": "5adb74485ec1fb66fa22f9ff5e208e4e", "sub_label": "arm"}
+{"pred": "PartOf", "masked_sentences": ["An arse is part of a [MASK]."], "obj_label": "body", "uuid": "982266d6809b165bcc71524efbc2a2c6", "sub_label": "arse"}
+{"pred": "PartOf", "masked_sentences": ["An asshold is part of a [MASK]."], "obj_label": "human", "uuid": "ae295030ec241fd9ccaa62a22c076e81", "sub_label": "asshold"}
+{"pred": "PartOf", "masked_sentences": ["A [MASK] asshole becomes itchy when it goes unwashed for a few days."], "obj_label": "human", "uuid": "f74176f28bd84c85b5e2c7fe64fc9ec7", "sub_label": "asshole"}
+{"pred": "PartOf", "masked_sentences": ["An assignee is part of a [MASK]."], "obj_label": "patent", "uuid": "ea5871a0fc3246dcf16de15c6f834143", "sub_label": "assignee"}
+{"pred": "PartOf", "masked_sentences": ["Atom is a type of nucleus [MASK]."], "obj_label": "molecule", "uuid": "93b533be3ebac9e0e206eb514beabccf", "sub_label": "atom"}
+{"pred": "PartOf", "masked_sentences": ["An attitude is part of a [MASK]."], "obj_label": "human", "uuid": "bda10d8b5d0b3cf1eaa979dcf97a48df", "sub_label": "attitude"}
+{"pred": "PartOf", "masked_sentences": ["An aunt is part of the [MASK]."], "obj_label": "family", "uuid": "6ef0574d755033461a50e941af555683", "sub_label": "aunt"}
+{"pred": "PartOf", "masked_sentences": ["B is the second letter of the roman [MASK]."], "obj_label": "alphabet", "uuid": "0bb574b5113b565904f4fe1c46531f6e", "sub_label": "b"}
+{"pred": "PartOf", "masked_sentences": ["Bandung is part of [MASK]."], "obj_label": "java", "uuid": "eb678885bfc25a0a60bb52d8f17d5519", "sub_label": "bandung"}
+{"pred": "PartOf", "masked_sentences": ["You are likely to find a basement in below your [MASK]."], "obj_label": "house", "uuid": "d48667f4c4a6890879772877eba956d8", "sub_label": "basement"}
+{"pred": "PartOf", "masked_sentences": ["A battleship is part of a [MASK]."], "obj_label": "battlegroup", "uuid": "a2fbce68a2955e78add69e51ea28548c", "sub_label": "battleship"}
+{"pred": "PartOf", "masked_sentences": ["A beam is for used in [MASK]."], "obj_label": "gymnastics", "uuid": "0232dee2c20a4d63b53565fbac3c83bb", "sub_label": "beam"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] is a type of bee collective."], "obj_label": "colony", "uuid": "f6b22f93f9194bf3c4ced71bf29615d6", "sub_label": "bee"}
+{"pred": "PartOf", "masked_sentences": ["To understand the [MASK] \"The seed sprouted.\", it is important to know that A seed is the beginning of a plant's life."], "obj_label": "event", "uuid": "f64d00f93b5a8c48eb0d7d7166ee6864", "sub_label": "beginning"}
+{"pred": "PartOf", "masked_sentences": ["Belgium is a country located in Western [MASK] ."], "obj_label": "europe", "uuid": "bf1356ddae99c6cb7c52a49933b902f3", "sub_label": "belgium"}
+{"pred": "PartOf", "masked_sentences": ["Belief is a kind of [MASK]."], "obj_label": "faith", "uuid": "773933c0cdcd61c9047c5fddab663de4", "sub_label": "belief"}
+{"pred": "PartOf", "masked_sentences": ["Bell is [MASK] item."], "obj_label": "carillon", "uuid": "a78a6ebec3da7b16edc01e29e8ba92b4", "sub_label": "bell"}
+{"pred": "PartOf", "masked_sentences": ["The bell is part of a [MASK]."], "obj_label": "trumpet", "uuid": "139108e7877e6d197a0dc1250b213e58", "sub_label": "bell"}
+{"pred": "PartOf", "masked_sentences": ["Belt is part of [MASK]."], "obj_label": "outfit", "uuid": "925ccba7c270469b179ac45159cc44de", "sub_label": "belt"}
+{"pred": "PartOf", "masked_sentences": ["Besiktas is part of [MASK]."], "obj_label": "istanbul", "uuid": "62ed4d1e7b52cffc9e04c35c90ef219c", "sub_label": "besiktas"}
+{"pred": "PartOf", "masked_sentences": ["A bicep is part of an [MASK]."], "obj_label": "arm", "uuid": "3197add8d6d328ec6af71ece610620e3", "sub_label": "bicep"}
+{"pred": "PartOf", "masked_sentences": ["A BIOS is part of a [MASK]."], "obj_label": "computer", "uuid": "c147fc79950de7b04196af7c02e7a693", "sub_label": "bios"}
+{"pred": "PartOf", "masked_sentences": ["A bird is part of a [MASK]."], "obj_label": "flock", "uuid": "b2081b7fd177b03d0bba4348445fe37c", "sub_label": "bird"}
+{"pred": "PartOf", "masked_sentences": ["Bit is a type of small [MASK]."], "obj_label": "byte", "uuid": "318d794800fb4daf66b1bcdbdf76a442", "sub_label": "bit"}
+{"pred": "PartOf", "masked_sentences": ["Things that are often found together are: [MASK], blade, handle."], "obj_label": "saw", "uuid": "2374fcc981e173ada8fe9ca601898841", "sub_label": "blade"}
+{"pred": "PartOf", "masked_sentences": ["A heart is for pumping blood through the [MASK]."], "obj_label": "body", "uuid": "d9678dec42e48fd4e2c925c90283b256", "sub_label": "blood"}
+{"pred": "PartOf", "masked_sentences": ["Something you find at a [MASK] base is bombs."], "obj_label": "military", "uuid": "c4aa3d017a04dfe2e2b3152c91ae539d", "sub_label": "bombs"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] has Bombs."], "obj_label": "terrorist", "uuid": "a8e1ccc2e612939a37a1d2e70c65d285", "sub_label": "bombs"}
+{"pred": "PartOf", "masked_sentences": ["A boob  is part of a [MASK]."], "obj_label": "pair", "uuid": "d04269d1dd1bee109e0bd19275d23b7c", "sub_label": "boob"}
+{"pred": "PartOf", "masked_sentences": ["Capital is boston [MASK]."], "obj_label": "mass", "uuid": "86ab3c156545ce14c9c13c0a220ad899", "sub_label": "boston"}
+{"pred": "PartOf", "masked_sentences": ["A bottlecap is part of a [MASK]."], "obj_label": "bottle", "uuid": "92013e48b95f06fb90420d4b4d2f2b2c", "sub_label": "bottlecap"}
+{"pred": "PartOf", "masked_sentences": ["Another way to say \"a bow is part of a [MASK]\" is \"Sailbots have bows.\"."], "obj_label": "sailboat", "uuid": "3232d9bdfc3a74ee4208b419c96c20f6", "sub_label": "bow"}
+{"pred": "PartOf", "masked_sentences": ["A bowel is part of a [MASK]."], "obj_label": "body", "uuid": "dfce7d49437e8bea3fbedb9528f9e1c9", "sub_label": "bowel"}
+{"pred": "PartOf", "masked_sentences": ["Five largest internal organs of the [MASK]: liver, brain, lungs, heart, and kidneys."], "obj_label": "body", "uuid": "58ebead29cd4ca08cc972a1a4c634f7d", "sub_label": "brain"}
+{"pred": "PartOf", "masked_sentences": ["If you want to stop your [MASK] then you should put on the brakes."], "obj_label": "car", "uuid": "181f03980bafc6d17fac7c6f58274370", "sub_label": "brakes"}
+{"pred": "PartOf", "masked_sentences": ["A breast is part of a [MASK]."], "obj_label": "torso", "uuid": "d30b6be3d72bfc32e69675cbd5721074", "sub_label": "breast"}
+{"pred": "PartOf", "masked_sentences": ["Bretagne is part of [MASK]."], "obj_label": "france", "uuid": "ab7ae42ec734cbc14fa8cf1734e6e797", "sub_label": "bretagne"}
+{"pred": "PartOf", "masked_sentences": ["A bridge is part of a [MASK]."], "obj_label": "guitar", "uuid": "0ba55bb2e3395fb2120f1210d321e50f", "sub_label": "bridge"}
+{"pred": "PartOf", "masked_sentences": ["A brow is part of a [MASK]."], "obj_label": "head", "uuid": "1b7997eed8516ece1c90126b4d2cec7f", "sub_label": "brow"}
+{"pred": "PartOf", "masked_sentences": ["A buffer is the window you type into in [MASK]."], "obj_label": "emacs", "uuid": "60389751092b74a8aa3fbb04e8b23f1d", "sub_label": "buffer"}
+{"pred": "PartOf", "masked_sentences": ["This bus is part of the [MASK]."], "obj_label": "fleet", "uuid": "a46c0547c7f797175a5a5f39cfc0ec97", "sub_label": "bus"}
+{"pred": "PartOf", "masked_sentences": ["A butt is part of a [MASK]."], "obj_label": "body", "uuid": "0d13b6cc2ca315d70d645e35f34cb651", "sub_label": "butt"}
+{"pred": "PartOf", "masked_sentences": ["A buttock is part of a [MASK]."], "obj_label": "body", "uuid": "b1e83c8c38f2ce657eacfb9d83e4740a", "sub_label": "buttock"}
+{"pred": "PartOf", "masked_sentences": ["'c' is the third letter of the roman [MASK]."], "obj_label": "alphabet", "uuid": "0c0257a4e31952c425cf51f75e1d965a", "sub_label": "c"}
+{"pred": "PartOf", "masked_sentences": ["A camp is part of the [MASK]."], "obj_label": "gulag", "uuid": "d126128f7f10728061b7b289d3ed695d", "sub_label": "camp"}
+{"pred": "PartOf", "masked_sentences": ["You are likely to find a [MASK] window in a passenger car."], "obj_label": "train", "uuid": "7b4698d386fc63873220f8e67c14dd94", "sub_label": "car"}
+{"pred": "PartOf", "masked_sentences": ["A carburator is part of a [MASK]."], "obj_label": "car", "uuid": "62ff595947246c6a5b8cc21543f8763f", "sub_label": "carburator"}
+{"pred": "PartOf", "masked_sentences": ["You are likely to find an acoustic ceiling in a [MASK]."], "obj_label": "room", "uuid": "efa0f989612f94a20f8790431d771591", "sub_label": "ceiling"}
+{"pred": "PartOf", "masked_sentences": ["Cell is typically in your [MASK]."], "obj_label": "body", "uuid": "28db855bed65af7ea2f49fa2506aff8b", "sub_label": "cell"}
+{"pred": "PartOf", "masked_sentences": ["Cellulose is part of [MASK]."], "obj_label": "plants", "uuid": "89c60b4b2d9788eaa1373858445d7497", "sub_label": "cellulose"}
+{"pred": "PartOf", "masked_sentences": ["A century is part of a [MASK]."], "obj_label": "milenium", "uuid": "6710606ae67162693e89f2082953276c", "sub_label": "century"}
+{"pred": "PartOf", "masked_sentences": ["One area of the [MASK] is called the cerebellum."], "obj_label": "brain", "uuid": "fbc8457ecb329e37c12e8ff31cdbbac1", "sub_label": "cerebellum"}
+{"pred": "PartOf", "masked_sentences": ["You are likely to find a director chair in a [MASK] store."], "obj_label": "funiture", "uuid": "af2f22d54e0d2d01704a33059e271c79", "sub_label": "chair"}
+{"pred": "PartOf", "masked_sentences": ["The [MASK] \"Reading A Book\" has the step \"Start reading the next chapter.\"."], "obj_label": "story", "uuid": "12c9d8934c1ab7625e13e8d9ef3ad410", "sub_label": "chapter"}
+{"pred": "PartOf", "masked_sentences": ["The [MASK] \"space\" has several different meanings.  One is the blank alphanumeric character.  Another is a distance between two physical objects.  Another is a mathematical abstraction.  Finally, \"space\" can denote the part of the universe, that is, most of it, which lies outside the Earth's atmosphere."], "obj_label": "word", "uuid": "aacd89996f47fdd232cd67ddf4a224ee", "sub_label": "character"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] is a type of cheating."], "obj_label": "affair", "uuid": "3d0930e449885ebe5bf842e54d2c1c0f", "sub_label": "cheating"}
+{"pred": "PartOf", "masked_sentences": ["A chest is part of a [MASK]."], "obj_label": "person", "uuid": "a6c68f7ad451d8f33bda56c7bfe5ea21", "sub_label": "chest"}
+{"pred": "PartOf", "masked_sentences": ["A chest is part of a [MASK]."], "obj_label": "torso", "uuid": "b9955448d1ea29e2f9e5c5dbacdb1dc3", "sub_label": "chest"}
+{"pred": "PartOf", "masked_sentences": ["You are likely to find UIC in Chicago, [MASK]."], "obj_label": "il", "uuid": "93f33e7e607e8b41d0c15a780f82bdc0", "sub_label": "chicago"}
+{"pred": "PartOf", "masked_sentences": ["Picture description: This is a photograph of a large [MASK] with a stairs, a porch, and a chimney."], "obj_label": "house", "uuid": "4f95d4e3c57303909dae96f9e0df4c5b", "sub_label": "chimney"}
+{"pred": "PartOf", "masked_sentences": ["A chin is part of a [MASK]."], "obj_label": "head", "uuid": "cb2074ca7cdf7eeca16eebe65ae1048a", "sub_label": "chin"}
+{"pred": "PartOf", "masked_sentences": ["Hot chocolate can be made from [MASK]."], "obj_label": "cacao", "uuid": "2a516370a841ecc0ade52957853d48b9", "sub_label": "chocolate"}
+{"pred": "PartOf", "masked_sentences": ["A citation is part of a [MASK]."], "obj_label": "patent", "uuid": "eae5160b810e0042f20e4d3aa130ec44", "sub_label": "citation"}
+{"pred": "PartOf", "masked_sentences": ["City is typically in a [MASK]."], "obj_label": "province", "uuid": "15a985f97825f0668a0744a848dd97e6", "sub_label": "city"}
+{"pred": "PartOf", "masked_sentences": ["A claim is part of a [MASK]."], "obj_label": "patent", "uuid": "9709fa1c3c102c325bc5eaf3c70268d1", "sub_label": "claim"}
+{"pred": "PartOf", "masked_sentences": ["A clause is part of a [MASK]."], "obj_label": "contract", "uuid": "c897f5c0736907f2871146cba91c7fb5", "sub_label": "clause"}
+{"pred": "PartOf", "masked_sentences": ["...claw is part of a [MASK]."], "obj_label": "hammer", "uuid": "76dbfc2af47fd7bd81e000f2c128490f", "sub_label": "claw"}
+{"pred": "PartOf", "masked_sentences": ["Claw is [MASK] feature."], "obj_label": "paw", "uuid": "e22da254139fce7d781e039563457d7b", "sub_label": "claw"}
+{"pred": "PartOf", "masked_sentences": ["A clitoris is part of a [MASK]."], "obj_label": "vagina", "uuid": "f0091468e9f2375b8a29e44a1966999a", "sub_label": "clitoris"}
+{"pred": "PartOf", "masked_sentences": ["A clutch is part of an [MASK]."], "obj_label": "automobile", "uuid": "6f6fb45a32d5c4e0575506259b31d25b", "sub_label": "clutch"}
+{"pred": "PartOf", "masked_sentences": ["A transmission and a clutch are both in a [MASK]."], "obj_label": "car", "uuid": "9f000f474f951551da8de433ee31184d", "sub_label": "clutch"}
+{"pred": "PartOf", "masked_sentences": ["If you want to fly in an [MASK] then you should sit in the cockpit."], "obj_label": "airplane", "uuid": "d5a79b6c619bf9344b68499d7b45df58", "sub_label": "cockpit"}
+{"pred": "PartOf", "masked_sentences": ["A colon is part of a [MASK]."], "obj_label": "body", "uuid": "0e9adda8309bcd9074f03bb1fd804f22", "sub_label": "colon"}
+{"pred": "PartOf", "masked_sentences": ["Column is related to [MASK] article."], "obj_label": "newspaper", "uuid": "86a29df350eae914e944c8d2e47d64a7", "sub_label": "column"}
+{"pred": "PartOf", "masked_sentences": ["Playing [MASK] is about competition."], "obj_label": "sports", "uuid": "0b1fc934dd72684473463bd81661fbad", "sub_label": "competition"}
+{"pred": "PartOf", "masked_sentences": ["To use a printer that has been shared on the [MASK], you need to set up the printer on your computer."], "obj_label": "network", "uuid": "e04c307514dfa0244caf88aff6a53d7b", "sub_label": "computer"}
+{"pred": "PartOf", "masked_sentences": ["A cone is part of the [MASK]."], "obj_label": "eye", "uuid": "b822d6e8d400341221f6237092f49b28", "sub_label": "cone"}
+{"pred": "PartOf", "masked_sentences": ["Congress is part of [MASK]."], "obj_label": "legislature", "uuid": "ecc7ca3866ced7f05f41018f76105f24", "sub_label": "congress"}
+{"pred": "PartOf", "masked_sentences": ["Things that are often found together are: handset, dial, [MASK], reciever, cord."], "obj_label": "telephone", "uuid": "62f31fe3a1d6e3a2918a62998e0244c4", "sub_label": "cord"}
+{"pred": "PartOf", "masked_sentences": ["A cornea  is part of an [MASK]."], "obj_label": "eyeball", "uuid": "15d4249018454f6cc410b8af3d328f31", "sub_label": "cornea"}
+{"pred": "PartOf", "masked_sentences": ["A cousin is part of a [MASK]."], "obj_label": "family", "uuid": "55e0353e9070abac6621e62f90cdd1cc", "sub_label": "cousin"}
+{"pred": "PartOf", "masked_sentences": ["A cover is part of a [MASK]."], "obj_label": "notebook", "uuid": "34e3035f95cfd402fac2049d9c2de96c", "sub_label": "cover"}
+{"pred": "PartOf", "masked_sentences": ["A cow is part of a [MASK]."], "obj_label": "heard", "uuid": "fd2158521e6a6fac12d8c8320a13a855", "sub_label": "cow"}
+{"pred": "PartOf", "masked_sentences": ["Creativity is part of [MASK]."], "obj_label": "innovation", "uuid": "0957a4187d353b9981dd9954dd56a587", "sub_label": "creativity"}
+{"pred": "PartOf", "masked_sentences": ["Crimea is part of [MASK]."], "obj_label": "ukraine", "uuid": "d9aad3d26f1c9a1c2b687008fab93939", "sub_label": "crimea"}
+{"pred": "PartOf", "masked_sentences": ["A crochet is part of a [MASK]."], "obj_label": "minim", "uuid": "34ba4b0474d701f456b736613f4f400b", "sub_label": "crochet"}
+{"pred": "PartOf", "masked_sentences": ["A crotch is part of a [MASK]."], "obj_label": "body", "uuid": "929887be297b8dd4bc7d8ee4c0ab51b1", "sub_label": "crotch"}
+{"pred": "PartOf", "masked_sentences": ["Crying is part of [MASK]."], "obj_label": "life", "uuid": "b3b79fca4090b1edb279af2e1e0fe800", "sub_label": "crying"}
+{"pred": "PartOf", "masked_sentences": ["Something that might happen as a consequence of burying the cat is crying tears of [MASK]."], "obj_label": "sadness", "uuid": "e751216c9518d8dc7276c09c4763b0aa", "sub_label": "crying"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] is a type of curl."], "obj_label": "wave", "uuid": "d3ca9078f6e11b7464b6d7f6489fbfc3", "sub_label": "curl"}
+{"pred": "PartOf", "masked_sentences": ["Something you find down the back of the [MASK] is a cushion."], "obj_label": "sofa", "uuid": "d81f09a64eeaee83e8079f4f8a1181f7", "sub_label": "cushion"}
+{"pred": "PartOf", "masked_sentences": ["'d ' is the fourth letter of the roman [MASK]."], "obj_label": "alphabet", "uuid": "f25f8b472494780f94953e9031269d71", "sub_label": "d"}
+{"pred": "PartOf", "masked_sentences": ["A decade is part of a [MASK]."], "obj_label": "century", "uuid": "01c47efbf6a0f879cb3fd8eb20070bd6", "sub_label": "decade"}
+{"pred": "PartOf", "masked_sentences": ["A deltoid is part of a [MASK]."], "obj_label": "shoulder", "uuid": "10428822eed20705248290fcdac9ba84", "sub_label": "deltoid"}
+{"pred": "PartOf", "masked_sentences": ["Denmark is part of [MASK]."], "obj_label": "scandinavia", "uuid": "5c8598dff925a60ce6e05aad03b9c222", "sub_label": "denmark"}
+{"pred": "PartOf", "masked_sentences": ["A department is part of an [MASK]."], "obj_label": "institution", "uuid": "260e03ab35d185018e5fe5b1f694754e", "sub_label": "department"}
+{"pred": "PartOf", "masked_sentences": ["A description is part of a [MASK]."], "obj_label": "patent", "uuid": "dc6dca0f7fe82192b1cce902a3866fe1", "sub_label": "description"}
+{"pred": "PartOf", "masked_sentences": ["A destroyer is part of a [MASK]."], "obj_label": "battlegroup", "uuid": "e1fc597fee1a236a43a7b89a4ac9ab69", "sub_label": "destroyer"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] is a type of round dial."], "obj_label": "clock", "uuid": "8ab6dd1cc5d4b8a4f827ccc327349525", "sub_label": "dial"}
+{"pred": "PartOf", "masked_sentences": ["A diaphragm is part of a [MASK]."], "obj_label": "torso", "uuid": "ad96fbec513b33d6ab0d6f821e79de5e", "sub_label": "diaphragm"}
+{"pred": "PartOf", "masked_sentences": ["A mouse is used to navigate your [MASK] monitor's display."], "obj_label": "computer", "uuid": "30fe3d5af9e15060cabbf26eeccbc533", "sub_label": "display"}
+{"pred": "PartOf", "masked_sentences": ["You are likely to find a door on the [MASK]."], "obj_label": "house", "uuid": "6b5e3304c4c55658815fcb3fe4b3ba13", "sub_label": "door"}
+{"pred": "PartOf", "masked_sentences": ["Dorchester is part of [MASK]."], "obj_label": "boston", "uuid": "505addaf248d1182c793a57313f7b01a", "sub_label": "dorchester"}
+{"pred": "PartOf", "masked_sentences": ["You are likely to find hair in a [MASK] drain pipe."], "obj_label": "shower", "uuid": "4408b5e50777d003b5f2fd702952127b", "sub_label": "drain"}
+{"pred": "PartOf", "masked_sentences": ["A drain is part of a [MASK]."], "obj_label": "toilet", "uuid": "11c389e64cde3cf7c07fb0ccb5d3b883", "sub_label": "drain"}
+{"pred": "PartOf", "masked_sentences": ["A drawing is part of a [MASK]."], "obj_label": "patent", "uuid": "17c6347c44b5a941410d3ba3e65f47d3", "sub_label": "drawing"}
+{"pred": "PartOf", "masked_sentences": ["It is common to drink something when you eat a [MASK]."], "obj_label": "meal", "uuid": "d23a687c5704a9c7275a91535eefa5d8", "sub_label": "drink"}
+{"pred": "PartOf", "masked_sentences": ["The drumstick is part of the [MASK]."], "obj_label": "turkey", "uuid": "1a2955bfcedb7a0747fb17819cb39fab", "sub_label": "drumstick"}
+{"pred": "PartOf", "masked_sentences": ["Korean [MASK] has a consonant e."], "obj_label": "alphabet", "uuid": "328dc3ee47979876a31e6b298128dea3", "sub_label": "e"}
+{"pred": "PartOf", "masked_sentences": ["The statement \"The eardrum inside the [MASK] can be very fragile.\" helps answer the question \"What is a part of the body which can be easily injured?\"."], "obj_label": "ear", "uuid": "f81edf345f91d6ec8e59c7c2ee5d7f02", "sub_label": "eardrum"}
+{"pred": "PartOf", "masked_sentences": ["An earlobe is part of an [MASK]."], "obj_label": "ear", "uuid": "02b025ff84609ab9d0f45f492214491c", "sub_label": "earlobe"}
+{"pred": "PartOf", "masked_sentences": ["An earpiece is part of [MASK]."], "obj_label": "eyeglasses", "uuid": "2e213297cfaea7a88e6b71c1f8be4a6b", "sub_label": "earpiece"}
+{"pred": "PartOf", "masked_sentences": ["There are two ears on everyone's [MASK]."], "obj_label": "head", "uuid": "a8b6ab18b9e0e36cbeaf751def59567b", "sub_label": "ears"}
+{"pred": "PartOf", "masked_sentences": ["An [MASK] has an el."], "obj_label": "arm", "uuid": "744872c2f44fae9acba76f66125e6475", "sub_label": "el"}
+{"pred": "PartOf", "masked_sentences": ["Elastic is part of [MASK]."], "obj_label": "underwear", "uuid": "c9956dbf044b0b1e2b7f626ac8ef6408", "sub_label": "elastic"}
+{"pred": "PartOf", "masked_sentences": ["An [MASK] is used for support for an elbow."], "obj_label": "arm", "uuid": "4fd9528304bb2f14d819dd38d60b70db", "sub_label": "elbow"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] is neutron electron."], "obj_label": "atom", "uuid": "0d6e6d3091663b16d6b93e4913f61010", "sub_label": "electron"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] are made of electrons, protons, and neutrons."], "obj_label": "atoms", "uuid": "16d16876fdb8fcb89167c37a6bc70ce2", "sub_label": "electrons"}
+{"pred": "PartOf", "masked_sentences": ["{zero} is a type of [MASK] containing one element."], "obj_label": "set", "uuid": "6a7642b3b9cc20161a740db7d53ba869", "sub_label": "element"}
+{"pred": "PartOf", "masked_sentences": ["Lust is a driving [MASK] emotion."], "obj_label": "human", "uuid": "014397f61ebd34097c7735d74b0e54f5", "sub_label": "emotion"}
+{"pred": "PartOf", "masked_sentences": ["Emotion is the way our [MASK] reinforces positively or negatively our thoughts and experiences."], "obj_label": "mind", "uuid": "749ae05285c1b8cc27acb9cacf709bdb", "sub_label": "emotion"}
+{"pred": "PartOf", "masked_sentences": ["To understand the [MASK] \"The tree died.\", it is important to know that death is the end of life."], "obj_label": "event", "uuid": "955e8a2bed61150d0008117dcd9061ba", "sub_label": "end"}
+{"pred": "PartOf", "masked_sentences": ["An engine can power an [MASK]."], "obj_label": "automobile", "uuid": "db92363f10dfd0ca5974e78776283b4d", "sub_label": "engine"}
+{"pred": "PartOf", "masked_sentences": ["An engine is part of a [MASK]."], "obj_label": "lawnmower", "uuid": "9c1c245f5bfaa9b1de09c7c925d52776", "sub_label": "engine"}
+{"pred": "PartOf", "masked_sentences": ["Engine is part of [MASK]."], "obj_label": "motorcycle", "uuid": "2cfe0de7c801725bd898910cf4e506a7", "sub_label": "engine"}
+{"pred": "PartOf", "masked_sentences": ["The steam [MASK] used in the making of the Thomas the Tank engine show is in Tottenham Ontario, Canada."], "obj_label": "train", "uuid": "58091e9224312a1bcc27ee0fa06cb32e", "sub_label": "engine"}
+{"pred": "PartOf", "masked_sentences": ["England is part of the [MASK]."], "obj_label": "uk", "uuid": "888c11567a2ab18d4be83e5d4fbed83d", "sub_label": "england"}
+{"pred": "PartOf", "masked_sentences": ["An epilog is part of a [MASK]."], "obj_label": "book", "uuid": "73ae253481d43c02dd5b7b66380ab09c", "sub_label": "epilog"}
+{"pred": "PartOf", "masked_sentences": ["Eritrea is part of [MASK]."], "obj_label": "africa", "uuid": "02ba5c7d9d725aad5ec147036f364c96", "sub_label": "eritrea"}
+{"pred": "PartOf", "masked_sentences": ["Trial by error is part of the [MASK] experience."], "obj_label": "learning", "uuid": "87dbbdc1317110fa09f6832dccf0658e", "sub_label": "error"}
+{"pred": "PartOf", "masked_sentences": ["Escondido is part of [MASK]."], "obj_label": "california", "uuid": "5fad60ca5c23899f1730642fe7763214", "sub_label": "escondido"}
+{"pred": "PartOf", "masked_sentences": ["Estonia is part of [MASK]."], "obj_label": "europe", "uuid": "d991b674f57914b5fb9ef6458523af7d", "sub_label": "estonia"}
+{"pred": "PartOf", "masked_sentences": ["The statement \"That is false.  Haiti is an island in the region of [MASK] called South America.\" helps answer the question \"Is Haiti in Europe?\"."], "obj_label": "earth", "uuid": "993403997c6d18a9f06730bc27e5551e", "sub_label": "europe"}
+{"pred": "PartOf", "masked_sentences": ["Evanston is part of [MASK]."], "obj_label": "illinoi", "uuid": "3ede053726ee74e4f920b693bbf1c872", "sub_label": "evanston"}
+{"pred": "PartOf", "masked_sentences": ["Everybody is part of a [MASK]."], "obj_label": "family", "uuid": "b4f3f1949f1b5ba245631e5e79cc38da", "sub_label": "everybody"}
+{"pred": "PartOf", "masked_sentences": ["Exertion is part of [MASK]."], "obj_label": "recreation", "uuid": "77956d6e9b28b6aa724e16f4c866d3a8", "sub_label": "exertion"}
+{"pred": "PartOf", "masked_sentences": ["Existance is part of [MASK]."], "obj_label": "everything", "uuid": "b4a6708c58b69900d4579fcb39b4fde3", "sub_label": "existance"}
+{"pred": "PartOf", "masked_sentences": ["Eye is a type of [MASK] item."], "obj_label": "head", "uuid": "2de2748a5ae30afed965601e1e83a839", "sub_label": "eye"}
+{"pred": "PartOf", "masked_sentences": ["An eyebrow is part of a [MASK]."], "obj_label": "face", "uuid": "97d3dc1519d94238590442ed1df057ab", "sub_label": "eyebrow"}
+{"pred": "PartOf", "masked_sentences": ["'f ' is the sixth letter of the roman [MASK]."], "obj_label": "alphabet", "uuid": "0e63d8b576994f27898327544454013c", "sub_label": "f"}
+{"pred": "PartOf", "masked_sentences": ["Similarity between a [MASK] hide a bed and a tapestry: both are probably made of fabric."], "obj_label": "sofa", "uuid": "478bab4f67dbae85d2218bed93120dc9", "sub_label": "fabric"}
+{"pred": "PartOf", "masked_sentences": ["Lines in the face or on the [MASK] are signs of aging."], "obj_label": "body", "uuid": "e6040a414db6222e4f5b9eb313f99f88", "sub_label": "face"}
+{"pred": "PartOf", "masked_sentences": ["My face is part of [MASK]."], "obj_label": "me", "uuid": "946065a6004727dbcace5255ff5ef4f4", "sub_label": "face"}
+{"pred": "PartOf", "masked_sentences": ["Fairfield is part of [MASK]."], "obj_label": "california", "uuid": "51d475ee4e00d0defdcb6626798d68f5", "sub_label": "fairfield"}
+{"pred": "PartOf", "masked_sentences": ["Farmland is part of [MASK]."], "obj_label": "state", "uuid": "5ff8c669b55d9d6ba8714c9414aa75a4", "sub_label": "farmland"}
+{"pred": "PartOf", "masked_sentences": ["Fenerbahce is part of [MASK]."], "obj_label": "istanbul", "uuid": "99eb174faf2d6e9fcf7fc5696205a273", "sub_label": "fenerbahce"}
+{"pred": "PartOf", "masked_sentences": ["Ferikoy is part of [MASK]."], "obj_label": "istanbul", "uuid": "14db818bb96fbc5a5991684ed2066400", "sub_label": "ferikoy"}
+{"pred": "PartOf", "masked_sentences": ["The fibula is part of the [MASK]."], "obj_label": "leg", "uuid": "5477fe2f7b0b72f39e845ebe8eb201d2", "sub_label": "fibula"}
+{"pred": "PartOf", "masked_sentences": ["Fiji is part of [MASK]."], "obj_label": "asia", "uuid": "708c4a7b9bc7bb0c515f7596c36b4b54", "sub_label": "fiji"}
+{"pred": "PartOf", "masked_sentences": ["Things that are often found together are: glass, [MASK], contacts, filament."], "obj_label": "lightbulb", "uuid": "d35f8fc37972c388c9a206fa29b67129", "sub_label": "filament"}
+{"pred": "PartOf", "masked_sentences": ["A filter is part of a [MASK]."], "obj_label": "cigarette", "uuid": "66f11e21d02d1540819867f6118624e2", "sub_label": "filter"}
+{"pred": "PartOf", "masked_sentences": ["A fingernail is part of a [MASK]."], "obj_label": "hand", "uuid": "152e8d2e3b789807ecdc7a3a4558bf63", "sub_label": "fingernail"}
+{"pred": "PartOf", "masked_sentences": ["A flap is part of an [MASK]."], "obj_label": "airplane", "uuid": "9e79a3a71726c9c3ca9e2acffa60b90b", "sub_label": "flap"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] is fleet."], "obj_label": "navy", "uuid": "71e44433f6e7d9d81d45da53a5c9de1b", "sub_label": "fleet"}
+{"pred": "PartOf", "masked_sentences": ["Florissant is part of [MASK]."], "obj_label": "missouri", "uuid": "139264f959efac6b15686dc19a1c9162", "sub_label": "florissant"}
+{"pred": "PartOf", "masked_sentences": ["Picture description: this is a picture of a flower on a [MASK]."], "obj_label": "bush", "uuid": "886847d997b60d114e49d349c0a13481", "sub_label": "flower"}
+{"pred": "PartOf", "masked_sentences": ["Fontana is part of [MASK]."], "obj_label": "california", "uuid": "6085b05b19fb819b0e4da2fa62a6492e", "sub_label": "fontana"}
+{"pred": "PartOf", "masked_sentences": ["Foot is related to [MASK]."], "obj_label": "body", "uuid": "112ea2295b5f0d415a48f228e5b3d358", "sub_label": "foot"}
+{"pred": "PartOf", "masked_sentences": ["A foot is part of a [MASK]."], "obj_label": "mile", "uuid": "c9b54e6f4d8b1cc92f8343d15df5f9e9", "sub_label": "foot"}
+{"pred": "PartOf", "masked_sentences": ["Things that are often found together are: [MASK] and beauty, trees and forest, dappled sunlight, shady lane."], "obj_label": "nature", "uuid": "23624807a1b5da9136e52086ddb10cc7", "sub_label": "forest"}
+{"pred": "PartOf", "masked_sentences": ["This form is part of the [MASK]."], "obj_label": "package", "uuid": "f6c430766f2cf43b17a8282c37bd4052", "sub_label": "form"}
+{"pred": "PartOf", "masked_sentences": ["Fortaleza is part of [MASK]."], "obj_label": "brazil", "uuid": "3198b8ec9fbc2f82b01e40112e7e74a2", "sub_label": "fortaleza"}
+{"pred": "PartOf", "masked_sentences": ["A [MASK] can needs a foundation."], "obj_label": "building", "uuid": "b96692c54ee418c5694fd827efeede7e", "sub_label": "foundation"}
+{"pred": "PartOf", "masked_sentences": ["A fraction is a part of a [MASK] ."], "obj_label": "whole", "uuid": "46378dd216df2a4bc0516f9c81e26fbc", "sub_label": "fraction"}
+{"pred": "PartOf", "masked_sentences": ["A frame ususally can surrounds a [MASK]."], "obj_label": "painting", "uuid": "b1c1783eb4bc41f61677733f7b3f6f4d", "sub_label": "frame"}
+{"pred": "PartOf", "masked_sentences": ["In the event \"Sandy took a [MASK] with her camera.\", something that changed was The film is now exposed on that frame."], "obj_label": "picture", "uuid": "501030ae0f2553c0a16333ad3a25c3e4", "sub_label": "frame"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] is typically near frame."], "obj_label": "window", "uuid": "a21f20345674b93f7f6bd610bd924043", "sub_label": "frame"}
+{"pred": "PartOf", "masked_sentences": ["Framingham is part of [MASK]."], "obj_label": "massachusetts", "uuid": "39213bbd473dd727969bf5b76834209f", "sub_label": "framingham"}
+{"pred": "PartOf", "masked_sentences": ["Some of the many countries in [MASK] include england, ireland, france, italy, germany, greece, spain, poland, romania, and part of russia."], "obj_label": "europe", "uuid": "1c1bb18c0c3dadb16f6db103d942ebd0", "sub_label": "france"}
+{"pred": "PartOf", "masked_sentences": ["Frankfurt is part of [MASK]."], "obj_label": "germany", "uuid": "2fe1424e123a5b63125d4cd09e5fdf72", "sub_label": "frankfurt"}
+{"pred": "PartOf", "masked_sentences": ["Fullerton is part of [MASK]."], "obj_label": "california", "uuid": "8b891b2f75fe8b408d5749b055234819", "sub_label": "fullerton"}
+{"pred": "PartOf", "masked_sentences": ["If you want to have fun then you should enjoy [MASK]."], "obj_label": "life", "uuid": "673a00a0719b277eb4227b102c125828", "sub_label": "fun"}
+{"pred": "PartOf", "masked_sentences": ["G is part of the [MASK]."], "obj_label": "alphabet", "uuid": "7da75997f996148724835c4a50e404cd", "sub_label": "g"}
+{"pred": "PartOf", "masked_sentences": ["Gabon is part of [MASK]."], "obj_label": "africa", "uuid": "dbeed0ab5a0ca460c9703341eac580cf", "sub_label": "gabon"}
+{"pred": "PartOf", "masked_sentences": ["Gambia is part of [MASK]."], "obj_label": "africa", "uuid": "b448a3f078f8cd00adfa795444e22f6e", "sub_label": "gambia"}
+{"pred": "PartOf", "masked_sentences": ["If a [MASK] has a garden, doing the housework may involve cutting the turf."], "obj_label": "house", "uuid": "09337a656a4a5f67834f381be12be2ed", "sub_label": "garden"}
+{"pred": "PartOf", "masked_sentences": ["GC is part of [MASK]."], "obj_label": "tfz", "uuid": "83b0a23398116889eca6574d3b665594", "sub_label": "gc"}
+{"pred": "PartOf", "masked_sentences": ["A gear shift is part of an [MASK]."], "obj_label": "automobile", "uuid": "20fd3fbba3436c122cae67b15edd63e4", "sub_label": "gear"}
+{"pred": "PartOf", "masked_sentences": ["A gene is part of a [MASK]."], "obj_label": "chromosome", "uuid": "f87613266f6c2212ced7f89a998d076d", "sub_label": "gene"}
+{"pred": "PartOf", "masked_sentences": ["A generator is part of a [MASK]."], "obj_label": "car", "uuid": "0eb3a71d8e204c7cc1765c5310281839", "sub_label": "generator"}
+{"pred": "PartOf", "masked_sentences": ["Genova is part of [MASK]."], "obj_label": "italy", "uuid": "138f284979dfde15156cc76ce61d1d1a", "sub_label": "genova"}
+{"pred": "PartOf", "masked_sentences": ["Georgia is part of the [MASK]."], "obj_label": "south", "uuid": "92925febe39fb87d9f749bd59e911ef9", "sub_label": "georgia"}
+{"pred": "PartOf", "masked_sentences": ["Germany and Switzerland are both countries in [MASK]."], "obj_label": "europe", "uuid": "4700b8b9e6a103cbacde890f1879b61c", "sub_label": "germany"}
+{"pred": "PartOf", "masked_sentences": ["Glass is part of [MASK]."], "obj_label": "eyeglasses", "uuid": "8ff35c540669a2f97a580ef385a7ccab", "sub_label": "glass"}
+{"pred": "PartOf", "masked_sentences": ["Glory is typically in [MASK]."], "obj_label": "war", "uuid": "6fbca7cab83a6f0c08143393a040ea16", "sub_label": "glory"}
+{"pred": "PartOf", "masked_sentences": ["The statement \"Jews believe that God is the source of ethical monotheism\" is true because The jews practice a particular [MASK]."], "obj_label": "religion", "uuid": "baf5365644aac34e5af323ffa5ba401a", "sub_label": "god"}
+{"pred": "PartOf", "masked_sentences": ["The Word in the New Testament means \"God the Son, the Second Person of the [MASK].\"."], "obj_label": "trinity", "uuid": "0c13ad860ede99c88b8e2afffd2e7d7c", "sub_label": "god"}
+{"pred": "PartOf", "masked_sentences": ["Gossip is part of the [MASK]."], "obj_label": "problem", "uuid": "3c8d9cef3bd73e5d4ea95ecdfd134e84", "sub_label": "gossip"}
+{"pred": "PartOf", "masked_sentences": ["Gothenburg is part of [MASK]."], "obj_label": "sweden", "uuid": "f578c527b201c58f1cd462c384baa8d8", "sub_label": "gothenburg"}
+{"pred": "PartOf", "masked_sentences": ["Grace is part of [MASK]."], "obj_label": "love", "uuid": "8d5adea3f3101d90376beae87e9cdead", "sub_label": "grace"}
+{"pred": "PartOf", "masked_sentences": ["To understand the event \"The teacher recorded her grades in her gradebook.\", it is important to know that the teacher works at some kind of [MASK]."], "obj_label": "school", "uuid": "ac8aac97907ed5f0fb3dec57d69ec590", "sub_label": "grades"}
+{"pred": "PartOf", "masked_sentences": ["Grandfather is in [MASK]."], "obj_label": "family", "uuid": "c8abfdc04ee46d7bda4b75bbf2289d30", "sub_label": "grandfather"}
+{"pred": "PartOf", "masked_sentences": ["To understand the event \"Grandma died.\", it is important to know that Grandmas [MASK] will go to the funeral."], "obj_label": "family", "uuid": "273bff45463d13c379fca4d6ef986955", "sub_label": "grandma"}
+{"pred": "PartOf", "masked_sentences": ["A grandmother is part of a [MASK]."], "obj_label": "family", "uuid": "43a8fe78029beb914f6fbc5c80bc9bf9", "sub_label": "grandmother"}
+{"pred": "PartOf", "masked_sentences": ["Gresham is part of [MASK]."], "obj_label": "oregon", "uuid": "16376f27cf14edba036b59695cc7b3a6", "sub_label": "gresham"}
+{"pred": "PartOf", "masked_sentences": ["A groin is part of a [MASK]."], "obj_label": "body", "uuid": "4ad3036e9ab6cad21735a215d7c370dd", "sub_label": "groin"}
+{"pred": "PartOf", "masked_sentences": ["The effect of [MASK] is moving and growing."], "obj_label": "living", "uuid": "3f6860450ac5e1d1791b1de267fa709a", "sub_label": "growing"}
+{"pred": "PartOf", "masked_sentences": ["Guadalajara is part of [MASK]."], "obj_label": "mexico", "uuid": "5b42a9fa4cd904c94f992f4bc5196b4f", "sub_label": "guadalajara"}
+{"pred": "PartOf", "masked_sentences": ["Guangzhou is part of [MASK]."], "obj_label": "china", "uuid": "d411b73c7f372df361ed1fb1f07599f2", "sub_label": "guangzhou"}
+{"pred": "PartOf", "masked_sentences": ["If you want to convict a suspect for a [MASK] then you should prove his guilt."], "obj_label": "crime", "uuid": "b700c84a70091ae7b3f612a13017c049", "sub_label": "guilt"}
+{"pred": "PartOf", "masked_sentences": ["You are likely to find a machine gun in an [MASK]."], "obj_label": "arsenal", "uuid": "5df14669584e2721e062ea0d537349d2", "sub_label": "gun"}
+{"pred": "PartOf", "masked_sentences": ["H is part of the [MASK]."], "obj_label": "alphabet", "uuid": "b3ef7ff1482f230b42dca0a7a5edeab1", "sub_label": "h"}
+{"pred": "PartOf", "masked_sentences": ["Halab is part of [MASK]."], "obj_label": "syria", "uuid": "0811b996e78b014bc92bc34e27cc2e90", "sub_label": "halab"}
+{"pred": "PartOf", "masked_sentences": ["Umm half and [MASK]."], "obj_label": "whole", "uuid": "a0617c4bc30984456b12bd455c26695c", "sub_label": "half"}
+{"pred": "PartOf", "masked_sentences": ["Hambourg is part of [MASK]."], "obj_label": "germany", "uuid": "7f590cdbdbbdbbcc0e0e083ba0ba56a6", "sub_label": "hambourg"}
+{"pred": "PartOf", "masked_sentences": ["Things that are often found together are: dart, [MASK], hand."], "obj_label": "arm", "uuid": "e5c87d2f2c94d3bb28ed61b7a3faecc0", "sub_label": "hand"}
+{"pred": "PartOf", "masked_sentences": ["Hand is related to [MASK] part."], "obj_label": "body", "uuid": "495abdd560ee4d4d6e46861b2e0ac579", "sub_label": "hand"}
+{"pred": "PartOf", "masked_sentences": ["Things that are often found together are: [MASK] hand, dart."], "obj_label": "human", "uuid": "aa42d48f5f1350eafaa9e69e919d2176", "sub_label": "hand"}
+{"pred": "PartOf", "masked_sentences": ["A handle is part of a [MASK]."], "obj_label": "hammer", "uuid": "80a7270626bc1dad10bcd55711283eca", "sub_label": "handle"}
+{"pred": "PartOf", "masked_sentences": ["Another way to say \"A handle is used to carry an [MASK].\" is \"some objects have handles for carrying\"."], "obj_label": "object", "uuid": "e0e097532d44bc0cb2306dd31d15f579", "sub_label": "handle"}
+{"pred": "PartOf", "masked_sentences": ["His pet plays at grabbing the handle of the [MASK] away from Andrew."], "obj_label": "shovel", "uuid": "91cc32eb5c96354334ce363f18dcd4f2", "sub_label": "handle"}
+{"pred": "PartOf", "masked_sentences": ["Things that are often found together are: handset, dial, [MASK], reciever, cord."], "obj_label": "telephone", "uuid": "6048d0e02c8db613c0046ee1bce7e644", "sub_label": "handset"}
+{"pred": "PartOf", "masked_sentences": ["Hawthorne is part of [MASK]."], "obj_label": "california", "uuid": "92f253b4728550156a16a1605bd3bd34", "sub_label": "hawthorne"}
+{"pred": "PartOf", "masked_sentences": ["To understand the event \"The cat fell on his head.\", it is important to know that cat is a [MASK]."], "obj_label": "animal", "uuid": "ae342b87d424ec195eb4fbd01fb9d3e3", "sub_label": "head"}
+{"pred": "PartOf", "masked_sentences": ["If you want to strike a [MASK] then you should drag its head quickly across a rough surface."], "obj_label": "match", "uuid": "d94f20f01795cb2f616ef140cdc2c7a6", "sub_label": "head"}
+{"pred": "PartOf", "masked_sentences": ["The head is part of the [MASK]."], "obj_label": "penis", "uuid": "663c6c24343791ec932f6a8312bef9ec", "sub_label": "head"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] can head a committee."], "obj_label": "people", "uuid": "b39d7349cffd8a79a06bc16f4b041c06", "sub_label": "head"}
+{"pred": "PartOf", "masked_sentences": ["A heading is part of a [MASK]."], "obj_label": "table", "uuid": "888e4797c5c87b3cd87a43f03b11eee4", "sub_label": "heading"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] is above hip."], "obj_label": "body", "uuid": "8282d3405545004a338c8a0cb88228a3", "sub_label": "hip"}
+{"pred": "PartOf", "masked_sentences": ["Honesty is a type of [MASK]."], "obj_label": "integrity", "uuid": "bdfe389bd3e4816ad05c539c2ae434dc", "sub_label": "honesty"}
+{"pred": "PartOf", "masked_sentences": ["A house is part of someone's [MASK]."], "obj_label": "assets", "uuid": "b7f28e655b7c48dc738e8fc96ba324a3", "sub_label": "house"}
+{"pred": "PartOf", "masked_sentences": ["A [MASK] with a hole in the hull will sink ."], "obj_label": "boat", "uuid": "88098c6f887d8c8581c7c4ca700e6114", "sub_label": "hull"}
+{"pred": "PartOf", "masked_sentences": ["A hull is part of a [MASK]."], "obj_label": "sailboat", "uuid": "6591c8c59a8110f09eaea48ef56aa762", "sub_label": "hull"}
+{"pred": "PartOf", "masked_sentences": ["A human is part of an [MASK]."], "obj_label": "ecology", "uuid": "171a2792863582efbcebd5c09a539e4b", "sub_label": "human"}
+{"pred": "PartOf", "masked_sentences": ["The statement \"a person wants what they do not have.\" is true because it is human [MASK] to want to possess more."], "obj_label": "nature", "uuid": "32b6195f0145698ed12cf100fa575d02", "sub_label": "human"}
+{"pred": "PartOf", "masked_sentences": ["The statement \"Hydrogen is part of the [MASK].\" is true because The ozone layer is part of the atmosphere."], "obj_label": "atomosphere", "uuid": "4f9a4a62f03e569eb027093667538c8b", "sub_label": "hydrogen"}
+{"pred": "PartOf", "masked_sentences": ["You are likely to find hydrogen atoms in [MASK]."], "obj_label": "water", "uuid": "3ffa0a0b792b7b4966261b108a863957", "sub_label": "hydrogen"}
+{"pred": "PartOf", "masked_sentences": ["The hypthalamus is part of the [MASK]."], "obj_label": "brain", "uuid": "873d15b66b79516cab29456f96977b05", "sub_label": "hypthalamus"}
+{"pred": "PartOf", "masked_sentences": ["An icemaker is part of a [MASK]."], "obj_label": "refrigerator", "uuid": "089d9bf68063837dce14e61324160d2e", "sub_label": "icemaker"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] is typically near icing candles."], "obj_label": "cake", "uuid": "97208c3a06dbb05afbaf97796a9c7995", "sub_label": "icing"}
+{"pred": "PartOf", "masked_sentences": ["The statement \"Sometimes creating an idea causes elation\" helps [MASK] the question \"Why do people invent?\"."], "obj_label": "answer", "uuid": "f2af13f9fbbf759812add1eb099fb543", "sub_label": "idea"}
+{"pred": "PartOf", "masked_sentences": ["An ideology is part of a [MASK]."], "obj_label": "organization", "uuid": "4c2d28f9e6d7ac0063c99272f87b6cc4", "sub_label": "ideology"}
+{"pred": "PartOf", "masked_sentences": ["Illusion is part of [MASK]."], "obj_label": "magic", "uuid": "4ad4e4133945becb54a7fcc567fbefd0", "sub_label": "illusion"}
+{"pred": "PartOf", "masked_sentences": ["Picture description: an envelope on which the contents that it will contain as well as the [MASK] and ink used to write on them rest."], "obj_label": "pen", "uuid": "c8a43c4824150c4fff3bcde60db94329", "sub_label": "ink"}
+{"pred": "PartOf", "masked_sentences": ["The large intestine is part of the human [MASK]."], "obj_label": "body", "uuid": "dfe0d77a4f8e49e8465f2f2de27baf5b", "sub_label": "intestine"}
+{"pred": "PartOf", "masked_sentences": ["The IRS is the branch of [MASK] that collects taxes."], "obj_label": "government", "uuid": "c39c1cae427c2a96c9321c51120c7e61", "sub_label": "irs"}
+{"pred": "PartOf", "masked_sentences": ["The IRS is part of the [MASK]."], "obj_label": "problem", "uuid": "0010410486dfb8de21d9d59be8dc451b", "sub_label": "irs"}
+{"pred": "PartOf", "masked_sentences": ["J  is the tenth letter of the roman [MASK]."], "obj_label": "alphabet", "uuid": "f95cf27f0bb4001c8fc537a35fbaf1d2", "sub_label": "j"}
+{"pred": "PartOf", "masked_sentences": ["Jaw is related to [MASK]."], "obj_label": "mouth", "uuid": "9880d9263dc098baeedb06fa72bacf4b", "sub_label": "jaw"}
+{"pred": "PartOf", "masked_sentences": ["Jesus founded [MASK]."], "obj_label": "christianity", "uuid": "b095b90fed1242b3a08c74a203bae80c", "sub_label": "jesus"}
+{"pred": "PartOf", "masked_sentences": ["A joint is part of a [MASK]."], "obj_label": "body", "uuid": "db488cf792da930e8010d7c56b17623d", "sub_label": "joint"}
+{"pred": "PartOf", "masked_sentences": ["A joint is part of a [MASK]."], "obj_label": "skeleton", "uuid": "3274a5197d9cc7b65cc5dbd61deac9cd", "sub_label": "joint"}
+{"pred": "PartOf", "masked_sentences": ["Michael jordan is part of a basketball [MASK]."], "obj_label": "team", "uuid": "989c43a842f531446755ffde0ad9a718", "sub_label": "jordan"}
+{"pred": "PartOf", "masked_sentences": ["'k ' is the eleventh letter of the roman [MASK]."], "obj_label": "alphabet", "uuid": "0e309c9ad2d62b5f1e8e0347b3f6ace0", "sub_label": "k"}
+{"pred": "PartOf", "masked_sentences": ["Kadikoy is part of [MASK]."], "obj_label": "istanbul", "uuid": "cff83ff0dc6419b4a53fc6428f291ad8", "sub_label": "kadikoy"}
+{"pred": "PartOf", "masked_sentences": ["Kakadu is part of [MASK]."], "obj_label": "australia", "uuid": "adf885c82deade3d2ecf655a4a73e311", "sub_label": "kakadu"}
+{"pred": "PartOf", "masked_sentences": ["Kalimantan is part of [MASK]."], "obj_label": "indonesia", "uuid": "a06e4a98755422c6d0b4ccba0a812eca", "sub_label": "kalimantan"}
+{"pred": "PartOf", "masked_sentences": ["Kansas is part of the [MASK]."], "obj_label": "usa", "uuid": "8c1624557b04eb18c279dfbd6d06f0fa", "sub_label": "kansas"}
+{"pred": "PartOf", "masked_sentences": ["A keyboard is part of [MASK]."], "obj_label": "acomputer", "uuid": "1ff4f70f82d6c107e10f0123d126c676", "sub_label": "keyboard"}
+{"pred": "PartOf", "masked_sentences": ["A keyhole is part of a [MASK]."], "obj_label": "door", "uuid": "048134a83bb5cb886df1e2147005bd7b", "sub_label": "keyhole"}
+{"pred": "PartOf", "masked_sentences": ["A kickboard is part of a [MASK]."], "obj_label": "staircase", "uuid": "881869c51e810a249f115a2639f4dd50", "sub_label": "kickboard"}
+{"pred": "PartOf", "masked_sentences": ["Something you find in a human [MASK] is kidney."], "obj_label": "body", "uuid": "c8db3499561a500558840e078dbafb3c", "sub_label": "kidney"}
+{"pred": "PartOf", "masked_sentences": ["A killer is part of a [MASK]."], "obj_label": "community", "uuid": "50b6eee33dea21de7c6307e7e2593bf3", "sub_label": "killer"}
+{"pred": "PartOf", "masked_sentences": ["The Kimberley is part of [MASK]."], "obj_label": "australia", "uuid": "d29e54f4720a0b2c333025a444164187", "sub_label": "kimberley"}
+{"pred": "PartOf", "masked_sentences": ["Knob is part of [MASK]."], "obj_label": "radio", "uuid": "d689a00f90da2d6ecf91173901625069", "sub_label": "knob"}
+{"pred": "PartOf", "masked_sentences": ["Knowledge is part of [MASK]."], "obj_label": "innovation", "uuid": "92c4176ca1f5c9e37103179ff33d9611", "sub_label": "knowledge"}
+{"pred": "PartOf", "masked_sentences": ["Knowledge is part of [MASK]."], "obj_label": "understanding", "uuid": "31311941ca602d560e48f4e2a0c72549", "sub_label": "knowledge"}
+{"pred": "PartOf", "masked_sentences": ["A ktichen is part of a [MASK]."], "obj_label": "house", "uuid": "af1ef8c865777e01248cab536a803580", "sub_label": "ktichen"}
+{"pred": "PartOf", "masked_sentences": ["The statement \"\"l \" is the twelveth letter of the roman [MASK]\" helps answer the question \"How do I solve cryptograms?\"."], "obj_label": "alphabet", "uuid": "83cc04084c7fabe3693187d6511c7669", "sub_label": "l"}
+{"pred": "PartOf", "masked_sentences": ["A label is part of a [MASK]."], "obj_label": "jar", "uuid": "a1ec19bf4778a4de81c7d1be26f6ffa2", "sub_label": "label"}
+{"pred": "PartOf", "masked_sentences": ["Lago is part of [MASK]."], "obj_label": "nigeria", "uuid": "69cd27998178b3496b5cf3f10059c8ca", "sub_label": "lago"}
+{"pred": "PartOf", "masked_sentences": ["The land is part of an [MASK]."], "obj_label": "environment", "uuid": "30f516ac23c608c52d43c418f12e8add", "sub_label": "land"}
+{"pred": "PartOf", "masked_sentences": ["Lap is [MASK] part."], "obj_label": "body", "uuid": "48842e5995639db1356caf6db185cb1e", "sub_label": "lap"}
+{"pred": "PartOf", "masked_sentences": ["A leaf is part of some [MASK]."], "obj_label": "flowers", "uuid": "a1442eaabbc301134aac00d13635570c", "sub_label": "leaf"}
+{"pred": "PartOf", "masked_sentences": ["Lebanon is part of [MASK]."], "obj_label": "asia", "uuid": "7684b019468d96d593fd82b2a0f2f505", "sub_label": "lebanon"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] is high ledge."], "obj_label": "cliff", "uuid": "c7d57f6bf84c44b44875a9ed2b806286", "sub_label": "ledge"}
+{"pred": "PartOf", "masked_sentences": ["A leg is part of a [MASK]."], "obj_label": "spider", "uuid": "7f2807d62c7f06284f078a781ac1fd62", "sub_label": "leg"}
+{"pred": "PartOf", "masked_sentences": ["To understand the event \"Leo was a large [MASK].  Tom hated it when Leo jumped on him.\", it is important to know that dogs have four legs."], "obj_label": "dog", "uuid": "03cd5fe5feb08029dcaea72b9c8f0093", "sub_label": "legs"}
+{"pred": "PartOf", "masked_sentences": ["Lense is part of [MASK]."], "obj_label": "camera", "uuid": "acd884de4838d009396164d46bbfd4a9", "sub_label": "lense"}
+{"pred": "PartOf", "masked_sentences": ["A letter is part of a [MASK]."], "obj_label": "syllable", "uuid": "3a2888232ccef0f59470541fba75739c", "sub_label": "letter"}
+{"pred": "PartOf", "masked_sentences": ["Damn is a four letter [MASK]."], "obj_label": "word", "uuid": "9d1f6f74b469b267bdcc24dfa00191db", "sub_label": "letter"}
+{"pred": "PartOf", "masked_sentences": ["Letterkenny is part of [MASK]."], "obj_label": "ireland", "uuid": "a3edfc851a4780ef3b0504d16267ba74", "sub_label": "letterkenny"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] has a lid."], "obj_label": "box", "uuid": "55dbda6886f2ca154b2eb02bd22ee3a3", "sub_label": "lid"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] has a lid."], "obj_label": "jar", "uuid": "4912e2b41b4fd15cc43c9d3b1ed6de36", "sub_label": "lid"}
+{"pred": "PartOf", "masked_sentences": ["The statement \"The apple does not fall far from the [MASK]. \" is true because Apples generally fall straight down from the limb they were attached to."], "obj_label": "tree", "uuid": "03d4d74154b18cd1ea0c7f2cd4c8e3a5", "sub_label": "limb"}
+{"pred": "PartOf", "masked_sentences": ["Verse is [MASK] line."], "obj_label": "poem", "uuid": "4831f26207db263d57411010c4d3f189", "sub_label": "line"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] is a kind of lion group."], "obj_label": "pride", "uuid": "e1381d33d7807a462969da9f2cd9fbe3", "sub_label": "lion"}
+{"pred": "PartOf", "masked_sentences": ["Liver is typically in your [MASK]."], "obj_label": "body", "uuid": "05a04f1694a86ebbca960c4aad99d59e", "sub_label": "liver"}
+{"pred": "PartOf", "masked_sentences": ["Lobby is [MASK] entry."], "obj_label": "hotel", "uuid": "9333f61739ac52d1be8bde091734ae2d", "sub_label": "lobby"}
+{"pred": "PartOf", "masked_sentences": ["An earring is used for decorating an [MASK] lobe."], "obj_label": "ear", "uuid": "0f4a8c5fb066b8f581db50ac9cf928d5", "sub_label": "lobe"}
+{"pred": "PartOf", "masked_sentences": ["Lodi is part of [MASK]."], "obj_label": "cal", "uuid": "0cc6a102fe335f8702df97c9a408455a", "sub_label": "lodi"}
+{"pred": "PartOf", "masked_sentences": ["Longreach is part of [MASK]."], "obj_label": "queensland", "uuid": "e1f9d06707718bd0b090809d306947d9", "sub_label": "longreach"}
+{"pred": "PartOf", "masked_sentences": ["Something that might happen while playing a [MASK] is losing money."], "obj_label": "game", "uuid": "0861e20d16d134dbd14912d49ce5d710", "sub_label": "losing"}
+{"pred": "PartOf", "masked_sentences": ["Overcome personal loss by learning from peole who laugh and enjoy [MASK]."], "obj_label": "life", "uuid": "2c1ea8b06ab1ba499a25a53f2c45e8b4", "sub_label": "loss"}
+{"pred": "PartOf", "masked_sentences": ["The story \"Fighting [MASK]\" has the step \"People mourn for the loss of thier children.\"."], "obj_label": "war", "uuid": "deff956565fc95059e46a3fd799b5c46", "sub_label": "loss"}
+{"pred": "PartOf", "masked_sentences": ["The statement \"a person wants love, money, sex, a [MASK] of ease and comfort and good weather\" is true because these things are pleasant to the senses and to the emotions."], "obj_label": "life", "uuid": "b49176ebc720a84c070b01468d252e5d", "sub_label": "love"}
+{"pred": "PartOf", "masked_sentences": ["Sometimes [MASK] causes love."], "obj_label": "living", "uuid": "195e078d1c8a9aa6e433bc9f512df282", "sub_label": "love"}
+{"pred": "PartOf", "masked_sentences": ["Something that might happen while [MASK] a life is loving."], "obj_label": "living", "uuid": "ed535d9f2a361944646f5d18a4a98766", "sub_label": "loving"}
+{"pred": "PartOf", "masked_sentences": ["A lung is part of a dog's [MASK]."], "obj_label": "body", "uuid": "8581746a279753c99ef2049acf1f53ad", "sub_label": "lung"}
+{"pred": "PartOf", "masked_sentences": ["Lying is part of [MASK]."], "obj_label": "slander", "uuid": "1e0db3d4faab59592fc774d9b1dd76a1", "sub_label": "lying"}
+{"pred": "PartOf", "masked_sentences": ["M is the thirteenth letter of the roman [MASK]."], "obj_label": "alphabet", "uuid": "2c1a250ee3c49f4e7f21d0c2e0af0f85", "sub_label": "m"}
+{"pred": "PartOf", "masked_sentences": ["A mainspring is part of a [MASK]."], "obj_label": "watch", "uuid": "3c388f96d70a6e482e492e770c3fd52c", "sub_label": "mainspring"}
+{"pred": "PartOf", "masked_sentences": ["The fact \"You would go on strike because you want better conditions.\" is illustrated with the story:1. If you belong to a union and your contract is up for renewal you may want to push for better wages or benefits2. But the [MASK] that you work for may not want to pay you more or change the benefit package that already exists3. If the union reps and the management can't agree on the terms of the new contract the union members may decide that a strike is in order4. You must weigh all potential outcomes before going out on strike5. Many companies have been able to break a union using underhanded methods."], "obj_label": "company", "uuid": "212c4f05295e11562089c043b1d7caf0", "sub_label": "management"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] has a manager."], "obj_label": "company", "uuid": "f34685af6072d318e0b417e82591cf8f", "sub_label": "manager"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] is lower mandible."], "obj_label": "jaw", "uuid": "8ce6e3d8a16d5ecb23616b7c8d0b3563", "sub_label": "mandible"}
+{"pred": "PartOf", "masked_sentences": ["Manila is part of the [MASK]."], "obj_label": "phillippines", "uuid": "ed1e6edc4eed6b7a6556c35b4938a92e", "sub_label": "manila"}
+{"pred": "PartOf", "masked_sentences": ["Situation: My chruch is [MASK], Science, Reason, Logic,Communication, and the love for all mankind."], "obj_label": "nature", "uuid": "e458e4b589e773e8376ea98ce816984a", "sub_label": "mankind"}
+{"pred": "PartOf", "masked_sentences": ["Situation: [MASK] would like to start from scratch. Tell me, where is scratch?"], "obj_label": "we", "uuid": "85b856ef060094da6b3db721a4f6fe64", "sub_label": "me"}
+{"pred": "PartOf", "masked_sentences": ["A meadow is part of [MASK]."], "obj_label": "nature", "uuid": "985a7361ae419ca71a43e9a912ea6a81", "sub_label": "meadow"}
+{"pred": "PartOf", "masked_sentences": ["A metatarsal is part of the [MASK]."], "obj_label": "skeleton", "uuid": "ba4bbca8aff895452b5eba89d70a976a", "sub_label": "metatarsal"}
+{"pred": "PartOf", "masked_sentences": ["A millimeter is part of a [MASK]."], "obj_label": "centimeter", "uuid": "07558b7a778a8db0d041046c41308740", "sub_label": "millimeter"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] wants peace of mind."], "obj_label": "person", "uuid": "d9e364a13768171845b35e64293d1afc", "sub_label": "mind"}
+{"pred": "PartOf", "masked_sentences": ["Under Fiji's constitution, the prime minister is required to establish a multi-party [MASK]."], "obj_label": "cabinet", "uuid": "1a54655de33b6b931d5265c21e859e94", "sub_label": "minister"}
+{"pred": "PartOf", "masked_sentences": ["A molecule is part of a [MASK]."], "obj_label": "donkey", "uuid": "112478513d9ab97750086cc56d087d49", "sub_label": "molecule"}
+{"pred": "PartOf", "masked_sentences": ["Another way to say \"A moniter is part of a [MASK]\" is \"computers need monitors\"."], "obj_label": "computer", "uuid": "8b9175bbdf5d4f7532e819126060c72c", "sub_label": "moniter"}
+{"pred": "PartOf", "masked_sentences": ["A motor is part of a [MASK]."], "obj_label": "treadmill", "uuid": "69c2dc538365e903cf3056f816107424", "sub_label": "motor"}
+{"pred": "PartOf", "masked_sentences": ["Mountain is a kind of [MASK]."], "obj_label": "landscape", "uuid": "82db0943d20a0ea11ecc022c6602134b", "sub_label": "mountain"}
+{"pred": "PartOf", "masked_sentences": ["A moustache is part of a [MASK]."], "obj_label": "face", "uuid": "d562f20ae8c61b90bafa324f1e7fe5b9", "sub_label": "moustache"}
+{"pred": "PartOf", "masked_sentences": ["Maintaining muscle strength is for keeping your [MASK] in shape."], "obj_label": "body", "uuid": "6f45dd56084cbf1828f4465181f5d907", "sub_label": "muscle"}
+{"pred": "PartOf", "masked_sentences": ["The fact \"The effect of listening to music is enjoying the sound.\" is illustrated with the story:1. During the Canberra Festival, many cultural events were available.2. So I took two weeks [MASK] leave to attend the Festival events.3. I took my girlfriend to Gus's Cafe, to watch the Festival Parade.4. Many bands passed along Bunda Street before us.5. The cacophony was entertaining."], "obj_label": "recreation", "uuid": "bf6bf12c42e9eb765e0fee788c4f6e2c", "sub_label": "music"}
+{"pred": "PartOf", "masked_sentences": ["The statement \"Somewhere a [MASK] can be is on a CD\" is true because a CD can store music."], "obj_label": "song", "uuid": "190a2c1faf89969efb77227c44d8a1f7", "sub_label": "music"}
+{"pred": "PartOf", "masked_sentences": ["N is part of the [MASK]."], "obj_label": "alphabet", "uuid": "da9659166013cbc0103a8a8e2c31a085", "sub_label": "n"}
+{"pred": "PartOf", "masked_sentences": ["A homeowner can nail a picture to the wall of his [MASK]."], "obj_label": "house", "uuid": "5486c8a929aa362eae863f7a5461f9f9", "sub_label": "nail"}
+{"pred": "PartOf", "masked_sentences": ["A horses hoof is made of the same material as a human [MASK] nail."], "obj_label": "toe", "uuid": "c5279f6add6ad8343902d669f51c880f", "sub_label": "nail"}
+{"pred": "PartOf", "masked_sentences": ["Picture description: The neck of a [MASK]."], "obj_label": "guitar", "uuid": "7e32306ea53a73c63615058fd8d11e20", "sub_label": "neck"}
+{"pred": "PartOf", "masked_sentences": ["This necklace is part of the [MASK]."], "obj_label": "treasure", "uuid": "d5df58aaff119da2c6d6feafbd3c3555", "sub_label": "necklace"}
+{"pred": "PartOf", "masked_sentences": ["A neice is part of a [MASK]."], "obj_label": "family", "uuid": "48d18854b04f1af2000651959e7f8bc2", "sub_label": "neice"}
+{"pred": "PartOf", "masked_sentences": ["You are likely to find a neighborhood map in [MASK] Hall."], "obj_label": "city", "uuid": "8d393ab7d32ede0ac77511107ccb6e11", "sub_label": "neighborhood"}
+{"pred": "PartOf", "masked_sentences": ["A nephew is part of a [MASK]."], "obj_label": "family", "uuid": "c8be8c62fb4172756215778b58b86cbc", "sub_label": "nephew"}
+{"pred": "PartOf", "masked_sentences": ["One type of fiber in the [MASK] is nerve fiber."], "obj_label": "body", "uuid": "6643f3bd61fb97f8b9084dd76e751f70", "sub_label": "nerve"}
+{"pred": "PartOf", "masked_sentences": ["A neuron is part of a [MASK]."], "obj_label": "brain", "uuid": "57692ef70d0b026e05d38ebe17ddca93", "sub_label": "neuron"}
+{"pred": "PartOf", "masked_sentences": ["Nitrogen is part of the [MASK]."], "obj_label": "atomosphere", "uuid": "6216a490a1236e915785d2d79376870f", "sub_label": "nitrogen"}
+{"pred": "PartOf", "masked_sentences": ["Northridge is part of [MASK]."], "obj_label": "california", "uuid": "c113330157809d4acd28c1fe3809e34f", "sub_label": "northridge"}
+{"pred": "PartOf", "masked_sentences": ["Norway is part of [MASK]."], "obj_label": "scandinavia", "uuid": "3d47450a0f4c721fdd95997c6176a13b", "sub_label": "norway"}
+{"pred": "PartOf", "masked_sentences": ["Nose is a type of smelling [MASK]."], "obj_label": "body", "uuid": "13cd8c75467331e3a1b43fb7fe301592", "sub_label": "nose"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] has eyes nose."], "obj_label": "head", "uuid": "6b5ce2046a1cea317e801e84d9e3c376", "sub_label": "nose"}
+{"pred": "PartOf", "masked_sentences": ["To understand the event \"Caitlin watered her flowers.\", it is important to know that That 'Caitlin' was a proper noun and therefore a human being within the values of the intelligent [MASK]."], "obj_label": "language", "uuid": "4bb1088292cd47aa1c827d2413c96831", "sub_label": "noun"}
+{"pred": "PartOf", "masked_sentences": ["A noun is part of a [MASK]."], "obj_label": "sentence", "uuid": "d26633cd811b822a4d8d8180862febf0", "sub_label": "noun"}
+{"pred": "PartOf", "masked_sentences": ["Weight is [MASK] number."], "obj_label": "scale", "uuid": "27d2c335bbf587b719f7bc350e6f028b", "sub_label": "number"}
+{"pred": "PartOf", "masked_sentences": ["O is part of the [MASK]."], "obj_label": "alphabet", "uuid": "f36fab30dd24fe518d5f914269b8cb68", "sub_label": "o"}
+{"pred": "PartOf", "masked_sentences": ["Another way to say \"An lawyer can object that sentance.\" is \"He was sentanced to life in prison while his lawyer contested the [MASK].\"."], "obj_label": "sentence", "uuid": "b67460f7a1b9c6dcd721313ac00ea34a", "sub_label": "object"}
+{"pred": "PartOf", "masked_sentences": ["Odessa is part of [MASK]."], "obj_label": "ukraine", "uuid": "57fb310223e86b8397146288aa40ecd3", "sub_label": "odessa"}
+{"pred": "PartOf", "masked_sentences": ["In the middle of my [MASK] is an olive."], "obj_label": "martini", "uuid": "cb9fc0bbf5326134b345a90f9526c680", "sub_label": "olive"}
+{"pred": "PartOf", "masked_sentences": ["To understand the event \"My feet are tired.  I have been standing up all day.\", it is important to know that Create a strategy to collect information from existing sources, i. [MASK], 24 hour body sensors-Blood Pressure, and new programmes which record all your experiences 24 hours a day, so that you not only improve/ support memory, but also use this fascility to create analysis of situation, decide action needed, and implement the decesion, with follwup analysis, using wearable computer which will have built in programmes to followup, and keep your brains to work with enhanced performance with respect to common sense, openmind, and human evolution."], "obj_label": "internet", "uuid": "4d8dbf8be99ca299f917bd24d48be607", "sub_label": "openmind"}
+{"pred": "PartOf", "masked_sentences": ["Oregon is part of the [MASK]."], "obj_label": "northwest", "uuid": "e1ee91c481d5cd79be6b94a0fa7f89f8", "sub_label": "oregon"}
+{"pred": "PartOf", "masked_sentences": ["An organism is part of an [MASK]."], "obj_label": "ecosystem", "uuid": "0cc0e57461b4e75ddde881587b9181a8", "sub_label": "organism"}
+{"pred": "PartOf", "masked_sentences": ["Organs is part of [MASK]."], "obj_label": "organism", "uuid": "cc4d17f204abc07cd2ef43290641a866", "sub_label": "organs"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] is a type of oxygen around."], "obj_label": "atmosphere", "uuid": "c5eac7c651ca1bf6c6b67d20cb663fa3", "sub_label": "oxygen"}
+{"pred": "PartOf", "masked_sentences": ["The [MASK] is A B C D E F G H I J K L M N O P Q R S T U V W X Y Z in that order."], "obj_label": "alphabet", "uuid": "f721eed64b593c908110dd912d3c79e0", "sub_label": "p"}
+{"pred": "PartOf", "masked_sentences": ["This page is part of the [MASK]."], "obj_label": "manuscript", "uuid": "6281ad63265065797b0572645570a415", "sub_label": "page"}
+{"pred": "PartOf", "masked_sentences": ["To understand the event \"Jill wrote a [MASK] about monsters.\", it is important to know that Books contain pages of words and pictures."], "obj_label": "book", "uuid": "c7eea12077e7b20dc5d7ece64db14521", "sub_label": "pages"}
+{"pred": "PartOf", "masked_sentences": ["Sometimes living a [MASK] causes emotional pain."], "obj_label": "life", "uuid": "945392551a936df9bcf8d364fa605007", "sub_label": "pain"}
+{"pred": "PartOf", "masked_sentences": ["The fifteen highest peaks in the world are in Nepal, Pakistan, China, [MASK], and Tibet."], "obj_label": "india", "uuid": "06fdd1bd058b1d0e0bd8191bfde52a33", "sub_label": "pakistan"}
+{"pred": "PartOf", "masked_sentences": ["Pane is a type of [MASK] section."], "obj_label": "window", "uuid": "fbd956932cacfae7a3c6b7082fdf1000", "sub_label": "pane"}
+{"pred": "PartOf", "masked_sentences": ["Panel is part of [MASK]."], "obj_label": "monitor", "uuid": "aa64c6294e6a397327336f7c4ebace76", "sub_label": "panel"}
+{"pred": "PartOf", "masked_sentences": ["Pants is part of [MASK]."], "obj_label": "outfit", "uuid": "daf9cbd7586469407beded9904f691d4", "sub_label": "pants"}
+{"pred": "PartOf", "masked_sentences": ["A paragraph is part of a [MASK]."], "obj_label": "book", "uuid": "f1c9be25350ba0216062c5345e7264df", "sub_label": "paragraph"}
+{"pred": "PartOf", "masked_sentences": ["Paragraph is a type of [MASK] section."], "obj_label": "chapter", "uuid": "dee953e5603abd137f36ee51553160aa", "sub_label": "paragraph"}
+{"pred": "PartOf", "masked_sentences": ["Paragraph is about the same size as half [MASK]."], "obj_label": "page", "uuid": "8c613314d2d60f285a727cc5e3509e33", "sub_label": "paragraph"}
+{"pred": "PartOf", "masked_sentences": ["A paragraph is part of a [MASK]."], "obj_label": "paper", "uuid": "2afe35c5e5ae907a75fdeecfe157e8be", "sub_label": "paragraph"}
+{"pred": "PartOf", "masked_sentences": ["The [MASK] \"Learning Something New\" has the step \"I randomly pointed at a paragraph and read, termites have a lifespan of 50 years\"."], "obj_label": "story", "uuid": "fb8293d2f8e6b086423ec4aa0dade1b6", "sub_label": "paragraph"}
+{"pred": "PartOf", "masked_sentences": ["A pattern is part of [MASK]."], "obj_label": "logic", "uuid": "ad75f90e2892de0ab2b1d3b95e08872b", "sub_label": "pattern"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] is water peak."], "obj_label": "wave", "uuid": "8a278374900c422c6b3b133be6f3bc8c", "sub_label": "peak"}
+{"pred": "PartOf", "masked_sentences": ["A pectorial is part of a [MASK]."], "obj_label": "torso", "uuid": "0db4291531b74f9304fe458b47a0feb0", "sub_label": "pectorial"}
+{"pred": "PartOf", "masked_sentences": ["A pelvis is part of a [MASK]."], "obj_label": "body", "uuid": "5122e86c4971371b8639238ceb7d7309", "sub_label": "pelvis"}
+{"pred": "PartOf", "masked_sentences": ["Penis is external to the [MASK]."], "obj_label": "body", "uuid": "d6f0289aa3a181242d0f226d78a10a7a", "sub_label": "penis"}
+{"pred": "PartOf", "masked_sentences": ["A penis is part of a [MASK]."], "obj_label": "crotch", "uuid": "9b0527d85b00a56173ec6dc69ab0da93", "sub_label": "penis"}
+{"pred": "PartOf", "masked_sentences": ["Circumcision is the surgical removal of the foreskin of the penis on a [MASK] infant."], "obj_label": "male", "uuid": "34f76551b218cec420d6f22647e3ee38", "sub_label": "penis"}
+{"pred": "PartOf", "masked_sentences": ["We the people is part of the [MASK]."], "obj_label": "preamble", "uuid": "b91b380dfc366489b59e86dc0444862a", "sub_label": "people"}
+{"pred": "PartOf", "masked_sentences": ["To kill another person is to loose a bit of our [MASK] ."], "obj_label": "humanity", "uuid": "c26b1bf421e2b1098fc20b7e03e59349", "sub_label": "person"}
+{"pred": "PartOf", "masked_sentences": ["The statement \"a person wants what they do not have.\" is true because it is human [MASK] to want to possess more."], "obj_label": "nature", "uuid": "c6fa840f7d5bbeb1dbdf598796a96978", "sub_label": "person"}
+{"pred": "PartOf", "masked_sentences": ["Person is part of a [MASK]."], "obj_label": "society", "uuid": "cb7d2a4abddbb4e48f548e425f095625", "sub_label": "person"}
+{"pred": "PartOf", "masked_sentences": ["Personals is part of [MASK]."], "obj_label": "newspaper", "uuid": "4869db35214e6e96f8651a3c647ba108", "sub_label": "personals"}
+{"pred": "PartOf", "masked_sentences": ["Petroleum is part of [MASK]."], "obj_label": "asphalt", "uuid": "fbc592b0f6d3efe11fd0fb51b04e5a7b", "sub_label": "petroleum"}
+{"pred": "PartOf", "masked_sentences": ["Phrase is a type of [MASK] fragment."], "obj_label": "sentence", "uuid": "855a5aa167d43bea73abba188da498aa", "sub_label": "phrase"}
+{"pred": "PartOf", "masked_sentences": ["Pi is part of [MASK]."], "obj_label": "geometry", "uuid": "01d80f887f7e50d6b6a1d13ee30a90a1", "sub_label": "pi"}
+{"pred": "PartOf", "masked_sentences": ["A pickle is part of your [MASK]."], "obj_label": "diet", "uuid": "70448ad0f3cf90f7a9ef47f24055c296", "sub_label": "pickle"}
+{"pred": "PartOf", "masked_sentences": ["A pickup is part of a [MASK]."], "obj_label": "guitar", "uuid": "ee69df09adcf85a379dd872f7f4cb943", "sub_label": "pickup"}
+{"pred": "PartOf", "masked_sentences": ["You are likely to find a piece of coal in a rock [MASK]."], "obj_label": "collection", "uuid": "b6a4e2b911c9cbbbc2e07553b740be75", "sub_label": "piece"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] engine  has pistons."], "obj_label": "car", "uuid": "385235b1c1c82b416c87a91039226fa5", "sub_label": "pistons"}
+{"pred": "PartOf", "masked_sentences": ["Another way to say \"A pit is part of an [MASK]\" is \"Olives are pitted.\"."], "obj_label": "olive", "uuid": "4d3004a2ffa853f025e601423ff36da8", "sub_label": "pit"}
+{"pred": "PartOf", "masked_sentences": ["A pit is part of a [MASK]."], "obj_label": "plum", "uuid": "7682c0f1d6ba15284c856e65dcc1841b", "sub_label": "pit"}
+{"pred": "PartOf", "masked_sentences": ["A plant is part of an [MASK]."], "obj_label": "ecosystem", "uuid": "ccd1343130e780fedeb459cb96d74b0b", "sub_label": "plant"}
+{"pred": "PartOf", "masked_sentences": ["Another way to say \"Grass is a plant\" is \"One of the plants in [MASK] is grass\"."], "obj_label": "nature", "uuid": "ade7519c1a4490dc4f444c28fa581823", "sub_label": "plant"}
+{"pred": "PartOf", "masked_sentences": ["The statement \"In the event \"Billy is a soccer player.  Billy scored a goal.\", something that changed was Billy's [MASK] won the soccer game\" helps answer the question \"How do you get points in a soccer game?\"."], "obj_label": "team", "uuid": "6ec6df15386aaa8202caa5f6d0053294", "sub_label": "player"}
+{"pred": "PartOf", "masked_sentences": ["A plectrum is part of a [MASK]."], "obj_label": "harpsichord", "uuid": "3d0569cea197148ba69dcbadf43cd76c", "sub_label": "plectrum"}
+{"pred": "PartOf", "masked_sentences": ["To understand the event \"Bob is a police officer.  Bob arrested Jim.\", it is important to know that bob works for a [MASK]."], "obj_label": "government", "uuid": "49c7344fa4caa674db3e691ded1d723b", "sub_label": "police"}
+{"pred": "PartOf", "masked_sentences": ["The statement \"The last thing you do when you watch a movie is poop in the vcr\" is true because [MASK] in the vcr helps rewind the tape."], "obj_label": "pooping", "uuid": "2484e4d5b4732302c0a477ad6136d1e8", "sub_label": "poop"}
+{"pred": "PartOf", "masked_sentences": ["Pornagraphy is part of [MASK]."], "obj_label": "society", "uuid": "b8ddf8497f38ec40c3bb183b3e4d540d", "sub_label": "pornagraphy"}
+{"pred": "PartOf", "masked_sentences": ["A potato is part of a [MASK]."], "obj_label": "plant", "uuid": "9a07362e2d3d4fa470ef1418cc6c74e2", "sub_label": "potato"}
+{"pred": "PartOf", "masked_sentences": ["A priest is part of an [MASK]."], "obj_label": "order", "uuid": "f4cb75a5b654f0eaf6612aff0338eadf", "sub_label": "priest"}
+{"pred": "PartOf", "masked_sentences": ["A property is part of a [MASK]."], "obj_label": "culture", "uuid": "c75f79986d75e6d37cfda70ac923ebb5", "sub_label": "property"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] has proton electron."], "obj_label": "atom", "uuid": "4263c275c34d7aa8dfa72bcd4f1007bc", "sub_label": "proton"}
+{"pred": "PartOf", "masked_sentences": ["It's frustrating when you can't remember the punchline of a [MASK]."], "obj_label": "joke", "uuid": "359b26b47f4b662e02825a530967c536", "sub_label": "punchline"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] is pupil grouping."], "obj_label": "class", "uuid": "956788de1496702ec8fc68f24ecc675c", "sub_label": "pupil"}
+{"pred": "PartOf", "masked_sentences": ["The [MASK] is A B C D E F G H I J K L M N O P Q R S T U V W X Y Z in that order."], "obj_label": "alphabet", "uuid": "e4a43615b233b5db66dc0307ad4399f9", "sub_label": "q"}
+{"pred": "PartOf", "masked_sentences": ["The alphabet is A B C D E F G [MASK] I J K L M N O P Q R S T U V W X Y Z in that order."], "obj_label": "h", "uuid": "f49823f1badd427599603ca41fab6e86", "sub_label": "q"}
+{"pred": "PartOf", "masked_sentences": ["R is part of the [MASK]."], "obj_label": "alphabet", "uuid": "7f85ef74b034934b0073f496456c1988", "sub_label": "r"}
+{"pred": "PartOf", "masked_sentences": ["A radiator is part of an [MASK]."], "obj_label": "automobile", "uuid": "bf9322cdb311ea25d8672a691b565ba1", "sub_label": "radiator"}
+{"pred": "PartOf", "masked_sentences": ["A radius is part of the [MASK]."], "obj_label": "arm", "uuid": "00d3475b478f8c7d6e5a190656a108d6", "sub_label": "radius"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] has RAM."], "obj_label": "computer", "uuid": "86a4e79f0530e3e0079883d7b19a2e06", "sub_label": "ram"}
+{"pred": "PartOf", "masked_sentences": ["Situation: When the [MASK] rings pick up the receiver."], "obj_label": "telephone", "uuid": "bd75c03329db8c5102506213652fba33", "sub_label": "receiver"}
+{"pred": "PartOf", "masked_sentences": ["The statement \"Water appears blue in bulk\" is true because Water absorbs the red end of the [MASK], leaving blue as the dominant color. The thicker/bulkier the water light passes through the more this effect becomes visible."], "obj_label": "spectrum", "uuid": "7e2ef5a91de7e55e407aec2f4cbba130", "sub_label": "red"}
+{"pred": "PartOf", "masked_sentences": ["Wedding ceremonies are rooted in tradition, [MASK] and religion."], "obj_label": "culture", "uuid": "1d0ecf1479e55e77a3db14ab1fa753ea", "sub_label": "religion"}
+{"pred": "PartOf", "masked_sentences": ["A ribbon  is part of a [MASK]."], "obj_label": "tyepwriter", "uuid": "1a0e0db06851021ac0a296fb9a5a8482", "sub_label": "ribbon"}
+{"pred": "PartOf", "masked_sentences": ["A ribcage is part of a [MASK]."], "obj_label": "torso", "uuid": "d80f480b4440496d7443b943949a8774", "sub_label": "ribcage"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] is made of gloutinous rice."], "obj_label": "mochi", "uuid": "d20e6875199631afd44e160aca5dcb2e", "sub_label": "rice"}
+{"pred": "PartOf", "masked_sentences": ["Rice is related to [MASK]."], "obj_label": "pilaf", "uuid": "8a0a8cde66eea0eac70f08ae7fb32194", "sub_label": "rice"}
+{"pred": "PartOf", "masked_sentences": ["Rice is related to [MASK]."], "obj_label": "risotto", "uuid": "d4950addef9d4cd51f4c8c289e7de971", "sub_label": "rice"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] is a food usually containing uncooked fish and rice."], "obj_label": "sushi", "uuid": "d01c43a8669ab68b7e16491d83308940", "sub_label": "rice"}
+{"pred": "PartOf", "masked_sentences": ["Roma is part of [MASK]."], "obj_label": "italy", "uuid": "b947b57ab1a22749eb90403e45dee4d8", "sub_label": "roma"}
+{"pred": "PartOf", "masked_sentences": ["Roof is [MASK] topping."], "obj_label": "house", "uuid": "20a7afc7e05a524469c906f91d7a7eae", "sub_label": "roof"}
+{"pred": "PartOf", "masked_sentences": ["Room is a type of [MASK] subdivision."], "obj_label": "building", "uuid": "95db9066c00efe821659a19710bd0ebd", "sub_label": "room"}
+{"pred": "PartOf", "masked_sentences": ["Roslindale is part of [MASK]."], "obj_label": "boston", "uuid": "fe912b12daf067e22744daa4d8a87c38", "sub_label": "roslindale"}
+{"pred": "PartOf", "masked_sentences": ["The rudder is part of an [MASK]."], "obj_label": "airplane", "uuid": "a3d35bf83d3a72499eded35cc4350cbc", "sub_label": "rudder"}
+{"pred": "PartOf", "masked_sentences": ["On a simple [MASK], the tiller is used to control the rudder."], "obj_label": "sailboat", "uuid": "94a0f87d619eb421b1de27d660139bb6", "sub_label": "rudder"}
+{"pred": "PartOf", "masked_sentences": ["Rudder is typically in on [MASK]."], "obj_label": "ship", "uuid": "3037f58f04afc40df5461080329d347a", "sub_label": "rudder"}
+{"pred": "PartOf", "masked_sentences": ["Some of the many countries in [MASK] include england, ireland, france, italy, germany, greece, spain, poland, romania, and part of russia."], "obj_label": "europe", "uuid": "bccd1d83004f00cec34d63b3ddf82c33", "sub_label": "russia"}
+{"pred": "PartOf", "masked_sentences": ["The [MASK] is A B C D E F G H I J K L M N O P Q R S T U V W X Y Z in that order."], "obj_label": "alphabet", "uuid": "5a19eb9905bbb429df9c0374972a0c45", "sub_label": "s"}
+{"pred": "PartOf", "masked_sentences": ["Saarbruecken is part of [MASK]."], "obj_label": "saarland", "uuid": "1ac7ff284e9e3b67d8c3606004d1bc12", "sub_label": "saarbruecken"}
+{"pred": "PartOf", "masked_sentences": ["Sacrament is part of [MASK]."], "obj_label": "tradition", "uuid": "726baf4be966f55bc1da6e2a232804bc", "sub_label": "sacrament"}
+{"pred": "PartOf", "masked_sentences": ["Sailboat is part of a [MASK]."], "obj_label": "regatta", "uuid": "3c5d5169d69910383693b0caa05098fa", "sub_label": "sailboat"}
+{"pred": "PartOf", "masked_sentences": ["Saskinbakkal is part of [MASK]."], "obj_label": "istanbul", "uuid": "93ce00da291f45205218d6f627278412", "sub_label": "saskinbakkal"}
+{"pred": "PartOf", "masked_sentences": ["Sauce is part of a [MASK]."], "obj_label": "pizza", "uuid": "5ff088f12a51ab47db88ea6652bf86b3", "sub_label": "sauce"}
+{"pred": "PartOf", "masked_sentences": ["Scene has smaller [MASK]."], "obj_label": "act", "uuid": "822575472d379f3bc38bf2ff2a8a57f3", "sub_label": "scene"}
+{"pred": "PartOf", "masked_sentences": ["Things that are often found together are: [MASK] set, knobs, screen."], "obj_label": "tv", "uuid": "a28080761989f3c95dca31175bcd6d4b", "sub_label": "screen"}
+{"pred": "PartOf", "masked_sentences": ["A scrotum is part of a [MASK]."], "obj_label": "body", "uuid": "a4a7788c362ffd2fb3417847f3e9039f", "sub_label": "scrotum"}
+{"pred": "PartOf", "masked_sentences": ["A scrotum is part of a [MASK]."], "obj_label": "crotch", "uuid": "25f7c07372c373bbdd02aa3d8d7eb238", "sub_label": "scrotum"}
+{"pred": "PartOf", "masked_sentences": ["My scrotum is part of my [MASK]."], "obj_label": "genetalia", "uuid": "0656fa7ccbea68a6a9d6216f45bc3e4d", "sub_label": "scrotum"}
+{"pred": "PartOf", "masked_sentences": ["Seam is [MASK] line."], "obj_label": "dress", "uuid": "f8b3baa74debe8ad736fd9a5fc882ec1", "sub_label": "seam"}
+{"pred": "PartOf", "masked_sentences": ["Coast is seaside [MASK]."], "obj_label": "land", "uuid": "24a99029091ae9fe21d18f25ccbb60d0", "sub_label": "seaside"}
+{"pred": "PartOf", "masked_sentences": ["The seaside is part of the [MASK]."], "obj_label": "ocean", "uuid": "5dd8f481ec6c2f64a82e533bd170903f", "sub_label": "seaside"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] is a type of sentence grouping."], "obj_label": "paragraph", "uuid": "db0885e61795d1b5d616bb586655bc75", "sub_label": "sentence"}
+{"pred": "PartOf", "masked_sentences": ["A sentence is part of [MASK]."], "obj_label": "speech", "uuid": "9efe665fdc6318244f6555636627f872", "sub_label": "sentence"}
+{"pred": "PartOf", "masked_sentences": ["Shade is [MASK] deflector."], "obj_label": "lamp", "uuid": "9046c8a457e94c65c0b25176083e9aac", "sub_label": "shade"}
+{"pred": "PartOf", "masked_sentences": ["Sheep is a type of [MASK]."], "obj_label": "flock", "uuid": "93f84f65ed95cd16da11030a967e9a90", "sub_label": "sheep"}
+{"pred": "PartOf", "masked_sentences": ["You are likely to find a shelf around in a [MASK]."], "obj_label": "bookcase", "uuid": "082304ec7ff912e2c6ac140a1b1762f2", "sub_label": "shelf"}
+{"pred": "PartOf", "masked_sentences": ["A shin is part of a [MASK]."], "obj_label": "leg", "uuid": "b3b5f46128b87ac03fcb3bb5c06f1d9f", "sub_label": "shin"}
+{"pred": "PartOf", "masked_sentences": ["A shirt is part of an [MASK]."], "obj_label": "outfit", "uuid": "3c3915c3c7875ef78070e1f3d53991e5", "sub_label": "shirt"}
+{"pred": "PartOf", "masked_sentences": ["Shirt is part of [MASK]."], "obj_label": "wardrobe", "uuid": "3df1ed4ced80f665ffca6f59e79da5bc", "sub_label": "shirt"}
+{"pred": "PartOf", "masked_sentences": ["A foot is for displaying a high-heeled shoe by a famous [MASK] designer."], "obj_label": "clothing", "uuid": "895317b6ba803d76f67de87bde87c8dc", "sub_label": "shoe"}
+{"pred": "PartOf", "masked_sentences": ["Shoulder is typically in human [MASK]."], "obj_label": "body", "uuid": "9db553d7e27e7a447fa5466cbf451516", "sub_label": "shoulder"}
+{"pred": "PartOf", "masked_sentences": ["To understand the event \"Sally found a nickle on the sidewalk.\", it is important to know that Sometimes coins can be found in the [MASK]."], "obj_label": "street", "uuid": "ae512c4ced7eb3c2735f7caa31264cd1", "sub_label": "sidewalk"}
+{"pred": "PartOf", "masked_sentences": ["Sight is part of [MASK]."], "obj_label": "perception", "uuid": "a26ddd43040e1f7c12a79fb1d3d42240", "sub_label": "sight"}
+{"pred": "PartOf", "masked_sentences": ["SIPB is part of [MASK]."], "obj_label": "mit", "uuid": "36f6f79f55132e8153b9221e179c8b78", "sub_label": "sipb"}
+{"pred": "PartOf", "masked_sentences": ["Siracusa is part of [MASK]."], "obj_label": "sicily", "uuid": "1a278b0edbcfc5a61d3b5efd8288f15c", "sub_label": "siracusa"}
+{"pred": "PartOf", "masked_sentences": ["Skull is a type of head [MASK]."], "obj_label": "skeleton", "uuid": "a91a5351665ac05a3bee661d5532632d", "sub_label": "skull"}
+{"pred": "PartOf", "masked_sentences": ["When you live a [MASK] you do the following: 1. Die, 2. Copulate, 3. Breathe, 4. Defecate, 5. Sleep."], "obj_label": "life", "uuid": "62509d34fae237dce382d629e00aed80", "sub_label": "sleep"}
+{"pred": "PartOf", "masked_sentences": ["Situation: i put on my long sleeve [MASK]."], "obj_label": "shirt", "uuid": "8041bd4ff575090033337b67ee441258", "sub_label": "sleeve"}
+{"pred": "PartOf", "masked_sentences": ["A slice is part of an [MASK]."], "obj_label": "orange", "uuid": "663881f8e1a5b0218cbc45754f40b992", "sub_label": "slice"}
+{"pred": "PartOf", "masked_sentences": ["Sloan is part of [MASK]."], "obj_label": "mit", "uuid": "d1d6317d0a32ab9f92da533a829e31a7", "sub_label": "sloan"}
+{"pred": "PartOf", "masked_sentences": ["Slovakia is part of [MASK]."], "obj_label": "europe", "uuid": "79ca4cdf78bb4450b27adfee53cc02d4", "sub_label": "slovakia"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] is snout animal."], "obj_label": "pig", "uuid": "eb5646c9c12272c64619983d1597ca70", "sub_label": "snout"}
+{"pred": "PartOf", "masked_sentences": ["Somali is part of [MASK]."], "obj_label": "africa", "uuid": "118b70c7f883853ffc5b6f68cc5b3b63", "sub_label": "somali"}
+{"pred": "PartOf", "masked_sentences": ["A song is part of [MASK]."], "obj_label": "culture", "uuid": "bd273eb51100ef718ae564e9556ba2ae", "sub_label": "song"}
+{"pred": "PartOf", "masked_sentences": ["Sorrow is part of [MASK]."], "obj_label": "life", "uuid": "a077540674cd2a6d8f8a17f04884359e", "sub_label": "sorrow"}
+{"pred": "PartOf", "masked_sentences": ["A soundboard  is part of a [MASK]."], "obj_label": "piano", "uuid": "929b12d05de40e2b4c5aead549a9ac59", "sub_label": "soundboard"}
+{"pred": "PartOf", "masked_sentences": ["Soup is a kind of [MASK] course."], "obj_label": "meal", "uuid": "6cab93ade30c2f47a0bc472048198186", "sub_label": "soup"}
+{"pred": "PartOf", "masked_sentences": ["A spacebar is part of a [MASK]."], "obj_label": "keyboard", "uuid": "51ab796eae771c1f4af2b33505468906", "sub_label": "spacebar"}
+{"pred": "PartOf", "masked_sentences": ["Speaker is typically in [MASK]."], "obj_label": "stereo", "uuid": "1ec69056bd8519a3afc368ce3014b002", "sub_label": "speaker"}
+{"pred": "PartOf", "masked_sentences": ["Spellchecking is part of [MASK]."], "obj_label": "editing", "uuid": "91f8540a29624b6d5c808f971f25a44d", "sub_label": "spellchecking"}
+{"pred": "PartOf", "masked_sentences": ["The spine is part of a human [MASK]."], "obj_label": "body", "uuid": "bbde90ce8e2f555bcb2ec0f59dce9b53", "sub_label": "spine"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] has a spine."], "obj_label": "book", "uuid": "c2bd4faab1366763da8ddf9c3ce9328c", "sub_label": "spine"}
+{"pred": "PartOf", "masked_sentences": ["Spine is part of [MASK]."], "obj_label": "skeleton", "uuid": "147a601bdb5f5d18e22b14f28441d238", "sub_label": "spine"}
+{"pred": "PartOf", "masked_sentences": ["A spleen is part of a [MASK]."], "obj_label": "body", "uuid": "1ed65e42ffffeecbf7d8f20f478a5630", "sub_label": "spleen"}
+{"pred": "PartOf", "masked_sentences": ["A spring is part of [MASK]."], "obj_label": "watch", "uuid": "def4345152437bba047b4070ea193039", "sub_label": "spring"}
+{"pred": "PartOf", "masked_sentences": ["A sprocket is part of [MASK]."], "obj_label": "bicycle", "uuid": "06c195bf37ebd647aac4ea2f4b14ebc9", "sub_label": "sprocket"}
+{"pred": "PartOf", "masked_sentences": ["Sprocket is part of [MASK]."], "obj_label": "bike", "uuid": "c44b9a948e0bc85bbc8e76a8ad1109d8", "sub_label": "sprocket"}
+{"pred": "PartOf", "masked_sentences": ["In the event \"Joe got in his [MASK].  Joe started the engine.\", something that changed was The starter motor turned."], "obj_label": "car", "uuid": "3ab5edefce86a45c0cd947255e534a71", "sub_label": "starter"}
+{"pred": "PartOf", "masked_sentences": ["Stator is part of [MASK]."], "obj_label": "dynamo", "uuid": "7c5bce58659cab6f757a6ecd5ca891b9", "sub_label": "stator"}
+{"pred": "PartOf", "masked_sentences": ["Things that are often found together are: [MASK], stem."], "obj_label": "apple", "uuid": "33fefff36e5ae32a2c8fafecaaeae37e", "sub_label": "stem"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] is a type of has stem."], "obj_label": "flower", "uuid": "e5496f8488924f0566045dc68f8a7d1a", "sub_label": "stem"}
+{"pred": "PartOf", "masked_sentences": ["The stern is part of a [MASK]."], "obj_label": "sailboat", "uuid": "daaa6f9c8d850af32e0a060e0c80e949", "sub_label": "stern"}
+{"pred": "PartOf", "masked_sentences": ["Stigma is part of [MASK]."], "obj_label": "carpel", "uuid": "64a18fda6c9517f1b006d7fd625c8b75", "sub_label": "stigma"}
+{"pred": "PartOf", "masked_sentences": ["Stomach is a type of [MASK] organ."], "obj_label": "body", "uuid": "03d5f8c563b672d2430cfc8f3c30a070", "sub_label": "stomach"}
+{"pred": "PartOf", "masked_sentences": ["Something you might do while [MASK] a cathedral is sculpt gargoles out of stone."], "obj_label": "building", "uuid": "91d1341f7bf84caecdbb847b55d40741", "sub_label": "stone"}
+{"pred": "PartOf", "masked_sentences": ["A strap is part of a [MASK]."], "obj_label": "purse", "uuid": "bf5c263b8d73af1296c94f42fe601dce", "sub_label": "strap"}
+{"pred": "PartOf", "masked_sentences": ["This street is in my [MASK]."], "obj_label": "neighbourhood", "uuid": "5b0b5ddcc97c59c241a3a87d6144c464", "sub_label": "street"}
+{"pred": "PartOf", "masked_sentences": ["A street is part of [MASK]."], "obj_label": "philadelphia", "uuid": "aa60b155b5106574116a60a97f7bbbb8", "sub_label": "street"}
+{"pred": "PartOf", "masked_sentences": ["You are likely to find a student in [MASK]."], "obj_label": "class", "uuid": "ada5a83e5dab8c05ebc9353e5158e7ff", "sub_label": "student"}
+{"pred": "PartOf", "masked_sentences": ["Study is part of [MASK]."], "obj_label": "education", "uuid": "9629e953c6e0c6cf5d55f4898b42d821", "sub_label": "study"}
+{"pred": "PartOf", "masked_sentences": ["Style is part of [MASK]."], "obj_label": "carpel", "uuid": "f9f18fdf7a3103a084431aea1ac57899", "sub_label": "style"}
+{"pred": "PartOf", "masked_sentences": ["The statement \"A jury can find a suspect guilty, and the judge may [MASK] the subject to serve time in the penitentiary.\" is true because because the judicial system facilitates this kind of outcome."], "obj_label": "sentence", "uuid": "72ce745c34a690700eca0be18018a00e", "sub_label": "subject"}
+{"pred": "PartOf", "masked_sentences": ["A submarine is part of a [MASK]."], "obj_label": "battlegroup", "uuid": "4ef878f8c810e0155b1b70476933557c", "sub_label": "submarine"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] is made of pain and suffering."], "obj_label": "war", "uuid": "b06f0e16cd20071e5404ab0e4eabf0bb", "sub_label": "suffering"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] can contains sugar."], "obj_label": "candy", "uuid": "d25f3c50f7655061d6f76dcb0e249f4e", "sub_label": "sugar"}
+{"pred": "PartOf", "masked_sentences": ["Sugar is part of [MASK]."], "obj_label": "jiuce", "uuid": "afe1dbcd984f7f0063515fff7717c67d", "sub_label": "sugar"}
+{"pred": "PartOf", "masked_sentences": ["Jelly is a clear mixture with fruit [MASK] and sugar."], "obj_label": "juice", "uuid": "e54621cef69a3d6a72a4f4de7eafd297", "sub_label": "sugar"}
+{"pred": "PartOf", "masked_sentences": ["Sugar is related to [MASK]."], "obj_label": "sweets", "uuid": "7ba59856b1d705c3a9c40956e48c9155", "sub_label": "sugar"}
+{"pred": "PartOf", "masked_sentences": ["Sunda is part of [MASK]."], "obj_label": "indonesia", "uuid": "a610b2ad5fa719ab4df1777242fd9278", "sub_label": "sunda"}
+{"pred": "PartOf", "masked_sentences": ["Suspence is part of a [MASK]."], "obj_label": "mystery", "uuid": "c8456aa1451451f4cb9d8a11f04a55a1", "sub_label": "suspence"}
+{"pred": "PartOf", "masked_sentences": ["Sutluce is part of [MASK]."], "obj_label": "istanbul", "uuid": "312b676e29c7b7bcce2c910b05a13fb3", "sub_label": "sutluce"}
+{"pred": "PartOf", "masked_sentences": ["A suture is part of a [MASK]."], "obj_label": "plant", "uuid": "17381d7eb530d40913375aae736b3848", "sub_label": "suture"}
+{"pred": "PartOf", "masked_sentences": ["Sweden is part of [MASK]."], "obj_label": "scandinavia", "uuid": "ad9d8f8cfe8e0199717b766f773f9c02", "sub_label": "sweden"}
+{"pred": "PartOf", "masked_sentences": ["Swimming is part of a [MASK]."], "obj_label": "triathalon", "uuid": "1a437c4fded9f54c9ef3817a4366eadd", "sub_label": "swimming"}
+{"pred": "PartOf", "masked_sentences": ["Sword is part of [MASK]."], "obj_label": "armoury", "uuid": "3c681459dbe17ff45fea317629dc75ad", "sub_label": "sword"}
+{"pred": "PartOf", "masked_sentences": ["A syllable is part of a [MASK]."], "obj_label": "word", "uuid": "bd61655321059c1e9aa50b6bca762ebf", "sub_label": "syllable"}
+{"pred": "PartOf", "masked_sentences": ["Synapse is part of [MASK]."], "obj_label": "brain", "uuid": "50156c924e1b34293862a7bdb41e6d4f", "sub_label": "synapse"}
+{"pred": "PartOf", "masked_sentences": ["Situation: I don't like [MASK]."], "obj_label": "mit", "uuid": "5e173a01fe032c16abbb02f19b91c352", "sub_label": "t"}
+{"pred": "PartOf", "masked_sentences": ["It annoys a [MASK] when you pull its tail."], "obj_label": "cat", "uuid": "f357115805cc27038bfeccabb7f8242a", "sub_label": "tail"}
+{"pred": "PartOf", "masked_sentences": ["A talon is part of a [MASK]."], "obj_label": "bird", "uuid": "84374caf1a766b9b982245cbfcb53646", "sub_label": "talon"}
+{"pred": "PartOf", "masked_sentences": ["Taman is part of [MASK]."], "obj_label": "russia", "uuid": "882c5b019960164245381f830ce11915", "sub_label": "taman"}
+{"pred": "PartOf", "masked_sentences": ["The statement \"Zippers are used to hold something colsed\" is true because the teeth of the [MASK] lock together to hold something closed."], "obj_label": "zipper", "uuid": "9722bf5e2b5c3352de8e229afc90a38b", "sub_label": "teeth"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] is temperature report."], "obj_label": "weather", "uuid": "e184d27f4e34fec3aae52fbac9d4c8e2", "sub_label": "temperature"}
+{"pred": "PartOf", "masked_sentences": ["The term \"shaly sands\" is generally applied to a sand containing dispersed clay particles or to a laminated sand-shale [MASK]."], "obj_label": "sequence", "uuid": "3d14a205a02a5d4c3662bfb2ae02fa86", "sub_label": "term"}
+{"pred": "PartOf", "masked_sentences": ["A testicle is part of a [MASK]."], "obj_label": "crotch", "uuid": "a50f43ee7a4aafd85ed372793e7e4e37", "sub_label": "testicle"}
+{"pred": "PartOf", "masked_sentences": ["The statement \"Something that might happen as a consequence of hearing testimony is a verdict of not guilty.\" helps answer the question \"why would a defendant defend himself in a [MASK]?\"."], "obj_label": "trial", "uuid": "696c5aaa2672cb0452ea28f2c6c7ea93", "sub_label": "testimony"}
+{"pred": "PartOf", "masked_sentences": ["Texas is part of a [MASK]."], "obj_label": "country", "uuid": "9fa922f9913a8c20df938fb774f02aaf", "sub_label": "texas"}
+{"pred": "PartOf", "masked_sentences": ["A thigh is part of a [MASK]."], "obj_label": "body", "uuid": "a8ea6cf44770e5516573d10073115cd0", "sub_label": "thigh"}
+{"pred": "PartOf", "masked_sentences": ["Something you might do while [MASK] is thinking."], "obj_label": "reading", "uuid": "4629e9d6f8df4eb0b8039ebaf8dc7b7b", "sub_label": "thinking"}
+{"pred": "PartOf", "masked_sentences": ["A thread is part of a [MASK]."], "obj_label": "towel", "uuid": "58f7a6b9b9ac14b4be3ae6716ba2aeb6", "sub_label": "thread"}
+{"pred": "PartOf", "masked_sentences": ["A tibia is part of the [MASK]."], "obj_label": "leg", "uuid": "181876cb4c28e294af77559ce3eff1fe", "sub_label": "tibia"}
+{"pred": "PartOf", "masked_sentences": ["Timor is part of [MASK]."], "obj_label": "indonesia", "uuid": "62d9682fe175bddb73ba1ea236f38e4e", "sub_label": "timor"}
+{"pred": "PartOf", "masked_sentences": ["Something you find in a trunk is a spare [MASK] tire."], "obj_label": "automobile", "uuid": "1b55b030351b76ce9e39f6f484171139", "sub_label": "tire"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] is made of tissue."], "obj_label": "organ", "uuid": "315996db551fa325343c3c77f72a3b4d", "sub_label": "tissue"}
+{"pred": "PartOf", "masked_sentences": ["Tissue is part of [MASK]."], "obj_label": "skin", "uuid": "36134b9b3311b64d7a8795f7b11ec538", "sub_label": "tissue"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] is a type of head toe."], "obj_label": "body", "uuid": "2d11cf85c8d4edeff162c4b622fc2ad9", "sub_label": "toe"}
+{"pred": "PartOf", "masked_sentences": ["A toilet can be found in a bathroom or [MASK]."], "obj_label": "restroom", "uuid": "1f002cd236ce275e9eef0f044aae15b5", "sub_label": "toilet"}
+{"pred": "PartOf", "masked_sentences": ["Tongue is a type of [MASK] part."], "obj_label": "body", "uuid": "3ae0fd7d9b347d37818bb01a5764825c", "sub_label": "tongue"}
+{"pred": "PartOf", "masked_sentences": ["The tounge is part of the [MASK]."], "obj_label": "body", "uuid": "ced1109d7e31ca3c510c4b501b8b924c", "sub_label": "tounge"}
+{"pred": "PartOf", "masked_sentences": ["Transistor is part of [MASK]."], "obj_label": "circuit", "uuid": "6f8093583d80127a3b9e002cda89646f", "sub_label": "transistor"}
+{"pred": "PartOf", "masked_sentences": ["A tread is used for a step in a [MASK]."], "obj_label": "staircase", "uuid": "4beba330d189e9adcd13037eb67da4c8", "sub_label": "tread"}
+{"pred": "PartOf", "masked_sentences": ["Tree is a kind of [MASK] plant."], "obj_label": "forest", "uuid": "d40a4ac5babacffcfc05651cc50e7b76", "sub_label": "tree"}
+{"pred": "PartOf", "masked_sentences": ["A tree is part of a [MASK]."], "obj_label": "forrest", "uuid": "aebd80166f04da3fb96cb354631ac3c2", "sub_label": "tree"}
+{"pred": "PartOf", "masked_sentences": ["You are likely to find an apple tree in in an [MASK]."], "obj_label": "orchard", "uuid": "f9918cd490b5d39b3aca00076cdf6448", "sub_label": "tree"}
+{"pred": "PartOf", "masked_sentences": ["To understand the event \"The dog saved my [MASK].\", it is important to know that The dog recognized that I was in trouble."], "obj_label": "life", "uuid": "3a1e3246f6f5e767b48b4234784f8e96", "sub_label": "trouble"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] Urban Parks and Places manages Lake Ginninderra and Lake Tuggeranong."], "obj_label": "canberra", "uuid": "c6834b64441c33c354a3072e98354dd6", "sub_label": "tuggeranong"}
+{"pred": "PartOf", "masked_sentences": ["Tuner is part of a [MASK]."], "obj_label": "tv", "uuid": "36a507488e0217195758c8862c510bac", "sub_label": "tuner"}
+{"pred": "PartOf", "masked_sentences": ["U is part of the [MASK]."], "obj_label": "alphabet", "uuid": "6a7b464f875112187c8aae0cb1f42c92", "sub_label": "u"}
+{"pred": "PartOf", "masked_sentences": ["An udder is part of a [MASK]."], "obj_label": "cow", "uuid": "6a0f5bb69a30dd17d493bde2bebc99b2", "sub_label": "udder"}
+{"pred": "PartOf", "masked_sentences": ["The ulna is part of the [MASK]."], "obj_label": "arm", "uuid": "959a515e4ed38c5890d51f4d85996412", "sub_label": "ulna"}
+{"pred": "PartOf", "masked_sentences": ["An uncle is part of a [MASK]."], "obj_label": "family", "uuid": "eb39327715639378d4efd1946a865843", "sub_label": "uncle"}
+{"pred": "PartOf", "masked_sentences": ["Utah is part of the [MASK]."], "obj_label": "uas", "uuid": "d9f73b76f5cecedbd13c9be84934fd70", "sub_label": "utah"}
+{"pred": "PartOf", "masked_sentences": ["The uvea is part of the [MASK]."], "obj_label": "eye", "uuid": "89dd00ee0f7c9ed3a9d8e2cd2ba69820", "sub_label": "uvea"}
+{"pred": "PartOf", "masked_sentences": ["The [MASK] is A B C D E F G H I J K L M N O P Q R S T U V W X Y Z in that order."], "obj_label": "alphabet", "uuid": "c71d4ca28cff916902b40ea6e1e650ce", "sub_label": "v"}
+{"pred": "PartOf", "masked_sentences": ["Vacavile is part of [MASK]."], "obj_label": "california", "uuid": "94ea62f2a5601538dd59310c4747bb85", "sub_label": "vacavile"}
+{"pred": "PartOf", "masked_sentences": ["A valve is part of a [MASK]."], "obj_label": "trumpet", "uuid": "1aa87a5a9f82826c03290a2b0036bb53", "sub_label": "valve"}
+{"pred": "PartOf", "masked_sentences": ["A variable is part of a [MASK]."], "obj_label": "formula", "uuid": "8f513c8f75c9094f6b52d04bb5c42b85", "sub_label": "variable"}
+{"pred": "PartOf", "masked_sentences": ["A verb is part of a [MASK]."], "obj_label": "predicate", "uuid": "1f237f7ef71436176d655ec40dd4e51b", "sub_label": "verb"}
+{"pred": "PartOf", "masked_sentences": ["Vowel is part of [MASK]."], "obj_label": "speech", "uuid": "def4289e3d622a48af241249efc9fc6e", "sub_label": "vowel"}
+{"pred": "PartOf", "masked_sentences": ["W is part of the [MASK]."], "obj_label": "alphabet", "uuid": "a8dc558aca27804954457c7589a9bc73", "sub_label": "w"}
+{"pred": "PartOf", "masked_sentences": ["Wales is part of the [MASK]."], "obj_label": "uk", "uuid": "08849226a5049d474d007a9898136b66", "sub_label": "wales"}
+{"pred": "PartOf", "masked_sentences": ["Wave is also [MASK]."], "obj_label": "ocean", "uuid": "cc21b5a24ae995bb8393abfbd931437b", "sub_label": "wave"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] is energy wave."], "obj_label": "sound", "uuid": "b059f2abfbd41f6ba87ad70b775d8dc8", "sub_label": "wave"}
+{"pred": "PartOf", "masked_sentences": ["A wavelength is part of a [MASK]."], "obj_label": "spectrum", "uuid": "9a99b70b3f181c9e1705795c1f6182f4", "sub_label": "wavelength"}
+{"pred": "PartOf", "masked_sentences": ["Week is part of [MASK]."], "obj_label": "year", "uuid": "e58f089b25bc6848505dccf7794688c6", "sub_label": "week"}
+{"pred": "PartOf", "masked_sentences": ["[MASK] spokes can be adjusted to balance and shape the wheel."], "obj_label": "bicycle", "uuid": "9055bcefa5fde0969b033eec07151046", "sub_label": "wheel"}
+{"pred": "PartOf", "masked_sentences": ["Wheel is part of [MASK]."], "obj_label": "motorcyle", "uuid": "a25b83fc790b05244c55aafbca1348c6", "sub_label": "wheel"}
+{"pred": "PartOf", "masked_sentences": ["Wheel is part of a [MASK]."], "obj_label": "skateboard", "uuid": "0ced17f7f3c96697da9c8f3ab772ae6c", "sub_label": "wheel"}
+{"pred": "PartOf", "masked_sentences": ["A tire iron is a kind of wrench that is used to remove nuts from a [MASK]'s wheel."], "obj_label": "vehicle", "uuid": "0a4509416858aa2fdc2423ca955aab04", "sub_label": "wheel"}
+{"pred": "PartOf", "masked_sentences": ["Hyundai's Santa Fe is a stylish four-wheel-drive [MASK]."], "obj_label": "wagon", "uuid": "91f4be09bcbfdd53ac224d5db252aa37", "sub_label": "wheel"}
+{"pred": "PartOf", "masked_sentences": ["Something you might do while washing your [MASK] is cleaning the wheels."], "obj_label": "car", "uuid": "006f8453af9d5d7d7634afb642397185", "sub_label": "wheels"}
+{"pred": "PartOf", "masked_sentences": ["A wig is part of a [MASK]."], "obj_label": "costume", "uuid": "2e2688577e1f9ebb8cc61a46f7462467", "sub_label": "wig"}
+{"pred": "PartOf", "masked_sentences": ["A windshield wiper is part of an [MASK]."], "obj_label": "automobile", "uuid": "16cf2327d672f1e88434b3c1e4ca39f2", "sub_label": "windshield"}
+{"pred": "PartOf", "masked_sentences": ["To understand the event \"It snowed last night.  Joy had to scrape the snow off her [MASK] before going to work.\", it is important to know that Joy probably used a plastic tool called an ice scraper to remove the ice on her windshield."], "obj_label": "car", "uuid": "bb6194044defbe970e7474db52a9226e", "sub_label": "windshield"}
+{"pred": "PartOf", "masked_sentences": ["Word is part of a [MASK]."], "obj_label": "dictionary", "uuid": "b59ebc5584b15ee452b37585ae4ae3a6", "sub_label": "word"}
+{"pred": "PartOf", "masked_sentences": ["English copied the word, \"geo\" from the Greek [MASK]."], "obj_label": "language", "uuid": "a904e30e0b366011ee9ebfa952eae9b6", "sub_label": "word"}
+{"pred": "PartOf", "masked_sentences": ["A word is part of a [MASK]."], "obj_label": "quote", "uuid": "18c4519f112b676c9f050e63927c5511", "sub_label": "word"}
+{"pred": "PartOf", "masked_sentences": ["Word is typically in [MASK]."], "obj_label": "sentence", "uuid": "5ea530d5ba6c93138f5159a824b39dfe", "sub_label": "word"}
+{"pred": "PartOf", "masked_sentences": ["The spiral shaped part of a [MASK] is called a \"worm\"."], "obj_label": "corkscrew", "uuid": "6f1e98a8883e488757bf70598dd50748", "sub_label": "worm"}
+{"pred": "PartOf", "masked_sentences": ["A letter x is part of the [MASK]."], "obj_label": "alphabet", "uuid": "3df2b98ff4cd38aa07dc1f4f3ef88555", "sub_label": "x"}
+{"pred": "PartOf", "masked_sentences": ["Yukon territory is part of [MASK]."], "obj_label": "canada", "uuid": "303962358281170eb339d10f438841ad", "sub_label": "yukon"}
+{"pred": "PartOf", "masked_sentences": ["Z is is the last letter of the [MASK]."], "obj_label": "alphabet", "uuid": "82a7b2b8b0077cbf6166789318180d8c", "sub_label": "z"}
+{"pred": "PartOf", "masked_sentences": ["Zipper is related to [MASK]."], "obj_label": "clothes", "uuid": "24e970e6b37ec03eefb7d12d47834997", "sub_label": "zipper"}
+{"pred": "PartOf", "masked_sentences": ["Zipper is part of [MASK]."], "obj_label": "jacket", "uuid": "4255b930cf460dfeeb7964fbc4dcaaec", "sub_label": "zipper"}
+{"pred": "PartOf", "masked_sentences": ["\u00c5rhus is part of [MASK]."], "obj_label": "denmark", "uuid": "dca035380759ac959a74d506f87c2243", "sub_label": "\u00e5rhus"}

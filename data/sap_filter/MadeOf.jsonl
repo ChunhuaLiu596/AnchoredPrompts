@@ -1,0 +1,222 @@
+{"sub_label": "123", "obj_label": "troll", "masked_sentences": ["123 is made of [MASK]."], "uuid": 0}
+{"sub_label": "abottle", "obj_label": "glass", "masked_sentences": ["Abottle can be made of [MASK]."], "uuid": 1}
+{"sub_label": "adenozine", "obj_label": "hydrogen", "masked_sentences": ["Adenozine is made of [MASK]."], "uuid": 2}
+{"sub_label": "adenozine", "obj_label": "oxygen", "masked_sentences": ["Adenozine is made of [MASK]."], "uuid": 3}
+{"sub_label": "air", "obj_label": "molecules", "masked_sentences": ["Air has [MASK]."], "uuid": 4}
+{"sub_label": "armies", "obj_label": "soldiers", "masked_sentences": ["Rebel armies sometimes use children as [MASK]."], "uuid": 5}
+{"sub_label": "article", "obj_label": "information", "masked_sentences": ["An article in a newspaper is for reading to find out [MASK]."], "uuid": 6}
+{"sub_label": "ball", "obj_label": "plastic", "masked_sentences": ["Rugby ball is made of [MASK]."], "uuid": 7}
+{"sub_label": "balloon", "obj_label": "rubber", "masked_sentences": ["To understand the event \"The balloon broke.\", it is important to know that a thin [MASK] enclosed pocket that is filled with a gas."], "uuid": 8}
+{"sub_label": "banjo", "obj_label": "wood", "masked_sentences": ["A banjo is made of [MASK]."], "uuid": 9}
+{"sub_label": "bed", "obj_label": "straw", "masked_sentences": ["A bed can be made of [MASK]."], "uuid": 10}
+{"sub_label": "bicycle", "obj_label": "metal", "masked_sentences": ["A bicycle can be made of [MASK]."], "uuid": 11}
+{"sub_label": "bins", "obj_label": "glass", "masked_sentences": ["In the Australian Capital Territory, recycling bins have separate compartments for paper and cardboard, and for [MASK], metals and plastics."], "uuid": 12}
+{"sub_label": "boat", "obj_label": "fiber", "masked_sentences": ["A boat can be made of [MASK]."], "uuid": 13}
+{"sub_label": "body", "obj_label": "cells", "masked_sentences": ["Body [MASK] contain water."], "uuid": 14}
+{"sub_label": "bomb", "obj_label": "explosives", "masked_sentences": ["The statement \"You can use a bomb to blow something up\" is true because Bombs are [MASK]."], "uuid": 15}
+{"sub_label": "book", "obj_label": "paper", "masked_sentences": ["A book can be made from [MASK]."], "uuid": 16}
+{"sub_label": "book", "obj_label": "papers", "masked_sentences": ["Book is made of [MASK]."], "uuid": 17}
+{"sub_label": "books", "obj_label": "papers", "masked_sentences": ["Things that are often found together are: smiles, illumination, books, [MASK], student-types."], "uuid": 18}
+{"sub_label": "bottle", "obj_label": "plastic", "masked_sentences": ["Bottle can be made of [MASK]."], "uuid": 19}
+{"sub_label": "bowl", "obj_label": "aluminium", "masked_sentences": ["A bowl is made of [MASK]."], "uuid": 20}
+{"sub_label": "bowl", "obj_label": "ceramic", "masked_sentences": ["A bowl is made of [MASK]."], "uuid": 21}
+{"sub_label": "bowl", "obj_label": "glass", "masked_sentences": ["A bowl is made of [MASK]."], "uuid": 22}
+{"sub_label": "bowl", "obj_label": "steel", "masked_sentences": ["A bowl is made of [MASK]."], "uuid": 23}
+{"sub_label": "brain", "obj_label": "neurons", "masked_sentences": ["Memories are held in the brain by modifying the strength of connections between huge numbers of [MASK]."], "uuid": 24}
+{"sub_label": "bread", "obj_label": "wheat", "masked_sentences": ["Bread is from [MASK]."], "uuid": 25}
+{"sub_label": "bridges", "obj_label": "wood", "masked_sentences": ["Some bridges is made of [MASK]."], "uuid": 26}
+{"sub_label": "bubbles", "obj_label": "soap", "masked_sentences": ["[MASK] is related to bubbles."], "uuid": 27}
+{"sub_label": "bullet", "obj_label": "copper", "masked_sentences": ["A bullet  is made of [MASK]."], "uuid": 28}
+{"sub_label": "button", "obj_label": "plastic", "masked_sentences": ["Button is a type of small [MASK]."], "uuid": 29}
+{"sub_label": "cake", "obj_label": "egg", "masked_sentences": ["Cake is made of [MASK]."], "uuid": 30}
+{"sub_label": "cake", "obj_label": "ingredients", "masked_sentences": ["To understand the event \"Jeff baked a cake.  Everyone had a piece.\", it is important to know that Jeff had to purchase [MASK]."], "uuid": 31}
+{"sub_label": "can", "obj_label": "aluminum", "masked_sentences": ["[MASK] is pop can."], "uuid": 32}
+{"sub_label": "cans", "obj_label": "tin", "masked_sentences": ["[MASK] is related to cans."], "uuid": 33}
+{"sub_label": "car", "obj_label": "metal", "masked_sentences": ["One of the things you do when you crash a car  is bend sheet [MASK] ."], "uuid": 34}
+{"sub_label": "cars", "obj_label": "aluminium", "masked_sentences": ["Cars can be made of [MASK]."], "uuid": 35}
+{"sub_label": "cars", "obj_label": "metal", "masked_sentences": ["Cars are made of [MASK]."], "uuid": 36}
+{"sub_label": "cars", "obj_label": "parts", "masked_sentences": ["To understand the event \"Oscar got a flat tire.  Oscar changed the tire.\", it is important to know that Tires are [MASK] of cars, bikes, other vehicles."], "uuid": 37}
+{"sub_label": "cat", "obj_label": "fur", "masked_sentences": ["To understand the event \"The cat fell on his head.\", it is important to know that Cats have [MASK]."], "uuid": 38}
+{"sub_label": "ceramic", "obj_label": "clay", "masked_sentences": ["Ceramic is made of [MASK]."], "uuid": 39}
+{"sub_label": "chair", "obj_label": "wood", "masked_sentences": ["Chair is related to [MASK]."], "uuid": 40}
+{"sub_label": "chairs", "obj_label": "plastic", "masked_sentences": ["[MASK] chairs can won't mildew."], "uuid": 41}
+{"sub_label": "choir", "obj_label": "singers", "masked_sentences": ["Another way to say \"it is a singer in a choir\" is \"choirs are made up of [MASK]\"."], "uuid": 42}
+{"sub_label": "chopsticks", "obj_label": "bamboo", "masked_sentences": ["Chopsticks can be made of [MASK]."], "uuid": 43}
+{"sub_label": "church", "obj_label": "members", "masked_sentences": ["A church is made of its [MASK]."], "uuid": 44}
+{"sub_label": "closets", "obj_label": "wood", "masked_sentences": ["Some closets is made of [MASK]."], "uuid": 45}
+{"sub_label": "cloth", "obj_label": "fibers", "masked_sentences": ["Fine paper can contain cloth [MASK]."], "uuid": 46}
+{"sub_label": "clothes", "obj_label": "silk", "masked_sentences": ["[MASK] is typically in clothes."], "uuid": 47}
+{"sub_label": "club", "obj_label": "people", "masked_sentences": ["A club is for hit [MASK]."], "uuid": 48}
+{"sub_label": "coat", "obj_label": "wool", "masked_sentences": ["Sheep is [MASK] coat."], "uuid": 49}
+{"sub_label": "comb", "obj_label": "plastic", "masked_sentences": ["Picture description: A [MASK] comb."], "uuid": 50}
+{"sub_label": "computer", "obj_label": "silicon", "masked_sentences": ["To understand the event \"Chris designed a computer chip.\", it is important to know that Chips are made with [MASK]."], "uuid": 51}
+{"sub_label": "container", "obj_label": "metal", "masked_sentences": ["Can is [MASK] container."], "uuid": 52}
+{"sub_label": "continent", "obj_label": "countries", "masked_sentences": ["Continent is used for [MASK]."], "uuid": 53}
+{"sub_label": "continents", "obj_label": "countries", "masked_sentences": ["Continents usually contain [MASK]."], "uuid": 54}
+{"sub_label": "crt", "obj_label": "glass", "masked_sentences": ["Crt is made of [MASK]."], "uuid": 55}
+{"sub_label": "cult", "obj_label": "people", "masked_sentences": ["Amway is a cult that brainwashes [MASK] into selling cleaning products."], "uuid": 56}
+{"sub_label": "cupboards", "obj_label": "wood", "masked_sentences": ["Some cupboards is made of [MASK]."], "uuid": 57}
+{"sub_label": "dam", "obj_label": "concert", "masked_sentences": ["A dam is made of [MASK]."], "uuid": 58}
+{"sub_label": "data", "obj_label": "bits", "masked_sentences": ["Data is made of [MASK]."], "uuid": 59}
+{"sub_label": "desks", "obj_label": "wood", "masked_sentences": ["Desks can be made of [MASK]."], "uuid": 60}
+{"sub_label": "dog", "obj_label": "hair", "masked_sentences": ["Something that might happen while cleaning the house is plugging in the vacuum and pushing it around on the carpet to pick up dust, dirt, dog [MASK], and other small items."], "uuid": 61}
+{"sub_label": "doormats", "obj_label": "atoms", "masked_sentences": ["Doormats are made of [MASK]."], "uuid": 62}
+{"sub_label": "dragon", "obj_label": "scales", "masked_sentences": ["A Dragon is made of [MASK]."], "uuid": 63}
+{"sub_label": "drums", "obj_label": "wood", "masked_sentences": ["Drums is made of [MASK]."], "uuid": 64}
+{"sub_label": "duvet", "obj_label": "cotton", "masked_sentences": ["A duvet can be made of [MASK]."], "uuid": 65}
+{"sub_label": "electricity", "obj_label": "electrons", "masked_sentences": ["Electricity is made by [MASK]."], "uuid": 66}
+{"sub_label": "envelope", "obj_label": "paper", "masked_sentences": ["He who pushes the envelope should expect to get a few [MASK] cuts."], "uuid": 67}
+{"sub_label": "everything", "obj_label": "matter", "masked_sentences": ["[MASK] is everything."], "uuid": 68}
+{"sub_label": "everything", "obj_label": "molecules", "masked_sentences": ["Everything is made of [MASK]."], "uuid": 69}
+{"sub_label": "fabric", "obj_label": "fibers", "masked_sentences": ["Linen is a fabric made from natural [MASK] ."], "uuid": 70}
+{"sub_label": "fabric", "obj_label": "thread", "masked_sentences": ["A fabric may be made by knitting or sewing [MASK]."], "uuid": 71}
+{"sub_label": "fabric", "obj_label": "wool", "masked_sentences": ["[MASK] is a fabric made from the hair of sheep."], "uuid": 72}
+{"sub_label": "family", "obj_label": "relatives", "masked_sentences": ["Something you find at a [MASK] house is family members."], "uuid": 73}
+{"sub_label": "firestick", "obj_label": "wood", "masked_sentences": ["A firestick is made of [MASK]."], "uuid": 74}
+{"sub_label": "floor", "obj_label": "concrete", "masked_sentences": ["Something you find downstairs is a [MASK] floor."], "uuid": 75}
+{"sub_label": "floor", "obj_label": "wood", "masked_sentences": ["Similarity between a floor and a linen chest: they are both often made of [MASK]."], "uuid": 76}
+{"sub_label": "food", "obj_label": "carbon", "masked_sentences": ["Animals can convert oxygen and food into [MASK] dioxide and energy."], "uuid": 77}
+{"sub_label": "fork", "obj_label": "metal", "masked_sentences": ["Another way to say \"A fork us usually made of steel.\" is \"utensils, like forks, are usually made of [MASK]\"."], "uuid": 78}
+{"sub_label": "furniture", "obj_label": "wood", "masked_sentences": ["[MASK] is used for making furniture."], "uuid": 79}
+{"sub_label": "game", "obj_label": "rules", "masked_sentences": ["A game is a structured form of play in which there are certain [MASK] that must be followed."], "uuid": 80}
+{"sub_label": "gesture", "obj_label": "movement", "masked_sentences": ["Gesture is a type of hand [MASK]."], "uuid": 81}
+{"sub_label": "goblet", "obj_label": "glass", "masked_sentences": ["Goblet has fancy [MASK]."], "uuid": 82}
+{"sub_label": "golem", "obj_label": "clay", "masked_sentences": ["Golem is made of [MASK]."], "uuid": 83}
+{"sub_label": "guitar", "obj_label": "wood", "masked_sentences": ["To understand the event \"A string on Joel's guitar broke.  He replaced it with a new one.\", it is important to know that guitars are made of [MASK]."], "uuid": 84}
+{"sub_label": "gumshield", "obj_label": "plastic", "masked_sentences": ["A gumshield is made of [MASK]."], "uuid": 85}
+{"sub_label": "haemoglobin", "obj_label": "iron", "masked_sentences": ["Haemoglobin is made of [MASK]."], "uuid": 86}
+{"sub_label": "hairbrushes", "obj_label": "silver", "masked_sentences": ["Some hairbrushes can be made of [MASK]."], "uuid": 87}
+{"sub_label": "hamburger", "obj_label": "wheat", "masked_sentences": ["Hamburger is made of [MASK]."], "uuid": 88}
+{"sub_label": "hat", "obj_label": "cotton", "masked_sentences": ["A hat is made of [MASK]."], "uuid": 89}
+{"sub_label": "heart", "obj_label": "muscles", "masked_sentences": ["Getting fit is for Improving the functioning of your heart and other [MASK]."], "uuid": 90}
+{"sub_label": "highway", "obj_label": "asphalt", "masked_sentences": ["A county highway is usually topped with [MASK]."], "uuid": 91}
+{"sub_label": "house", "obj_label": "metal", "masked_sentences": ["A house is made of [MASK]."], "uuid": 92}
+{"sub_label": "house", "obj_label": "wood", "masked_sentences": ["House is made of [MASK]."], "uuid": 93}
+{"sub_label": "houses", "obj_label": "brick", "masked_sentences": ["[MASK] is used for building houses."], "uuid": 94}
+{"sub_label": "houses", "obj_label": "bricks", "masked_sentences": ["A house made of [MASK] attached to other houses of the same material."], "uuid": 95}
+{"sub_label": "human", "obj_label": "bones", "masked_sentences": ["The statement \"Without gravity the [MASK] in a human will begin to lose calcium.\" is true because humans evolved on a planet with gravity and exhibit bone loss in space."], "uuid": 96}
+{"sub_label": "human", "obj_label": "cells", "masked_sentences": ["Most [MASK] are too small to be seen by unaided human eyes."], "uuid": 97}
+{"sub_label": "human", "obj_label": "flesh", "masked_sentences": ["Something that might happen as a consequence of starting a fire is killing lots of people, and also a massive barbeque of human [MASK], in which we can fucking feast like marijuana pot driven fiends, and then, we will join the lds lsd momo bobo mormon shit church, and force Jesus to eat big piles of shit."], "uuid": 98}
+{"sub_label": "ideology", "obj_label": "ideals", "masked_sentences": ["Political ideology is made of political [MASK]."], "uuid": 99}
+{"sub_label": "idolatry", "obj_label": "obsession", "masked_sentences": ["Idolatry is a kind of [MASK]."], "uuid": 100}
+{"sub_label": "indica", "obj_label": "cannabis", "masked_sentences": ["Indica is made of [MASK]."], "uuid": 101}
+{"sub_label": "instruments", "obj_label": "wood", "masked_sentences": ["Percussion instruments is made of [MASK]."], "uuid": 102}
+{"sub_label": "insulation", "obj_label": "foam", "masked_sentences": ["[MASK] is used for insulation."], "uuid": 103}
+{"sub_label": "internet", "obj_label": "old", "masked_sentences": ["The story \"Seeing [MASK] Things\" has the step \"It had internet capabilities and I soon discovered a website called \"open mind\".\"."], "uuid": 104}
+{"sub_label": "katana", "obj_label": "steel", "masked_sentences": ["Katana is made of [MASK]."], "uuid": 105}
+{"sub_label": "keyboard", "obj_label": "plastic", "masked_sentences": ["Keyboard is made of [MASK]."], "uuid": 106}
+{"sub_label": "kitten", "obj_label": "flesh", "masked_sentences": ["A kitten is made of [MASK]."], "uuid": 107}
+{"sub_label": "knife", "obj_label": "steel", "masked_sentences": ["Knife is made of stainless [MASK]."], "uuid": 108}
+{"sub_label": "laptops", "obj_label": "chips", "masked_sentences": ["Laptops is made of [MASK]."], "uuid": 109}
+{"sub_label": "laptops", "obj_label": "plastic", "masked_sentences": ["Laptops may be made of [MASK]."], "uuid": 110}
+{"sub_label": "lens", "obj_label": "glass", "masked_sentences": ["A lens is a piece of [MASK] or clear plastic that focuses light."], "uuid": 111}
+{"sub_label": "lenses", "obj_label": "glass", "masked_sentences": ["[MASK] lenses can make things look bigger."], "uuid": 112}
+{"sub_label": "lettuce", "obj_label": "water", "masked_sentences": ["A salad spinner is used to remove [MASK] from lettuce."], "uuid": 113}
+{"sub_label": "life", "obj_label": "memories", "masked_sentences": ["The statement \"Something that might happen as a consequence of committing to memory is learning something for life\" is true because Some of our [MASK] will stay with us all our lives."], "uuid": 114}
+{"sub_label": "lock", "obj_label": "metal", "masked_sentences": ["Lock is [MASK]."], "uuid": 115}
+{"sub_label": "locker", "obj_label": "metal", "masked_sentences": ["Locker is related to [MASK] cupboard."], "uuid": 116}
+{"sub_label": "lubrication", "obj_label": "oil", "masked_sentences": ["[MASK] is for lubrication."], "uuid": 117}
+{"sub_label": "lubrication", "obj_label": "water", "masked_sentences": ["Lubrication is made of [MASK]."], "uuid": 118}
+{"sub_label": "mankind", "obj_label": "humanity", "masked_sentences": ["Mankind is a kind of [MASK]."], "uuid": 119}
+{"sub_label": "matter", "obj_label": "elements", "masked_sentences": ["Matter is made of [MASK]."], "uuid": 120}
+{"sub_label": "matter", "obj_label": "molecules", "masked_sentences": ["Situation: I believe that the manipulation of matter on the scale of atoms and [MASK] to make new technologies is a significant part of the technology landscape."], "uuid": 121}
+{"sub_label": "milk", "obj_label": "minerals", "masked_sentences": ["Milk is made of [MASK]."], "uuid": 122}
+{"sub_label": "mob", "obj_label": "people", "masked_sentences": ["Crowd is a type of [MASK] mob."], "uuid": 123}
+{"sub_label": "molecule", "obj_label": "atoms", "masked_sentences": ["An ozone molecule can consists of three oxygen [MASK]."], "uuid": 124}
+{"sub_label": "money", "obj_label": "paper", "masked_sentences": ["Using a credit card requires no [MASK] money."], "uuid": 125}
+{"sub_label": "moon", "obj_label": "rock", "masked_sentences": ["Something you find on the moon is [MASK]."], "uuid": 126}
+{"sub_label": "mountain", "obj_label": "land", "masked_sentences": ["Mountain is a type of [MASK]."], "uuid": 127}
+{"sub_label": "organism", "obj_label": "cells", "masked_sentences": ["An organism is made of [MASK]."], "uuid": 128}
+{"sub_label": "outfit", "obj_label": "clothes", "masked_sentences": ["Before running you may leave your street [MASK] in a locker and wear a running outfit."], "uuid": 129}
+{"sub_label": "paint", "obj_label": "chemicals", "masked_sentences": ["Paint is made of [MASK]."], "uuid": 130}
+{"sub_label": "panda", "obj_label": "cells", "masked_sentences": ["A Panda is made of [MASK]."], "uuid": 131}
+{"sub_label": "paper", "obj_label": "trees", "masked_sentences": ["Paper is typically in [MASK]."], "uuid": 132}
+{"sub_label": "paper", "obj_label": "wood", "masked_sentences": ["Paper can be made of [MASK]."], "uuid": 133}
+{"sub_label": "passageway", "obj_label": "space", "masked_sentences": ["A passageway is made of [MASK]."], "uuid": 134}
+{"sub_label": "pee", "obj_label": "waste", "masked_sentences": ["Having a pee is for [MASK] disposal."], "uuid": 135}
+{"sub_label": "pen", "obj_label": "plastic", "masked_sentences": ["Pen can be made from [MASK]."], "uuid": 136}
+{"sub_label": "pencil", "obj_label": "wood", "masked_sentences": ["A pencil can be made of a piece of lead encased in [MASK]."], "uuid": 137}
+{"sub_label": "penis", "obj_label": "cells", "masked_sentences": ["A penis is made of  [MASK]."], "uuid": 138}
+{"sub_label": "penis", "obj_label": "flesh", "masked_sentences": ["Penis is made of [MASK]."], "uuid": 139}
+{"sub_label": "pepsi", "obj_label": "sugar", "masked_sentences": ["Pepsi is made of [MASK]."], "uuid": 140}
+{"sub_label": "person", "obj_label": "water", "masked_sentences": ["A person wants clean [MASK]."], "uuid": 141}
+{"sub_label": "phones", "obj_label": "plastic", "masked_sentences": ["Phones may be made of [MASK]."], "uuid": 142}
+{"sub_label": "pick", "obj_label": "metal", "masked_sentences": ["A pick is made of [MASK]."], "uuid": 143}
+{"sub_label": "pillow", "obj_label": "cotton", "masked_sentences": ["[MASK] is for stuffing a pillow."], "uuid": 144}
+{"sub_label": "pillow", "obj_label": "feathers", "masked_sentences": ["Something you find in a pillow is [MASK]."], "uuid": 145}
+{"sub_label": "pipes", "obj_label": "metal", "masked_sentences": ["Another way to say \"a plumber can use a wrench\" is \"a person who works with water and pipes can manipulate a [MASK] turning tool\"."], "uuid": 146}
+{"sub_label": "pitcher", "obj_label": "clay", "masked_sentences": ["A Pitcher is made of [MASK]."], "uuid": 147}
+{"sub_label": "plants", "obj_label": "cells", "masked_sentences": ["Plants contain water in their [MASK], so they freeze if they are cooled down under zero degree celsius."], "uuid": 148}
+{"sub_label": "plastic", "obj_label": "carbon", "masked_sentences": ["Plastic is made of [MASK]."], "uuid": 149}
+{"sub_label": "plate", "obj_label": "glass", "masked_sentences": ["You are likely to find a [MASK] of water in table next to the plate."], "uuid": 150}
+{"sub_label": "pluto", "obj_label": "rock", "masked_sentences": ["Pluto is made of [MASK]."], "uuid": 151}
+{"sub_label": "poop", "obj_label": "waste", "masked_sentences": ["Poop is made of [MASK]."], "uuid": 152}
+{"sub_label": "pot", "obj_label": "clay", "masked_sentences": ["Picture description: a blue [MASK] pot."], "uuid": 153}
+{"sub_label": "pots", "obj_label": "clay", "masked_sentences": ["[MASK] pots."], "uuid": 154}
+{"sub_label": "program", "obj_label": "instructions", "masked_sentences": ["A program is made of [MASK]."], "uuid": 155}
+{"sub_label": "rhetoric", "obj_label": "words", "masked_sentences": ["Rhetoric is made of [MASK]."], "uuid": 156}
+{"sub_label": "riot", "obj_label": "people", "masked_sentences": ["Sometimes telling many [MASK] about something causes a riot."], "uuid": 157}
+{"sub_label": "rivets", "obj_label": "metal", "masked_sentences": ["Rivets is made of [MASK]."], "uuid": 158}
+{"sub_label": "robots", "obj_label": "metal", "masked_sentences": ["Robots are made of [MASK]."], "uuid": 159}
+{"sub_label": "salt", "obj_label": "crystals", "masked_sentences": ["Salt [MASK] dissolve in water."], "uuid": 160}
+{"sub_label": "salt", "obj_label": "ions", "masked_sentences": ["Salt is made of [MASK]."], "uuid": 161}
+{"sub_label": "sative", "obj_label": "cannabis", "masked_sentences": ["Sative is made of [MASK]."], "uuid": 162}
+{"sub_label": "sausage", "obj_label": "meat", "masked_sentences": ["Sausage is a kind of [MASK] often put in spaghetti sauce."], "uuid": 163}
+{"sub_label": "scissors", "obj_label": "metal", "masked_sentences": ["Similarity between a brass instrument and haircutting scissors: [MASK]."], "uuid": 164}
+{"sub_label": "sea", "obj_label": "water", "masked_sentences": ["To understand the event \"Kathy was vacationing in Florida  She chartered a boat and went deep sea fishing.\", it is important to know that The purpose of fishing is to catch live fish from the [MASK]."], "uuid": 165}
+{"sub_label": "sentience", "obj_label": "thoughts", "masked_sentences": ["Sentience is made of [MASK]."], "uuid": 166}
+{"sub_label": "set", "obj_label": "members", "masked_sentences": ["A set is made of [MASK]."], "uuid": 167}
+{"sub_label": "sheets", "obj_label": "cotton", "masked_sentences": ["[MASK] is typically in sheets."], "uuid": 168}
+{"sub_label": "ships", "obj_label": "wood", "masked_sentences": ["Some ships can be made of [MASK]."], "uuid": 169}
+{"sub_label": "shoelace", "obj_label": "textile", "masked_sentences": ["A shoelace is made of [MASK]."], "uuid": 170}
+{"sub_label": "shoes", "obj_label": "leather", "masked_sentences": ["Shoes can be made from [MASK]."], "uuid": 171}
+{"sub_label": "silverware", "obj_label": "metal", "masked_sentences": ["Silverware  is made of [MASK]."], "uuid": 172}
+{"sub_label": "sky", "obj_label": "gases", "masked_sentences": ["Sky is made of [MASK]."], "uuid": 173}
+{"sub_label": "skyscraper", "obj_label": "steel", "masked_sentences": ["A skyscraper can be made of [MASK] and glass."], "uuid": 174}
+{"sub_label": "sock", "obj_label": "threads", "masked_sentences": ["A sock is made of [MASK]."], "uuid": 175}
+{"sub_label": "soup", "obj_label": "water", "masked_sentences": ["Soup is a type of food that consists mainly of liquid [MASK] with some solid and partially dissolved foodstuffs in it."], "uuid": 176}
+{"sub_label": "spring", "obj_label": "metal", "masked_sentences": ["Things that are often found together are: spring, plastic, hammer, [MASK], bell."], "uuid": 177}
+{"sub_label": "state", "obj_label": "counties", "masked_sentences": ["State is made of [MASK]."], "uuid": 178}
+{"sub_label": "statues", "obj_label": "stone", "masked_sentences": ["The statement \"Statues are usually made of metal or [MASK]\" is true because Often outdoors, they need to be made of weather-resistant material. ."], "uuid": 179}
+{"sub_label": "stigma", "obj_label": "ignorance", "masked_sentences": ["Stigma is made of [MASK]."], "uuid": 180}
+{"sub_label": "stigma", "obj_label": "prejudice", "masked_sentences": ["The effect of stigma is [MASK] and discrimination."], "uuid": 181}
+{"sub_label": "submarine", "obj_label": "steel", "masked_sentences": ["A submarine is made of [MASK]."], "uuid": 182}
+{"sub_label": "sugar", "obj_label": "minerals", "masked_sentences": ["Sugar is made of [MASK]."], "uuid": 183}
+{"sub_label": "sun", "obj_label": "gases", "masked_sentences": ["Something you find on the sun is [MASK]."], "uuid": 184}
+{"sub_label": "surface", "obj_label": "material", "masked_sentences": ["To understand the event \"Susan cleaned her room.\", it is important to know that Cleaning something means removing dirt and other unwanted [MASK] from its surface."], "uuid": 185}
+{"sub_label": "sword", "obj_label": "steel", "masked_sentences": ["Sword is made of [MASK]."], "uuid": 186}
+{"sub_label": "table", "obj_label": "stone", "masked_sentences": ["A table  is made of [MASK]."], "uuid": 187}
+{"sub_label": "table", "obj_label": "wood", "masked_sentences": ["Table is a type of [MASK]."], "uuid": 188}
+{"sub_label": "talbe", "obj_label": "tree", "masked_sentences": ["Talbe is made of [MASK]."], "uuid": 189}
+{"sub_label": "tanks", "obj_label": "metal", "masked_sentences": ["Tanks can be made of [MASK]."], "uuid": 190}
+{"sub_label": "teakettles", "obj_label": "ceramic", "masked_sentences": ["Teakettles is made of [MASK]."], "uuid": 191}
+{"sub_label": "tfz", "obj_label": "123", "masked_sentences": ["TFZ is made of [MASK]."], "uuid": 192}
+{"sub_label": "tire", "obj_label": "rubber", "masked_sentences": ["Tire is [MASK] wheels."], "uuid": 193}
+{"sub_label": "tires", "obj_label": "rubber", "masked_sentences": ["[MASK] is on tires."], "uuid": 194}
+{"sub_label": "titty", "obj_label": "flesh", "masked_sentences": ["A titty is made of [MASK]."], "uuid": 195}
+{"sub_label": "toilet", "obj_label": "porcelain", "masked_sentences": ["Situation: I notice that the toilet is made of [MASK]."], "uuid": 196}
+{"sub_label": "tools", "obj_label": "iron", "masked_sentences": ["Some tools can be made of [MASK]."], "uuid": 197}
+{"sub_label": "tools", "obj_label": "metal", "masked_sentences": ["Tools can tear [MASK] sheets."], "uuid": 198}
+{"sub_label": "toothpick", "obj_label": "plastic", "masked_sentences": ["Toothpick is made of [MASK]."], "uuid": 199}
+{"sub_label": "touchpad", "obj_label": "crystal", "masked_sentences": ["Touchpad is made of [MASK]."], "uuid": 200}
+{"sub_label": "toys", "obj_label": "plastic", "masked_sentences": ["Young kid can playing with [MASK] toys."], "uuid": 201}
+{"sub_label": "transistors", "obj_label": "silicon", "masked_sentences": ["Transistors are made of [MASK]."], "uuid": 202}
+{"sub_label": "tricycle", "obj_label": "steel", "masked_sentences": ["A tricycle is made of [MASK]."], "uuid": 203}
+{"sub_label": "troll", "obj_label": "fail", "masked_sentences": ["Troll is made of [MASK]."], "uuid": 204}
+{"sub_label": "troll", "obj_label": "win", "masked_sentences": ["Troll is made of [MASK]."], "uuid": 205}
+{"sub_label": "trust", "obj_label": "honesty", "masked_sentences": ["The effect of [MASK] is trust."], "uuid": 206}
+{"sub_label": "tv", "obj_label": "glass", "masked_sentences": ["The story \"Watching Tv\" has the step \"i poured the soda into a [MASK]\"."], "uuid": 207}
+{"sub_label": "tv", "obj_label": "plastic", "masked_sentences": ["Tv is made of [MASK]."], "uuid": 208}
+{"sub_label": "tyres", "obj_label": "rubber", "masked_sentences": ["Tyres are made of [MASK]."], "uuid": 209}
+{"sub_label": "underwear", "obj_label": "cotton", "masked_sentences": ["[MASK] is underwear fabric."], "uuid": 210}
+{"sub_label": "universe", "obj_label": "strings", "masked_sentences": ["String theory claims that the universe is made of tiny vibrating [MASK]."], "uuid": 211}
+{"sub_label": "wheel", "obj_label": "metal", "masked_sentences": ["A wheel may be made of [MASK]."], "uuid": 212}
+{"sub_label": "whole", "obj_label": "parts", "masked_sentences": ["Chaotic systems are too complex for us to understand in terms of their individual [MASK], though we can describe how the systems behave as a whole."], "uuid": 213}
+{"sub_label": "whorehouse", "obj_label": "rooms", "masked_sentences": ["Whorehouse is made of [MASK]."], "uuid": 214}
+{"sub_label": "window", "obj_label": "glass", "masked_sentences": ["[MASK] is part of a window."], "uuid": 215}
+{"sub_label": "wine", "obj_label": "fruit", "masked_sentences": ["Grape is a type of wine [MASK]."], "uuid": 216}
+{"sub_label": "wires", "obj_label": "silver", "masked_sentences": ["Wires may be made of [MASK]."], "uuid": 217}
+{"sub_label": "witch", "obj_label": "wood", "masked_sentences": ["A witch is made of [MASK]."], "uuid": 218}
+{"sub_label": "yarn", "obj_label": "wool", "masked_sentences": ["[MASK] is a type of yarn."], "uuid": 219}
+{"sub_label": "zipper", "obj_label": "teeth", "masked_sentences": ["The statement \"Zippers are used to hold something colsed\" is true because the [MASK] of the zipper lock together to hold something closed."], "uuid": 220}
+{"sub_label": "zombie", "obj_label": "cells", "masked_sentences": ["A zombie is made of [MASK]."], "uuid": 221}

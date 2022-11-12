@@ -1,0 +1,5 @@
+{"sub_label": "ability", "obj_label": "job", "masked_sentences": ["i really ability for this [MASK]"]}
+{"sub_label": "ability", "obj_label": "participate", "masked_sentences": ["his ability to [MASK] was called into question ."]}
+{"sub_label": "ability", "obj_label": "power", "masked_sentences": ["an ability in a game is a [MASK] your character has ."]}
+{"sub_label": "ability", "obj_label": "run", "masked_sentences": ["her ability to [MASK] has never been better ."]}
+{"sub_label": "ability", "obj_label": "skill", "masked_sentences": ["an [MASK] is an ability you have mastered ."]}

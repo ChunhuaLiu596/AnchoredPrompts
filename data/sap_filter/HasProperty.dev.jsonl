@@ -1,0 +1,149 @@
+{"sub_label": "cycling", "obj_label": "fun", "masked_sentences": ["Cycling is [MASK]."], "uuid": 361}
+{"sub_label": "cycling", "obj_label": "healthy", "masked_sentences": ["Cycling is a [MASK] exercise."], "uuid": 362}
+{"sub_label": "apple", "obj_label": "green", "masked_sentences": ["Apple is a type of [MASK] fruit."], "uuid": 64}
+{"sub_label": "apple", "obj_label": "red", "masked_sentences": ["Apple is related to round [MASK]."], "uuid": 65}
+{"sub_label": "apples", "obj_label": "crisp", "masked_sentences": ["Apples are [MASK]."], "uuid": 66}
+{"sub_label": "apples", "obj_label": "edible", "masked_sentences": ["Apples are an [MASK], red fruit."], "uuid": 67}
+{"sub_label": "apples", "obj_label": "green", "masked_sentences": ["Unripe apples are [MASK] in color."], "uuid": 68}
+{"sub_label": "apples", "obj_label": "red", "masked_sentences": ["The statement \"apples are a either colored green or [MASK] or both\" helps answer the question \"What does malic mean?\"."], "uuid": 69}
+{"sub_label": "apples", "obj_label": "yellow", "masked_sentences": ["Apples can be [MASK]."], "uuid": 70}
+{"sub_label": "baseball", "obj_label": "hard", "masked_sentences": ["Picture description: a [MASK] baseball hat."], "uuid": 112}
+{"sub_label": "baseball", "obj_label": "round", "masked_sentences": ["This is a baseball pitcher.   He hurls the ball ([MASK] white object) to the catcher.  The batter tries to hit the ball as it passes.  Pitchers are allowed to cheat."], "uuid": 113}
+{"sub_label": "people", "obj_label": "angry", "masked_sentences": ["People who are [MASK] need to cool down."], "uuid": 1071}
+{"sub_label": "people", "obj_label": "bad", "masked_sentences": ["Some people are [MASK]."], "uuid": 1072}
+{"sub_label": "people", "obj_label": "blind", "masked_sentences": ["To understand the event \"Mary drew a picture.\", it is important to know that [MASK] people can't see pictures."], "uuid": 1073}
+{"sub_label": "people", "obj_label": "blond", "masked_sentences": ["People can have naturally brown, black, [MASK], red or white hair."], "uuid": 1074}
+{"sub_label": "people", "obj_label": "bold", "masked_sentences": ["Some people are [MASK]."], "uuid": 1075}
+{"sub_label": "people", "obj_label": "caring", "masked_sentences": ["Sometimes people are [MASK]."], "uuid": 1076}
+{"sub_label": "people", "obj_label": "charitable", "masked_sentences": ["To understand the event \"George has a lot of money.  George will not give money to the poor.\", it is important to know that The poor probably refers to [MASK] organizations that help people who cannot meet certain financial needs."], "uuid": 1077}
+{"sub_label": "people", "obj_label": "cold", "masked_sentences": ["To understand the event \"Frank dropped a glass of water.\", it is important to know that Water that people drink is usually cool or [MASK]."], "uuid": 1078}
+{"sub_label": "people", "obj_label": "crazy", "masked_sentences": ["Running twenty six miles is for [MASK] people."], "uuid": 1079}
+{"sub_label": "people", "obj_label": "creative", "masked_sentences": ["A [MASK] spirit  would make you want to create something to help other people."], "uuid": 1080}
+{"sub_label": "people", "obj_label": "cruel", "masked_sentences": ["Situation: I don't understand hw people can be [MASK] to each other."], "uuid": 1081}
+{"sub_label": "people", "obj_label": "curious", "masked_sentences": ["People are inately [MASK].  It is a blessing and a curse."], "uuid": 1082}
+{"sub_label": "people", "obj_label": "dangerous", "masked_sentences": ["To understand the event \"Jeff shot the burglar.\", it is important to know that Shooting people is [MASK]."], "uuid": 1083}
+{"sub_label": "people", "obj_label": "deaf", "masked_sentences": ["[MASK] people can use hearing aids to help them hear."], "uuid": 1084}
+{"sub_label": "people", "obj_label": "different", "masked_sentences": ["A person wants to de [MASK] from other people."], "uuid": 1085}
+{"sub_label": "people", "obj_label": "dumb", "masked_sentences": ["To understand the event \"My neighbor was drunk.\", it is important to know that alcohol makes people [MASK] and ignorant."], "uuid": 1086}
+{"sub_label": "people", "obj_label": "ethical", "masked_sentences": ["People seek psychiatric help in accordance with their social status and [MASK] beliefs."], "uuid": 1087}
+{"sub_label": "people", "obj_label": "evil", "masked_sentences": ["Thinking that \"rich people are [MASK]\" is something a warped mind might contemplate while waiting in line."], "uuid": 1088}
+{"sub_label": "people", "obj_label": "famous", "masked_sentences": ["The statement \"Hamlet is a [MASK] character in a play by Shakespeare.\" is true because People identity with family troubles, regardless of form."], "uuid": 1089}
+{"sub_label": "people", "obj_label": "fat", "masked_sentences": ["A person doesn't want pictures of [MASK] naked people."], "uuid": 1090}
+{"sub_label": "people", "obj_label": "friendly", "masked_sentences": ["The statement \"People enjoy warm, [MASK] smiles.\" is true because that kind of smile makes you feel happy!"], "uuid": 1091}
+{"sub_label": "people", "obj_label": "generous", "masked_sentences": ["To understand the event \"Mark is [MASK].  Mark donates blankets to the poor.\", it is important to know that Mark cares about poor people."], "uuid": 1092}
+{"sub_label": "people", "obj_label": "good", "masked_sentences": ["Organisations are much more likely to retain employees if they provide realistic expectations to job candidates, do a [MASK] job of inducting newcomers and select people who fit the organisation's culture."], "uuid": 1093}
+{"sub_label": "people", "obj_label": "honest", "masked_sentences": ["[MASK] people can lie , but with great difficulty."], "uuid": 1094}
+{"sub_label": "people", "obj_label": "ignorant", "masked_sentences": ["Some people are [MASK]."], "uuid": 1095}
+{"sub_label": "people", "obj_label": "insane", "masked_sentences": ["Some people are [MASK]."], "uuid": 1096}
+{"sub_label": "people", "obj_label": "intelligent", "masked_sentences": ["A bookshop is for meeting new and [MASK] people ."], "uuid": 1097}
+{"sub_label": "people", "obj_label": "jealous", "masked_sentences": ["Sometimes getting the latest hairstyle for a night out on the town causes other people to be [MASK]."], "uuid": 1098}
+{"sub_label": "people", "obj_label": "kind", "masked_sentences": ["Crowd is a [MASK] of people mass."], "uuid": 1099}
+{"sub_label": "people", "obj_label": "lazy", "masked_sentences": ["Going on strike is for people who hate their jobs but are too [MASK] to go get another one."], "uuid": 1100}
+{"sub_label": "people", "obj_label": "mad", "masked_sentences": ["The statement \"Something you might do while hearing the crowd go [MASK] is run\" helps answer the question \"How come those people rioted; where did you run to?\"."], "uuid": 1101}
+{"sub_label": "people", "obj_label": "mean", "masked_sentences": ["When people say \"I am blue,\" they often [MASK] \"I am sad.\"."], "uuid": 1102}
+{"sub_label": "people", "obj_label": "messy", "masked_sentences": ["The statement \"A mess can be a dirty or untidy state of things.\" is true because most people call disorganised or unclean areas [MASK]."], "uuid": 1103}
+{"sub_label": "people", "obj_label": "musical", "masked_sentences": ["In a [MASK], often people sing."], "uuid": 1104}
+{"sub_label": "people", "obj_label": "neat", "masked_sentences": ["Keeping things orderly and tidy is for [MASK] people."], "uuid": 1105}
+{"sub_label": "people", "obj_label": "nice", "masked_sentences": ["The statement \"beer is [MASK] for adult humans\" is true because beer is a grain-based fermented beverage that contains just enough alcohol to make people tipsy slowly."], "uuid": 1106}
+{"sub_label": "people", "obj_label": "normal", "masked_sentences": ["When people die they are [MASK] buried or cremated."], "uuid": 1107}
+{"sub_label": "people", "obj_label": "optimistic", "masked_sentences": ["[MASK] people tend to outlive pessimists."], "uuid": 1108}
+{"sub_label": "people", "obj_label": "pagan", "masked_sentences": ["Some people are [MASK]."], "uuid": 1109}
+{"sub_label": "people", "obj_label": "poor", "masked_sentences": ["[MASK] people have little money ."], "uuid": 1110}
+{"sub_label": "people", "obj_label": "racist", "masked_sentences": ["A [MASK] is a person who hates people from different ethnic groups."], "uuid": 1111}
+{"sub_label": "people", "obj_label": "ridiculous", "masked_sentences": ["Situation: How [MASK]! People are actually suing some fast food restaurants for \"getting fat.\"  Where will it end?"], "uuid": 1112}
+{"sub_label": "people", "obj_label": "rude", "masked_sentences": ["People may consider you [MASK] if you use foul language."], "uuid": 1113}
+{"sub_label": "people", "obj_label": "sad", "masked_sentences": ["Feeling [MASK] leads to depression in some people."], "uuid": 1114}
+{"sub_label": "people", "obj_label": "selfish", "masked_sentences": ["In the event \"George is [MASK].  George has a lot of money.  George will not give money to the poor.\", something that changed was george does not like poor people."], "uuid": 1115}
+{"sub_label": "people", "obj_label": "short", "masked_sentences": ["People can read a [MASK] passage from a page merely by glancing at the page."], "uuid": 1116}
+{"sub_label": "people", "obj_label": "sick", "masked_sentences": ["The statement \"Something you find at a hospital is dying bodies\" is true because People who go to a hospital are sometimes very [MASK] and may be near death."], "uuid": 1117}
+{"sub_label": "people", "obj_label": "silly", "masked_sentences": ["Some people are [MASK]."], "uuid": 1118}
+{"sub_label": "people", "obj_label": "skinny", "masked_sentences": ["Some people are [MASK]."], "uuid": 1119}
+{"sub_label": "people", "obj_label": "smart", "masked_sentences": ["[MASK] people go to university."], "uuid": 1120}
+{"sub_label": "people", "obj_label": "special", "masked_sentences": ["When you buy Christmas presents you do the following: 1. pay the cashier for the item, 2. think about people you love, 3. select an item, 4. go to a store to find [MASK] items to buy."], "uuid": 1121}
+{"sub_label": "people", "obj_label": "strange", "masked_sentences": ["People can believe [MASK] things."], "uuid": 1122}
+{"sub_label": "people", "obj_label": "stupid", "masked_sentences": ["The statement \"picture description: birthdayparty with alcohol\" is true because people are [MASK]."], "uuid": 1123}
+{"sub_label": "people", "obj_label": "talented", "masked_sentences": ["[MASK] people  can write very interesting fictious stories."], "uuid": 1124}
+{"sub_label": "people", "obj_label": "tall", "masked_sentences": ["[MASK] people look funny riding smallish size horses."], "uuid": 1125}
+{"sub_label": "people", "obj_label": "thin", "masked_sentences": ["Some people are [MASK]."], "uuid": 1126}
+{"sub_label": "people", "obj_label": "thoughtful", "masked_sentences": ["Situation: When we share our own generosity with someone else, it makes us feel we like we are [MASK] people, it reminds us of how nice we are and how deserving we are of kindness."], "uuid": 1127}
+{"sub_label": "people", "obj_label": "unemployed", "masked_sentences": ["Perhaps travel agents will be [MASK] in the future because people can much more easily arrange their own travel and accommodations."], "uuid": 1128}
+{"sub_label": "people", "obj_label": "unfair", "masked_sentences": ["Some people are [MASK]."], "uuid": 1129}
+{"sub_label": "people", "obj_label": "unique", "masked_sentences": ["People have a drive to have more than others and to be [MASK] and important ."], "uuid": 1130}
+{"sub_label": "people", "obj_label": "vicious", "masked_sentences": ["People can be [MASK]."], "uuid": 1131}
+{"sub_label": "people", "obj_label": "weird", "masked_sentences": ["Something you find on the subway is [MASK] people."], "uuid": 1132}
+{"sub_label": "people", "obj_label": "wise", "masked_sentences": ["Some people are [MASK]."], "uuid": 1133}
+{"sub_label": "flowers", "obj_label": "blue", "masked_sentences": ["Forget-me-nots are beautiful [MASK] flowers."], "uuid": 546}
+{"sub_label": "flowers", "obj_label": "calming", "masked_sentences": ["Flowers can be [MASK]."], "uuid": 547}
+{"sub_label": "flowers", "obj_label": "colorful", "masked_sentences": ["The statement \"A flower can be decorative\" is true because Flowers are frequently very [MASK]."], "uuid": 548}
+{"sub_label": "flowers", "obj_label": "edible", "masked_sentences": ["Some flowers are [MASK]."], "uuid": 549}
+{"sub_label": "flowers", "obj_label": "exotic", "masked_sentences": ["To understand the event \"Bill grew orchids in a greenhouse.\", it is important to know that Orchids are beautiful and [MASK] flowers."], "uuid": 550}
+{"sub_label": "flowers", "obj_label": "fake", "masked_sentences": ["Some flowers are [MASK]."], "uuid": 551}
+{"sub_label": "flowers", "obj_label": "green", "masked_sentences": ["Picture description: Pink flowers and [MASK] leaves."], "uuid": 552}
+{"sub_label": "flowers", "obj_label": "ice", "masked_sentences": ["Flowers are [MASK]."], "uuid": 553}
+{"sub_label": "flowers", "obj_label": "orange", "masked_sentences": ["Some flowers are [MASK]."], "uuid": 554}
+{"sub_label": "flowers", "obj_label": "perennial", "masked_sentences": ["Some flowers are [MASK]."], "uuid": 555}
+{"sub_label": "flowers", "obj_label": "pink", "masked_sentences": ["Picture description: [MASK] flowers and green leaves."], "uuid": 556}
+{"sub_label": "flowers", "obj_label": "pretty", "masked_sentences": ["To understand the event \"Sally picked a [MASK] flower.\", it is important to know that Flowers are plants."], "uuid": 557}
+{"sub_label": "flowers", "obj_label": "purple", "masked_sentences": ["Many flowers have a [MASK] hue."], "uuid": 558}
+{"sub_label": "flowers", "obj_label": "red", "masked_sentences": ["A brown basket can filled with yellow, purple, [MASK], and white flowers and green foliage."], "uuid": 559}
+{"sub_label": "flowers", "obj_label": "white", "masked_sentences": ["A brown basket can filled with yellow, purple, red, and [MASK] flowers and green foliage."], "uuid": 560}
+{"sub_label": "flowers", "obj_label": "wild", "masked_sentences": ["Some flowers are [MASK]."], "uuid": 561}
+{"sub_label": "flowers", "obj_label": "yellow", "masked_sentences": ["Some flowers are [MASK]."], "uuid": 562}
+{"sub_label": "dog", "obj_label": "alive", "masked_sentences": ["To understand the event \"Leo was a large dog.  Tom hated it when Leo jumped on him.\", it is important to know that Leo was [MASK] when it jumped on Tom."], "uuid": 409}
+{"sub_label": "dog", "obj_label": "black", "masked_sentences": ["Picture description: a [MASK] girl with a dog."], "uuid": 410}
+{"sub_label": "dog", "obj_label": "brown", "masked_sentences": ["Picture description: a [MASK] dog."], "uuid": 411}
+{"sub_label": "dog", "obj_label": "fun", "masked_sentences": ["A person can have [MASK] teaching a dog new tricks."], "uuid": 412}
+{"sub_label": "dog", "obj_label": "gray", "masked_sentences": ["A dog can be [MASK]."], "uuid": 413}
+{"sub_label": "dog", "obj_label": "mean", "masked_sentences": ["You would run because a [MASK] dog is chasing you."], "uuid": 414}
+{"sub_label": "dogs", "obj_label": "dangerous", "masked_sentences": ["Situation: Some dogs are [MASK]."], "uuid": 415}
+{"sub_label": "dogs", "obj_label": "evil", "masked_sentences": ["Dogs are [MASK]."], "uuid": 416}
+{"sub_label": "dogs", "obj_label": "faithful", "masked_sentences": ["Dogs are stupid and [MASK]."], "uuid": 417}
+{"sub_label": "dogs", "obj_label": "friendly", "masked_sentences": ["To understand the event \"The dog was growling at the man.\", it is important to know that Dogs are usually [MASK]."], "uuid": 418}
+{"sub_label": "dogs", "obj_label": "frightening", "masked_sentences": ["Some dogs are [MASK]."], "uuid": 419}
+{"sub_label": "dogs", "obj_label": "hairy", "masked_sentences": ["Dogs are [MASK]."], "uuid": 420}
+{"sub_label": "dogs", "obj_label": "happy", "masked_sentences": ["[MASK] dogs often wag their tails."], "uuid": 421}
+{"sub_label": "dogs", "obj_label": "loyal", "masked_sentences": ["Most dogs are trustworthy and [MASK]."], "uuid": 422}
+{"sub_label": "dogs", "obj_label": "mean", "masked_sentences": ["Dogs are [MASK] until they are tamed."], "uuid": 423}
+{"sub_label": "dogs", "obj_label": "noisy", "masked_sentences": ["To understand the event \"Bob was a dog.  Bob liked to bark.\", it is important to know that Dogs barks are usually very [MASK]."], "uuid": 424}
+{"sub_label": "dogs", "obj_label": "small", "masked_sentences": ["Not all [MASK] dogs are found at the pound."], "uuid": 425}
+{"sub_label": "human", "obj_label": "evil", "masked_sentences": ["One can see if a human is good or [MASK] by what they say and do."], "uuid": 711}
+{"sub_label": "human", "obj_label": "good", "masked_sentences": ["You are likely to find a human in a [MASK] mook."], "uuid": 712}
+{"sub_label": "humans", "obj_label": "alive", "masked_sentences": ["Humans are [MASK]."], "uuid": 713}
+{"sub_label": "humans", "obj_label": "amazing", "masked_sentences": ["Humans are [MASK]."], "uuid": 714}
+{"sub_label": "humans", "obj_label": "bald", "masked_sentences": ["Some humans are [MASK]."], "uuid": 715}
+{"sub_label": "humans", "obj_label": "black", "masked_sentences": ["Humans is generally not [MASK]."], "uuid": 716}
+{"sub_label": "humans", "obj_label": "destructive", "masked_sentences": ["Another way to say \"Humans can be [MASK].\" is \"Destruction is often caused by people\"."], "uuid": 717}
+{"sub_label": "humans", "obj_label": "emotional", "masked_sentences": ["Humans have [MASK] needs."], "uuid": 718}
+{"sub_label": "humans", "obj_label": "friendly", "masked_sentences": ["A \"[MASK] cat\" is one that shows affection towards humans."], "uuid": 719}
+{"sub_label": "humans", "obj_label": "funny", "masked_sentences": ["The statement \"if you tell someone they laugh\" is true because [MASK] comments make humans gleeful, making laughing sounds."], "uuid": 720}
+{"sub_label": "humans", "obj_label": "kind", "masked_sentences": ["People is a [MASK] of many humans."], "uuid": 721}
+{"sub_label": "humans", "obj_label": "male", "masked_sentences": ["This appears to be a family of humans.  The two large ones are the female (mother) and [MASK] (father).  There are two female children who appear to be about seven and nine years old, and a baby on the mother's lap."], "uuid": 722}
+{"sub_label": "humans", "obj_label": "mean", "masked_sentences": ["To understand the event \"The children carved a pumpkin.\", it is important to know that Children here [MASK] humans aged between 5 and 12."], "uuid": 723}
+{"sub_label": "humans", "obj_label": "nice", "masked_sentences": ["The statement \"beer is [MASK] for adult humans\" is true because beer is a grain-based fermented beverage that contains just enough alcohol to make people tipsy slowly."], "uuid": 724}
+{"sub_label": "humans", "obj_label": "reliable", "masked_sentences": ["It is more useful to communicate with humans that are [MASK]."], "uuid": 725}
+{"sub_label": "humans", "obj_label": "selfish", "masked_sentences": ["Humans can be [MASK]."], "uuid": 726}
+{"sub_label": "humans", "obj_label": "sick", "masked_sentences": ["Another way to say \"Humans cannot eat spoiled meat.\" is \"Spoiled meat will make people [MASK].\"."], "uuid": 727}
+{"sub_label": "humans", "obj_label": "terrestrial", "masked_sentences": ["Humans are [MASK]."], "uuid": 728}
+{"sub_label": "cat", "obj_label": "a", "masked_sentences": ["If you want to bury the cat then you should dig [MASK] hole at least 2 feet deep."], "uuid": 231}
+{"sub_label": "cat", "obj_label": "hungry", "masked_sentences": ["A full bladder or a [MASK] cat would make you want to wake up in the morning."], "uuid": 232}
+{"sub_label": "cats", "obj_label": "aggressive", "masked_sentences": ["Some cats can be [MASK]."], "uuid": 233}
+{"sub_label": "cats", "obj_label": "annoying", "masked_sentences": ["Cats are [MASK]."], "uuid": 234}
+{"sub_label": "cats", "obj_label": "black", "masked_sentences": ["Cats have [MASK] and white vision."], "uuid": 235}
+{"sub_label": "cats", "obj_label": "dumb", "masked_sentences": ["Cats are [MASK]."], "uuid": 236}
+{"sub_label": "cats", "obj_label": "gentle", "masked_sentences": ["Cats like it when you're [MASK]."], "uuid": 237}
+{"sub_label": "cats", "obj_label": "hairy", "masked_sentences": ["Cats are [MASK]."], "uuid": 238}
+{"sub_label": "cats", "obj_label": "independent", "masked_sentences": ["Cats are very [MASK] animals."], "uuid": 239}
+{"sub_label": "cats", "obj_label": "needy", "masked_sentences": ["Cats are [MASK]."], "uuid": 240}
+{"sub_label": "cats", "obj_label": "smart", "masked_sentences": ["Cats are [MASK]."], "uuid": 241}
+{"sub_label": "life", "obj_label": "absurd", "masked_sentences": ["Life is [MASK]."], "uuid": 858}
+{"sub_label": "life", "obj_label": "brutal", "masked_sentences": ["Life is [MASK]."], "uuid": 859}
+{"sub_label": "life", "obj_label": "complex", "masked_sentences": ["Many things in life are [MASK] and confusing."], "uuid": 860}
+{"sub_label": "life", "obj_label": "energy", "masked_sentences": ["Life is [MASK]."], "uuid": 861}
+{"sub_label": "life", "obj_label": "everywhere", "masked_sentences": ["Situation: I am always seeing life blossoming [MASK]."], "uuid": 862}
+{"sub_label": "life", "obj_label": "finite", "masked_sentences": ["Life is [MASK]."], "uuid": 863}
+{"sub_label": "life", "obj_label": "good", "masked_sentences": ["Life is not always fair, but it is [MASK] to attemp fairness in one's relations anyway."], "uuid": 864}
+{"sub_label": "life", "obj_label": "hard", "masked_sentences": ["The statement \"Man when living is soft and tender; when dead he is [MASK] and tough.\" helps answer the question \"As a carbon based life form, what happens to man before and after death?\"."], "uuid": 865}
+{"sub_label": "life", "obj_label": "important", "masked_sentences": ["To understand the event \"The tree died.\", it is [MASK] to know that death is the end of life."], "uuid": 866}
+{"sub_label": "life", "obj_label": "unfair", "masked_sentences": ["Life can be [MASK]."], "uuid": 867}
+{"sub_label": "life", "obj_label": "unpredictable", "masked_sentences": ["Situation: Life is [MASK]."], "uuid": 868}
+{"sub_label": "life", "obj_label": "wonderful", "masked_sentences": ["Music is what makes life [MASK] sometimes."], "uuid": 869}

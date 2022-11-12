@@ -1,0 +1,5 @@
+{"masked_sentences": [["Consonant is related to a <mask>."]], "sub_label": "a", "obj_label": "vowel", "uuid": 22}
+{"masked_sentences": [["Car accidents can be <mask>.", "Car accidents can be <mask>.", "Car accidents can be <mask>."]], "sub_label": "accidents", "obj_label": "fatal", "uuid": 23}
+{"masked_sentences": [["Accounting is <mask>.", "Accounting is <mask>.", "Accounting is <mask>."]], "sub_label": "accounting", "obj_label": "logical", "uuid": 24}
+{"masked_sentences": [["If an acid is strong it can be <mask>.", "If an acid is strong it can be <mask>.", "If an acid is strong it can be <mask>."]], "sub_label": "acid", "obj_label": "dangerous", "uuid": 25}
+{"masked_sentences": [["Acid can be <mask>.", "Acid can be <mask>.", "Acid can be <mask>."]], "sub_label": "acid", "obj_label": "fun", "uuid": 26}

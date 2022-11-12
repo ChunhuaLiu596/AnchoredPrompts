@@ -1,0 +1,407 @@
+{"sub_label": "action", "obj_label": "performed", "masked_sentences": ["To understand the event \"Jim smiled.\", it is important to know that smiling is an action [MASK] with a mouth."], "uuid": 0}
+{"sub_label": "air", "obj_label": "heated", "masked_sentences": ["Molecules in the air are [MASK] and cooled."], "uuid": 1}
+{"sub_label": "aluminium", "obj_label": "recycled", "masked_sentences": ["Aluminium can be [MASK]."], "uuid": 2}
+{"sub_label": "apartments", "obj_label": "rented", "masked_sentences": ["Bill bought an apartment building. Bill [MASK] out the apartments."], "uuid": 3}
+{"sub_label": "apple", "obj_label": "eaten", "masked_sentences": ["An apple can be [MASK] ."], "uuid": 4}
+{"sub_label": "apples", "obj_label": "cooked", "masked_sentences": ["Apples can be [MASK]."], "uuid": 5}
+{"sub_label": "apples", "obj_label": "dried", "masked_sentences": ["Apples can be [MASK]."], "uuid": 6}
+{"sub_label": "apples", "obj_label": "eaten", "masked_sentences": ["To understand the event \"The apple fell from the tree.\", it is important to know that Apples can be [MASK]."], "uuid": 7}
+{"sub_label": "apples", "obj_label": "peeled", "masked_sentences": ["Another way to say \"knives are used to peel an apple.\" is \"apples can be [MASK] by knives\"."], "uuid": 8}
+{"sub_label": "apples", "obj_label": "pressed", "masked_sentences": ["Apples can be [MASK]."], "uuid": 9}
+{"sub_label": "apples", "obj_label": "sliced", "masked_sentences": ["Apples can be [MASK]."], "uuid": 10}
+{"sub_label": "arch", "obj_label": "curved", "masked_sentences": ["An arch is [MASK]."], "uuid": 11}
+{"sub_label": "bacteria", "obj_label": "killed", "masked_sentences": ["Bacteria can be [MASK]."], "uuid": 12}
+{"sub_label": "bags", "obj_label": "recycled", "masked_sentences": ["Sometimes thing to be [MASK] are put in bags."], "uuid": 13}
+{"sub_label": "balcony", "obj_label": "raised", "masked_sentences": ["A balcony is [MASK]."], "uuid": 14}
+{"sub_label": "ball", "obj_label": "kicked", "masked_sentences": ["To understand the event \"Stevie shot a goal.\", it is important to know that Stevie has [MASK] a ball into a net."], "uuid": 15}
+{"sub_label": "balloon", "obj_label": "popped", "masked_sentences": ["A balloon can be [MASK]."], "uuid": 16}
+{"sub_label": "banana", "obj_label": "eaten", "masked_sentences": ["A banana can be [MASK]."], "uuid": 17}
+{"sub_label": "bananas", "obj_label": "curved", "masked_sentences": ["Bananas are [MASK]."], "uuid": 18}
+{"sub_label": "bananas", "obj_label": "eaten", "masked_sentences": ["To understand the event \"The monkey ate some bananas.\", it is important to know that eating destroys the thing [MASK]."], "uuid": 19}
+{"sub_label": "banks", "obj_label": "regulated", "masked_sentences": ["Banks are [MASK]."], "uuid": 20}
+{"sub_label": "basement", "obj_label": "flooded", "masked_sentences": ["To understand the event \"The basement was [MASK].\", it is important to know that a lot of water ruins houses and furniture."], "uuid": 21}
+{"sub_label": "battery", "obj_label": "charged", "masked_sentences": ["A battery can be [MASK]."], "uuid": 22}
+{"sub_label": "beef", "obj_label": "ground", "masked_sentences": ["To understand the event \"Daphne made a pot of chili.\", it is important to know that There is usually [MASK] beef in chili."], "uuid": 23}
+{"sub_label": "bell", "obj_label": "cast", "masked_sentences": ["A bell is [MASK]."], "uuid": 24}
+{"sub_label": "benches", "obj_label": "padded", "masked_sentences": ["Some benches are [MASK]."], "uuid": 25}
+{"sub_label": "bicycles", "obj_label": "stolen", "masked_sentences": ["Some bicycles are [MASK]."], "uuid": 26}
+{"sub_label": "bird", "obj_label": "eaten", "masked_sentences": ["The statement \"The vulture is a big, bald-headed bird that eats dead animals\" is true because because if dead animals are not [MASK], we would be covered in dead animals!"], "uuid": 27}
+{"sub_label": "blood", "obj_label": "read", "masked_sentences": ["Blood is [MASK]."], "uuid": 28}
+{"sub_label": "bones", "obj_label": "broken", "masked_sentences": ["Dislocation is related to [MASK] bones."], "uuid": 29}
+{"sub_label": "books", "obj_label": "opened", "masked_sentences": ["In the event \"Shane decided to spend the summer studying.\", something that changed was Shane [MASK] his books."], "uuid": 30}
+{"sub_label": "books", "obj_label": "touched", "masked_sentences": ["Books can be [MASK]."], "uuid": 31}
+{"sub_label": "books", "obj_label": "written", "masked_sentences": ["To understand the event \"The bookstore had a sale.\", it is important to know that Books can contain any [MASK] information."], "uuid": 32}
+{"sub_label": "bottle", "obj_label": "recycled", "masked_sentences": ["An empty bottle can be [MASK]."], "uuid": 33}
+{"sub_label": "bread", "obj_label": "cooked", "masked_sentences": ["To understand the event \"Bob ate a slice of pizza.\", it is important to know that Pizza is typically bread dough topped with tomato paste, cheese, and often meat and vegetables, [MASK] for several minutes and served hot.  Almost everyone likes pizza.  Several people can share one pizza."], "uuid": 34}
+{"sub_label": "bread", "obj_label": "eaten", "masked_sentences": ["Bread can be [MASK] with gravy."], "uuid": 35}
+{"sub_label": "budget", "obj_label": "cut", "masked_sentences": ["A homemaker can [MASK] the fat out of the family budget."], "uuid": 36}
+{"sub_label": "buildings", "obj_label": "designed", "masked_sentences": ["The statement \"superman can leap tall buildings at a single bound\" is true because Superman was [MASK] to be better than what any human can do."], "uuid": 37}
+{"sub_label": "bulb", "obj_label": "broken", "masked_sentences": ["If a bulb is [MASK] it does not make light."], "uuid": 38}
+{"sub_label": "buoy", "obj_label": "anchored", "masked_sentences": ["A buoy is [MASK]."], "uuid": 39}
+{"sub_label": "bus", "obj_label": "driven", "masked_sentences": ["A bus can be [MASK]."], "uuid": 40}
+{"sub_label": "butter", "obj_label": "eaten", "masked_sentences": ["Peanut butter is often [MASK] with jelly."], "uuid": 41}
+{"sub_label": "cabinets", "obj_label": "locked", "masked_sentences": ["Guns are often kept in [MASK] cabinets."], "uuid": 42}
+{"sub_label": "cabinets", "obj_label": "opened", "masked_sentences": ["Cabinets can be [MASK]."], "uuid": 43}
+{"sub_label": "cake", "obj_label": "cut", "masked_sentences": ["To understand the event \"Jim [MASK] the cake.\", it is important to know that Jim has a Knife."], "uuid": 44}
+{"sub_label": "cake", "obj_label": "edible", "masked_sentences": ["Cake is a type of baked [MASK]."], "uuid": 45}
+{"sub_label": "cakes", "obj_label": "cooked", "masked_sentences": ["Cakes are [MASK]."], "uuid": 46}
+{"sub_label": "candle", "obj_label": "lit", "masked_sentences": ["To understand the event \"Alice [MASK] a candle with a match.\", it is important to know that there are two types of matches safety matches and strike anywhere matches."], "uuid": 47}
+{"sub_label": "cans", "obj_label": "recycled", "masked_sentences": ["Cans can be [MASK]."], "uuid": 48}
+{"sub_label": "car", "obj_label": "driven", "masked_sentences": ["A car [MASK] very fast on a wet road can splash people on the curb."], "uuid": 49}
+{"sub_label": "cardboard", "obj_label": "recycled", "masked_sentences": ["Cardboard can be [MASK]."], "uuid": 50}
+{"sub_label": "cargo", "obj_label": "shipped", "masked_sentences": ["Cargo is [MASK]."], "uuid": 51}
+{"sub_label": "carrot", "obj_label": "eaten", "masked_sentences": ["A carrot can be [MASK]."], "uuid": 52}
+{"sub_label": "carrots", "obj_label": "cooked", "masked_sentences": ["Carrots can be [MASK]."], "uuid": 53}
+{"sub_label": "carrots", "obj_label": "sliced", "masked_sentences": ["Carrots can be [MASK]."], "uuid": 54}
+{"sub_label": "cartoons", "obj_label": "animated", "masked_sentences": ["The statement \"South Park is the name of a [MASK] television show\" is true because Cartoons may be viewed on TV."], "uuid": 55}
+{"sub_label": "cash", "obj_label": "earned", "masked_sentences": ["A person  can spend his hard [MASK] cash  on silly junk ."], "uuid": 56}
+{"sub_label": "catfish", "obj_label": "caught", "masked_sentences": ["You can eat catfish, once you've [MASK] one."], "uuid": 57}
+{"sub_label": "cats", "obj_label": "scared", "masked_sentences": ["To understand the event \"A ghost [MASK] the cat.\", it is important to know that Cats believe in ghosts."], "uuid": 58}
+{"sub_label": "cats", "obj_label": "stroked", "masked_sentences": ["Cats are [MASK]."], "uuid": 59}
+{"sub_label": "ceramics", "obj_label": "manufactured", "masked_sentences": ["Ceramics are [MASK]."], "uuid": 60}
+{"sub_label": "chair", "obj_label": "fixed", "masked_sentences": ["To understand the event \"My chair is [MASK].  I can use it again.\", it is important to know that Chairs can sometimes break and need to be repair."], "uuid": 61}
+{"sub_label": "chalk", "obj_label": "erased", "masked_sentences": ["Chalk can be [MASK]."], "uuid": 62}
+{"sub_label": "charities", "obj_label": "donated", "masked_sentences": ["Charities can be [MASK]."], "uuid": 63}
+{"sub_label": "checks", "obj_label": "forged", "masked_sentences": ["Checks can be [MASK]."], "uuid": 64}
+{"sub_label": "checks", "obj_label": "written", "masked_sentences": ["Checks are [MASK]."], "uuid": 65}
+{"sub_label": "cheese", "obj_label": "eaten", "masked_sentences": ["To understand the event \"Mary had a bagel for breakfast.\", it is important to know that bagels are often [MASK] toasted with cream cheese."], "uuid": 66}
+{"sub_label": "chicke", "obj_label": "eaten", "masked_sentences": ["A chicke can be [MASK]."], "uuid": 67}
+{"sub_label": "chicken", "obj_label": "eaten", "masked_sentences": ["Chicken is [MASK] bird."], "uuid": 68}
+{"sub_label": "child", "obj_label": "surprised", "masked_sentences": ["Picture description: [MASK] child with toys."], "uuid": 69}
+{"sub_label": "children", "obj_label": "adopted", "masked_sentences": ["Situation: I have \"[MASK]\" a grandchild and a daughter. While I did not go through an official adoption agency, it is possible to find children in need of a grandparent."], "uuid": 70}
+{"sub_label": "chocolate", "obj_label": "eaten", "masked_sentences": ["To understand the event \"Chris designed a computer chip.\", it is important to know that Computer chips are unlike chocolate chips and potato chips, in that computer chips are not [MASK]."], "uuid": 71}
+{"sub_label": "chocolate", "obj_label": "melted", "masked_sentences": ["The statement \"The microwave was invented after a researcher walked by a radar tube and a chocolate bar [MASK] in his pocket. \" is true because micorwaves heat water."], "uuid": 72}
+{"sub_label": "cigaretts", "obj_label": "smoked", "masked_sentences": ["Cigaretts are [MASK]."], "uuid": 73}
+{"sub_label": "clippings", "obj_label": "recycled", "masked_sentences": ["The statement \"grass can be [MASK] by mulching\" helps answer the question \"How can a person recycle grass clippings?\"."], "uuid": 74}
+{"sub_label": "clocks", "obj_label": "read", "masked_sentences": ["Clocks are [MASK]. ."], "uuid": 75}
+{"sub_label": "closed", "obj_label": "opened", "masked_sentences": ["To understand the event \"Joan saw smoke coming out of a window.\", it is important to know that Most windows can be [MASK] and closed."], "uuid": 76}
+{"sub_label": "cloth", "obj_label": "cut", "masked_sentences": ["Situation: I [MASK] the cloth strip into three roughly equal pieces."], "uuid": 77}
+{"sub_label": "clothes", "obj_label": "washed", "masked_sentences": ["Bath towels are [MASK] along with clothes in the washing machine."], "uuid": 78}
+{"sub_label": "coconuts", "obj_label": "dried", "masked_sentences": ["Coconuts can be [MASK]."], "uuid": 79}
+{"sub_label": "coconuts", "obj_label": "eaten", "masked_sentences": ["Coconuts can be [MASK]."], "uuid": 80}
+{"sub_label": "colors", "obj_label": "mixed", "masked_sentences": ["Colors can be [MASK]."], "uuid": 81}
+{"sub_label": "computer", "obj_label": "programmed", "masked_sentences": ["The statement \"Both humans and computers can play chess\" is true because A computer can be [MASK] to play chess."], "uuid": 82}
+{"sub_label": "computer", "obj_label": "taught", "masked_sentences": ["Situation: a computer does not make noise to communicate, but can be [MASK] to talk through."], "uuid": 83}
+{"sub_label": "computers", "obj_label": "connected", "masked_sentences": ["Sneakernet is a means of moving data between computers that are not physically [MASK] by a network."], "uuid": 84}
+{"sub_label": "computers", "obj_label": "programmed", "masked_sentences": ["The statement \"Both humans and computers can play chess\" is true because A computer can be [MASK] to play chess."], "uuid": 85}
+{"sub_label": "condoms", "obj_label": "advertised", "masked_sentences": ["Condoms can be [MASK]."], "uuid": 86}
+{"sub_label": "confetti", "obj_label": "thrown", "masked_sentences": ["The statement \"Confetti is sometimes [MASK] at a bride and bridegroom after a wedding.\" helps answer the question \"What are ways to celebrate a wedding?\"."], "uuid": 87}
+{"sub_label": "confidence", "obj_label": "shared", "masked_sentences": ["Confidence can be [MASK]."], "uuid": 88}
+{"sub_label": "connection", "obj_label": "lost", "masked_sentences": ["A connection can be [MASK].  ."], "uuid": 89}
+{"sub_label": "containers", "obj_label": "recycled", "masked_sentences": ["Some containers can be [MASK]."], "uuid": 90}
+{"sub_label": "contract", "obj_label": "rejected", "masked_sentences": ["A contract can be [MASK]."], "uuid": 91}
+{"sub_label": "contract", "obj_label": "revised", "masked_sentences": ["A contract can be [MASK]."], "uuid": 92}
+{"sub_label": "contract", "obj_label": "signed", "masked_sentences": ["A verbal contract is not [MASK]."], "uuid": 93}
+{"sub_label": "contracts", "obj_label": "evaluated", "masked_sentences": ["Contracts are [MASK]."], "uuid": 94}
+{"sub_label": "contracts", "obj_label": "regretted", "masked_sentences": ["Contracts can be [MASK]."], "uuid": 95}
+{"sub_label": "cookie", "obj_label": "eaten", "masked_sentences": ["To understand the event \"Dan threw out the empty cookie box.\", it is important to know that The cookies had all been [MASK]."], "uuid": 96}
+{"sub_label": "copper", "obj_label": "melted", "masked_sentences": ["Copper can be [MASK]."], "uuid": 97}
+{"sub_label": "cord", "obj_label": "tied", "masked_sentences": ["If you want to bungee jump from a high bridge then you should make sure the cord is [MASK] on both ends."], "uuid": 98}
+{"sub_label": "corn", "obj_label": "eaten", "masked_sentences": ["The statement \"To understand the event \"Joe made some popcorn.\", it is important to know that Popcorn is white and fluffy and often [MASK] with butter.\" is true because When one refers to \"making\" popcorn, \"making\" it means heating dried kernels of corn until they explode."], "uuid": 99}
+{"sub_label": "corn", "obj_label": "harvested", "masked_sentences": ["The farmer [MASK] his corn."], "uuid": 100}
+{"sub_label": "cow", "obj_label": "eaten", "masked_sentences": ["The cow was [MASK]."], "uuid": 101}
+{"sub_label": "cows", "obj_label": "eaten", "masked_sentences": ["Cows are [MASK]."], "uuid": 102}
+{"sub_label": "cream", "obj_label": "whipped", "masked_sentences": ["Picture description: a slice of apple pie with [MASK] cream on top."], "uuid": 103}
+{"sub_label": "crime", "obj_label": "committed", "masked_sentences": ["To understand the event \"The police man arrested the suspect.\", it is important to know that A suspect is someone who may have [MASK] a crime."], "uuid": 104}
+{"sub_label": "cups", "obj_label": "dropped", "masked_sentences": ["Cups can be [MASK]."], "uuid": 105}
+{"sub_label": "curtains", "obj_label": "drawn", "masked_sentences": ["Curtains are [MASK]."], "uuid": 106}
+{"sub_label": "dartboard", "obj_label": "tilted", "masked_sentences": ["Dartboard is [MASK]."], "uuid": 107}
+{"sub_label": "deer", "obj_label": "killed", "masked_sentences": ["To understand the event \"Lions [MASK] the gazelle.\", it is important to know that Gazelles are like deer."], "uuid": 108}
+{"sub_label": "diamonds", "obj_label": "mined", "masked_sentences": ["To understand the event \"Jeff bought a diamond.\", it is important to know that Diamonds can be created or can be [MASK]."], "uuid": 109}
+{"sub_label": "diamonds", "obj_label": "polished", "masked_sentences": ["Diamonds can be [MASK]."], "uuid": 110}
+{"sub_label": "diapers", "obj_label": "recycled", "masked_sentences": ["Diapers can be [MASK]."], "uuid": 111}
+{"sub_label": "dish", "obj_label": "served", "masked_sentences": ["Vegetables are [MASK] in a dish."], "uuid": 112}
+{"sub_label": "dog", "obj_label": "fed", "masked_sentences": ["Dog can be [MASK]."], "uuid": 113}
+{"sub_label": "dog", "obj_label": "kicked", "masked_sentences": ["A dog can be [MASK]."], "uuid": 114}
+{"sub_label": "dog", "obj_label": "loved", "masked_sentences": ["A dog wants to be [MASK] by his master."], "uuid": 115}
+{"sub_label": "dolphins", "obj_label": "trained", "masked_sentences": ["Dolphins can be [MASK]."], "uuid": 116}
+{"sub_label": "donations", "obj_label": "donated", "masked_sentences": ["Donations can be [MASK]."], "uuid": 117}
+{"sub_label": "doo", "obj_label": "locked", "masked_sentences": [" a doo can be [MASK]."], "uuid": 118}
+{"sub_label": "door", "obj_label": "closed", "masked_sentences": ["If the door to his room is [MASK] he will need to open it to go down the hall to the bathroom to shower."], "uuid": 119}
+{"sub_label": "door", "obj_label": "locked", "masked_sentences": ["To understand the event \"Alfred smoked a joint in the john.\", it is important to know that If you are in a toilet cuibicle with the door [MASK], others cannot see what you are doing."], "uuid": 120}
+{"sub_label": "door", "obj_label": "opened", "masked_sentences": ["To understand the event \"Joe walked to his car.  Joe [MASK] the door.\", it is important to know that The car was probably unlocked."], "uuid": 121}
+{"sub_label": "drugs", "obj_label": "prohibited", "masked_sentences": ["Some drugs are [MASK]."], "uuid": 122}
+{"sub_label": "drugs", "obj_label": "smoked", "masked_sentences": ["Some drugs can be [MASK]."], "uuid": 123}
+{"sub_label": "duck", "obj_label": "cooked", "masked_sentences": ["Duck can be [MASK]."], "uuid": 124}
+{"sub_label": "duck", "obj_label": "eaten", "masked_sentences": ["To understand the event \"Dave shot a duck.\", it is important to know that Ducks can be [MASK] by humans."], "uuid": 125}
+{"sub_label": "ducks", "obj_label": "fried", "masked_sentences": ["Ducks can be [MASK]."], "uuid": 126}
+{"sub_label": "eggs", "obj_label": "eaten", "masked_sentences": ["To understand the event \"Sally crackeds some eggs.\", it is important to know that sally is preparing food to be [MASK]."], "uuid": 127}
+{"sub_label": "eggs", "obj_label": "fried", "masked_sentences": ["Eggs can be hardboiled, softboiled, poached, [MASK], or scrambled, among other things."], "uuid": 128}
+{"sub_label": "eggs", "obj_label": "scrambled", "masked_sentences": ["Something you find on a plate is [MASK] eggs."], "uuid": 129}
+{"sub_label": "emacs", "obj_label": "closed", "masked_sentences": ["Emacs can be [MASK]."], "uuid": 130}
+{"sub_label": "emacs", "obj_label": "opened", "masked_sentences": ["Emacs can be [MASK]."], "uuid": 131}
+{"sub_label": "emeralds", "obj_label": "polished", "masked_sentences": ["Emeralds can be [MASK]."], "uuid": 132}
+{"sub_label": "empathy", "obj_label": "learned", "masked_sentences": ["Empathy can be [MASK]."], "uuid": 133}
+{"sub_label": "enemy", "obj_label": "seen", "masked_sentences": ["I have [MASK] \"the enemy\" and it was me!"], "uuid": 134}
+{"sub_label": "energy", "obj_label": "conserved", "masked_sentences": ["Energy is [MASK]."], "uuid": 135}
+{"sub_label": "engine", "obj_label": "replaced", "masked_sentences": ["An engine can be [MASK]."], "uuid": 136}
+{"sub_label": "english", "obj_label": "spoken", "masked_sentences": ["English is [MASK]."], "uuid": 137}
+{"sub_label": "everything", "obj_label": "learned", "masked_sentences": ["Everything must be [MASK]."], "uuid": 138}
+{"sub_label": "face", "obj_label": "touched", "masked_sentences": ["A face can be [MASK]."], "uuid": 139}
+{"sub_label": "feet", "obj_label": "tired", "masked_sentences": ["To understand the event \"My feet are [MASK].  I have been standing up all day.\", it is important to know that It is possible to stand all day."], "uuid": 140}
+{"sub_label": "fingernails", "obj_label": "painted", "masked_sentences": ["To understand the event \"Nellie [MASK] her fingernails bright red.\", it is important to know that nellie is probably a woman / girl."], "uuid": 141}
+{"sub_label": "firefly", "obj_label": "caught", "masked_sentences": ["Firefly can be [MASK]."], "uuid": 142}
+{"sub_label": "fish", "obj_label": "cooked", "masked_sentences": ["You would bring home some fish because you want to have them [MASK]."], "uuid": 143}
+{"sub_label": "fish", "obj_label": "eaten", "masked_sentences": ["A fish does not want to getcaught and  [MASK]."], "uuid": 144}
+{"sub_label": "flossing", "obj_label": "recommended", "masked_sentences": ["Flossing is [MASK]."], "uuid": 145}
+{"sub_label": "flower", "obj_label": "picked", "masked_sentences": ["To understand the event \"Sally [MASK] a pretty flower.\", it is important to know that Flowers are plants."], "uuid": 146}
+{"sub_label": "flowers", "obj_label": "judged", "masked_sentences": ["Flowers can be [MASK]."], "uuid": 147}
+{"sub_label": "food", "obj_label": "consumed", "masked_sentences": ["The statement \"You are likely to find a student in the pub\" is true because a pub is a slang term for 'public house' a 19th century term for a meeting place where beverages and food was [MASK].  students are often known to desire consuming beverages after  classes."], "uuid": 148}
+{"sub_label": "food", "obj_label": "eaten", "masked_sentences": ["To understand the event \"Sally crackeds some eggs.\", it is important to know that sally is preparing food to be [MASK]."], "uuid": 149}
+{"sub_label": "foods", "obj_label": "eaten", "masked_sentences": ["Foods are [MASK]."], "uuid": 150}
+{"sub_label": "fred", "obj_label": "tired", "masked_sentences": ["Fred is [MASK]. He turns the light off."], "uuid": 151}
+{"sub_label": "frog", "obj_label": "eaten", "masked_sentences": ["A frog can be [MASK]."], "uuid": 152}
+{"sub_label": "fruit", "obj_label": "eaten", "masked_sentences": ["Fruit has seeds and can be [MASK]."], "uuid": 153}
+{"sub_label": "game", "obj_label": "played", "masked_sentences": ["To understand the event \"Fred [MASK] hockey on the ice.\", it is important to know that Hockey is a game."], "uuid": 154}
+{"sub_label": "games", "obj_label": "played", "masked_sentences": ["To understand the event \"Ralph and Roger [MASK] chess.\", it is important to know that Games of chess between experts can last hours."], "uuid": 155}
+{"sub_label": "garbage", "obj_label": "recycled", "masked_sentences": ["Most garbage can be [MASK] if recycling facilities are available."], "uuid": 156}
+{"sub_label": "gate", "obj_label": "locked", "masked_sentences": ["A gate can be [MASK]."], "uuid": 157}
+{"sub_label": "glass", "obj_label": "blown", "masked_sentences": ["Glass can be [MASK] into shapes."], "uuid": 158}
+{"sub_label": "glass", "obj_label": "broken", "masked_sentences": ["[MASK] glass is often sharp."], "uuid": 159}
+{"sub_label": "glass", "obj_label": "coated", "masked_sentences": ["Some glass is [MASK]."], "uuid": 160}
+{"sub_label": "glass", "obj_label": "melted", "masked_sentences": ["Glass can be made from [MASK] sand."], "uuid": 161}
+{"sub_label": "glass", "obj_label": "recycled", "masked_sentences": ["[MASK] glass is cheaper to manufacture."], "uuid": 162}
+{"sub_label": "glass", "obj_label": "shattered", "masked_sentences": ["To understand the event \"Someone broke the windows on my car.  The windows cost a lot to fix.\", it is important to know that This unknown person [MASK] the glass in the  car."], "uuid": 163}
+{"sub_label": "glass", "obj_label": "tempered", "masked_sentences": ["Glass can be [MASK]."], "uuid": 164}
+{"sub_label": "gold", "obj_label": "melted", "masked_sentences": ["Gold can be [MASK]."], "uuid": 165}
+{"sub_label": "gold", "obj_label": "mined", "masked_sentences": ["All the gold ever [MASK] could be molded into a cub 60 feet high and 60 feet wide."], "uuid": 166}
+{"sub_label": "gold", "obj_label": "polished", "masked_sentences": ["Gold can be [MASK]."], "uuid": 167}
+{"sub_label": "gong", "obj_label": "banged", "masked_sentences": ["A gong can be [MASK]."], "uuid": 168}
+{"sub_label": "goods", "obj_label": "recycled", "masked_sentences": ["Some goods can be [MASK]."], "uuid": 169}
+{"sub_label": "granite", "obj_label": "carved", "masked_sentences": ["Granite can be [MASK]."], "uuid": 170}
+{"sub_label": "granite", "obj_label": "etched", "masked_sentences": ["Granite can be [MASK]."], "uuid": 171}
+{"sub_label": "granite", "obj_label": "polished", "masked_sentences": ["Granite can be [MASK]."], "uuid": 172}
+{"sub_label": "grow", "obj_label": "structured", "masked_sentences": ["GROW is [MASK]."], "uuid": 173}
+{"sub_label": "hair", "obj_label": "burned", "masked_sentences": ["In the event \"Helen braided her hair.\", something that changed was Helen [MASK] some calories."], "uuid": 174}
+{"sub_label": "hair", "obj_label": "styled", "masked_sentences": ["A hairdressing salon is a place where people get their hair [MASK] and cut."], "uuid": 175}
+{"sub_label": "hair", "obj_label": "woven", "masked_sentences": ["Aba is a coarse fabric [MASK] of camel or goat hair."], "uuid": 176}
+{"sub_label": "hammer", "obj_label": "useful", "masked_sentences": ["Hammer is a kind of a [MASK] tool."], "uuid": 177}
+{"sub_label": "help", "obj_label": "good", "masked_sentences": ["A [MASK] heart would make you want to help someone."], "uuid": 178}
+{"sub_label": "homes", "obj_label": "organized", "masked_sentences": ["Some homes are [MASK]."], "uuid": 179}
+{"sub_label": "hook", "obj_label": "curved", "masked_sentences": ["A hook is a [MASK] piece of stiff metal wire with a barb upon which fish may be caught."], "uuid": 180}
+{"sub_label": "horse", "obj_label": "ridden", "masked_sentences": ["Horse is [MASK] on."], "uuid": 181}
+{"sub_label": "house", "obj_label": "built", "masked_sentences": ["In the event \"Cory is a construction worker.  Cory [MASK] a house.\", something that changed was now a new family will have a home."], "uuid": 182}
+{"sub_label": "humans", "obj_label": "bored", "masked_sentences": ["Humans can [MASK]."], "uuid": 183}
+{"sub_label": "humans", "obj_label": "born", "masked_sentences": ["The statement \"Humans do not normally have green or blue hair\" is true because they've [MASK] with black, red, blond or brow hair."], "uuid": 184}
+{"sub_label": "humans", "obj_label": "healed", "masked_sentences": ["HUmans can be [MASK]."], "uuid": 185}
+{"sub_label": "ice", "obj_label": "carved", "masked_sentences": ["Ice is a solid that can be easily [MASK]."], "uuid": 186}
+{"sub_label": "ice", "obj_label": "melted", "masked_sentences": ["Water is [MASK] ice."], "uuid": 187}
+{"sub_label": "idiots", "obj_label": "slapped", "masked_sentences": ["Idiots can be [MASK]."], "uuid": 188}
+{"sub_label": "illness", "obj_label": "cured", "masked_sentences": ["An illness can be [MASK]."], "uuid": 189}
+{"sub_label": "illustrations", "obj_label": "used", "masked_sentences": ["A book is [MASK] for looking at illustrations."], "uuid": 190}
+{"sub_label": "information", "obj_label": "summarized", "masked_sentences": ["Information can be [MASK]."], "uuid": 191}
+{"sub_label": "injury", "obj_label": "imagined", "masked_sentences": ["An injury can be [MASK]."], "uuid": 192}
+{"sub_label": "instrument", "obj_label": "played", "masked_sentences": ["To understand the event \"Liz [MASK] her French Horn for three hours.\", it is important to know that A french horn is a musical instrument."], "uuid": 193}
+{"sub_label": "iron", "obj_label": "cast", "masked_sentences": ["Antique [MASK] iron bathtubs had feet."], "uuid": 194}
+{"sub_label": "iron", "obj_label": "forged", "masked_sentences": ["Iron can be [MASK]."], "uuid": 195}
+{"sub_label": "iron", "obj_label": "formed", "masked_sentences": ["Hemoglobin is an organic chemical [MASK] around an atom of iron."], "uuid": 196}
+{"sub_label": "iron", "obj_label": "melted", "masked_sentences": ["Iron can be [MASK]."], "uuid": 197}
+{"sub_label": "joint", "obj_label": "rolled", "masked_sentences": ["A joint is [MASK]."], "uuid": 198}
+{"sub_label": "joint", "obj_label": "smoked", "masked_sentences": ["To understand the event \"Alfred [MASK] a joint in the john.\", it is important to know that alfred is doing something illegal."], "uuid": 199}
+{"sub_label": "judgement", "obj_label": "suspended", "masked_sentences": ["A judgement can be [MASK]."], "uuid": 200}
+{"sub_label": "karen", "obj_label": "tired", "masked_sentences": ["Karen is [MASK]. She goes to the bedroom."], "uuid": 201}
+{"sub_label": "knife", "obj_label": "sharp", "masked_sentences": ["To understand the event \"Jim cut his finger with the knife.\", it is important to know that [MASK] objects break the skin."], "uuid": 202}
+{"sub_label": "ladder", "obj_label": "climbed", "masked_sentences": ["To understand the event \"Alfred [MASK] the ladder to the roof.\", it is important to know that Alfred is somewhere on the ground."], "uuid": 203}
+{"sub_label": "lambs", "obj_label": "eaten", "masked_sentences": ["Lambs are [MASK]."], "uuid": 204}
+{"sub_label": "lasagna", "obj_label": "eaten", "masked_sentences": ["Lasagna can be [MASK]."], "uuid": 205}
+{"sub_label": "lead", "obj_label": "melted", "masked_sentences": ["Lead can be [MASK]."], "uuid": 206}
+{"sub_label": "learning", "obj_label": "horrible", "masked_sentences": ["Learning can be [MASK]."], "uuid": 207}
+{"sub_label": "legs", "obj_label": "broken", "masked_sentences": ["The fact \"Without proper word form, meaning is often lost.\" is illustrated with the story:1. Gerry wants to tell his friend that his wife has [MASK] a leg.2. He says \"My wife breaks legs.\"3. Gerries friend is irritated and does not understand."], "uuid": 208}
+{"sub_label": "letters", "obj_label": "written", "masked_sentences": ["To understand the event \"Jill received a letter from her brother.\", it is important to know that Letters are messages [MASK] on paper and put into envelopes."], "uuid": 209}
+{"sub_label": "life", "obj_label": "created", "masked_sentences": ["In the event \"Dr. Frankenstein [MASK] a monster.\", something that changed was electricity is the catalyst for life."], "uuid": 210}
+{"sub_label": "liquids", "obj_label": "poured", "masked_sentences": ["Liquids can be [MASK]."], "uuid": 211}
+{"sub_label": "liquids", "obj_label": "spilled", "masked_sentences": ["Liquids can be [MASK]."], "uuid": 212}
+{"sub_label": "lists", "obj_label": "generated", "masked_sentences": ["Lists are [MASK]."], "uuid": 213}
+{"sub_label": "litigant", "obj_label": "angry", "masked_sentences": ["A litigant can be [MASK]."], "uuid": 214}
+{"sub_label": "litigant", "obj_label": "confused", "masked_sentences": ["A litigant can be [MASK]."], "uuid": 215}
+{"sub_label": "lobster", "obj_label": "boiled", "masked_sentences": ["A lobster can be [MASK]."], "uuid": 216}
+{"sub_label": "lobster", "obj_label": "steamed", "masked_sentences": ["A lobster can be [MASK]."], "uuid": 217}
+{"sub_label": "lockers", "obj_label": "numbered", "masked_sentences": ["Lockers are [MASK]."], "uuid": 218}
+{"sub_label": "love", "obj_label": "abused", "masked_sentences": ["Love can be [MASK]."], "uuid": 219}
+{"sub_label": "luxury", "obj_label": "earned", "masked_sentences": ["Luxury is [MASK]."], "uuid": 220}
+{"sub_label": "lynn", "obj_label": "bored", "masked_sentences": ["Lynn is [MASK]. She turns on the radio."], "uuid": 221}
+{"sub_label": "machinery", "obj_label": "tested", "masked_sentences": ["Machinery must be [MASK] before being used."], "uuid": 222}
+{"sub_label": "machines", "obj_label": "built", "masked_sentences": ["Machines are [MASK]."], "uuid": 223}
+{"sub_label": "malls", "obj_label": "enclosed", "masked_sentences": ["The statement \"Something you find in a mall is stores\" is true because malls are [MASK]."], "uuid": 224}
+{"sub_label": "map", "obj_label": "read", "masked_sentences": ["If you want to go somewhere then you should [MASK] a map."], "uuid": 225}
+{"sub_label": "marble", "obj_label": "carved", "masked_sentences": ["Some statues are [MASK] from marble."], "uuid": 226}
+{"sub_label": "marble", "obj_label": "etched", "masked_sentences": ["Marble can be [MASK]."], "uuid": 227}
+{"sub_label": "marble", "obj_label": "polished", "masked_sentences": ["Marble can be [MASK]."], "uuid": 228}
+{"sub_label": "materials", "obj_label": "recycled", "masked_sentences": ["Some materials can be [MASK] for other uses."], "uuid": 229}
+{"sub_label": "metal", "obj_label": "bent", "masked_sentences": ["Hook is a type of [MASK] metal."], "uuid": 230}
+{"sub_label": "metal", "obj_label": "cut", "masked_sentences": ["Picture description: This is an axe.  It is a tool that people have used since ancient times to [MASK] wood and other materials.  The axe consists of an wooden handle and a metal tip which is very sharp.  Axes are dangerous because they can hurt people if they are not used carefully.  There are other more advanced methods for cutting wood.  ."], "uuid": 231}
+{"sub_label": "metal", "obj_label": "forged", "masked_sentences": ["Hammer is made of ...[MASK] metal."], "uuid": 232}
+{"sub_label": "metal", "obj_label": "formed", "masked_sentences": ["Metal can be [MASK]."], "uuid": 233}
+{"sub_label": "metal", "obj_label": "melted", "masked_sentences": ["The statement \"When you wear ice skates, you can glide across ice\" is true because Cause the ice is [MASK] some milimetres under the metal part."], "uuid": 234}
+{"sub_label": "metal", "obj_label": "painted", "masked_sentences": ["Printing may be done on [MASK] metal surfaces."], "uuid": 235}
+{"sub_label": "metal", "obj_label": "polished", "masked_sentences": ["Metal can be [MASK]."], "uuid": 236}
+{"sub_label": "milk", "obj_label": "poured", "masked_sentences": ["To understand the event \"Jeff [MASK] milk in his cereal.\", it is important to know that Cereal is a food made from grains."], "uuid": 237}
+{"sub_label": "mines", "obj_label": "closed", "masked_sentences": ["Mines can be [MASK]."], "uuid": 238}
+{"sub_label": "mirror", "obj_label": "broken", "masked_sentences": ["A person doesn't want a [MASK] truck mirror."], "uuid": 239}
+{"sub_label": "monasteries", "obj_label": "fortified", "masked_sentences": ["Some monasteries are [MASK]."], "uuid": 240}
+{"sub_label": "money", "obj_label": "loaned", "masked_sentences": ["Money can be [MASK]."], "uuid": 241}
+{"sub_label": "money", "obj_label": "stolen", "masked_sentences": ["To understand the event \"Joe stole some money.  Joe went to jail.\", it is important to know that [MASK] items are usually valuable."], "uuid": 242}
+{"sub_label": "movie", "obj_label": "rented", "masked_sentences": ["A movie can be placed on a videotape and [MASK] from a store."], "uuid": 243}
+{"sub_label": "movies", "obj_label": "filmed", "masked_sentences": ["Movies are [MASK]."], "uuid": 244}
+{"sub_label": "music", "obj_label": "composed", "masked_sentences": ["Music is [MASK] and performed and listened to ."], "uuid": 245}
+{"sub_label": "music", "obj_label": "heard", "masked_sentences": ["Music is [MASK]."], "uuid": 246}
+{"sub_label": "music", "obj_label": "liked", "masked_sentences": ["To understand the event \"Lisa went to the concert.  She sat in the balcony.\", it is important to know that Lisa probalby [MASK] the music she listened to."], "uuid": 247}
+{"sub_label": "music", "obj_label": "stolen", "masked_sentences": ["Music can be [MASK].  ."], "uuid": 248}
+{"sub_label": "music", "obj_label": "sung", "masked_sentences": ["Music is [MASK]."], "uuid": 249}
+{"sub_label": "nerves", "obj_label": "severed", "masked_sentences": ["Nerves can be [MASK]."], "uuid": 250}
+{"sub_label": "news", "obj_label": "broadcast", "masked_sentences": ["The statement \"Some television shows are live.\" is true because news is often [MASK] live."], "uuid": 251}
+{"sub_label": "newspaper", "obj_label": "read", "masked_sentences": ["Something that might happen when you [MASK] a newspaper is becoming informed."], "uuid": 252}
+{"sub_label": "newspapers", "obj_label": "recycled", "masked_sentences": ["Old newspapers can be [MASK] into toilet paper."], "uuid": 253}
+{"sub_label": "nose", "obj_label": "picked", "masked_sentences": ["To understand the event \"Dwight [MASK] his nose.\", it is important to know that English language."], "uuid": 254}
+{"sub_label": "numbers", "obj_label": "added", "masked_sentences": ["Numbers can be [MASK] up."], "uuid": 255}
+{"sub_label": "numbers", "obj_label": "divided", "masked_sentences": ["Numbers can be [MASK]."], "uuid": 256}
+{"sub_label": "olives", "obj_label": "eaten", "masked_sentences": ["Olives can be [MASK]."], "uuid": 257}
+{"sub_label": "orange", "obj_label": "eaten", "masked_sentences": ["An orange can be [MASK]."], "uuid": 258}
+{"sub_label": "oranges", "obj_label": "peeled", "masked_sentences": ["To understand the event \"Sam [MASK] an orange.\", it is important to know that the skin of oranges is not edible."], "uuid": 259}
+{"sub_label": "oranges", "obj_label": "pressed", "masked_sentences": ["Oranges are often [MASK] for juice."], "uuid": 260}
+{"sub_label": "oranges", "obj_label": "squeezed", "masked_sentences": ["Oranges can be [MASK]."], "uuid": 261}
+{"sub_label": "outside", "obj_label": "painted", "masked_sentences": ["To understand the event \"Bob [MASK] a wall.\", it is important to know that walls can be inside or outside."], "uuid": 262}
+{"sub_label": "oval", "obj_label": "curved", "masked_sentences": ["An oval is [MASK]."], "uuid": 263}
+{"sub_label": "oxygen", "obj_label": "breathed", "masked_sentences": ["Oxygen is [MASK]."], "uuid": 264}
+{"sub_label": "paper", "obj_label": "burnt", "masked_sentences": ["The story \"Lighting A Fire\" has the step \"Then, before the match was [MASK] out, I set another part of the paper on fire across from the part that was lit now.\"."], "uuid": 265}
+{"sub_label": "paper", "obj_label": "cut", "masked_sentences": ["Paper can [MASK] you if you drag it quickly accross your skin."], "uuid": 266}
+{"sub_label": "paper", "obj_label": "recycled", "masked_sentences": ["Paper is one material that is often [MASK]."], "uuid": 267}
+{"sub_label": "paper", "obj_label": "torn", "masked_sentences": ["A paper page can be easily [MASK]."], "uuid": 268}
+{"sub_label": "papers", "obj_label": "read", "masked_sentences": ["To understand the event \"Mary [MASK] a book.\", it is important to know that A book is a collection of papers with words written on them."], "uuid": 269}
+{"sub_label": "papers", "obj_label": "recycled", "masked_sentences": ["All papers should be [MASK] ."], "uuid": 270}
+{"sub_label": "parcels", "obj_label": "transported", "masked_sentences": ["Parcels can be [MASK]."], "uuid": 271}
+{"sub_label": "passageway", "obj_label": "hidden", "masked_sentences": ["A passageway can be [MASK]."], "uuid": 272}
+{"sub_label": "past", "obj_label": "fixed", "masked_sentences": ["The past is [MASK]."], "uuid": 273}
+{"sub_label": "peaches", "obj_label": "dried", "masked_sentences": ["Sometimes peaches are [MASK] to preserve them."], "uuid": 274}
+{"sub_label": "pear", "obj_label": "eaten", "masked_sentences": ["Another way to say \"pears are fruit\" is \"One fruit that can be [MASK] raw, is a pear.\"."], "uuid": 275}
+{"sub_label": "pears", "obj_label": "dried", "masked_sentences": ["Pears can be [MASK]."], "uuid": 276}
+{"sub_label": "people", "obj_label": "born", "masked_sentences": ["Almost all people are [MASK] with a nose, but computers are purchased."], "uuid": 277}
+{"sub_label": "people", "obj_label": "disabled", "masked_sentences": ["Blind people are [MASK]."], "uuid": 278}
+{"sub_label": "people", "obj_label": "educated", "masked_sentences": ["A school is used for producing [MASK] people."], "uuid": 279}
+{"sub_label": "people", "obj_label": "killed", "masked_sentences": ["To understand the event \"The earthquake [MASK] many people.\", it is important to know that earthquakes ar bad."], "uuid": 280}
+{"sub_label": "people", "obj_label": "murdered", "masked_sentences": ["People can be [MASK]."], "uuid": 281}
+{"sub_label": "pharmacists", "obj_label": "licensed", "masked_sentences": ["Pharmacists are [MASK]."], "uuid": 282}
+{"sub_label": "piano", "obj_label": "played", "masked_sentences": ["When a piano is [MASK] music is made."], "uuid": 283}
+{"sub_label": "pickle", "obj_label": "eaten", "masked_sentences": ["A pickle can be [MASK]."], "uuid": 284}
+{"sub_label": "pigs", "obj_label": "eaten", "masked_sentences": ["Pigs are [MASK]."], "uuid": 285}
+{"sub_label": "plastic", "obj_label": "melted", "masked_sentences": ["Plastic can be [MASK]."], "uuid": 286}
+{"sub_label": "plastic", "obj_label": "painted", "masked_sentences": ["To understand the event \"Jane [MASK] a chair.\", it is important to know that Most chairs are made of wood or plastic."], "uuid": 287}
+{"sub_label": "plastics", "obj_label": "recycled", "masked_sentences": ["Plastics may be [MASK]."], "uuid": 288}
+{"sub_label": "pledge", "obj_label": "broken", "masked_sentences": ["A pledge can be [MASK]."], "uuid": 289}
+{"sub_label": "policy", "obj_label": "cancelled", "masked_sentences": ["A policy can be [MASK]."], "uuid": 290}
+{"sub_label": "popcorn", "obj_label": "eaten", "masked_sentences": ["Something that might happen as a consequence of going to a movie is popcorn will be [MASK]."], "uuid": 291}
+{"sub_label": "potatoes", "obj_label": "boiled", "masked_sentences": ["To understand the event \"Sally [MASK] the potatoes.\", it is important to know that Sally is a female human."], "uuid": 292}
+{"sub_label": "potatoes", "obj_label": "cooked", "masked_sentences": ["Potatoes can be [MASK] by grilling them."], "uuid": 293}
+{"sub_label": "potatoes", "obj_label": "eaten", "masked_sentences": ["Steak and potatoes are often [MASK] together."], "uuid": 294}
+{"sub_label": "potatoes", "obj_label": "fried", "masked_sentences": ["Potatoes can be [MASK]."], "uuid": 295}
+{"sub_label": "potatoes", "obj_label": "sliced", "masked_sentences": ["Potatoes can be [MASK]."], "uuid": 296}
+{"sub_label": "pothole", "obj_label": "repaired", "masked_sentences": ["A pothole can be [MASK]."], "uuid": 297}
+{"sub_label": "president", "obj_label": "elected", "masked_sentences": ["Being [MASK] president would make you want to take an oath."], "uuid": 298}
+{"sub_label": "prize", "obj_label": "won", "masked_sentences": ["Mark Strand [MASK] the Pulitzer Prize in Poetry for \"Blizzard of One\" in 1999."], "uuid": 299}
+{"sub_label": "products", "obj_label": "recycled", "masked_sentences": ["Cardboard can be [MASK] into new products."], "uuid": 300}
+{"sub_label": "promise", "obj_label": "broken", "masked_sentences": ["Giving my word implies that one is making a promise that cannot be [MASK] under any circumstances."], "uuid": 301}
+{"sub_label": "promptness", "obj_label": "appreciated", "masked_sentences": ["Promptness is [MASK]."], "uuid": 302}
+{"sub_label": "pumpkins", "obj_label": "eaten", "masked_sentences": ["Pumpkins can be [MASK]."], "uuid": 303}
+{"sub_label": "puncture", "obj_label": "repaired", "masked_sentences": ["A puncture can be [MASK]."], "uuid": 304}
+{"sub_label": "punishments", "obj_label": "repeated", "masked_sentences": ["Punishments can be [MASK]."], "uuid": 305}
+{"sub_label": "recepies", "obj_label": "taught", "masked_sentences": ["Recepies can be [MASK]."], "uuid": 306}
+{"sub_label": "recipes", "obj_label": "taught", "masked_sentences": ["Recipes can be [MASK]."], "uuid": 307}
+{"sub_label": "resources", "obj_label": "limited", "masked_sentences": ["Most police organisations have [MASK] budget resources."], "uuid": 308}
+{"sub_label": "restaurants", "obj_label": "closed", "masked_sentences": ["Restaurants can be [MASK]."], "uuid": 309}
+{"sub_label": "rice", "obj_label": "cooked", "masked_sentences": ["Rice is a type of [MASK] wheat."], "uuid": 310}
+{"sub_label": "rice", "obj_label": "eaten", "masked_sentences": ["Rice can be [MASK]."], "uuid": 311}
+{"sub_label": "rice", "obj_label": "steamed", "masked_sentences": ["Rice is related to [MASK]."], "uuid": 312}
+{"sub_label": "rice", "obj_label": "stirred", "masked_sentences": ["Rice is [MASK]. ."], "uuid": 313}
+{"sub_label": "road", "obj_label": "paved", "masked_sentences": ["Street is a type of [MASK] road."], "uuid": 314}
+{"sub_label": "rocks", "obj_label": "cracked", "masked_sentences": ["Rocks can be [MASK]."], "uuid": 315}
+{"sub_label": "roses", "obj_label": "red", "masked_sentences": ["Roses are [MASK]."], "uuid": 316}
+{"sub_label": "route", "obj_label": "followed", "masked_sentences": ["A route is [MASK]."], "uuid": 317}
+{"sub_label": "rubies", "obj_label": "polished", "masked_sentences": ["Rubies can be [MASK]."], "uuid": 318}
+{"sub_label": "rule", "obj_label": "broken", "masked_sentences": ["Rule is [MASK]."], "uuid": 319}
+{"sub_label": "salad", "obj_label": "prepared", "masked_sentences": ["Salad can be [MASK]."], "uuid": 320}
+{"sub_label": "sausage", "obj_label": "eaten", "masked_sentences": ["Sausage can be [MASK]."], "uuid": 321}
+{"sub_label": "scene", "obj_label": "painted", "masked_sentences": ["A scene can be [MASK]."], "uuid": 322}
+{"sub_label": "screws", "obj_label": "turned", "masked_sentences": ["Screws can be [MASK]."], "uuid": 323}
+{"sub_label": "shark", "obj_label": "eaten", "masked_sentences": ["Something that might happen as a consequence of becoming a scuba diver is being [MASK] by a shark."], "uuid": 324}
+{"sub_label": "shoes", "obj_label": "polished", "masked_sentences": ["Shoes can be [MASK]."], "uuid": 325}
+{"sub_label": "shows", "obj_label": "married", "masked_sentences": ["Shows that someone is [MASK]."], "uuid": 326}
+{"sub_label": "silica", "obj_label": "melted", "masked_sentences": ["Silica can be [MASK]."], "uuid": 327}
+{"sub_label": "silver", "obj_label": "melted", "masked_sentences": ["Silver can be [MASK]."], "uuid": 328}
+{"sub_label": "silver", "obj_label": "mined", "masked_sentences": ["Silver is [MASK]."], "uuid": 329}
+{"sub_label": "silver", "obj_label": "polished", "masked_sentences": ["Silver is reflective when [MASK]."], "uuid": 330}
+{"sub_label": "skills", "obj_label": "taught", "masked_sentences": ["In the event \"Jane [MASK] a class on physics.\", something that changed was Jane improved her teaching skills."], "uuid": 331}
+{"sub_label": "skin", "obj_label": "burned", "masked_sentences": ["Skin will ooze fluid when [MASK]."], "uuid": 332}
+{"sub_label": "skirts", "obj_label": "worn", "masked_sentences": ["Very few men have [MASK] skirts in public ."], "uuid": 333}
+{"sub_label": "slave", "obj_label": "owned", "masked_sentences": ["A slave is a person that doesn't work out of free will and is [MASK] by someone."], "uuid": 334}
+{"sub_label": "soap", "obj_label": "carved", "masked_sentences": ["Soap can be [MASK]."], "uuid": 335}
+{"sub_label": "soccer", "obj_label": "played", "masked_sentences": ["Soccer is [MASK] on a field of grass."], "uuid": 336}
+{"sub_label": "somebody", "obj_label": "shot", "masked_sentences": ["To understand the event \"Ricky is a white supremicist.  Ricky [MASK] Amit, a Jew.\", it is important to know that If you hate somebody enough you might shoot them."], "uuid": 337}
+{"sub_label": "sound", "obj_label": "heard", "masked_sentences": ["Sound has is [MASK]."], "uuid": 338}
+{"sub_label": "sound", "obj_label": "recorded", "masked_sentences": ["Sound can be [MASK]."], "uuid": 339}
+{"sub_label": "spaghetti", "obj_label": "cooked", "masked_sentences": ["The statement \"spaghetti can be [MASK]\" is true because because it is a type of food."], "uuid": 340}
+{"sub_label": "sql", "obj_label": "structured", "masked_sentences": ["SQL is the [MASK] Query Language."], "uuid": 341}
+{"sub_label": "stairs", "obj_label": "climbed", "masked_sentences": ["Another way to say \"randy went upstairs\" is \"Randy [MASK] the stairs.\"."], "uuid": 342}
+{"sub_label": "starvations", "obj_label": "prevented", "masked_sentences": ["Starvations can be [MASK]."], "uuid": 343}
+{"sub_label": "steak", "obj_label": "cut", "masked_sentences": ["Jeff eats a steak. He uses a knife to [MASK] it into pieces."], "uuid": 344}
+{"sub_label": "steel", "obj_label": "melted", "masked_sentences": ["Steel can be [MASK]."], "uuid": 345}
+{"sub_label": "steel", "obj_label": "painted", "masked_sentences": ["Steel can be [MASK]."], "uuid": 346}
+{"sub_label": "steel", "obj_label": "polished", "masked_sentences": ["Steel can be [MASK]."], "uuid": 347}
+{"sub_label": "steel", "obj_label": "recycled", "masked_sentences": ["Steel can be [MASK]."], "uuid": 348}
+{"sub_label": "stocks", "obj_label": "issued", "masked_sentences": ["Stocks are [MASK]."], "uuid": 349}
+{"sub_label": "stone", "obj_label": "carved", "masked_sentences": ["Stone can be [MASK]."], "uuid": 350}
+{"sub_label": "stone", "obj_label": "crushed", "masked_sentences": ["Stone can be [MASK]."], "uuid": 351}
+{"sub_label": "stone", "obj_label": "painted", "masked_sentences": ["A stone can be [MASK]."], "uuid": 352}
+{"sub_label": "stone", "obj_label": "polished", "masked_sentences": ["Neolithic humans used [MASK] stone tools, agriculture, domesticated animals, and pottery."], "uuid": 353}
+{"sub_label": "stone", "obj_label": "thrown", "masked_sentences": ["A stone can be [MASK]."], "uuid": 354}
+{"sub_label": "students", "obj_label": "taught", "masked_sentences": ["To understand the event \"Jane [MASK] a class on boating.\", it is important to know that Students learn from teachers."], "uuid": 355}
+{"sub_label": "stuff", "obj_label": "interesting", "masked_sentences": ["Something that might happen while meeting [MASK] people is you learn stuff."], "uuid": 356}
+{"sub_label": "stuff", "obj_label": "recycled", "masked_sentences": ["Some stuff can be [MASK]."], "uuid": 357}
+{"sub_label": "stuff", "obj_label": "stuffed", "masked_sentences": ["Stuff can be [MASK]."], "uuid": 358}
+{"sub_label": "sugar", "obj_label": "melted", "masked_sentences": ["Sugar can be [MASK]."], "uuid": 359}
+{"sub_label": "tapestries", "obj_label": "woven", "masked_sentences": ["Tapestries are [MASK] ."], "uuid": 360}
+{"sub_label": "test", "obj_label": "taken", "masked_sentences": ["A test can be [MASK]."], "uuid": 361}
+{"sub_label": "text", "obj_label": "read", "masked_sentences": ["To understand the event \"Anne [MASK] the newspaper.\", it is important to know that Text has a message."], "uuid": 362}
+{"sub_label": "textile", "obj_label": "manufactured", "masked_sentences": ["A textile is [MASK]."], "uuid": 363}
+{"sub_label": "thing", "obj_label": "remembered", "masked_sentences": ["A \"thing\" can be [MASK]."], "uuid": 364}
+{"sub_label": "tickets", "obj_label": "bought", "masked_sentences": ["The story \"Going To A Concert\" has the step \"We all [MASK] tickets for the same evening.\"."], "uuid": 365}
+{"sub_label": "time", "obj_label": "spent", "masked_sentences": ["In the event \"Susan practiced playing the piano.\", something that changed was susan [MASK] time at the piano."], "uuid": 366}
+{"sub_label": "toast", "obj_label": "eaten", "masked_sentences": ["French toast can be [MASK]."], "uuid": 367}
+{"sub_label": "tobacco", "obj_label": "chewed", "masked_sentences": ["Tobacco can be [MASK]."], "uuid": 368}
+{"sub_label": "tobacco", "obj_label": "smoked", "masked_sentences": ["To understand the event \"Edward [MASK] a cigarette.\", it is important to know that A cigarette is a small object that consists of a plant called tobacco that has been dried and then rolled into a tube shape and wrapped in thin paper."], "uuid": 369}
+{"sub_label": "toilet", "obj_label": "flushed", "masked_sentences": ["Toilet can be [MASK]."], "uuid": 370}
+{"sub_label": "tomato", "obj_label": "eaten", "masked_sentences": ["To understand the event \"Jesse ate a bowl of spaghetti for dinner.\", it is important to know that Spaghetti often is [MASK] with a tomato sauce."], "uuid": 371}
+{"sub_label": "tones", "obj_label": "tuned", "masked_sentences": ["Tones can be [MASK]."], "uuid": 372}
+{"sub_label": "trash", "obj_label": "recycled", "masked_sentences": ["Trash can be [MASK]."], "uuid": 373}
+{"sub_label": "trash", "obj_label": "stored", "masked_sentences": ["Trash can be [MASK]."], "uuid": 374}
+{"sub_label": "truck", "obj_label": "driven", "masked_sentences": ["A truck can be [MASK]."], "uuid": 375}
+{"sub_label": "tv", "obj_label": "watched", "masked_sentences": ["TV can be [MASK]."], "uuid": 376}
+{"sub_label": "umbrellas", "obj_label": "folded", "masked_sentences": ["Umbrellas can be [MASK]."], "uuid": 377}
+{"sub_label": "vegetables", "obj_label": "cooked", "masked_sentences": ["To understand the event \"Bob ate a slice of pizza.\", it is important to know that Pizza is typically bread dough topped with tomato paste, cheese, and often meat and vegetables, [MASK] for several minutes and served hot.  Almost everyone likes pizza.  Several people can share one pizza."], "uuid": 378}
+{"sub_label": "vegetables", "obj_label": "eaten", "masked_sentences": ["Something that might happen while growing vegetables is they get [MASK] by pests."], "uuid": 379}
+{"sub_label": "vegetables", "obj_label": "steamed", "masked_sentences": ["Vegetables can be [MASK]."], "uuid": 380}
+{"sub_label": "velvet", "obj_label": "crushed", "masked_sentences": ["Velvet can be [MASK]."], "uuid": 381}
+{"sub_label": "video", "obj_label": "watched", "masked_sentences": ["A video can be [MASK]."], "uuid": 382}
+{"sub_label": "water", "obj_label": "boiled", "masked_sentences": ["To understand the event \"Sally [MASK] the potatoes.\", it is important to know that Water is used to boil food."], "uuid": 383}
+{"sub_label": "water", "obj_label": "frozen", "masked_sentences": ["Icicle is [MASK] water."], "uuid": 384}
+{"sub_label": "water", "obj_label": "poured", "masked_sentences": ["To understand the event \"Barbara watered the plant on Tuesday.\", it is important to know that Barbara [MASK] water on the top of the soil in the pot."], "uuid": 385}
+{"sub_label": "water", "obj_label": "splashed", "masked_sentences": ["Wet is water [MASK]."], "uuid": 386}
+{"sub_label": "wax", "obj_label": "boiled", "masked_sentences": ["Wax can be [MASK]."], "uuid": 387}
+{"sub_label": "wax", "obj_label": "carved", "masked_sentences": ["Wax can be [MASK]."], "uuid": 388}
+{"sub_label": "wax", "obj_label": "melted", "masked_sentences": ["Wax is [MASK]."], "uuid": 389}
+{"sub_label": "wheat", "obj_label": "harvested", "masked_sentences": ["Wheat can be [MASK]."], "uuid": 390}
+{"sub_label": "window", "obj_label": "closed", "masked_sentences": ["To understand the event \"Joan saw smoke coming out of a window.\", it is important to know that Most windows can be opened and [MASK]."], "uuid": 391}
+{"sub_label": "window", "obj_label": "opened", "masked_sentences": ["To understand the event \"Joan saw smoke coming out of a window.\", it is important to know that Most windows can be [MASK] and closed."], "uuid": 392}
+{"sub_label": "windows", "obj_label": "opened", "masked_sentences": ["To understand the event \"Joan saw smoke coming out of a window.\", it is important to know that Most windows can be [MASK] and closed."], "uuid": 393}
+{"sub_label": "wines", "obj_label": "blended", "masked_sentences": ["Some wines are [MASK]."], "uuid": 394}
+{"sub_label": "wood", "obj_label": "burned", "masked_sentences": ["To understand the event \"The boy scout lit a fire.\", it is important to know that The fire probably [MASK] wood."], "uuid": 395}
+{"sub_label": "wood", "obj_label": "carved", "masked_sentences": ["Wood can be [MASK] into furniture."], "uuid": 396}
+{"sub_label": "wood", "obj_label": "cut", "masked_sentences": ["Wood is [MASK] trunk."], "uuid": 397}
+{"sub_label": "wood", "obj_label": "glued", "masked_sentences": ["Wood can be [MASK]."], "uuid": 398}
+{"sub_label": "wood", "obj_label": "painted", "masked_sentences": ["To understand the event \"We [MASK] the barn.\", it is important to know that wood can be harmed if exposed to air, pollution and rain."], "uuid": 399}
+{"sub_label": "wood", "obj_label": "polished", "masked_sentences": ["Wood can be stained and [MASK] to give it a different appearance."], "uuid": 400}
+{"sub_label": "wood", "obj_label": "stained", "masked_sentences": ["Wood can be [MASK] and polished to give it a different appearance."], "uuid": 401}
+{"sub_label": "words", "obj_label": "printed", "masked_sentences": ["The statement \"a newspaper can be read\" is true because A newspaper consists of [MASK] words."], "uuid": 402}
+{"sub_label": "words", "obj_label": "spoken", "masked_sentences": ["People can hear words that are [MASK]."], "uuid": 403}
+{"sub_label": "words", "obj_label": "written", "masked_sentences": ["To understand the event \"Jill sent a letter to her friend.\", it is important to know that A letter contains [MASK] words."], "uuid": 404}
+{"sub_label": "wounds", "obj_label": "dressed", "masked_sentences": ["Wounds, if not cleaned and [MASK] may become infected."], "uuid": 405}
+{"sub_label": "yogurt", "obj_label": "swallowed", "masked_sentences": ["Yogurt can be [MASK]."], "uuid": 406}
