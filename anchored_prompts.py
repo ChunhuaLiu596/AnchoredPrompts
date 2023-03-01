@@ -29,7 +29,12 @@ from copy import deepcopy
 from spacy.tokenizer import Tokenizer
 from spacy.lang.en import English
 from spacy.util import compile_prefix_regex, compile_infix_regex, compile_suffix_regex
-from utils_wordnet import get_wordnet_shortest_path_score_between, get_wordnet_avg_path_score_between_sub_and_anchors, get_wordnet_shortest_path_length_between
+nlp = spacy.load('en_core_web_sm')
+
+pd.options.display.max_columns = 50
+pd.set_option('display.width', 1000)
+
+from utils_wordnet import get_wordnet_shortest_path_score_between, get_wordnet_avg_path_score_between_sub_and_anchors, get_wordnet_shortest_path_length_between, read_cohyponyms
 from utils_concept_positioning_test import concpet_positioning_test, get_revserse_prompt
 
 """Anchored_Prompts.ipynb
@@ -114,11 +119,8 @@ def custom_tokenizer(nlp):
                                 infix_finditer=infix_re.finditer,
                                 token_match=None)
 
-nlp = spacy.load('en_core_web_sm')
-nlp.tokenizer = custom_tokenizer(nlp)
 
-pd.options.display.max_columns = 50
-pd.set_option('display.width', 1000)
+nlp.tokenizer = custom_tokenizer(nlp)
 
 """## Helper Functions"""
 
@@ -183,8 +185,19 @@ def remove_noisy_test_data(df):
   df = df.query(f"sub_label not in {obj_labels_to_exclude}")
   return  df.reset_index(drop=True)
 
-# def exist_
+def read_bert_vocab(bert_vocab_path = 'data/bert-large-uncased-vocab.txt'):
+    
+    
+    vocab = set()
+    with open(bert_vocab_path, 'r') as fin: 
+        lines = fin.readlines()
+        for line in lines: 
+            line = line.strip()
+            vocab.add(line)
+    return vocab        
+
   
+
 def load_data(filepath, sub_col, clean_test=True, tokenize=False):
   '''
   return the cleaned data
@@ -196,13 +209,13 @@ def load_data(filepath, sub_col, clean_test=True, tokenize=False):
 
   '''
   index_not_in = 10000
-
   with open(filepath, 'r', encoding='utf-8') as fin:
     data = fin.readlines()
     data = [eval(x) for x in data]
     df = pd.DataFrame(data)
 
     df['obj_label'] = df['obj_label'].apply(lambda x: [x] if isinstance(x, str) else x)
+    df['masked_sentences'] = df['masked_sentences'].apply(lambda x: eval(x) if isinstance(x, str) else x)
 
   if tokenize:
     df['masked_sentence_tokens'] = df['masked_sentences'].apply(lambda x: tokenize_sentence(x[0]))
@@ -213,15 +226,15 @@ def load_data(filepath, sub_col, clean_test=True, tokenize=False):
     df['sub_position'] = df[[sub_col, 'masked_sentences']].apply(lambda x: locate_sub_obj_position(x[0], x[1][0], index_not_in), axis=1)
     df = df.query(f"sub_position !={index_not_in}") #.reset_index() #cue can not be matched in the sentence
 
-  print(f"#Test_instances: {len(df.index)}")
+  print(f"#All Instances: {len(df.index)}")
   return df.reset_index(drop=True)
 
 
-def _get_article(word):
+def _get_article(word, capitalize_article=False):
     
     if word[0] in ['a', 'e', 'i', 'o', 'u']:
-        return 'an'.capitalize()
-    return 'a'.capitalize()
+        return 'an'.capitalize() if capitalize_article else 'an'
+    return 'a'.capitalize() if capitalize_article else 'a'
 
 def check_articles(sub_label, pattern):
     '''
@@ -258,7 +271,7 @@ def get_masked_data(filepath, sub_col, sub_col_sg, sub_col_pl, relation, relatio
   for pattern in ['def_sap', 'def_dap']:# , 'lsp_sap', 'anchor_lsp_sap']:
     # use check when sub_label are sigular, we nned to inderst an article before it
     if singular_pattern_flag:
-      df[pattern] = df[sub_col_sg].apply(lambda x: [item.replace('[X]', x) for item in relation_to_template[pattern] if check_articles(x, item)!='DISCARD' ])
+      df[pattern] = df[sub_col_sg].apply(lambda x: [item.replace('[X]', f"{_get_article(x)} {x}") for item in relation_to_template[pattern] ]) #if check_articles(x, item)!='DISCARD' ])
     else:
       df[pattern] = df[sub_col_sg].apply(lambda x: [item.replace('[X]', x) for item in relation_to_template[pattern] ])
 
@@ -346,9 +359,68 @@ def fill_mask_obj(df, unmasker, top_k):
     # outputs['masked_sentences']  = [unmasker(x, top_k=top_k) for x in tqdm(df.masked_sentences)]
     return outputs
 
+################ SWOW auxiliary functions 
+
+
+def get_strength_dict(path, source_path):
+    if os.path.exists(path):
+        swow_score_dict_pl = json.load(open(path, 'r'))
+    else: 
+        swow_score_dict = json.load( open (source_path))
+
+        vocab_cues = set(swow_score_dict.keys())
+        vocab_res = set()
+        for k,v in swow_score_dict.items():
+            vocab_res.update(v.keys() )
+            
+        vocab = vocab_cues.union(vocab_res)
+        vocab = set({str(k) for k in vocab})
+        vocab_to_plural = {k: pluralize(k) for k in vocab }
+
+        swow_score_dict_pl = defaultdict()
+        for k,v in swow_score_dict.items():
+            v_pl = {vocab_to_plural.get(k1):v1 for k1, v1 in v.items() }
+            swow_score_dict_pl[vocab_to_plural.get(k)] = v_pl
+        output_path = input_path.replace('.json', '.pl.json')
+        json.dump(swow_score_dict_pl, open(output_path, 'w'))
+    return swow_score_dict_pl 
+
+def query_strength_score(cue, response, score_dict):
+    if cue in score_dict and response in score_dict[cue]:
+        return score_dict[cue][response]
+    return 0
+
+
+
+def get_sim_matrix(path_rw='../../data/swow/S_RW.R123.csv'):
+    df = pd.read_csv(path_rw)
+    sim_matrix = df.to_numpy()
+    vocab = df.columns[1:]
+    vocab_pl = [pluralize(word) for word in vocab] #this is normalized to fit into the anchor mining module
+    word2id = {word:i for i, word in enumerate(vocab)}
+    return word2id, sim_matrix
+
+
+def query_sim(word1, word2, swow_score_tuple ):
+    '''
+    query the similary between two words in a similarity matrix 
+    '''
+    word2id, sim_matrix = swow_score_tuple
+    sim_score =0 
+    if word1 in word2id and word2 in word2id:
+        id1 = word2id.get(word1)
+        id2 = word2id.get(word2)
+
+        sim_score = sim_matrix[id1][id2+1] #the first col is the word 
+    return sim_score 
+
+
+################ SWOW auxiliary functions 
+
+
 """## Cleaning outputs """
 
-def aggregate_token_scores(input_word, token2probs, scorer, top_k, add_wordnet_path_score=False, sort_flag=True ):
+def aggregate_token_scores(input_word, token2probs, scorer, top_k, add_wordnet_path_score=False, sort_flag=True, add_swow_score=False , query_swow_score=query_sim):
     ''' 
     goal: we want the best scorer to consider:
         (1) frequency: a token that are elicited by multiple promptso
@@ -410,12 +482,15 @@ def aggregate_token_scores(input_word, token2probs, scorer, top_k, add_wordnet_p
             #     new_score =  math.exp(sum([math.log(item, 2) for item in probs]))
 
             # 221114: add the WN path socre here to obtain reliable outputs 
-            if add_wordnet_path_score:
+            if add_wordnet_path_score and swow_score_tuple!=None:
                 path_score = get_wordnet_shortest_path_score_between(input_word, token)
-                #print(f"input_word: {input_word}", "token:", token )
-                #print("path_score", path_score, type(path_score))
-                #print("new_score", new_score, type(new_score))
                 new_score += path_score  
+
+            if add_swow_score: 
+                #swow_score = query_strength_score(input_word, token, swow_score_tuple)
+                swow_score  = query_swow_score(input_word, token, swow_score_tuple)
+                if 'Log' in scorer and swow_score>0: new_score += math.log(swow_score, 2)
+                else: new_score += swow_score
 
             token2prob[token] = new_score
     
@@ -426,7 +501,10 @@ def aggregate_token_scores(input_word, token2probs, scorer, top_k, add_wordnet_p
     return token2prob
 
 
-def filter_outputs_with_probs(inputs, outputs, filter_objects_flag=True, return_probs=True, top_k=None, scorer='freqProbSum', filter_objects_with_input=True, add_wordnet_path_score=False, add_cpt_score=False, cpt_unmasker=None, mask_string=None, cpt_only=False):
+def filter_outputs_with_probs(inputs, outputs, filter_objects_flag=True, return_probs=True, top_k=None, scorer='freqProbSum', 
+                             filter_objects_with_input=True, add_wordnet_path_score=False, add_cpt_score=False, cpt_unmasker=None, mask_string=None, cpt_only=False,
+                             add_swow_score=False, swow_score_tuple=None, query_swow_score=query_sim
+                             ):
     '''
     inputs: the original inputs, for example [A] is a type of [B], A is the input
     outputs: the candidates returned by PTLMs
@@ -493,7 +571,7 @@ def filter_outputs_with_probs(inputs, outputs, filter_objects_flag=True, return_
             filled_scores['MISSING'] = [0]
 
         # feed the input into the agrregate _token_scores() so that we can calcuate the 
-        token2probs = aggregate_token_scores(input_word, token2probs=filled_scores, scorer=scorer, top_k=top_k,  add_wordnet_path_score=add_wordnet_path_score, sort_flag=True)
+        token2probs = aggregate_token_scores(input_word, token2probs=filled_scores, scorer=scorer, top_k=top_k,  add_wordnet_path_score=add_wordnet_path_score, sort_flag=True, add_swow_score=add_swow_score, query_swow_score=query_swow_score)
 
         if filter_objects_flag and add_cpt_score:
             # extreme case: all anchors fail the CPT and return 0; the anchor selection would become random 
@@ -516,7 +594,11 @@ def filter_outputs_with_probs(inputs, outputs, filter_objects_flag=True, return_
     return anchor_list if not return_probs  else pd.Series((anchor_list,anchor_scores))
 
 
-def filter_anchors_with_probs(df, outputs,  scorer, sub_col,  anchor_prompt_col='anchor_lsp_sap', anchor_col='subj_anchors', filter_objects_flag=True,filter_objects_with_input=True, return_probs=True, top_k=10, add_wordnet_path_score=False,  add_cpt_score=False, cpt_unmasker=None, mask_string=None, cpt_only=False):
+def filter_anchors_with_probs(df, outputs,  scorer, sub_col,  anchor_prompt_col='anchor_lsp_sap', anchor_col='subj_anchors',
+    filter_objects_flag=True,filter_objects_with_input=True, return_probs=True, top_k=10,
+    add_wordnet_path_score=False,  add_cpt_score=False, cpt_unmasker=None, mask_string=None, cpt_only=False,
+    add_swow_score =  False , swow_score_tuple = None, query_swow_score= query_sim
+    ):
     if not return_probs:
         df[anchor_col] = filter_outputs_with_probs(df[sub_col].to_list(), outputs[anchor_prompt_col], filter_objects_flag=filter_objects_flag, filter_objects_with_input=filter_objects_with_input, return_probs=return_probs, top_k=top_k, scorer=scorer)
         # df['obj_anchors'] = filter_outputs_with_probs(df[sub_col].to_list(), outputs['masked_sentences_obj_anchor'], return_probs=return_probs, top_k=top_k)
@@ -532,14 +614,36 @@ def filter_anchors_with_probs(df, outputs,  scorer, sub_col,  anchor_prompt_col=
                                                                                 filter_objects_with_input=filter_objects_with_input,
                                                                                 top_k=top_k, 
                                                                                 return_probs=return_probs, 
-                                                                                scorer=scorer, add_wordnet_path_score=add_wordnet_path_score, 
-                                                                                add_cpt_score=add_cpt_score, cpt_unmasker=cpt_unmasker, mask_string=mask_string, cpt_only= cpt_only
+                                                                                scorer=scorer, add_wordnet_path_score=add_wordnet_path_score,
+                                                                                add_cpt_score=add_cpt_score, cpt_unmasker=cpt_unmasker, mask_string=mask_string, cpt_only= cpt_only,
+                                                                                add_swow_score =  add_swow_score , swow_score_tuple = swow_score_tuple , query_swow_score=query_swow_score
                                                                                 )
         # df[['obj_anchors', 'obj_anchors_score']] = filter_outputs_with_probs(df[sub_col].to_list(), outputs['masked_sentences_obj_anchor'], return_probs=return_probs)
         # df[['obj_mask_sentence', 'obj_mask_sentence_score']] = filter_outputs_with_probs(df[sub_col].to_list(), outputs['masked_sentences'], return_probs=return_probs, top_k=top_k, scorer=scorer)
         # df['top1_subj_anchor'] = df['subj_anchors'].apply(lambda x: x[0])
         # df['top1_incontext_obj'] = df['obj_mask_sentence'].apply(lambda x: x[0])
         return df
+
+
+
+def filter_anchors_with_swow(df, sub_col, anchor_col, swow_score_tuple):
+    # df['subj_anchors_swow'] = df['sub_label_sg'].apply(lambda x: word_to_swow_vocab.get(x, []))
+    # df[anchor_col] = df[[sub_col, anchor_col]].apply(lambda x: list(set(swow_score_tuple.get(x[0], [])).intersection(set(x[1]))), axis=1)
+
+    new_anchors = []
+    for sub, pred_anchors in zip(df[sub_col].to_list(), df[anchor_col].to_list()):
+        swow_anchors = swow_score_tuple.get(sub, [])
+        shared = list(set(pred_anchors).intersection( set(swow_anchors)))
+
+        if len(shared) == 0: 
+            new_anchors.append(pred_anchors)
+        else:
+            new_anchors.append(shared)
+
+    df[anchor_col] = new_anchors
+    #print( "#instances with anchors: ", len(df.loc[df[anchor_col.str.len()==0]].index))
+    return df 
+
 
 """### DAP"""
 
@@ -596,18 +700,19 @@ def insert_multiple_anchors(original_prompt_source, original_prompts, anchors, s
                     anchored_prompts.append(anchor_prompt)
     return anchored_prompts
 
-def insert_multiple_anchors_by_relacement(original_prompts, anchors, original_string):
+def insert_multiple_anchors_by_relacement(original_prompts, anchors, original_string, add_article_for_z=False):
     '''
     replace the placeholder [Z] with true values
     '''
     anchored_prompts = []
     for original_prompt in original_prompts:
         for anchor in anchors: 
+            anchor = "{} {}".format(_get_article(anchor), anchor) if add_article_for_z else anchor
             anchored_prompts.append(original_prompt.replace(original_string, anchor))
     return anchored_prompts
 
 
-def fill_anchor_into_dap(df, relation, relation_to_template, use_dap,  sub_col, anchor_col, incorporate_operation, original_prompt_source='template_sap', top_k_anchors = 1,  dap_col_name='masked_sentences_with_subj_anchor',  mask_string = "[MASK]", use_original_prompt=True ):
+def fill_anchor_into_dap(df, relation, relation_to_template, use_dap,  sub_col, anchor_col, incorporate_operation, original_prompt_source='template_sap', top_k_anchors = 1,  dap_col_name='masked_sentences_with_subj_anchor',  mask_string = "[MASK]", use_original_prompt=True, add_article_for_z=False ):
     if use_dap:
         if original_prompt_source == 'template_sap':
             template_sap = relation_to_template[relation]['template_sap']
@@ -618,7 +723,8 @@ def fill_anchor_into_dap(df, relation, relation_to_template, use_dap,  sub_col, 
                 df[dap_col_name] = df[['masked_sentences',anchor_col, 'sub_position', sub_col]].apply(lambda x: insert_multiple_anchors(original_prompt_source, x[0], anchors=x[1], sub_position_start=x[2], sub_label=x[3], use_original_prompt=use_original_prompt, incorporate_operation=incorporate_operation ) if x[1][0]!='MISSING' else x[0], axis=1) 
 
         elif original_prompt_source in ['lsp_dap', 'def_dap']:#, 'masked_sentences']:
-            df[dap_col_name] = df[[original_prompt_source,anchor_col]].apply(lambda x: insert_multiple_anchors_by_relacement(x[0], anchors=x[1],  original_string='[Z]' ) if x[1][0]!='MISSING' else x[0], axis=1) 
+            display(df[[original_prompt_source, anchor_col]])
+            df[dap_col_name] = df[[original_prompt_source, anchor_col]].apply(lambda x: insert_multiple_anchors_by_relacement(x[0], anchors=x[1],  original_string='[Z]', add_article_for_z=add_article_for_z ) if x[1][0]!='MISSING' else x[0], axis=1) 
 
     else: #221005: posy: come back to here when some relaitons are not using dap
         df[dap_col_name] = df[[sub_col, anchor_col]].apply(lambda x: template_sap.replace("[X]", x[:top_k_anchors]), axis=1)
@@ -673,6 +779,8 @@ def concept_evaluation(label, pred):
     return:
         1 if label share with pred else 0  
     '''
+    if pred is None:
+        return 0 
     if not isinstance(label, list):
         label = eval(label)
         
@@ -699,6 +807,7 @@ def get_precision_at_k_concept(df, relation, pred_cols, label_col, k_list, pred_
             prec_cur[f'p@{k}'] = round(df[f'p{k}_{suffix}'].mean() , 3)*100
 
         p_at_x.append(prec_cur)  
+        
 
     # aggregate the average precision across k 
     df_res = pd.DataFrame(p_at_x) #, columns=['mask_type', 'mAP'])
@@ -736,6 +845,7 @@ def get_highest_mrr_among_labels(label, pred):
     '''
     mrr = 0 
     if pred is None: return mrr 
+    label = eval(label) if isinstance(label, str) else label
 
     rank_list = [ pred.index(item) + 1 for item in label if item in pred] 
     if len(rank_list)>0:
@@ -1006,13 +1116,13 @@ def aggregate_candidates(dic1, dic2, top_k):
 
 
 
-def get_wordnet_avg_path_between_sub_and_anchors(df, oov_path_len = 100):
+def get_wordnet_avg_path_between_sub_and_anchors(df, achor_col, oov_path_len = 100):
     '''
     evalaute the anchor quality by measuring
     (1) the average paths between sub_labels and their anchors 
     (2) the coverage of anchors 
     '''
-    df['anchor_wordnet_path_len']  = df[[sub_col, 'subj_anchors']].apply(lambda x: [(subj_anchor,get_wordnet_shortest_path_length_between(x[0], subj_anchor, oov_path_len=oov_path_len)) for subj_anchor in x[1]] , axis=1)
+    df['anchor_wordnet_path_len']  = df[[sub_col, achor_col]].apply(lambda x: [(subj_anchor,get_wordnet_shortest_path_length_between(x[0], subj_anchor, oov_path_len=oov_path_len)) for subj_anchor in x[1]] , axis=1)
 
     # wn_lemmas = set(wn.all_lemma_names())
     path_len_all = []
@@ -1043,28 +1153,11 @@ def add_argument_to_config(args, config):
             config[name] = args[name]
     return config 
 
-
-# def merge_anchors_in_concept_level(uniform_funcion, words, top_k):
-#     '''
-#     uniform_function: either signualr or plural
-    
-#     '''
-#     top_k_output =  []
-#     for word in words:
-#         uniformed_word = uniform_funcion(word) 
-#         if uniformed_word not in top_k_output: 
-#             top_k_output.append(uniformed_word)
-#         if len(top_k_output) == top_k: 
-#             return top_k_output
-
-#     return top_k_output[:top_k]
-
-
-def merge_predictions_in_concept_level(uniform_funcion, words, top_k=None ):
+def merge_predictions_in_concept_level(words, uniform_funcion=None, top_k=None ):
     '''
     uniform_function: either signualarize or pluralize 
     '''
-    words_uniformed = [uniform_funcion(word) for word in words]
+    words_uniformed = [uniform_funcion(word) for word in words] if uniform_funcion !=None else words
     concepts = list(OrderedDict.fromkeys(words_uniformed))
     return concepts[:top_k] if top_k is not None else concepts
 
@@ -1078,7 +1171,7 @@ def merge_predictions_in_concept_level(uniform_funcion, words, top_k=None ):
 parser = argparse.ArgumentParser()
 parser.add_argument("--config_file", help="debug or not")
 parser.add_argument("--debug", action="store_true",  help="debug or not")
-parser.add_argument("--data_dir", default=None, help="debug or not")
+parser.add_argument("--data_dir", default=None, help="data dir")
 parser.add_argument("--sub_col", default=None, help="which col is used as input x, sigular or plural")
 parser.add_argument("--filter_anchors_flag", action="store_true",  help="using raw anchors or filterred anchors")
 parser.add_argument("--filter_objects_flag", action="store_true",  help="filter the model predictions obj_label or not")
@@ -1088,8 +1181,16 @@ parser.add_argument("--add_cpt_score", action="store_true", help="adding concept
 parser.add_argument("--add_wordnet_path_score", action="store_true", help="adding concept positioning test to filter anchors")
 parser.add_argument("--constrain_targets", action="store_true", help="constrain the target vocabulary of not")
 parser.add_argument("--top_k", type=int, default=10, help="adding concept positioning test to filter anchors")
-parser.add_argument("--top_k_anchors", type=int, default=10, help="how many anchors will be inserted into DAP ")
+parser.add_argument("--top_k_anchors", type=int, default=5, help="how many anchors will be inserted into DAP ")
 parser.add_argument('--max_anchor_num_list', nargs='+', type=int, default=[10], help= 'the max anchor num' )
+parser.add_argument('--scorer_target_N_prompts', type=str, default='freqProbLogSum', help= 'the max anchor num' )
+parser.add_argument('--anchor_col_prefix', type=str, default='subj_anchors', help= 'the prefix for anchor col' )
+parser.add_argument('--anchor_source', type=str, default='LM', help= 'the source of getting acnhors' )
+parser.add_argument("--add_swow_score", action="store_true", help="whether adding swow scores to rank anchors")
+parser.add_argument("--add_swow_filter", action="store_true", help="whether using swow + LM intersections to get anchors")
+parser.add_argument('--swow_score_source', type=str, default='None', help= 'anchor score source: similar words or forward association strength' )
+parser.add_argument("--use_oracle_anchor", action="store_true",  help="whether using pre-acquired anchors or not")
+
 args = parser.parse_args()
 args = vars(args)
 
@@ -1140,14 +1241,25 @@ sub_col = config['sub_col']
 sub_col_sg= config['sub_col_sg'] 
 sub_col_pl= config['sub_col_pl'] 
 
-anchor_col= config['anchor_col'] #'subj_anchors'
-anchor_col_sg= config['anchor_col_sg'] #'subj_anchors'
-anchor_col_pl= config['anchor_col_pl'] #'subj_anchors'
-anchor_col_all = config['anchor_col_all']
+
+anchor_col= config['anchor_col_prefix'] #'subj_anchors'
+anchor_col_sg= config['anchor_col_prefix'] + '_sg' #'subj_anchors'
+anchor_col_pl= config['anchor_col_prefix'] + '_pl'
+anchor_col_all = config['anchor_col_prefix'] + '_all'
+
+add_swow_score= config["add_swow_score"] #True  #False #
+swow_score_source = config['swow_score_source']
+add_swow_filter= config["add_swow_filter"] #True  #False #
+# anchor_col= config['anchor_col'] #'subj_anchors'
+# anchor_col_sg= config['anchor_col_sg'] #'subj_anchors'
+# anchor_col_pl= config['anchor_col_pl'] #'subj_anchors'
+# anchor_col_all = config['anchor_col_all']
 
 top_k_anchors=config['top_k_anchors']
 sub_col_sgpl = config['sub_col_sgpl']
 oracle_anchor_inserted = config['oracle_anchor_inserted']
+use_oracle_anchor= config['use_oracle_anchor']
+anchor_source= config['anchor_source']
 
 from inflection import singularize, pluralize 
 # Customizing patterns and uniform_funcion by singular or plural prompts 
@@ -1164,9 +1276,40 @@ else:
 print("-"*40, 'config', '-'*40)
 print(config)
 print("-"*40, 'config', '-'*40)
+
+bert_vocab= read_bert_vocab(bert_vocab_path = 'data/bert-large-uncased-vocab.txt')
+
+swow_score_tuple  = None
+query_swow_score=None
+if add_swow_score: 
+    if swow_score_source =='AddSWOWStrength':
+        # swow_score_tuple = get_strength_dict(path='data/swow/swow.en.strength.R123.pl.json', source_path = 'data/swow/swow.en.strength.R123.json')
+        swow_score_tuple = get_strength_dict(path='data/swow/swow.en.fbs.json', source_path = 'data/swow/swow.en.strength.R123.json')
+        query_swow_score = query_strength_score
+    elif swow_score_source  =='AddSWOWSimilar': #similar words
+        #swow_score_tuple = json.load( open ('data/swow/swow.en.similar_words.sgpl.json'))
+        swow_score_tuple = get_sim_matrix(path_rw='data/swow/S_RW.R123.csv')   #word2id, sim_matrix 
+        query_swow_score = query_sim
+
+if add_swow_filter: 
+    if swow_score_source =='ShareSWOWStrength':
+        # swow_score_tuple = get_strength_dict(path='data/swow/swow.en.strength.R123.pl.json', source_path = 'data/swow/swow.en.strength.R123.json')
+        swow_score_tuple = get_strength_dict(path='data/swow/swow.en.fbs.json', source_path = 'data/swow/swow.en.strength.R123.json')
+        swow_score_tuple  = {k: list(v.keys()) for k,v in swow_score_tuple.items()}
+        query_swow_score = query_strength_score
+    elif swow_score_source  =='ShareSWOWSimilar': #similar words
+        swow_score_tuple = json.load( open ('data/swow/swow.en.similar_words.sgpl.json'))
+        # swow_score_tuple = get_sim_matrix(path_rw='data/swow/S_RW.R123.csv')   #word2id, sim_matrix 
+        swow_score_tuple  = {k: list(v.keys()) for k,v in swow_score_tuple.items()}
+        query_swow_score = query_sim
+
+word_to_cohyponyms = read_cohyponyms(path = 'pre_post_process/log/word_to_cohyponyms.txt') #word is singular or plural? 
+
 # ----------------------------------------  config ------------------------------------ 
 
 # ----------------------------------------  Prompt ------------------------------------ 
+
+
 for incorporate_operation in incorporate_operations :
     for max_anchor_num in  max_anchor_num_list :
         for scorer_anchor in anchor_scorer_list :
@@ -1205,9 +1348,12 @@ for incorporate_operation in incorporate_operations :
                         print(f"Processing {relation} ... {filepath}")
                         df = get_masked_data(filepath, sub_col, sub_col_sg, sub_col_pl,  relation, relation_to_template[relation], model, singular_pattern_flag, clean_test=True, anchor_probe=config['anchor_probe'])
                         df[sub_col_sgpl] = df[[sub_col, sub_col_sg, sub_col_pl]].apply(lambda x: f"{x[0]} {x[1]} {x[2]}", axis=1) #x[0] + " " +
+                        df['obj_in_BERT'] = df['obj_label'].apply(lambda x: 1 if x[0] in bert_vocab else 0)
+                        df = df.query("obj_in_BERT == 1 ").reset_index(drop=True)
+                        print(f"#Valid Instances: {len(df.index)} in {dataset} (hyper in BERT)")
                        
                         if debug:
-                            df = df.head(5)
+                            df = df.head(10)
 
                         print("\t step1: get anchors (fill and filter)")
                         # step1: get the anchor
@@ -1232,38 +1378,46 @@ for incorporate_operation in incorporate_operations :
                                                                                                                 top_k=2*top_k, 
                                                                                                                 scorer=scorer_target_N_prompts)
 
+                        ############################# get anchors ############################# 
                         # df = add_filter_outputs(df, outputs) #filter the anchor candiates
                         if use_dap_global:
                             if not oracle_anchor_inserted:
-                                outputs.update(fill_mask_anchor(df, unmasker_anchor, anchor_prompt_col='anchor_lsp_sap', top_k = max_anchor_num*2))  #fill the anchor prompts with PTLM 
-                                df = filter_anchors_with_probs(df, outputs,
-                                                                scorer = scorer_anchor, 
-                                                                sub_col = sub_col_sgpl,
-                                                                anchor_prompt_col='anchor_lsp_sap', 
-                                                                anchor_col=anchor_col,
-                                                                filter_objects_flag = filter_anchors_flag,
-                                                                filter_objects_with_input = filter_objects_with_input,
-                                                                return_probs=True, 
-                                                                top_k=max_anchor_num, 
-                                                                add_wordnet_path_score=add_wordnet_path_score, 
-                                                                add_cpt_score= add_cpt_score, 
-                                                                cpt_unmasker= unmasker_anchor, 
-                                                                mask_string=mask_string, 
-                                                                cpt_only=cpt_only
-                                                                ) #filter the anchor candiates
+                                if not use_oracle_anchor: #generate anchors dynamically
+                                    outputs.update(fill_mask_anchor(df, unmasker_anchor, anchor_prompt_col='anchor_lsp_sap', top_k = max_anchor_num*2))  #fill the anchor prompts with PTLM 
+                                    df = filter_anchors_with_probs(df, outputs,
+                                                                    scorer = scorer_anchor, 
+                                                                    sub_col = sub_col_sgpl,
+                                                                    anchor_prompt_col='anchor_lsp_sap', 
+                                                                    anchor_col=anchor_col,
+                                                                    filter_objects_flag = filter_anchors_flag,
+                                                                    filter_objects_with_input = filter_objects_with_input,
+                                                                    return_probs=True, 
+                                                                    top_k=max_anchor_num, 
+                                                                    add_wordnet_path_score=add_wordnet_path_score, 
+                                                                    add_cpt_score= add_cpt_score, 
+                                                                    cpt_unmasker= unmasker_anchor, 
+                                                                    mask_string=mask_string, 
+                                                                    cpt_only=cpt_only,
+                                                                    add_swow_score = add_swow_score,
+                                                                    swow_score_tuple = swow_score_tuple,
+                                                                    query_swow_score = query_swow_score
+                                                                    ) #filter the anchor candiates
+                                    if add_swow_filter:
+                                        df = filter_anchors_with_swow(df, sub_col= sub_col_pl,  anchor_col=anchor_col, swow_score_tuple=swow_score_tuple)
 
                             use_dap = relation_to_template[relation]['use_dap']  if not use_dap_global else use_dap_global 
 
                             
-                            df[anchor_col_sg] = df[anchor_col].apply(lambda x: merge_predictions_in_concept_level( singularize, x, top_k=top_k_anchors))
-                            df[anchor_col_pl] = df[anchor_col].apply(lambda x: merge_predictions_in_concept_level( pluralize, x, top_k=top_k_anchors))
-                            df[anchor_col_all] = df[anchor_col].apply(lambda x: merge_predictions_in_concept_level( singularize, x, top_k=None))
+                            df[anchor_col_sg] = df[anchor_col].apply(lambda x: merge_predictions_in_concept_level( x, uniform_funcion=singularize, top_k=top_k_anchors))
+                            df[anchor_col_pl] = df[anchor_col].apply(lambda x: merge_predictions_in_concept_level( x, uniform_funcion=pluralize, top_k=top_k_anchors))
+                            df[anchor_col_all] = df[anchor_col].apply(lambda x: merge_predictions_in_concept_level( x, uniform_funcion=singularize, top_k=None))
                          
                             if filter_objects_with_anchors: 
                                 df['subj_anchors_combined'] = df[[sub_col, sub_col_sg, sub_col_pl, anchor_col, anchor_col_sg, anchor_col_pl]].apply(lambda x: f"{x[0]} {x[1]} {x[2]} " + " ".join(x[3]) + " " + " ".join(x[4]) + " " + " ".join(x[5]), axis=1) #x[0] + " " +
                             else:
                                 df['subj_anchors_combined'] = df[[sub_col, sub_col_sg, sub_col_pl]].apply(lambda x: f"{x[0]} {x[1]} {x[2]}", axis=1) #x[0] + " " +
 
+                            ############################# get anchors ############################# 
                             
                             print(f"relation: {relation} \t use_dap: {use_dap}")
                             # step2: fill DAP
@@ -1272,15 +1426,17 @@ for incorporate_operation in incorporate_operations :
                             print("sub_col", sub_col)
                             # (df, relation, relation_to_template, use_dap,  sub_col, anchor_col, incorporate_operation,original_prompt_source='template_sap', top_k_anchors = 1,  dap_col_name='masked_sentences_with_subj_anchor',  mask_string = "[MASK]", use_original_prompt=True ):
                             if not oracle_anchor_inserted:
-                                df = fill_anchor_into_dap(df, relation, relation_to_template, use_dap,
-                                                        sub_col = sub_col, 
-                                                        anchor_col = anchor_col, 
-                                                        incorporate_operation = incorporate_operation , 
-                                                        original_prompt_source= 'masked_sentences', 
-                                                        top_k_anchors = top_k_anchors, 
-                                                        dap_col_name='masked_sentences_with_subj_anchor',
-                                                        mask_string = mask_string, 
-                                                        use_original_prompt=use_original_prompt) #create the dap promtps/masks 
+                                #df = fill_anchor_into_dap(df, relation, relation_to_template, use_dap,
+                                #                        sub_col = sub_col, 
+                                #                        anchor_col = anchor_col, 
+                                #                        incorporate_operation = incorporate_operation , 
+                                #                        original_prompt_source= 'masked_sentences', 
+                                #                        top_k_anchors = top_k_anchors, 
+                                #                        dap_col_name='masked_sentences_with_subj_anchor',
+                                #                        mask_string = mask_string, 
+                                #                        use_original_prompt=use_original_prompt, 
+                                #                        add_article_for_z=True
+                                #                        ) #create the dap promtps/masks 
     
                                 df = fill_anchor_into_dap(df, relation, relation_to_template, use_dap,
                                                         sub_col = sub_col_sg, 
@@ -1290,7 +1446,9 @@ for incorporate_operation in incorporate_operations :
                                                         top_k_anchors = top_k_anchors, 
                                                         dap_col_name='def_dap_with_subj_anchor',
                                                         mask_string = mask_string, 
-                                                        use_original_prompt=use_original_prompt) #create the dap promtps/masks 
+                                                        use_original_prompt=use_original_prompt,
+                                                        add_article_for_z=True
+                                                        ) #create the dap promtps/masks 
     
                                 # fill the def_sap (masked_sentences) with anchors
                                 df = fill_anchor_into_dap(df, relation, relation_to_template, use_dap,
@@ -1301,31 +1459,33 @@ for incorporate_operation in incorporate_operations :
                                                         top_k_anchors = top_k_anchors, 
                                                         dap_col_name='lsp_dap_with_subj_anchor',
                                                         mask_string = mask_string, 
-                                                        use_original_prompt=False) #create the dap promtps/masks 
+                                                        use_original_prompt=False, 
+                                                        add_article_for_z= False
+                                                        ) #create the dap promtps/masks 
     
                             if use_dap:
                                 #step3: filter outputs 
                                 print("\t step3: fill mask in dap anchors")
-                                outputs['obj_mask_sentence_dap'] = [unmasker_obj(x, top_k=top_k) for x in tqdm(df['masked_sentences_with_subj_anchor'].to_list())]
-                                outputs['obj_mask_def_dap'] = [unmasker_obj(x, top_k=top_k) for x in tqdm(df['def_dap_with_subj_anchor'].to_list())]
-                                outputs['obj_mask_lsp_dap'] = [unmasker_obj(x, top_k=top_k) for x in tqdm(df['lsp_dap_with_subj_anchor'].to_list())]
+                                # outputs['obj_mask_sentence_dap'] = [unmasker_obj(x, top_k=2*top_k) for x in tqdm(df['masked_sentences_with_subj_anchor'].to_list())]
+                                outputs['obj_mask_def_dap'] = [unmasker_obj(x, top_k=2*top_k) for x in tqdm(df['def_dap_with_subj_anchor'].to_list(), mininterval=60.0 )]
+                                outputs['obj_mask_lsp_dap'] = [unmasker_obj(x, top_k=2*top_k) for x in tqdm(df['lsp_dap_with_subj_anchor'].to_list(), mininterval=60.0 )]
 
                                
                                 #TODO: 221014 note that the follwing code is likely to affect the results a lot: whether using the anchors to filter the targets.
                                 # need experiments to compare
-                                df[['obj_mask_sentence_dap', 'obj_mask_sentence_dap_score']] = filter_outputs_with_probs(df.subj_anchors_combined.to_list(), 
-                                                                                                        outputs['obj_mask_sentence_dap'],  
-                                                                                                        return_probs=return_probs, 
-                                                                                                        top_k= 2* top_k, 
-                                                                                                        scorer= scorer_target_N_prompts,
-                                                                                                        filter_objects_flag = filter_objects_flag,
-                                                                                                        filter_objects_with_input = filter_objects_with_input 
-                                                                                                        )
+                                # df[['obj_mask_sentence_dap', 'obj_mask_sentence_dap_score']] = filter_outputs_with_probs(df.subj_anchors_combined.to_list(), 
+                                #                                                                         outputs['obj_mask_sentence_dap'],  
+                                #                                                                         return_probs=return_probs, 
+                                #                                                                         top_k= 2* top_k, 
+                                #                                                                         scorer= scorer_target_N_prompts,
+                                #                                                                         filter_objects_flag = filter_objects_flag,
+                                #                                                                         filter_objects_with_input = filter_objects_with_input 
+                                #                                                                         )
 
                                 df[['obj_mask_def_dap', 'obj_mask_def_dap_score']] = filter_outputs_with_probs(df.subj_anchors_combined.to_list(), 
                                                                                                         outputs['obj_mask_def_dap'],  
                                                                                                         return_probs=return_probs, 
-                                                                                                        top_k= 2* top_k, 
+                                                                                                        top_k= 2*top_k, 
                                                                                                         scorer= scorer_target_N_prompts,
                                                                                                         filter_objects_flag = filter_objects_flag,
                                                                                                         filter_objects_with_input = filter_objects_with_input 
@@ -1340,11 +1500,14 @@ for incorporate_operation in incorporate_operations :
                                                                                                         filter_objects_with_input = filter_objects_with_input
                                                                                                         )
                                 # merge the predictions in concept level before evaluation
+                                # words, uniform_funcion=singularize, top_k=top_k 
+                                df['obj_mask_def_sap'] = df['obj_mask_def_sap'].apply(lambda x: merge_predictions_in_concept_level(x, uniform_funcion=None, top_k=top_k))
+                                df['obj_mask_def_dap'] = df['obj_mask_def_dap'].apply(lambda x: merge_predictions_in_concept_level(x, uniform_funcion=None, top_k=top_k))
+                                df['obj_mask_lsp_sap'] = df['obj_mask_lsp_sap'].apply(lambda x: merge_predictions_in_concept_level(x, uniform_funcion=singularize, top_k=top_k))
+                                df['obj_mask_lsp_dap'] = df['obj_mask_lsp_dap'].apply(lambda x: merge_predictions_in_concept_level(x, uniform_funcion=singularize, top_k=top_k))
 
-                                df['obj_mask_def_dap'] = df['obj_mask_def_dap'].apply(lambda x: merge_predictions_in_concept_level(singularize, x, top_k))
-                                df['obj_mask_lsp_dap'] = df['obj_mask_lsp_dap'].apply(lambda x: merge_predictions_in_concept_level(singularize, x, top_k))
-                                df['obj_mask_lsp_sap'] = df['obj_mask_lsp_sap'].apply(lambda x: merge_predictions_in_concept_level(singularize, x, top_k))
-                                df['obj_mask_def_sap'] = df['obj_mask_def_sap'].apply(lambda x: merge_predictions_in_concept_level(singularize, x, top_k))
+                                #df['obj_mask_lsp_sap'] = df['obj_mask_lsp_sap'].apply(lambda x: [singularize(word) for word in x])
+                                #df['obj_mask_lsp_dap'] = df['obj_mask_lsp_dap'].apply(lambda x: [singularize(word) for word in x])
 
                                 # step4: merge dap and sap
                                 # df['obj_mask_def_sap_dap'] = df[[ 'obj_mask_sentence_score', 'obj_mask_def_dap_score']].apply(lambda x: aggregate_candidates(x[0], x[1], top_k=top_k), axis=1)
@@ -1361,47 +1524,49 @@ for incorporate_operation in incorporate_operations :
                             # Evaluations
                             # df['obj_mask_lsp_sap'] = df['obj_mask_lsp_sap'].apply(lambda x: [singularize(word) for word in x])
                             # df['obj_mask_lsp_dap'] = df['obj_mask_lsp_dap'].apply(lambda x: [singularize(word) for word in x])
-                            df['obj_mask_def_sap_uniform'] = df['obj_mask_def_sap'].apply(lambda x: [uniform_function(word) for word in x])
-                            df['obj_mask_lsp_sap_uniform'] = df['obj_mask_lsp_sap'].apply(lambda x: [uniform_function(word) for word in x])
+                            # df['obj_mask_def_sap_uniform'] = df['obj_mask_def_sap'].apply(lambda x: [uniform_function(word) for word in x])
+                            # df['obj_mask_lsp_sap_uniform'] = df['obj_mask_lsp_sap'].apply(lambda x: [uniform_function(word) for word in x])
 
-                            df['obj_mask_def_dap_uniform'] = df['obj_mask_def_dap'].apply(lambda x: [uniform_function(word) for word in x])
-                            df['obj_mask_lsp_dap_uniform'] = df['obj_mask_lsp_dap'].apply(lambda x: [uniform_function(word) for word in x])
+                            # df['obj_mask_def_dap_uniform'] = df['obj_mask_def_dap'].apply(lambda x: [uniform_function(word) for word in x])
+                            # df['obj_mask_lsp_dap_uniform'] = df['obj_mask_lsp_dap'].apply(lambda x: [uniform_function(word) for word in x])
 
                         ################################################# Evaluation: anchors ################################################# 
-                        if 'sub_sister' in df.columns:
-                            print("-"*40,"anchor evaluation", "-"*40)
-                            pred_col_suffix=''
-                            label_col = 'sub_sister'
-                            pred_cols = [anchor_col_sg, anchor_col_all] #['subj_anchors']
-                            df_prec_anchor = get_precision_at_k_concept(df, relation, pred_cols, label_col, k_list=[1, 5, 10],pred_col_suffix=pred_col_suffix ) ##note that this would be super slow when top_k is large (>1000) 
-                            df_mrr =  get_mrr(df, relation, pred_cols, label_col, pred_col_suffix)
-                            df_prec_anchor['mrr'] = df_prec_anchor['mask_type'].apply(lambda x:  df_mrr.loc[df_mrr['mask_type']==x, f'mrr'].values[0])
+                        if 'sub_sister' not in df.columns:
+                                df['sub_sister'] = df['sub_label_sg'].apply(lambda x: word_to_cohyponyms.get(x)) 
+                        print("-"*40,"anchor evaluation", "-"*40)
+                        pred_col_suffix=''
+                        label_col = 'sub_sister' 
+                        pred_cols = [anchor_col_sg, anchor_col_all] #['subj_anchors']
+                        dfa = df.loc[df[label_col].str.len() >0]
+                        df_prec_anchor = get_precision_at_k_concept(dfa, relation, pred_cols, label_col, k_list=[1, 5, 10],pred_col_suffix=pred_col_suffix ) ##note that this would be super slow when top_k is large (>1000) 
+                        df_mrr =  get_mrr(dfa, relation, pred_cols, label_col, pred_col_suffix)
+                        df_prec_anchor['mrr'] = df_prec_anchor['mask_type'].apply(lambda x:  df_mrr.loc[df_mrr['mask_type']==x, f'mrr'].values[0])
 
-                            # df_mAP = get_mean_average_precision_at_k(df, relation, pred_cols,label_col, k_list=[1, 5, max_anchor_num], pred_col_suffix=pred_col_suffix)
-                            # df_recall = get_recall_at_k(df, relation, pred_cols, label_col, k_list=[1, 5, max_anchor_num], pred_col_suffix=pred_col_suffix)
-                            # for k in [1, 5, max_anchor_num]:
-                                # df_prec_anchor[f'mAP@{k}'] = df_prec_anchor['mask_type'].apply(lambda x:  df_mAP.loc[df_mAP['mask_type']==x, f'mAP@{k}'].values[0])
-                                # df_prec_anchor[f'recall@{k}'] = df_recall['mask_type'].apply(lambda x:  df_recall.loc[df_mAP['mask_type']==x, f'recall@{k}'].values[0])
+                        # df_mAP = get_mean_average_precision_at_k(df, relation, pred_cols,label_col, k_list=[1, 5, max_anchor_num], pred_col_suffix=pred_col_suffix)
+                        # df_recall = get_recall_at_k(df, relation, pred_cols, label_col, k_list=[1, 5, max_anchor_num], pred_col_suffix=pred_col_suffix)
+                        # for k in [1, 5, max_anchor_num]:
+                            # df_prec_anchor[f'mAP@{k}'] = df_prec_anchor['mask_type'].apply(lambda x:  df_mAP.loc[df_mAP['mask_type']==x, f'mAP@{k}'].values[0])
+                            # df_prec_anchor[f'recall@{k}'] = df_recall['mask_type'].apply(lambda x:  df_recall.loc[df_mAP['mask_type']==x, f'recall@{k}'].values[0])
 
-                            # add WordNet path score for evaluation 
-                            anchor_wordnet_avg_path, anchor_wordnet_coverage = get_wordnet_avg_path_between_sub_and_anchors(df, oov_path_len = 100)
-                            df_prec_anchor['anchor_wordnet_avg_path'] = anchor_wordnet_avg_path
-                            df_prec_anchor['anchor_wordnet_coverage'] = anchor_wordnet_coverage
+                        # add WordNet path score for evaluation 
+                        anchor_wordnet_avg_path, anchor_wordnet_coverage = get_wordnet_avg_path_between_sub_and_anchors(dfa, anchor_col, oov_path_len = 100)
+                        df_prec_anchor['anchor_wordnet_avg_path'] = anchor_wordnet_avg_path
+                        df_prec_anchor['anchor_wordnet_coverage'] = anchor_wordnet_coverage
 
-                            df_prec_anchor_display = df_prec_anchor[["mask_type", "p@1", "p@5", "p@10", 'mrr', "anchor_wordnet_avg_path", "anchor_wordnet_coverage" ]] #f"p@{max_anchor_num}", "relation",  
-                                                       #"mAP@1", "mAP@5" , f"mAP@{max_anchor_num}", "recall@1", "recall@5", f"recall@{max_anchor_num}", 
-                                                       # ]]
-    
-                            df_prec_anchor['label'] = 'sub_sister'
-                            # print(tabulate(df_prec_anchor_display, headers='firstrow', tablefmt='simple'))
-                            print(tabulate(df_prec_anchor_display, tablefmt='latex', headers=df_prec_anchor_display.columns).replace("\\", "").replace("&", "\t"))
-                            # display(df_prec_anchor_display)
+                        df_prec_anchor_display = df_prec_anchor[["mask_type", "p@1", "p@5", "p@10", 'mrr', "anchor_wordnet_avg_path", "anchor_wordnet_coverage" ]] #f"p@{max_anchor_num}", "relation",  
+                                                    #"mAP@1", "mAP@5" , f"mAP@{max_anchor_num}", "recall@1", "recall@5", f"recall@{max_anchor_num}", 
+                                                    # ]]
+
+                        df_prec_anchor['label'] = 'sub_sister'
+                        # print(tabulate(df_prec_anchor_display, headers='firstrow', tablefmt='simple'))
+                        print(tabulate(df_prec_anchor_display, tablefmt='latex', headers=df_prec_anchor_display.columns).replace("\\", "").replace("&", "\t"))
+                        # display(df_prec_anchor_display)
 
 
                         ################################################# Evaluation: obj_label ################################################# 
                         print("-"*40,"obj_label evaluation", "-"*40)
                         pred_col_suffix='obj_mask_'
-                        df['obj_label_sg'] = df['obj_label'].apply(lambda x: [singularize(word) for word in x])
+                        df['obj_label_sg'] = df['obj_label']#.apply(lambda x: [singularize(word) for word in x])
                         label_col = 'obj_label_sg'
 
                         pred_cols  =[col  for col in df.columns if col.startswith(pred_col_suffix) and "_score" not in col]  #predicted target cols, e
@@ -1420,7 +1585,7 @@ for incorporate_operation in incorporate_operations :
                         #     df_prec[f'recall@{k}'] = df_recall['mask_type'].apply(lambda x:  df_recall.loc[df_mAP['mask_type']==x, f'recall@{k}'].values[0])
 
                         # add WordNet path score for evaluation 
-                        anchor_wordnet_avg_path, anchor_wordnet_coverage = get_wordnet_avg_path_between_sub_and_anchors(df, oov_path_len = 100)
+                        anchor_wordnet_avg_path, anchor_wordnet_coverage = get_wordnet_avg_path_between_sub_and_anchors(df, anchor_col, oov_path_len = 100)
                         df_prec['anchor_wordnet_avg_path'] = anchor_wordnet_avg_path
                         df_prec['anchor_wordnet_coverage'] = anchor_wordnet_coverage
                         # df_prec = df_prec[['mask_type', 'p@1', 'p@10', 'mrr', 'p@3', 'mAP', 'relation' ]]
@@ -1444,16 +1609,15 @@ for incorporate_operation in incorporate_operations :
                         for name,group in df_res_all.groupby('relation'):
                             display(group)
                     # if not debug:
-                    file_results = f'{save_dir}/df_all_use_global_dap_{use_dap_global}_anchor_type_{anchor_type}_{incorporate_operation}_max_anchor_num_{top_k_anchors}_anchor_scorer_{scorer_anchor}_filter_obj_{filter_objects_flag}_filter_objects_with_input_{filter_objects_with_input}_wnp_{add_wordnet_path_score}_cpt_{add_cpt_score}.{dataset}.tsv'
+                    file_results = f'{save_dir}/df_all_use_global_dap_{use_dap_global}_max_anchor_num_{top_k_anchors}_anchor_scorer_{scorer_anchor}_filter_obj_{filter_objects_flag}_filter_objects_with_input_{filter_objects_with_input}_wnp_{add_wordnet_path_score}_cpt_{add_cpt_score}_anchor_source_{anchor_source}_swow_score_source_{swow_score_source}.{dataset}.tsv'
 
                     # df_res_all.to_csv(file_results, sep='\t')
                     pd.concat([df_prec_anchor, df_res_all]).to_csv(file_results, sep='\t')
                     print(f"save {file_results}")
                     
                     if save_all_data:
-                        file_data_results = f'{save_dir}/exp_data_results_anchor_type_{anchor_type}_{incorporate_operation}_max_anchor_num_{top_k_anchors}_anchor_scorer_{scorer_anchor}_filter_obj_{filter_objects_flag}_filter_objects_with_input_{filter_objects_with_input}_wnp_{add_wordnet_path_score}_cpt_{add_cpt_score}.{dataset}.csv' 
+                        file_data_results = f'{save_dir}/exp_data_results_max_anchor_num_{top_k_anchors}_anchor_scorer_{scorer_anchor}_filter_obj_{filter_objects_flag}_filter_objects_with_input_{filter_objects_with_input}_wnp_{add_wordnet_path_score}_cpt_{add_cpt_score}_anchor_source_{anchor_source}_swow_score_source_{swow_score_source}.{dataset}.csv' 
                         dfs_data = pd.concat(dfs)
                         dfs_data.to_csv(file_data_results)
                         print(f"save {file_data_results}")
                     
-
