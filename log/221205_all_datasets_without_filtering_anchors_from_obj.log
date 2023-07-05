@@ -1,0 +1,30 @@
+debug: False
+Traceback (most recent call last):
+  File "anchored_prompts.py", line 1211, in <module>
+    anchor_col= config['anchor_col_prefix'] #'subj_anchors'
+KeyError: 'anchor_col_prefix'
+debug: False
+Traceback (most recent call last):
+  File "anchored_prompts.py", line 1211, in <module>
+    anchor_col= config['anchor_col_prefix'] #'subj_anchors'
+KeyError: 'anchor_col_prefix'
+debug: False
+Traceback (most recent call last):
+  File "anchored_prompts.py", line 1211, in <module>
+    anchor_col= config['anchor_col_prefix'] #'subj_anchors'
+KeyError: 'anchor_col_prefix'
+debug: False
+Traceback (most recent call last):
+  File "anchored_prompts.py", line 1211, in <module>
+    anchor_col= config['anchor_col_prefix'] #'subj_anchors'
+KeyError: 'anchor_col_prefix'
+debug: False
+Traceback (most recent call last):
+  File "anchored_prompts.py", line 1216, in <module>
+    add_swow_score= config["add_swow_score"] #True  #False #
+KeyError: 'add_swow_score'
+debug: False
+Traceback (most recent call last):
+  File "anchored_prompts.py", line 1211, in <module>
+    anchor_col= config['anchor_col_prefix'] #'subj_anchors'
+KeyError: 'anchor_col_prefix'

@@ -1,0 +1,576 @@
+{"sub_label": "graver", "obj_label": ["tool", "tools"], "masked_sentences": ["A graver is a [MASK]."], "uuid": 1, "relation": "IsA", "sub_label_pl": "gravers"}
+{"sub_label": "smallmouth", "obj_label": ["fish"], "masked_sentences": ["A smallmouth is a [MASK]."], "uuid": 2, "relation": "IsA", "sub_label_pl": "smallmouths"}
+{"sub_label": "pelican", "obj_label": ["bird", "birds"], "masked_sentences": ["A pelican is a [MASK]."], "uuid": 3, "relation": "IsA", "sub_label_pl": "pelicans"}
+{"sub_label": "sapsucker", "obj_label": ["bird", "birds"], "masked_sentences": ["A sapsucker is a [MASK]."], "uuid": 4, "relation": "IsA", "sub_label_pl": "sapsuckers"}
+{"sub_label": "mako", "obj_label": ["fish"], "masked_sentences": ["A mako is a [MASK]."], "uuid": 5, "relation": "IsA", "sub_label_pl": "makos"}
+{"sub_label": "stanhope", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A stanhope is a [MASK]."], "uuid": 6, "relation": "IsA", "sub_label_pl": "stanhopes"}
+{"sub_label": "redhorse", "obj_label": ["fish"], "masked_sentences": ["A redhorse is a [MASK]."], "uuid": 7, "relation": "IsA", "sub_label_pl": "redhorses"}
+{"sub_label": "bigeye", "obj_label": ["fish"], "masked_sentences": ["A bigeye is a [MASK]."], "uuid": 8, "relation": "IsA", "sub_label_pl": "bigeyes"}
+{"sub_label": "merganser", "obj_label": ["bird", "birds"], "masked_sentences": ["A merganser is a [MASK]."], "uuid": 9, "relation": "IsA", "sub_label_pl": "mergansers"}
+{"sub_label": "terebinth", "obj_label": ["tree", "trees"], "masked_sentences": ["A terebinth is a [MASK]."], "uuid": 10, "relation": "IsA", "sub_label_pl": "terebinths"}
+{"sub_label": "speedboat", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A speedboat is a [MASK]."], "uuid": 11, "relation": "IsA", "sub_label_pl": "speedboats"}
+{"sub_label": "limber", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A limber is a [MASK]."], "uuid": 12, "relation": "IsA", "sub_label_pl": "limbers"}
+{"sub_label": "marigold", "obj_label": ["flower", "flowers"], "masked_sentences": ["A marigold is a [MASK]."], "uuid": 13, "relation": "IsA", "sub_label_pl": "marigolds"}
+{"sub_label": "skateboard", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A skateboard is a [MASK]."], "uuid": 14, "relation": "IsA", "sub_label_pl": "skateboards"}
+{"sub_label": "gazebo", "obj_label": ["building", "buildings"], "masked_sentences": ["A gazebo is a [MASK]."], "uuid": 15, "relation": "IsA", "sub_label_pl": "gazebos"}
+{"sub_label": "chough", "obj_label": ["bird", "birds"], "masked_sentences": ["A chough is a [MASK]."], "uuid": 16, "relation": "IsA", "sub_label_pl": "choughs"}
+{"sub_label": "steamboat", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A steamboat is a [MASK]."], "uuid": 17, "relation": "IsA", "sub_label_pl": "steamboats"}
+{"sub_label": "finch", "obj_label": ["bird", "birds"], "masked_sentences": ["A finch is a [MASK]."], "uuid": 18, "relation": "IsA", "sub_label_pl": "finches"}
+{"sub_label": "cafeteria", "obj_label": ["building", "buildings"], "masked_sentences": ["A cafeteria is a [MASK]."], "uuid": 19, "relation": "IsA", "sub_label_pl": "cafeteria"}
+{"sub_label": "helicopter", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A helicopter is a [MASK]."], "uuid": 20, "relation": "IsA", "sub_label_pl": "helicopters"}
+{"sub_label": "scythe", "obj_label": ["tool", "tools"], "masked_sentences": ["A scythe is a [MASK]."], "uuid": 21, "relation": "IsA", "sub_label_pl": "scythes"}
+{"sub_label": "eggar", "obj_label": ["insect", "insects"], "masked_sentences": ["An eggar is an [MASK]."], "uuid": 22, "relation": "IsA", "sub_label_pl": "eggars"}
+{"sub_label": "woodpecker", "obj_label": ["bird", "birds"], "masked_sentences": ["A woodpecker is a [MASK]."], "uuid": 23, "relation": "IsA", "sub_label_pl": "woodpeckers"}
+{"sub_label": "puffin", "obj_label": ["bird", "birds"], "masked_sentences": ["A puffin is a [MASK]."], "uuid": 24, "relation": "IsA", "sub_label_pl": "puffins"}
+{"sub_label": "limpkin", "obj_label": ["bird", "birds"], "masked_sentences": ["A limpkin is a [MASK]."], "uuid": 25, "relation": "IsA", "sub_label_pl": "limpkins"}
+{"sub_label": "penknife", "obj_label": ["tool", "tools"], "masked_sentences": ["A penknife is a [MASK]."], "uuid": 26, "relation": "IsA", "sub_label_pl": "penknives"}
+{"sub_label": "stingray", "obj_label": ["fish"], "masked_sentences": ["A stingray is a [MASK]."], "uuid": 27, "relation": "IsA", "sub_label_pl": "stingrays"}
+{"sub_label": "myna", "obj_label": ["bird", "birds"], "masked_sentences": ["A myna is a [MASK]."], "uuid": 28, "relation": "IsA", "sub_label_pl": "mynas"}
+{"sub_label": "owl", "obj_label": ["bird", "birds"], "masked_sentences": ["An owl is a [MASK]."], "uuid": 29, "relation": "IsA", "sub_label_pl": "owls"}
+{"sub_label": "palmetto", "obj_label": ["tree", "trees"], "masked_sentences": ["A palmetto is a [MASK]."], "uuid": 30, "relation": "IsA", "sub_label_pl": "palmettos"}
+{"sub_label": "tamp", "obj_label": ["tool", "tools"], "masked_sentences": ["A tamp is a [MASK]."], "uuid": 31, "relation": "IsA", "sub_label_pl": "tamps"}
+{"sub_label": "laelia", "obj_label": ["flower", "flowers"], "masked_sentences": ["A laelia is a [MASK]."], "uuid": 32, "relation": "IsA", "sub_label_pl": "laelia"}
+{"sub_label": "limousine", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A limousine is a [MASK]."], "uuid": 33, "relation": "IsA", "sub_label_pl": "limousines"}
+{"sub_label": "goldcrest", "obj_label": ["bird", "birds"], "masked_sentences": ["A goldcrest is a [MASK]."], "uuid": 34, "relation": "IsA", "sub_label_pl": "goldcrests"}
+{"sub_label": "sled", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A sled is a [MASK]."], "uuid": 35, "relation": "IsA", "sub_label_pl": "sleds"}
+{"sub_label": "barong", "obj_label": ["tool", "tools"], "masked_sentences": ["A barong is a [MASK]."], "uuid": 36, "relation": "IsA", "sub_label_pl": "barongs"}
+{"sub_label": "vanda", "obj_label": ["flower", "flowers"], "masked_sentences": ["A vanda is a [MASK]."], "uuid": 37, "relation": "IsA", "sub_label_pl": "vandas"}
+{"sub_label": "stable", "obj_label": ["building", "buildings"], "masked_sentences": ["A stable is a [MASK]."], "uuid": 38, "relation": "IsA", "sub_label_pl": "stables"}
+{"sub_label": "bobolink", "obj_label": ["bird", "birds"], "masked_sentences": ["A bobolink is a [MASK]."], "uuid": 39, "relation": "IsA", "sub_label_pl": "bobolinks"}
+{"sub_label": "warplane", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A warplane is a [MASK]."], "uuid": 40, "relation": "IsA", "sub_label_pl": "warplanes"}
+{"sub_label": "dinghy", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A dinghy is a [MASK]."], "uuid": 41, "relation": "IsA", "sub_label_pl": "dinghies"}
+{"sub_label": "autogiro", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["An autogiro is a [MASK]."], "uuid": 42, "relation": "IsA", "sub_label_pl": "autogiros"}
+{"sub_label": "coelogyne", "obj_label": ["flower", "flowers"], "masked_sentences": ["A coelogyne is a [MASK]."], "uuid": 43, "relation": "IsA", "sub_label_pl": "coelogynes"}
+{"sub_label": "thornbill", "obj_label": ["bird", "birds"], "masked_sentences": ["A thornbill is a [MASK]."], "uuid": 44, "relation": "IsA", "sub_label_pl": "thornbills"}
+{"sub_label": "cassowary", "obj_label": ["bird", "birds"], "masked_sentences": ["A cassowary is a [MASK]."], "uuid": 45, "relation": "IsA", "sub_label_pl": "cassowaries"}
+{"sub_label": "matai", "obj_label": ["tree", "trees"], "masked_sentences": ["A matai is a [MASK]."], "uuid": 46, "relation": "IsA", "sub_label_pl": "matais"}
+{"sub_label": "pedicab", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A pedicab is a [MASK]."], "uuid": 47, "relation": "IsA", "sub_label_pl": "pedicabs"}
+{"sub_label": "hayfork", "obj_label": ["tool", "tools"], "masked_sentences": ["A hayfork is a [MASK]."], "uuid": 48, "relation": "IsA", "sub_label_pl": "hayforks"}
+{"sub_label": "tuberose", "obj_label": ["flower", "flowers"], "masked_sentences": ["A tuberose is a [MASK]."], "uuid": 49, "relation": "IsA", "sub_label_pl": "tuberoses"}
+{"sub_label": "roadrunner", "obj_label": ["bird", "birds"], "masked_sentences": ["A roadrunner is a [MASK]."], "uuid": 50, "relation": "IsA", "sub_label_pl": "roadrunners"}
+{"sub_label": "adz", "obj_label": ["tool", "tools"], "masked_sentences": ["An adz is a [MASK]."], "uuid": 51, "relation": "IsA", "sub_label_pl": "adzs"}
+{"sub_label": "ripsaw", "obj_label": ["tool", "tools"], "masked_sentences": ["A ripsaw is a [MASK]."], "uuid": 52, "relation": "IsA", "sub_label_pl": "ripsaws"}
+{"sub_label": "parang", "obj_label": ["tool", "tools"], "masked_sentences": ["A parang is a [MASK]."], "uuid": 53, "relation": "IsA", "sub_label_pl": "parangs"}
+{"sub_label": "parsonage", "obj_label": ["building", "buildings"], "masked_sentences": ["A parsonage is a [MASK]."], "uuid": 54, "relation": "IsA", "sub_label_pl": "parsonages"}
+{"sub_label": "whaleboat", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A whaleboat is a [MASK]."], "uuid": 55, "relation": "IsA", "sub_label_pl": "whaleboats"}
+{"sub_label": "imaret", "obj_label": ["building", "buildings"], "masked_sentences": ["An imaret is a [MASK]."], "uuid": 56, "relation": "IsA", "sub_label_pl": "imarets"}
+{"sub_label": "buckboard", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A buckboard is a [MASK]."], "uuid": 57, "relation": "IsA", "sub_label_pl": "buckboards"}
+{"sub_label": "grosbeak", "obj_label": ["bird", "birds"], "masked_sentences": ["A grosbeak is a [MASK]."], "uuid": 58, "relation": "IsA", "sub_label_pl": "grosbeaks"}
+{"sub_label": "mangrove", "obj_label": ["tree", "trees"], "masked_sentences": ["A mangrove is a [MASK]."], "uuid": 59, "relation": "IsA", "sub_label_pl": "mangroves"}
+{"sub_label": "auk", "obj_label": ["bird", "birds"], "masked_sentences": ["An auk is a [MASK]."], "uuid": 60, "relation": "IsA", "sub_label_pl": "auks"}
+{"sub_label": "yacht", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A yacht is a [MASK]."], "uuid": 61, "relation": "IsA", "sub_label_pl": "yachts"}
+{"sub_label": "glider", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A glider is a [MASK]."], "uuid": 62, "relation": "IsA", "sub_label_pl": "gliders"}
+{"sub_label": "chalet", "obj_label": ["building", "buildings"], "masked_sentences": ["A chalet is a [MASK]."], "uuid": 63, "relation": "IsA", "sub_label_pl": "chalets"}
+{"sub_label": "odontoglossum", "obj_label": ["flower", "flowers"], "masked_sentences": ["An odontoglossum is a [MASK]."], "uuid": 64, "relation": "IsA", "sub_label_pl": "odontoglossums"}
+{"sub_label": "shanny", "obj_label": ["fish"], "masked_sentences": ["A shanny is a [MASK]."], "uuid": 65, "relation": "IsA", "sub_label_pl": "shannies"}
+{"sub_label": "burbot", "obj_label": ["fish"], "masked_sentences": ["A burbot is a [MASK]."], "uuid": 66, "relation": "IsA", "sub_label_pl": "burbots"}
+{"sub_label": "marlin", "obj_label": ["fish"], "masked_sentences": ["A marlin is a [MASK]."], "uuid": 67, "relation": "IsA", "sub_label_pl": "marlins"}
+{"sub_label": "oxcart", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["An oxcart is a [MASK]."], "uuid": 68, "relation": "IsA", "sub_label_pl": "oxcarts"}
+{"sub_label": "acacia", "obj_label": ["tree", "trees"], "masked_sentences": ["An acacia is a [MASK]."], "uuid": 69, "relation": "IsA", "sub_label_pl": "acacia"}
+{"sub_label": "dita", "obj_label": ["tree", "trees"], "masked_sentences": ["A dita is a [MASK]."], "uuid": 70, "relation": "IsA", "sub_label_pl": "dita"}
+{"sub_label": "locomotive", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A locomotive is a [MASK]."], "uuid": 71, "relation": "IsA", "sub_label_pl": "locomotives"}
+{"sub_label": "argentine", "obj_label": ["fish"], "masked_sentences": ["An argentine is a [MASK]."], "uuid": 72, "relation": "IsA", "sub_label_pl": "argentines"}
+{"sub_label": "wrasse", "obj_label": ["fish"], "masked_sentences": ["A wrasse is a [MASK]."], "uuid": 73, "relation": "IsA", "sub_label_pl": "wrasses"}
+{"sub_label": "ambulance", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["An ambulance is a [MASK]."], "uuid": 74, "relation": "IsA", "sub_label_pl": "ambulances"}
+{"sub_label": "hacksaw", "obj_label": ["tool", "tools"], "masked_sentences": ["A hacksaw is a [MASK]."], "uuid": 75, "relation": "IsA", "sub_label_pl": "hacksaws"}
+{"sub_label": "ironclad", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["An ironclad is a [MASK]."], "uuid": 76, "relation": "IsA", "sub_label_pl": "ironclads"}
+{"sub_label": "nigella", "obj_label": ["flower", "flowers"], "masked_sentences": ["A nigella is a [MASK]."], "uuid": 77, "relation": "IsA", "sub_label_pl": "nigellas"}
+{"sub_label": "restaurant", "obj_label": ["building", "buildings"], "masked_sentences": ["A restaurant is a [MASK]."], "uuid": 78, "relation": "IsA", "sub_label_pl": "restaurants"}
+{"sub_label": "tinamou", "obj_label": ["bird", "birds"], "masked_sentences": ["A tinamou is a [MASK]."], "uuid": 79, "relation": "IsA", "sub_label_pl": "tinamous"}
+{"sub_label": "alcazar", "obj_label": ["building", "buildings"], "masked_sentences": ["An alcazar is a [MASK]."], "uuid": 80, "relation": "IsA", "sub_label_pl": "alcazars"}
+{"sub_label": "peafowl", "obj_label": ["bird", "birds"], "masked_sentences": ["A peafowl is a [MASK]."], "uuid": 81, "relation": "IsA", "sub_label_pl": "peafowls"}
+{"sub_label": "cygnet", "obj_label": ["bird", "birds"], "masked_sentences": ["A cygnet is a [MASK]."], "uuid": 82, "relation": "IsA", "sub_label_pl": "cygnets"}
+{"sub_label": "dredger", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A dredger is a [MASK]."], "uuid": 83, "relation": "IsA", "sub_label_pl": "dredgers"}
+{"sub_label": "toucanet", "obj_label": ["bird", "birds"], "masked_sentences": ["A toucanet is a [MASK]."], "uuid": 84, "relation": "IsA", "sub_label_pl": "toucanets"}
+{"sub_label": "murre", "obj_label": ["bird", "birds"], "masked_sentences": ["A murre is a [MASK]."], "uuid": 85, "relation": "IsA", "sub_label_pl": "murres"}
+{"sub_label": "orangery", "obj_label": ["building", "buildings"], "masked_sentences": ["An orangery is a [MASK]."], "uuid": 86, "relation": "IsA", "sub_label_pl": "orangeries"}
+{"sub_label": "ziggurat", "obj_label": ["building", "buildings"], "masked_sentences": ["A ziggurat is a [MASK]."], "uuid": 87, "relation": "IsA", "sub_label_pl": "ziggurats"}
+{"sub_label": "mockernut", "obj_label": ["tree", "trees"], "masked_sentences": ["A mockernut is a [MASK]."], "uuid": 88, "relation": "IsA", "sub_label_pl": "mockernuts"}
+{"sub_label": "greenhouse", "obj_label": ["building", "buildings"], "masked_sentences": ["A greenhouse is a [MASK]."], "uuid": 89, "relation": "IsA", "sub_label_pl": "greenhouses"}
+{"sub_label": "ax", "obj_label": ["tool", "tools"], "masked_sentences": ["An ax is a [MASK]."], "uuid": 90, "relation": "IsA", "sub_label_pl": "axes"}
+{"sub_label": "snowplow", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A snowplow is a [MASK]."], "uuid": 91, "relation": "IsA", "sub_label_pl": "snowplows"}
+{"sub_label": "moth", "obj_label": ["insect", "insects"], "masked_sentences": ["A moth is an [MASK]."], "uuid": 92, "relation": "IsA", "sub_label_pl": "moths"}
+{"sub_label": "pupa", "obj_label": ["insect", "insects"], "masked_sentences": ["A pupa is an [MASK]."], "uuid": 93, "relation": "IsA", "sub_label_pl": "pupas"}
+{"sub_label": "capercaillie", "obj_label": ["bird", "birds"], "masked_sentences": ["A capercaillie is a [MASK]."], "uuid": 94, "relation": "IsA", "sub_label_pl": "capercaillies"}
+{"sub_label": "salmonid", "obj_label": ["fish"], "masked_sentences": ["A salmonid is a [MASK]."], "uuid": 95, "relation": "IsA", "sub_label_pl": "salmonids"}
+{"sub_label": "greylag", "obj_label": ["bird", "birds"], "masked_sentences": ["A greylag is a [MASK]."], "uuid": 96, "relation": "IsA", "sub_label_pl": "greylags"}
+{"sub_label": "moray", "obj_label": ["fish"], "masked_sentences": ["A moray is a [MASK]."], "uuid": 97, "relation": "IsA", "sub_label_pl": "morays"}
+{"sub_label": "tetra", "obj_label": ["fish"], "masked_sentences": ["A tetra is a [MASK]."], "uuid": 98, "relation": "IsA", "sub_label_pl": "tetras"}
+{"sub_label": "macaw", "obj_label": ["bird", "birds"], "masked_sentences": ["A macaw is a [MASK]."], "uuid": 99, "relation": "IsA", "sub_label_pl": "macaws"}
+{"sub_label": "swordtail", "obj_label": ["fish"], "masked_sentences": ["A swordtail is a [MASK]."], "uuid": 100, "relation": "IsA", "sub_label_pl": "swordtails"}
+{"sub_label": "calendula", "obj_label": ["flower", "flowers"], "masked_sentences": ["A calendula is a [MASK]."], "uuid": 101, "relation": "IsA", "sub_label_pl": "calendulas"}
+{"sub_label": "frogmouth", "obj_label": ["bird", "birds"], "masked_sentences": ["A frogmouth is a [MASK]."], "uuid": 102, "relation": "IsA", "sub_label_pl": "frogmouths"}
+{"sub_label": "hovercraft", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A hovercraft is a [MASK]."], "uuid": 103, "relation": "IsA", "sub_label_pl": "hovercrafts"}
+{"sub_label": "drosophila", "obj_label": ["insect", "insects"], "masked_sentences": ["A drosophila is an [MASK]."], "uuid": 104, "relation": "IsA", "sub_label_pl": "drosophilas"}
+{"sub_label": "scarab", "obj_label": ["insect", "insects"], "masked_sentences": ["A scarab is an [MASK]."], "uuid": 105, "relation": "IsA", "sub_label_pl": "scarabs"}
+{"sub_label": "valerian", "obj_label": ["flower", "flowers"], "masked_sentences": ["A valerian is a [MASK]."], "uuid": 106, "relation": "IsA", "sub_label_pl": "valerians"}
+{"sub_label": "mallard", "obj_label": ["bird", "birds"], "masked_sentences": ["A mallard is a [MASK]."], "uuid": 107, "relation": "IsA", "sub_label_pl": "mallards"}
+{"sub_label": "rammer", "obj_label": ["tool", "tools"], "masked_sentences": ["A rammer is a [MASK]."], "uuid": 108, "relation": "IsA", "sub_label_pl": "rammers"}
+{"sub_label": "mayfly", "obj_label": ["insect", "insects"], "masked_sentences": ["A mayfly is an [MASK]."], "uuid": 109, "relation": "IsA", "sub_label_pl": "mayflies"}
+{"sub_label": "mojarra", "obj_label": ["fish"], "masked_sentences": ["A mojarra is a [MASK]."], "uuid": 110, "relation": "IsA", "sub_label_pl": "mojarras"}
+{"sub_label": "steakhouse", "obj_label": ["building", "buildings"], "masked_sentences": ["A steakhouse is a [MASK]."], "uuid": 111, "relation": "IsA", "sub_label_pl": "steakhouses"}
+{"sub_label": "shed", "obj_label": ["building", "buildings"], "masked_sentences": ["A shed is a [MASK]."], "uuid": 112, "relation": "IsA", "sub_label_pl": "sheds"}
+{"sub_label": "corvette", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A corvette is a [MASK]."], "uuid": 113, "relation": "IsA", "sub_label_pl": "corvettes"}
+{"sub_label": "kinglet", "obj_label": ["bird", "birds"], "masked_sentences": ["A kinglet is a [MASK]."], "uuid": 114, "relation": "IsA", "sub_label_pl": "kinglets"}
+{"sub_label": "dispensary", "obj_label": ["building", "buildings"], "masked_sentences": ["A dispensary is a [MASK]."], "uuid": 115, "relation": "IsA", "sub_label_pl": "dispensaries"}
+{"sub_label": "dinky", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A dinky is a [MASK]."], "uuid": 116, "relation": "IsA", "sub_label_pl": "dinkies"}
+{"sub_label": "jackscrew", "obj_label": ["tool", "tools"], "masked_sentences": ["A jackscrew is a [MASK]."], "uuid": 117, "relation": "IsA", "sub_label_pl": "jackscrews"}
+{"sub_label": "kahikatea", "obj_label": ["tree", "trees"], "masked_sentences": ["A kahikatea is a [MASK]."], "uuid": 118, "relation": "IsA", "sub_label_pl": "kahikateas"}
+{"sub_label": "cafe", "obj_label": ["building", "buildings"], "masked_sentences": ["A cafe is a [MASK]."], "uuid": 119, "relation": "IsA", "sub_label_pl": "caves"}
+{"sub_label": "straightedge", "obj_label": ["tool", "tools"], "masked_sentences": ["A straightedge is a [MASK]."], "uuid": 120, "relation": "IsA", "sub_label_pl": "straightedges"}
+{"sub_label": "chachalaca", "obj_label": ["bird", "birds"], "masked_sentences": ["A chachalaca is a [MASK]."], "uuid": 121, "relation": "IsA", "sub_label_pl": "chachalacas"}
+{"sub_label": "dreadnought", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A dreadnought is a [MASK]."], "uuid": 122, "relation": "IsA", "sub_label_pl": "dreadnoughts"}
+{"sub_label": "tugboat", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A tugboat is a [MASK]."], "uuid": 123, "relation": "IsA", "sub_label_pl": "tugboats"}
+{"sub_label": "coracle", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A coracle is a [MASK]."], "uuid": 124, "relation": "IsA", "sub_label_pl": "coracles"}
+{"sub_label": "boxcar", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A boxcar is a [MASK]."], "uuid": 125, "relation": "IsA", "sub_label_pl": "boxcars"}
+{"sub_label": "ailanthus", "obj_label": ["tree", "trees"], "masked_sentences": ["An ailanthus is a [MASK]."], "uuid": 126, "relation": "IsA", "sub_label_pl": "ailanthus"}
+{"sub_label": "hotel", "obj_label": ["building", "buildings"], "masked_sentences": ["A hotel is a [MASK]."], "uuid": 127, "relation": "IsA", "sub_label_pl": "hotels"}
+{"sub_label": "barracuda", "obj_label": ["fish"], "masked_sentences": ["A barracuda is a [MASK]."], "uuid": 128, "relation": "IsA", "sub_label_pl": "barracudas"}
+{"sub_label": "motmot", "obj_label": ["bird", "birds"], "masked_sentences": ["A motmot is a [MASK]."], "uuid": 129, "relation": "IsA", "sub_label_pl": "motmots"}
+{"sub_label": "curlew", "obj_label": ["bird", "birds"], "masked_sentences": ["A curlew is a [MASK]."], "uuid": 130, "relation": "IsA", "sub_label_pl": "curlews"}
+{"sub_label": "tragopan", "obj_label": ["bird", "birds"], "masked_sentences": ["A tragopan is a [MASK]."], "uuid": 131, "relation": "IsA", "sub_label_pl": "tragopans"}
+{"sub_label": "lifeboat", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A lifeboat is a [MASK]."], "uuid": 132, "relation": "IsA", "sub_label_pl": "lifeboats"}
+{"sub_label": "fireboat", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A fireboat is a [MASK]."], "uuid": 133, "relation": "IsA", "sub_label_pl": "fireboats"}
+{"sub_label": "subcompact", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A subcompact is a [MASK]."], "uuid": 134, "relation": "IsA", "sub_label_pl": "subcompacts"}
+{"sub_label": "botfly", "obj_label": ["insect", "insects"], "masked_sentences": ["A botfly is an [MASK]."], "uuid": 135, "relation": "IsA", "sub_label_pl": "botflies"}
+{"sub_label": "cyprinid", "obj_label": ["fish"], "masked_sentences": ["A cyprinid is a [MASK]."], "uuid": 136, "relation": "IsA", "sub_label_pl": "cyprinids"}
+{"sub_label": "siskin", "obj_label": ["bird", "birds"], "masked_sentences": ["A siskin is a [MASK]."], "uuid": 137, "relation": "IsA", "sub_label_pl": "siskins"}
+{"sub_label": "ginkgo", "obj_label": ["tree", "trees"], "masked_sentences": ["A ginkgo is a [MASK]."], "uuid": 138, "relation": "IsA", "sub_label_pl": "ginkgos"}
+{"sub_label": "midge", "obj_label": ["insect", "insects"], "masked_sentences": ["A midge is an [MASK]."], "uuid": 139, "relation": "IsA", "sub_label_pl": "midges"}
+{"sub_label": "pipal", "obj_label": ["tree", "trees"], "masked_sentences": ["A pipal is a [MASK]."], "uuid": 140, "relation": "IsA", "sub_label_pl": "pipals"}
+{"sub_label": "cybercafe", "obj_label": ["building", "buildings"], "masked_sentences": ["A cybercafe is a [MASK]."], "uuid": 141, "relation": "IsA", "sub_label_pl": "cybercaves"}
+{"sub_label": "showboat", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A showboat is a [MASK]."], "uuid": 142, "relation": "IsA", "sub_label_pl": "showboats"}
+{"sub_label": "carport", "obj_label": ["building", "buildings"], "masked_sentences": ["A carport is a [MASK]."], "uuid": 143, "relation": "IsA", "sub_label_pl": "carports"}
+{"sub_label": "conifer", "obj_label": ["tree", "trees"], "masked_sentences": ["A conifer is a [MASK]."], "uuid": 144, "relation": "IsA", "sub_label_pl": "conifers"}
+{"sub_label": "roadhouse", "obj_label": ["building", "buildings"], "masked_sentences": ["A roadhouse is a [MASK]."], "uuid": 145, "relation": "IsA", "sub_label_pl": "roadhouses"}
+{"sub_label": "hearse", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A hearse is a [MASK]."], "uuid": 146, "relation": "IsA", "sub_label_pl": "hearses"}
+{"sub_label": "cobia", "obj_label": ["fish"], "masked_sentences": ["A cobia is a [MASK]."], "uuid": 147, "relation": "IsA", "sub_label_pl": "cobia"}
+{"sub_label": "eider", "obj_label": ["bird", "birds"], "masked_sentences": ["An eider is a [MASK]."], "uuid": 148, "relation": "IsA", "sub_label_pl": "eiders"}
+{"sub_label": "barbet", "obj_label": ["bird", "birds"], "masked_sentences": ["A barbet is a [MASK]."], "uuid": 149, "relation": "IsA", "sub_label_pl": "barbets"}
+{"sub_label": "killdeer", "obj_label": ["bird", "birds"], "masked_sentences": ["A killdeer is a [MASK]."], "uuid": 150, "relation": "IsA", "sub_label_pl": "killdeers"}
+{"sub_label": "towhee", "obj_label": ["bird", "birds"], "masked_sentences": ["A towhee is a [MASK]."], "uuid": 151, "relation": "IsA", "sub_label_pl": "towhees"}
+{"sub_label": "brigantine", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A brigantine is a [MASK]."], "uuid": 152, "relation": "IsA", "sub_label_pl": "brigantines"}
+{"sub_label": "horsecar", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A horsecar is a [MASK]."], "uuid": 153, "relation": "IsA", "sub_label_pl": "horsecars"}
+{"sub_label": "tanager", "obj_label": ["bird", "birds"], "masked_sentences": ["A tanager is a [MASK]."], "uuid": 154, "relation": "IsA", "sub_label_pl": "tanagers"}
+{"sub_label": "posthouse", "obj_label": ["building", "buildings"], "masked_sentences": ["A posthouse is a [MASK]."], "uuid": 155, "relation": "IsA", "sub_label_pl": "posthouses"}
+{"sub_label": "rudd", "obj_label": ["fish"], "masked_sentences": ["A rudd is a [MASK]."], "uuid": 156, "relation": "IsA", "sub_label_pl": "rudds"}
+{"sub_label": "fulmar", "obj_label": ["bird", "birds"], "masked_sentences": ["A fulmar is a [MASK]."], "uuid": 157, "relation": "IsA", "sub_label_pl": "fulmars"}
+{"sub_label": "chunga", "obj_label": ["bird", "birds"], "masked_sentences": ["A chunga is a [MASK]."], "uuid": 158, "relation": "IsA", "sub_label_pl": "chungas"}
+{"sub_label": "kea", "obj_label": ["bird", "birds"], "masked_sentences": ["A kea is a [MASK]."], "uuid": 159, "relation": "IsA", "sub_label_pl": "keas"}
+{"sub_label": "casuarina", "obj_label": ["tree", "trees"], "masked_sentences": ["A casuarina is a [MASK]."], "uuid": 160, "relation": "IsA", "sub_label_pl": "casuarinas"}
+{"sub_label": "pigeon", "obj_label": ["bird", "birds"], "masked_sentences": ["A pigeon is a [MASK]."], "uuid": 161, "relation": "IsA", "sub_label_pl": "pigeons"}
+{"sub_label": "scaup", "obj_label": ["bird", "birds"], "masked_sentences": ["A scaup is a [MASK]."], "uuid": 162, "relation": "IsA", "sub_label_pl": "scaups"}
+{"sub_label": "canoe", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A canoe is a [MASK]."], "uuid": 163, "relation": "IsA", "sub_label_pl": "canoes"}
+{"sub_label": "saltbox", "obj_label": ["building", "buildings"], "masked_sentences": ["A saltbox is a [MASK]."], "uuid": 164, "relation": "IsA", "sub_label_pl": "saltboxes"}
+{"sub_label": "macadamia", "obj_label": ["tree", "trees"], "masked_sentences": ["A macadamia is a [MASK]."], "uuid": 165, "relation": "IsA", "sub_label_pl": "macadamia"}
+{"sub_label": "woodshed", "obj_label": ["building", "buildings"], "masked_sentences": ["A woodshed is a [MASK]."], "uuid": 166, "relation": "IsA", "sub_label_pl": "woodsheds"}
+{"sub_label": "rowan", "obj_label": ["tree", "trees"], "masked_sentences": ["A rowan is a [MASK]."], "uuid": 167, "relation": "IsA", "sub_label_pl": "rowans"}
+{"sub_label": "minnow", "obj_label": ["fish"], "masked_sentences": ["A minnow is a [MASK]."], "uuid": 168, "relation": "IsA", "sub_label_pl": "minnows"}
+{"sub_label": "tody", "obj_label": ["bird", "birds"], "masked_sentences": ["A tody is a [MASK]."], "uuid": 169, "relation": "IsA", "sub_label_pl": "todies"}
+{"sub_label": "dogsled", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A dogsled is a [MASK]."], "uuid": 170, "relation": "IsA", "sub_label_pl": "dogsleds"}
+{"sub_label": "kookaburra", "obj_label": ["bird", "birds"], "masked_sentences": ["A kookaburra is a [MASK]."], "uuid": 171, "relation": "IsA", "sub_label_pl": "kookaburras"}
+{"sub_label": "pipit", "obj_label": ["bird", "birds"], "masked_sentences": ["A pipit is a [MASK]."], "uuid": 172, "relation": "IsA", "sub_label_pl": "pipits"}
+{"sub_label": "mattock", "obj_label": ["tool", "tools"], "masked_sentences": ["A mattock is a [MASK]."], "uuid": 173, "relation": "IsA", "sub_label_pl": "mattocks"}
+{"sub_label": "bantam", "obj_label": ["bird", "birds"], "masked_sentences": ["A bantam is a [MASK]."], "uuid": 174, "relation": "IsA", "sub_label_pl": "bantams"}
+{"sub_label": "scoter", "obj_label": ["bird", "birds"], "masked_sentences": ["A scoter is a [MASK]."], "uuid": 175, "relation": "IsA", "sub_label_pl": "scoters"}
+{"sub_label": "smokehouse", "obj_label": ["building", "buildings"], "masked_sentences": ["A smokehouse is a [MASK]."], "uuid": 176, "relation": "IsA", "sub_label_pl": "smokehouses"}
+{"sub_label": "supertanker", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A supertanker is a [MASK]."], "uuid": 177, "relation": "IsA", "sub_label_pl": "supertankers"}
+{"sub_label": "cotinga", "obj_label": ["bird", "birds"], "masked_sentences": ["A cotinga is a [MASK]."], "uuid": 178, "relation": "IsA", "sub_label_pl": "cotingas"}
+{"sub_label": "sickle", "obj_label": ["tool", "tools"], "masked_sentences": ["A sickle is a [MASK]."], "uuid": 179, "relation": "IsA", "sub_label_pl": "sickles"}
+{"sub_label": "skylark", "obj_label": ["bird", "birds"], "masked_sentences": ["A skylark is a [MASK]."], "uuid": 180, "relation": "IsA", "sub_label_pl": "skylarks"}
+{"sub_label": "neem", "obj_label": ["tree", "trees"], "masked_sentences": ["A neem is a [MASK]."], "uuid": 181, "relation": "IsA", "sub_label_pl": "neems"}
+{"sub_label": "maxillaria", "obj_label": ["flower", "flowers"], "masked_sentences": ["A maxillaria is a [MASK]."], "uuid": 182, "relation": "IsA", "sub_label_pl": "maxillaria"}
+{"sub_label": "nuthatch", "obj_label": ["bird", "birds"], "masked_sentences": ["A nuthatch is a [MASK]."], "uuid": 183, "relation": "IsA", "sub_label_pl": "nuthatches"}
+{"sub_label": "bandsaw", "obj_label": ["tool", "tools"], "masked_sentences": ["A bandsaw is a [MASK]."], "uuid": 184, "relation": "IsA", "sub_label_pl": "bandsaws"}
+{"sub_label": "capelin", "obj_label": ["fish"], "masked_sentences": ["A capelin is a [MASK]."], "uuid": 185, "relation": "IsA", "sub_label_pl": "capelins"}
+{"sub_label": "bonsai", "obj_label": ["tree", "trees"], "masked_sentences": ["A bonsai is a [MASK]."], "uuid": 186, "relation": "IsA", "sub_label_pl": "bonsais"}
+{"sub_label": "ortolan", "obj_label": ["bird", "birds"], "masked_sentences": ["An ortolan is a [MASK]."], "uuid": 187, "relation": "IsA", "sub_label_pl": "ortolans"}
+{"sub_label": "willet", "obj_label": ["bird", "birds"], "masked_sentences": ["A willet is a [MASK]."], "uuid": 188, "relation": "IsA", "sub_label_pl": "willets"}
+{"sub_label": "hornbeam", "obj_label": ["tree", "trees"], "masked_sentences": ["A hornbeam is a [MASK]."], "uuid": 189, "relation": "IsA", "sub_label_pl": "hornbeams"}
+{"sub_label": "crookneck", "obj_label": ["vegetable", "vegetables"], "masked_sentences": ["A crookneck is a [MASK]."], "uuid": 190, "relation": "IsA", "sub_label_pl": "crooknecks"}
+{"sub_label": "spacecraft", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A spacecraft is a [MASK]."], "uuid": 191, "relation": "IsA", "sub_label_pl": "spacecrafts"}
+{"sub_label": "gallinule", "obj_label": ["bird", "birds"], "masked_sentences": ["A gallinule is a [MASK]."], "uuid": 192, "relation": "IsA", "sub_label_pl": "gallinules"}
+{"sub_label": "toboggan", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A toboggan is a [MASK]."], "uuid": 193, "relation": "IsA", "sub_label_pl": "toboggans"}
+{"sub_label": "weka", "obj_label": ["bird", "birds"], "masked_sentences": ["A weka is a [MASK]."], "uuid": 194, "relation": "IsA", "sub_label_pl": "wekas"}
+{"sub_label": "dace", "obj_label": ["fish"], "masked_sentences": ["A dace is a [MASK]."], "uuid": 195, "relation": "IsA", "sub_label_pl": "daces"}
+{"sub_label": "pumpkinseed", "obj_label": ["fish"], "masked_sentences": ["A pumpkinseed is a [MASK]."], "uuid": 196, "relation": "IsA", "sub_label_pl": "pumpkinseeds"}
+{"sub_label": "cockatoo", "obj_label": ["bird", "birds"], "masked_sentences": ["A cockatoo is a [MASK]."], "uuid": 197, "relation": "IsA", "sub_label_pl": "cockatoos"}
+{"sub_label": "tansy", "obj_label": ["flower", "flowers"], "masked_sentences": ["A tansy is a [MASK]."], "uuid": 198, "relation": "IsA", "sub_label_pl": "tansies"}
+{"sub_label": "icepick", "obj_label": ["tool", "tools"], "masked_sentences": ["An icepick is a [MASK]."], "uuid": 199, "relation": "IsA", "sub_label_pl": "icepicks"}
+{"sub_label": "dahlia", "obj_label": ["flower", "flowers"], "masked_sentences": ["A dahlia is a [MASK]."], "uuid": 200, "relation": "IsA", "sub_label_pl": "dahlia"}
+{"sub_label": "pewee", "obj_label": ["bird", "birds"], "masked_sentences": ["A pewee is a [MASK]."], "uuid": 201, "relation": "IsA", "sub_label_pl": "pewees"}
+{"sub_label": "pintail", "obj_label": ["bird", "birds"], "masked_sentences": ["A pintail is a [MASK]."], "uuid": 202, "relation": "IsA", "sub_label_pl": "pintails"}
+{"sub_label": "pocketknife", "obj_label": ["tool", "tools"], "masked_sentences": ["A pocketknife is a [MASK]."], "uuid": 203, "relation": "IsA", "sub_label_pl": "pocketknives"}
+{"sub_label": "hardtop", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A hardtop is a [MASK]."], "uuid": 204, "relation": "IsA", "sub_label_pl": "hardtops"}
+{"sub_label": "piculet", "obj_label": ["bird", "birds"], "masked_sentences": ["A piculet is a [MASK]."], "uuid": 205, "relation": "IsA", "sub_label_pl": "piculets"}
+{"sub_label": "barge", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A barge is a [MASK]."], "uuid": 206, "relation": "IsA", "sub_label_pl": "barges"}
+{"sub_label": "sturgeon", "obj_label": ["fish"], "masked_sentences": ["A sturgeon is a [MASK]."], "uuid": 207, "relation": "IsA", "sub_label_pl": "sturgeons"}
+{"sub_label": "pagoda", "obj_label": ["building", "buildings"], "masked_sentences": ["A pagoda is a [MASK]."], "uuid": 208, "relation": "IsA", "sub_label_pl": "pagodas"}
+{"sub_label": "gnatcatcher", "obj_label": ["bird", "birds"], "masked_sentences": ["A gnatcatcher is a [MASK]."], "uuid": 209, "relation": "IsA", "sub_label_pl": "gnatcatchers"}
+{"sub_label": "currawong", "obj_label": ["bird", "birds"], "masked_sentences": ["A currawong is a [MASK]."], "uuid": 210, "relation": "IsA", "sub_label_pl": "currawongs"}
+{"sub_label": "sawfly", "obj_label": ["insect", "insects"], "masked_sentences": ["A sawfly is an [MASK]."], "uuid": 211, "relation": "IsA", "sub_label_pl": "sawflies"}
+{"sub_label": "aphid", "obj_label": ["insect", "insects"], "masked_sentences": ["An aphid is an [MASK]."], "uuid": 212, "relation": "IsA", "sub_label_pl": "aphids"}
+{"sub_label": "curassow", "obj_label": ["bird", "birds"], "masked_sentences": ["A curassow is a [MASK]."], "uuid": 213, "relation": "IsA", "sub_label_pl": "curassows"}
+{"sub_label": "pung", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A pung is a [MASK]."], "uuid": 214, "relation": "IsA", "sub_label_pl": "pungs"}
+{"sub_label": "motel", "obj_label": ["building", "buildings"], "masked_sentences": ["A motel is a [MASK]."], "uuid": 215, "relation": "IsA", "sub_label_pl": "motels"}
+{"sub_label": "chickadee", "obj_label": ["bird", "birds"], "masked_sentences": ["A chickadee is a [MASK]."], "uuid": 216, "relation": "IsA", "sub_label_pl": "chickadees"}
+{"sub_label": "amberjack", "obj_label": ["fish"], "masked_sentences": ["An amberjack is a [MASK]."], "uuid": 217, "relation": "IsA", "sub_label_pl": "amberjacks"}
+{"sub_label": "houseboat", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A houseboat is a [MASK]."], "uuid": 218, "relation": "IsA", "sub_label_pl": "houseboats"}
+{"sub_label": "gavel", "obj_label": ["tool", "tools"], "masked_sentences": ["A gavel is a [MASK]."], "uuid": 219, "relation": "IsA", "sub_label_pl": "gavels"}
+{"sub_label": "switchblade", "obj_label": ["tool", "tools"], "masked_sentences": ["A switchblade is a [MASK]."], "uuid": 220, "relation": "IsA", "sub_label_pl": "switchblades"}
+{"sub_label": "opah", "obj_label": ["fish"], "masked_sentences": ["An opah is a [MASK]."], "uuid": 221, "relation": "IsA", "sub_label_pl": "opahs"}
+{"sub_label": "menhaden", "obj_label": ["fish"], "masked_sentences": ["A menhaden is a [MASK]."], "uuid": 222, "relation": "IsA", "sub_label_pl": "menhadens"}
+{"sub_label": "corozo", "obj_label": ["tree", "trees"], "masked_sentences": ["A corozo is a [MASK]."], "uuid": 223, "relation": "IsA", "sub_label_pl": "corozos"}
+{"sub_label": "yellowfin", "obj_label": ["fish"], "masked_sentences": ["A yellowfin is a [MASK]."], "uuid": 224, "relation": "IsA", "sub_label_pl": "yellowfins"}
+{"sub_label": "mealybug", "obj_label": ["insect", "insects"], "masked_sentences": ["A mealybug is an [MASK]."], "uuid": 225, "relation": "IsA", "sub_label_pl": "mealybugs"}
+{"sub_label": "serin", "obj_label": ["bird", "birds"], "masked_sentences": ["A serin is a [MASK]."], "uuid": 226, "relation": "IsA", "sub_label_pl": "serins"}
+{"sub_label": "verbena", "obj_label": ["flower", "flowers"], "masked_sentences": ["A verbena is a [MASK]."], "uuid": 227, "relation": "IsA", "sub_label_pl": "verbenas"}
+{"sub_label": "consulate", "obj_label": ["building", "buildings"], "masked_sentences": ["A consulate is a [MASK]."], "uuid": 228, "relation": "IsA", "sub_label_pl": "consulates"}
+{"sub_label": "mantis", "obj_label": ["insect", "insects"], "masked_sentences": ["A mantis is an [MASK]."], "uuid": 229, "relation": "IsA", "sub_label_pl": "mantis"}
+{"sub_label": "clubhouse", "obj_label": ["building", "buildings"], "masked_sentences": ["A clubhouse is a [MASK]."], "uuid": 230, "relation": "IsA", "sub_label_pl": "clubhouses"}
+{"sub_label": "grebe", "obj_label": ["bird", "birds"], "masked_sentences": ["A grebe is a [MASK]."], "uuid": 231, "relation": "IsA", "sub_label_pl": "grebes"}
+{"sub_label": "lightship", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A lightship is a [MASK]."], "uuid": 232, "relation": "IsA", "sub_label_pl": "lightships"}
+{"sub_label": "kingfisher", "obj_label": ["bird", "birds"], "masked_sentences": ["A kingfisher is a [MASK]."], "uuid": 233, "relation": "IsA", "sub_label_pl": "kingfishers"}
+{"sub_label": "warship", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A warship is a [MASK]."], "uuid": 234, "relation": "IsA", "sub_label_pl": "warships"}
+{"sub_label": "ketch", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A ketch is a [MASK]."], "uuid": 235, "relation": "IsA", "sub_label_pl": "ketches"}
+{"sub_label": "verdin", "obj_label": ["bird", "birds"], "masked_sentences": ["A verdin is a [MASK]."], "uuid": 236, "relation": "IsA", "sub_label_pl": "verdins"}
+{"sub_label": "conger", "obj_label": ["fish"], "masked_sentences": ["A conger is a [MASK]."], "uuid": 237, "relation": "IsA", "sub_label_pl": "congers"}
+{"sub_label": "guan", "obj_label": ["bird", "birds"], "masked_sentences": ["A guan is a [MASK]."], "uuid": 238, "relation": "IsA", "sub_label_pl": "guans"}
+{"sub_label": "feedlot", "obj_label": ["building", "buildings"], "masked_sentences": ["A feedlot is a [MASK]."], "uuid": 239, "relation": "IsA", "sub_label_pl": "feedlots"}
+{"sub_label": "ladybug", "obj_label": ["insect", "insects"], "masked_sentences": ["A ladybug is an [MASK]."], "uuid": 240, "relation": "IsA", "sub_label_pl": "ladybugs"}
+{"sub_label": "bowfin", "obj_label": ["fish"], "masked_sentences": ["A bowfin is a [MASK]."], "uuid": 241, "relation": "IsA", "sub_label_pl": "bowfins"}
+{"sub_label": "greenshank", "obj_label": ["bird", "birds"], "masked_sentences": ["A greenshank is a [MASK]."], "uuid": 242, "relation": "IsA", "sub_label_pl": "greenshanks"}
+{"sub_label": "chub", "obj_label": ["fish"], "masked_sentences": ["A chub is a [MASK]."], "uuid": 243, "relation": "IsA", "sub_label_pl": "chubs"}
+{"sub_label": "dray", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A dray is a [MASK]."], "uuid": 244, "relation": "IsA", "sub_label_pl": "drays"}
+{"sub_label": "pollinator", "obj_label": ["insect", "insects"], "masked_sentences": ["A pollinator is an [MASK]."], "uuid": 245, "relation": "IsA", "sub_label_pl": "pollinators"}
+{"sub_label": "wildfowl", "obj_label": ["bird", "birds"], "masked_sentences": ["A wildfowl is a [MASK]."], "uuid": 246, "relation": "IsA", "sub_label_pl": "wildfowls"}
+{"sub_label": "columbine", "obj_label": ["flower", "flowers"], "masked_sentences": ["A columbine is a [MASK]."], "uuid": 247, "relation": "IsA", "sub_label_pl": "columbines"}
+{"sub_label": "pinon", "obj_label": ["tree", "trees"], "masked_sentences": ["A pinon is a [MASK]."], "uuid": 248, "relation": "IsA", "sub_label_pl": "pinons"}
+{"sub_label": "gannet", "obj_label": ["bird", "birds"], "masked_sentences": ["A gannet is a [MASK]."], "uuid": 249, "relation": "IsA", "sub_label_pl": "gannets"}
+{"sub_label": "ship", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A ship is a [MASK]."], "uuid": 250, "relation": "IsA", "sub_label_pl": "ships"}
+{"sub_label": "razorblade", "obj_label": ["tool", "tools"], "masked_sentences": ["A razorblade is a [MASK]."], "uuid": 251, "relation": "IsA", "sub_label_pl": "razorblades"}
+{"sub_label": "bergamot", "obj_label": ["tree", "trees"], "masked_sentences": ["A bergamot is a [MASK]."], "uuid": 252, "relation": "IsA", "sub_label_pl": "bergamots"}
+{"sub_label": "arethusa", "obj_label": ["flower", "flowers"], "masked_sentences": ["An arethusa is a [MASK]."], "uuid": 253, "relation": "IsA", "sub_label_pl": "arethusas"}
+{"sub_label": "bulldozer", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A bulldozer is a [MASK]."], "uuid": 254, "relation": "IsA", "sub_label_pl": "bulldozers"}
+{"sub_label": "larkspur", "obj_label": ["flower", "flowers"], "masked_sentences": ["A larkspur is a [MASK]."], "uuid": 255, "relation": "IsA", "sub_label_pl": "larkspurs"}
+{"sub_label": "largemouth", "obj_label": ["fish"], "masked_sentences": ["A largemouth is a [MASK]."], "uuid": 256, "relation": "IsA", "sub_label_pl": "largemouths"}
+{"sub_label": "wagtail", "obj_label": ["bird", "birds"], "masked_sentences": ["A wagtail is a [MASK]."], "uuid": 257, "relation": "IsA", "sub_label_pl": "wagtails"}
+{"sub_label": "escolar", "obj_label": ["fish"], "masked_sentences": ["An escolar is a [MASK]."], "uuid": 258, "relation": "IsA", "sub_label_pl": "escolars"}
+{"sub_label": "peregrine", "obj_label": ["bird", "birds"], "masked_sentences": ["A peregrine is a [MASK]."], "uuid": 259, "relation": "IsA", "sub_label_pl": "peregrines"}
+{"sub_label": "crossbill", "obj_label": ["bird", "birds"], "masked_sentences": ["A crossbill is a [MASK]."], "uuid": 260, "relation": "IsA", "sub_label_pl": "crossbills"}
+{"sub_label": "pitchfork", "obj_label": ["tool", "tools"], "masked_sentences": ["A pitchfork is a [MASK]."], "uuid": 261, "relation": "IsA", "sub_label_pl": "pitchforks"}
+{"sub_label": "seaplane", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A seaplane is a [MASK]."], "uuid": 262, "relation": "IsA", "sub_label_pl": "seaplanes"}
+{"sub_label": "coucal", "obj_label": ["bird", "birds"], "masked_sentences": ["A coucal is a [MASK]."], "uuid": 263, "relation": "IsA", "sub_label_pl": "coucals"}
+{"sub_label": "firetrap", "obj_label": ["building", "buildings"], "masked_sentences": ["A firetrap is a [MASK]."], "uuid": 264, "relation": "IsA", "sub_label_pl": "firetraps"}
+{"sub_label": "oncidium", "obj_label": ["flower", "flowers"], "masked_sentences": ["An oncidium is a [MASK]."], "uuid": 265, "relation": "IsA", "sub_label_pl": "oncidia"}
+{"sub_label": "tench", "obj_label": ["fish"], "masked_sentences": ["A tench is a [MASK]."], "uuid": 266, "relation": "IsA", "sub_label_pl": "tenches"}
+{"sub_label": "wrymouth", "obj_label": ["fish"], "masked_sentences": ["A wrymouth is a [MASK]."], "uuid": 267, "relation": "IsA", "sub_label_pl": "wrymouths"}
+{"sub_label": "chipotle", "obj_label": ["vegetable", "vegetables"], "masked_sentences": ["A chipotle is a [MASK]."], "uuid": 268, "relation": "IsA", "sub_label_pl": "chipotles"}
+{"sub_label": "rosita", "obj_label": ["flower", "flowers"], "masked_sentences": ["A rosita is a [MASK]."], "uuid": 269, "relation": "IsA", "sub_label_pl": "rosita"}
+{"sub_label": "phalarope", "obj_label": ["bird", "birds"], "masked_sentences": ["A phalarope is a [MASK]."], "uuid": 270, "relation": "IsA", "sub_label_pl": "phalaropes"}
+{"sub_label": "lamasery", "obj_label": ["building", "buildings"], "masked_sentences": ["A lamasery is a [MASK]."], "uuid": 271, "relation": "IsA", "sub_label_pl": "lamaseries"}
+{"sub_label": "poppy", "obj_label": ["flower", "flowers"], "masked_sentences": ["A poppy is a [MASK]."], "uuid": 272, "relation": "IsA", "sub_label_pl": "poppies"}
+{"sub_label": "shebeen", "obj_label": ["building", "buildings"], "masked_sentences": ["A shebeen is a [MASK]."], "uuid": 273, "relation": "IsA", "sub_label_pl": "shebeens"}
+{"sub_label": "starship", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A starship is a [MASK]."], "uuid": 274, "relation": "IsA", "sub_label_pl": "starships"}
+{"sub_label": "mosquito", "obj_label": ["insect", "insects"], "masked_sentences": ["A mosquito is an [MASK]."], "uuid": 275, "relation": "IsA", "sub_label_pl": "mosquitos"}
+{"sub_label": "cicada", "obj_label": ["insect", "insects"], "masked_sentences": ["A cicada is an [MASK]."], "uuid": 276, "relation": "IsA", "sub_label_pl": "cicadas"}
+{"sub_label": "rimu", "obj_label": ["tree", "trees"], "masked_sentences": ["A rimu is a [MASK]."], "uuid": 277, "relation": "IsA", "sub_label_pl": "rimus"}
+{"sub_label": "areca", "obj_label": ["tree", "trees"], "masked_sentences": ["An areca is a [MASK]."], "uuid": 278, "relation": "IsA", "sub_label_pl": "arecas"}
+{"sub_label": "sulky", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A sulky is a [MASK]."], "uuid": 279, "relation": "IsA", "sub_label_pl": "sulkies"}
+{"sub_label": "electric", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["An electric is a [MASK]."], "uuid": 280, "relation": "IsA", "sub_label_pl": "electrics"}
+{"sub_label": "tautog", "obj_label": ["fish"], "masked_sentences": ["A tautog is a [MASK]."], "uuid": 281, "relation": "IsA", "sub_label_pl": "tautogs"}
+{"sub_label": "blowfly", "obj_label": ["insect", "insects"], "masked_sentences": ["A blowfly is an [MASK]."], "uuid": 282, "relation": "IsA", "sub_label_pl": "blowflies"}
+{"sub_label": "caff", "obj_label": ["building", "buildings"], "masked_sentences": ["A caff is a [MASK]."], "uuid": 283, "relation": "IsA", "sub_label_pl": "caffs"}
+{"sub_label": "jetliner", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A jetliner is a [MASK]."], "uuid": 284, "relation": "IsA", "sub_label_pl": "jetliners"}
+{"sub_label": "glowworm", "obj_label": ["insect", "insects"], "masked_sentences": ["A glowworm is an [MASK]."], "uuid": 285, "relation": "IsA", "sub_label_pl": "glowworms"}
+{"sub_label": "sallow", "obj_label": ["tree", "trees"], "masked_sentences": ["A sallow is a [MASK]."], "uuid": 286, "relation": "IsA", "sub_label_pl": "sallows"}
+{"sub_label": "lightwood", "obj_label": ["tree", "trees"], "masked_sentences": ["A lightwood is a [MASK]."], "uuid": 287, "relation": "IsA", "sub_label_pl": "lightwoods"}
+{"sub_label": "rink", "obj_label": ["building", "buildings"], "masked_sentences": ["A rink is a [MASK]."], "uuid": 288, "relation": "IsA", "sub_label_pl": "rinks"}
+{"sub_label": "ant", "obj_label": ["insect", "insects"], "masked_sentences": ["An ant is an [MASK]."], "uuid": 289, "relation": "IsA", "sub_label_pl": "ants"}
+{"sub_label": "arborvitae", "obj_label": ["tree", "trees"], "masked_sentences": ["An arborvitae is a [MASK]."], "uuid": 290, "relation": "IsA", "sub_label_pl": "arborvitaes"}
+{"sub_label": "alehouse", "obj_label": ["building", "buildings"], "masked_sentences": ["An alehouse is a [MASK]."], "uuid": 291, "relation": "IsA", "sub_label_pl": "alehouses"}
+{"sub_label": "bunchberry", "obj_label": ["tree", "trees"], "masked_sentences": ["A bunchberry is a [MASK]."], "uuid": 292, "relation": "IsA", "sub_label_pl": "bunchberries"}
+{"sub_label": "loach", "obj_label": ["fish"], "masked_sentences": ["A loach is a [MASK]."], "uuid": 293, "relation": "IsA", "sub_label_pl": "loaches"}
+{"sub_label": "abattoir", "obj_label": ["building", "buildings"], "masked_sentences": ["An abattoir is a [MASK]."], "uuid": 294, "relation": "IsA", "sub_label_pl": "abattoirs"}
+{"sub_label": "trimaran", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A trimaran is a [MASK]."], "uuid": 295, "relation": "IsA", "sub_label_pl": "trimarans"}
+{"sub_label": "troopship", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A troopship is a [MASK]."], "uuid": 296, "relation": "IsA", "sub_label_pl": "troopships"}
+{"sub_label": "bethel", "obj_label": ["building", "buildings"], "masked_sentences": ["A bethel is a [MASK]."], "uuid": 297, "relation": "IsA", "sub_label_pl": "bethels"}
+{"sub_label": "shrimper", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A shrimper is a [MASK]."], "uuid": 298, "relation": "IsA", "sub_label_pl": "shrimpers"}
+{"sub_label": "corkscrew", "obj_label": ["tool", "tools"], "masked_sentences": ["A corkscrew is a [MASK]."], "uuid": 299, "relation": "IsA", "sub_label_pl": "corkscrews"}
+{"sub_label": "forklift", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A forklift is a [MASK]."], "uuid": 300, "relation": "IsA", "sub_label_pl": "forklifts"}
+{"sub_label": "kurrajong", "obj_label": ["tree", "trees"], "masked_sentences": ["A kurrajong is a [MASK]."], "uuid": 301, "relation": "IsA", "sub_label_pl": "kurrajongs"}
+{"sub_label": "toothpick", "obj_label": ["tool", "tools"], "masked_sentences": ["A toothpick is a [MASK]."], "uuid": 302, "relation": "IsA", "sub_label_pl": "toothpicks"}
+{"sub_label": "cichlid", "obj_label": ["fish"], "masked_sentences": ["A cichlid is a [MASK]."], "uuid": 303, "relation": "IsA", "sub_label_pl": "cichlids"}
+{"sub_label": "carrack", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A carrack is a [MASK]."], "uuid": 304, "relation": "IsA", "sub_label_pl": "carracks"}
+{"sub_label": "orchid", "obj_label": ["flower", "flowers"], "masked_sentences": ["An orchid is a [MASK]."], "uuid": 305, "relation": "IsA", "sub_label_pl": "orchids"}
+{"sub_label": "stupa", "obj_label": ["building", "buildings"], "masked_sentences": ["A stupa is a [MASK]."], "uuid": 306, "relation": "IsA", "sub_label_pl": "stupas"}
+{"sub_label": "minibike", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A minibike is a [MASK]."], "uuid": 307, "relation": "IsA", "sub_label_pl": "minibikes"}
+{"sub_label": "catalpa", "obj_label": ["tree", "trees"], "masked_sentences": ["A catalpa is a [MASK]."], "uuid": 308, "relation": "IsA", "sub_label_pl": "catalpas"}
+{"sub_label": "shunter", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A shunter is a [MASK]."], "uuid": 309, "relation": "IsA", "sub_label_pl": "shunters"}
+{"sub_label": "salai", "obj_label": ["tree", "trees"], "masked_sentences": ["A salai is a [MASK]."], "uuid": 310, "relation": "IsA", "sub_label_pl": "salais"}
+{"sub_label": "kennel", "obj_label": ["building", "buildings"], "masked_sentences": ["A kennel is a [MASK]."], "uuid": 311, "relation": "IsA", "sub_label_pl": "kennels"}
+{"sub_label": "chrysalis", "obj_label": ["insect", "insects"], "masked_sentences": ["A chrysalis is an [MASK]."], "uuid": 312, "relation": "IsA", "sub_label_pl": "chrysalis"}
+{"sub_label": "stringybark", "obj_label": ["tree", "trees"], "masked_sentences": ["A stringybark is a [MASK]."], "uuid": 313, "relation": "IsA", "sub_label_pl": "stringybarks"}
+{"sub_label": "kowhai", "obj_label": ["tree", "trees"], "masked_sentences": ["A kowhai is a [MASK]."], "uuid": 314, "relation": "IsA", "sub_label_pl": "kowhais"}
+{"sub_label": "kirk", "obj_label": ["building", "buildings"], "masked_sentences": ["A kirk is a [MASK]."], "uuid": 315, "relation": "IsA", "sub_label_pl": "kirks"}
+{"sub_label": "sterculia", "obj_label": ["tree", "trees"], "masked_sentences": ["A sterculia is a [MASK]."], "uuid": 316, "relation": "IsA", "sub_label_pl": "sterculia"}
+{"sub_label": "stonefly", "obj_label": ["insect", "insects"], "masked_sentences": ["A stonefly is an [MASK]."], "uuid": 317, "relation": "IsA", "sub_label_pl": "stoneflies"}
+{"sub_label": "dipterocarp", "obj_label": ["tree", "trees"], "masked_sentences": ["A dipterocarp is a [MASK]."], "uuid": 318, "relation": "IsA", "sub_label_pl": "dipterocarps"}
+{"sub_label": "veronica", "obj_label": ["flower", "flowers"], "masked_sentences": ["A veronica is a [MASK]."], "uuid": 319, "relation": "IsA", "sub_label_pl": "veronicas"}
+{"sub_label": "umbel", "obj_label": ["flower", "flowers"], "masked_sentences": ["An umbel is a [MASK]."], "uuid": 320, "relation": "IsA", "sub_label_pl": "umbels"}
+{"sub_label": "mosque", "obj_label": ["building", "buildings"], "masked_sentences": ["A mosque is a [MASK]."], "uuid": 321, "relation": "IsA", "sub_label_pl": "mosques"}
+{"sub_label": "razor", "obj_label": ["tool", "tools"], "masked_sentences": ["A razor is a [MASK]."], "uuid": 322, "relation": "IsA", "sub_label_pl": "razors"}
+{"sub_label": "twinjet", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A twinjet is a [MASK]."], "uuid": 323, "relation": "IsA", "sub_label_pl": "twinjets"}
+{"sub_label": "porbeagle", "obj_label": ["fish"], "masked_sentences": ["A porbeagle is a [MASK]."], "uuid": 324, "relation": "IsA", "sub_label_pl": "porbeagles"}
+{"sub_label": "battleship", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A battleship is a [MASK]."], "uuid": 325, "relation": "IsA", "sub_label_pl": "battleships"}
+{"sub_label": "sampan", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A sampan is a [MASK]."], "uuid": 326, "relation": "IsA", "sub_label_pl": "sampans"}
+{"sub_label": "friary", "obj_label": ["building", "buildings"], "masked_sentences": ["A friary is a [MASK]."], "uuid": 327, "relation": "IsA", "sub_label_pl": "friaries"}
+{"sub_label": "scalpel", "obj_label": ["tool", "tools"], "masked_sentences": ["A scalpel is a [MASK]."], "uuid": 328, "relation": "IsA", "sub_label_pl": "scalpels"}
+{"sub_label": "inga", "obj_label": ["tree", "trees"], "masked_sentences": ["An inga is a [MASK]."], "uuid": 329, "relation": "IsA", "sub_label_pl": "ingas"}
+{"sub_label": "bicycle", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A bicycle is a [MASK]."], "uuid": 330, "relation": "IsA", "sub_label_pl": "bicycles"}
+{"sub_label": "fleabag", "obj_label": ["building", "buildings"], "masked_sentences": ["A fleabag is a [MASK]."], "uuid": 331, "relation": "IsA", "sub_label_pl": "fleabags"}
+{"sub_label": "tricycle", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A tricycle is a [MASK]."], "uuid": 332, "relation": "IsA", "sub_label_pl": "tricycles"}
+{"sub_label": "icehouse", "obj_label": ["building", "buildings"], "masked_sentences": ["An icehouse is a [MASK]."], "uuid": 333, "relation": "IsA", "sub_label_pl": "icehouses"}
+{"sub_label": "burin", "obj_label": ["tool", "tools"], "masked_sentences": ["A burin is a [MASK]."], "uuid": 334, "relation": "IsA", "sub_label_pl": "burins"}
+{"sub_label": "peony", "obj_label": ["flower", "flowers"], "masked_sentences": ["A peony is a [MASK]."], "uuid": 335, "relation": "IsA", "sub_label_pl": "peonies"}
+{"sub_label": "hornet", "obj_label": ["insect", "insects"], "masked_sentences": ["A hornet is an [MASK]."], "uuid": 336, "relation": "IsA", "sub_label_pl": "hornets"}
+{"sub_label": "bluegill", "obj_label": ["fish"], "masked_sentences": ["A bluegill is a [MASK]."], "uuid": 337, "relation": "IsA", "sub_label_pl": "bluegills"}
+{"sub_label": "guildhall", "obj_label": ["building", "buildings"], "masked_sentences": ["A guildhall is a [MASK]."], "uuid": 338, "relation": "IsA", "sub_label_pl": "guildhalls"}
+{"sub_label": "remora", "obj_label": ["fish"], "masked_sentences": ["A remora is a [MASK]."], "uuid": 339, "relation": "IsA", "sub_label_pl": "remoras"}
+{"sub_label": "toolshed", "obj_label": ["building", "buildings"], "masked_sentences": ["A toolshed is a [MASK]."], "uuid": 340, "relation": "IsA", "sub_label_pl": "toolsheds"}
+{"sub_label": "calosoma", "obj_label": ["insect", "insects"], "masked_sentences": ["A calosoma is an [MASK]."], "uuid": 341, "relation": "IsA", "sub_label_pl": "calosomas"}
+{"sub_label": "cyclamen", "obj_label": ["flower", "flowers"], "masked_sentences": ["A cyclamen is a [MASK]."], "uuid": 342, "relation": "IsA", "sub_label_pl": "cyclamen"}
+{"sub_label": "synagogue", "obj_label": ["building", "buildings"], "masked_sentences": ["A synagogue is a [MASK]."], "uuid": 343, "relation": "IsA", "sub_label_pl": "synagogues"}
+{"sub_label": "scad", "obj_label": ["fish"], "masked_sentences": ["A scad is a [MASK]."], "uuid": 344, "relation": "IsA", "sub_label_pl": "scads"}
+{"sub_label": "characin", "obj_label": ["fish"], "masked_sentences": ["A characin is a [MASK]."], "uuid": 345, "relation": "IsA", "sub_label_pl": "characins"}
+{"sub_label": "lycaenid", "obj_label": ["insect", "insects"], "masked_sentences": ["A lycaenid is an [MASK]."], "uuid": 346, "relation": "IsA", "sub_label_pl": "lycaenids"}
+{"sub_label": "housefly", "obj_label": ["insect", "insects"], "masked_sentences": ["A housefly is an [MASK]."], "uuid": 347, "relation": "IsA", "sub_label_pl": "houseflies"}
+{"sub_label": "liza", "obj_label": ["fish"], "masked_sentences": ["A liza is a [MASK]."], "uuid": 348, "relation": "IsA", "sub_label_pl": "lizas"}
+{"sub_label": "scraper", "obj_label": ["tool", "tools"], "masked_sentences": ["A scraper is a [MASK]."], "uuid": 349, "relation": "IsA", "sub_label_pl": "scrapers"}
+{"sub_label": "honeybee", "obj_label": ["insect", "insects"], "masked_sentences": ["A honeybee is an [MASK]."], "uuid": 350, "relation": "IsA", "sub_label_pl": "honeybees"}
+{"sub_label": "hairstreak", "obj_label": ["insect", "insects"], "masked_sentences": ["A hairstreak is an [MASK]."], "uuid": 351, "relation": "IsA", "sub_label_pl": "hairstreaks"}
+{"sub_label": "maul", "obj_label": ["tool", "tools"], "masked_sentences": ["A maul is a [MASK]."], "uuid": 352, "relation": "IsA", "sub_label_pl": "mauls"}
+{"sub_label": "handsaw", "obj_label": ["tool", "tools"], "masked_sentences": ["A handsaw is a [MASK]."], "uuid": 353, "relation": "IsA", "sub_label_pl": "handsaws"}
+{"sub_label": "teashop", "obj_label": ["building", "buildings"], "masked_sentences": ["A teashop is a [MASK]."], "uuid": 354, "relation": "IsA", "sub_label_pl": "teashops"}
+{"sub_label": "grubby", "obj_label": ["fish"], "masked_sentences": ["A grubby is a [MASK]."], "uuid": 355, "relation": "IsA", "sub_label_pl": "grubbies"}
+{"sub_label": "saury", "obj_label": ["fish"], "masked_sentences": ["A saury is a [MASK]."], "uuid": 356, "relation": "IsA", "sub_label_pl": "sauries"}
+{"sub_label": "trowel", "obj_label": ["tool", "tools"], "masked_sentences": ["A trowel is a [MASK]."], "uuid": 357, "relation": "IsA", "sub_label_pl": "trowels"}
+{"sub_label": "immortelle", "obj_label": ["flower", "flowers"], "masked_sentences": ["An immortelle is a [MASK]."], "uuid": 358, "relation": "IsA", "sub_label_pl": "immortelles"}
+{"sub_label": "cattleya", "obj_label": ["flower", "flowers"], "masked_sentences": ["A cattleya is a [MASK]."], "uuid": 359, "relation": "IsA", "sub_label_pl": "cattleyas"}
+{"sub_label": "panicle", "obj_label": ["flower", "flowers"], "masked_sentences": ["A panicle is a [MASK]."], "uuid": 360, "relation": "IsA", "sub_label_pl": "panicles"}
+{"sub_label": "cockchafer", "obj_label": ["insect", "insects"], "masked_sentences": ["A cockchafer is an [MASK]."], "uuid": 361, "relation": "IsA", "sub_label_pl": "cockchafers"}
+{"sub_label": "plow", "obj_label": ["tool", "tools"], "masked_sentences": ["A plow is a [MASK]."], "uuid": 362, "relation": "IsA", "sub_label_pl": "plows"}
+{"sub_label": "chisel", "obj_label": ["tool", "tools"], "masked_sentences": ["A chisel is a [MASK]."], "uuid": 363, "relation": "IsA", "sub_label_pl": "chisels"}
+{"sub_label": "flophouse", "obj_label": ["building", "buildings"], "masked_sentences": ["A flophouse is a [MASK]."], "uuid": 364, "relation": "IsA", "sub_label_pl": "flophouses"}
+{"sub_label": "awl", "obj_label": ["tool", "tools"], "masked_sentences": ["An awl is a [MASK]."], "uuid": 365, "relation": "IsA", "sub_label_pl": "awls"}
+{"sub_label": "tarpon", "obj_label": ["fish"], "masked_sentences": ["A tarpon is a [MASK]."], "uuid": 366, "relation": "IsA", "sub_label_pl": "tarpons"}
+{"sub_label": "katydid", "obj_label": ["insect", "insects"], "masked_sentences": ["A katydid is an [MASK]."], "uuid": 367, "relation": "IsA", "sub_label_pl": "katydids"}
+{"sub_label": "rathskeller", "obj_label": ["building", "buildings"], "masked_sentences": ["A rathskeller is a [MASK]."], "uuid": 368, "relation": "IsA", "sub_label_pl": "rathskellers"}
+{"sub_label": "pomfret", "obj_label": ["fish"], "masked_sentences": ["A pomfret is a [MASK]."], "uuid": 369, "relation": "IsA", "sub_label_pl": "pomfrets"}
+{"sub_label": "whitefly", "obj_label": ["insect", "insects"], "masked_sentences": ["A whitefly is an [MASK]."], "uuid": 370, "relation": "IsA", "sub_label_pl": "whiteflies"}
+{"sub_label": "floret", "obj_label": ["flower", "flowers"], "masked_sentences": ["A floret is a [MASK]."], "uuid": 371, "relation": "IsA", "sub_label_pl": "florets"}
+{"sub_label": "dragonfly", "obj_label": ["insect", "insects"], "masked_sentences": ["A dragonfly is an [MASK]."], "uuid": 372, "relation": "IsA", "sub_label_pl": "dragonflies"}
+{"sub_label": "bistro", "obj_label": ["building", "buildings"], "masked_sentences": ["A bistro is a [MASK]."], "uuid": 373, "relation": "IsA", "sub_label_pl": "bistros"}
+{"sub_label": "gurnard", "obj_label": ["fish"], "masked_sentences": ["A gurnard is a [MASK]."], "uuid": 374, "relation": "IsA", "sub_label_pl": "gurnards"}
+{"sub_label": "halfbeak", "obj_label": ["fish"], "masked_sentences": ["A halfbeak is a [MASK]."], "uuid": 375, "relation": "IsA", "sub_label_pl": "halfbeaks"}
+{"sub_label": "charterhouse", "obj_label": ["building", "buildings"], "masked_sentences": ["A charterhouse is a [MASK]."], "uuid": 376, "relation": "IsA", "sub_label_pl": "charterhouses"}
+{"sub_label": "guppy", "obj_label": ["fish"], "masked_sentences": ["A guppy is a [MASK]."], "uuid": 377, "relation": "IsA", "sub_label_pl": "guppies"}
+{"sub_label": "hawkmoth", "obj_label": ["insect", "insects"], "masked_sentences": ["A hawkmoth is an [MASK]."], "uuid": 378, "relation": "IsA", "sub_label_pl": "hawkmoths"}
+{"sub_label": "caravansary", "obj_label": ["building", "buildings"], "masked_sentences": ["A caravansary is a [MASK]."], "uuid": 379, "relation": "IsA", "sub_label_pl": "caravansaries"}
+{"sub_label": "cyme", "obj_label": ["flower", "flowers"], "masked_sentences": ["A cyme is a [MASK]."], "uuid": 380, "relation": "IsA", "sub_label_pl": "cymes"}
+{"sub_label": "radicchio", "obj_label": ["vegetable", "vegetables"], "masked_sentences": ["A radicchio is a [MASK]."], "uuid": 381, "relation": "IsA", "sub_label_pl": "radicchios"}
+{"sub_label": "termite", "obj_label": ["insect", "insects"], "masked_sentences": ["A termite is an [MASK]."], "uuid": 382, "relation": "IsA", "sub_label_pl": "termites"}
+{"sub_label": "threadfin", "obj_label": ["fish"], "masked_sentences": ["A threadfin is a [MASK]."], "uuid": 383, "relation": "IsA", "sub_label_pl": "threadfins"}
+{"sub_label": "surfperch", "obj_label": ["fish"], "masked_sentences": ["A surfperch is a [MASK]."], "uuid": 384, "relation": "IsA", "sub_label_pl": "surfperches"}
+{"sub_label": "leafhopper", "obj_label": ["insect", "insects"], "masked_sentences": ["A leafhopper is an [MASK]."], "uuid": 385, "relation": "IsA", "sub_label_pl": "leafhoppers"}
+{"sub_label": "monastery", "obj_label": ["building", "buildings"], "masked_sentences": ["A monastery is a [MASK]."], "uuid": 386, "relation": "IsA", "sub_label_pl": "monasteries"}
+{"sub_label": "presbytery", "obj_label": ["building", "buildings"], "masked_sentences": ["A presbytery is a [MASK]."], "uuid": 387, "relation": "IsA", "sub_label_pl": "presbyteries"}
+{"sub_label": "cockroach", "obj_label": ["insect", "insects"], "masked_sentences": ["A cockroach is an [MASK]."], "uuid": 388, "relation": "IsA", "sub_label_pl": "cockroaches"}
+{"sub_label": "portulaca", "obj_label": ["flower", "flowers"], "masked_sentences": ["A portulaca is a [MASK]."], "uuid": 389, "relation": "IsA", "sub_label_pl": "portulacas"}
+{"sub_label": "dendrobium", "obj_label": ["flower", "flowers"], "masked_sentences": ["A dendrobium is a [MASK]."], "uuid": 390, "relation": "IsA", "sub_label_pl": "dendrobia"}
+{"sub_label": "bedbug", "obj_label": ["insect", "insects"], "masked_sentences": ["A bedbug is an [MASK]."], "uuid": 391, "relation": "IsA", "sub_label_pl": "bedbugs"}
+{"sub_label": "earwig", "obj_label": ["insect", "insects"], "masked_sentences": ["An earwig is an [MASK]."], "uuid": 392, "relation": "IsA", "sub_label_pl": "earwigs"}
+{"sub_label": "cleaver", "obj_label": ["tool", "tools"], "masked_sentences": ["A cleaver is a [MASK]."], "uuid": 393, "relation": "IsA", "sub_label_pl": "cleavers"}
+{"sub_label": "coelacanth", "obj_label": ["fish"], "masked_sentences": ["A coelacanth is a [MASK]."], "uuid": 394, "relation": "IsA", "sub_label_pl": "coelacanths"}
+{"sub_label": "snapdragon", "obj_label": ["flower", "flowers"], "masked_sentences": ["A snapdragon is a [MASK]."], "uuid": 395, "relation": "IsA", "sub_label_pl": "snapdragons"}
+{"sub_label": "goby", "obj_label": ["fish"], "masked_sentences": ["A goby is a [MASK]."], "uuid": 396, "relation": "IsA", "sub_label_pl": "gobies"}
+{"sub_label": "dacha", "obj_label": ["building", "buildings"], "masked_sentences": ["A dacha is a [MASK]."], "uuid": 397, "relation": "IsA", "sub_label_pl": "dachas"}
+{"sub_label": "commelina", "obj_label": ["flower", "flowers"], "masked_sentences": ["A commelina is a [MASK]."], "uuid": 398, "relation": "IsA", "sub_label_pl": "commelinas"}
+{"sub_label": "dragonet", "obj_label": ["fish"], "masked_sentences": ["A dragonet is a [MASK]."], "uuid": 399, "relation": "IsA", "sub_label_pl": "dragonets"}
+{"sub_label": "morgue", "obj_label": ["building", "buildings"], "masked_sentences": ["A morgue is a [MASK]."], "uuid": 400, "relation": "IsA", "sub_label_pl": "morgues"}
+{"sub_label": "gatehouse", "obj_label": ["building", "buildings"], "masked_sentences": ["A gatehouse is a [MASK]."], "uuid": 401, "relation": "IsA", "sub_label_pl": "gatehouses"}
+{"sub_label": "begonia", "obj_label": ["flower", "flowers"], "masked_sentences": ["A begonia is a [MASK]."], "uuid": 402, "relation": "IsA", "sub_label_pl": "begonia"}
+{"sub_label": "yellowthroat", "obj_label": ["bird", "birds"], "masked_sentences": ["A yellowthroat is a [MASK]."], "uuid": 403, "relation": "IsA", "sub_label_pl": "yellowthroats"}
+{"sub_label": "handcart", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A handcart is a [MASK]."], "uuid": 404, "relation": "IsA", "sub_label_pl": "handcarts"}
+{"sub_label": "daisy", "obj_label": ["flower", "flowers"], "masked_sentences": ["A daisy is a [MASK]."], "uuid": 405, "relation": "IsA", "sub_label_pl": "daisies"}
+{"sub_label": "zinnia", "obj_label": ["flower", "flowers"], "masked_sentences": ["A zinnia is a [MASK]."], "uuid": 406, "relation": "IsA", "sub_label_pl": "zinnia"}
+{"sub_label": "stagecoach", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A stagecoach is a [MASK]."], "uuid": 407, "relation": "IsA", "sub_label_pl": "stagecoaches"}
+{"sub_label": "customhouse", "obj_label": ["building", "buildings"], "masked_sentences": ["A customhouse is a [MASK]."], "uuid": 408, "relation": "IsA", "sub_label_pl": "customhouses"}
+{"sub_label": "weevil", "obj_label": ["insect", "insects"], "masked_sentences": ["A weevil is an [MASK]."], "uuid": 409, "relation": "IsA", "sub_label_pl": "weevils"}
+{"sub_label": "barbu", "obj_label": ["fish"], "masked_sentences": ["A barbu is a [MASK]."], "uuid": 410, "relation": "IsA", "sub_label_pl": "barbus"}
+{"sub_label": "bobwhite", "obj_label": ["bird", "birds"], "masked_sentences": ["A bobwhite is a [MASK]."], "uuid": 411, "relation": "IsA", "sub_label_pl": "bobwhites"}
+{"sub_label": "statehouse", "obj_label": ["building", "buildings"], "masked_sentences": ["A statehouse is a [MASK]."], "uuid": 412, "relation": "IsA", "sub_label_pl": "statehouses"}
+{"sub_label": "soapberry", "obj_label": ["tree", "trees"], "masked_sentences": ["A soapberry is a [MASK]."], "uuid": 413, "relation": "IsA", "sub_label_pl": "soapberries"}
+{"sub_label": "chateau", "obj_label": ["building", "buildings"], "masked_sentences": ["A chateau is a [MASK]."], "uuid": 414, "relation": "IsA", "sub_label_pl": "chateaus"}
+{"sub_label": "flamingo", "obj_label": ["bird", "birds"], "masked_sentences": ["A flamingo is a [MASK]."], "uuid": 415, "relation": "IsA", "sub_label_pl": "flamingos"}
+{"sub_label": "bungalow", "obj_label": ["building", "buildings"], "masked_sentences": ["A bungalow is a [MASK]."], "uuid": 416, "relation": "IsA", "sub_label_pl": "bungalows"}
+{"sub_label": "danaid", "obj_label": ["insect", "insects"], "masked_sentences": ["A danaid is an [MASK]."], "uuid": 417, "relation": "IsA", "sub_label_pl": "danaids"}
+{"sub_label": "tavern", "obj_label": ["building", "buildings"], "masked_sentences": ["A tavern is a [MASK]."], "uuid": 418, "relation": "IsA", "sub_label_pl": "taverns"}
+{"sub_label": "pullman", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A pullman is a [MASK]."], "uuid": 419, "relation": "IsA", "sub_label_pl": "pullmans"}
+{"sub_label": "jackdaw", "obj_label": ["bird", "birds"], "masked_sentences": ["A jackdaw is a [MASK]."], "uuid": 420, "relation": "IsA", "sub_label_pl": "jackdaws"}
+{"sub_label": "budgerigar", "obj_label": ["bird", "birds"], "masked_sentences": ["A budgerigar is a [MASK]."], "uuid": 421, "relation": "IsA", "sub_label_pl": "budgerigars"}
+{"sub_label": "padauk", "obj_label": ["tree", "trees"], "masked_sentences": ["A padauk is a [MASK]."], "uuid": 422, "relation": "IsA", "sub_label_pl": "padauks"}
+{"sub_label": "boathouse", "obj_label": ["building", "buildings"], "masked_sentences": ["A boathouse is a [MASK]."], "uuid": 423, "relation": "IsA", "sub_label_pl": "boathouses"}
+{"sub_label": "unicycle", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["An unicycle is a [MASK]."], "uuid": 424, "relation": "IsA", "sub_label_pl": "unicycles"}
+{"sub_label": "caladenia", "obj_label": ["flower", "flowers"], "masked_sentences": ["A caladenia is a [MASK]."], "uuid": 425, "relation": "IsA", "sub_label_pl": "caladenia"}
+{"sub_label": "lunchroom", "obj_label": ["building", "buildings"], "masked_sentences": ["A lunchroom is a [MASK]."], "uuid": 426, "relation": "IsA", "sub_label_pl": "lunchrooms"}
+{"sub_label": "gunboat", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A gunboat is a [MASK]."], "uuid": 427, "relation": "IsA", "sub_label_pl": "gunboats"}
+{"sub_label": "silene", "obj_label": ["flower", "flowers"], "masked_sentences": ["A silene is a [MASK]."], "uuid": 428, "relation": "IsA", "sub_label_pl": "silenes"}
+{"sub_label": "hoe", "obj_label": ["tool", "tools"], "masked_sentences": ["A hoe is a [MASK]."], "uuid": 429, "relation": "IsA", "sub_label_pl": "hoes"}
+{"sub_label": "gentian", "obj_label": ["flower", "flowers"], "masked_sentences": ["A gentian is a [MASK]."], "uuid": 430, "relation": "IsA", "sub_label_pl": "gentians"}
+{"sub_label": "longboat", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A longboat is a [MASK]."], "uuid": 431, "relation": "IsA", "sub_label_pl": "longboats"}
+{"sub_label": "shrine", "obj_label": ["building", "buildings"], "masked_sentences": ["A shrine is a [MASK]."], "uuid": 432, "relation": "IsA", "sub_label_pl": "shrines"}
+{"sub_label": "keelboat", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A keelboat is a [MASK]."], "uuid": 433, "relation": "IsA", "sub_label_pl": "keelboats"}
+{"sub_label": "sculpin", "obj_label": ["fish"], "masked_sentences": ["A sculpin is a [MASK]."], "uuid": 434, "relation": "IsA", "sub_label_pl": "sculpins"}
+{"sub_label": "apiary", "obj_label": ["building", "buildings"], "masked_sentences": ["An apiary is a [MASK]."], "uuid": 435, "relation": "IsA", "sub_label_pl": "apiaries"}
+{"sub_label": "flea", "obj_label": ["insect", "insects"], "masked_sentences": ["A flea is an [MASK]."], "uuid": 436, "relation": "IsA", "sub_label_pl": "fleas"}
+{"sub_label": "araucaria", "obj_label": ["tree", "trees"], "masked_sentences": ["An araucaria is a [MASK]."], "uuid": 437, "relation": "IsA", "sub_label_pl": "araucaria"}
+{"sub_label": "nagi", "obj_label": ["tree", "trees"], "masked_sentences": ["A nagi is a [MASK]."], "uuid": 438, "relation": "IsA", "sub_label_pl": "nagis"}
+{"sub_label": "panzer", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A panzer is a [MASK]."], "uuid": 439, "relation": "IsA", "sub_label_pl": "panzers"}
+{"sub_label": "snook", "obj_label": ["fish"], "masked_sentences": ["A snook is a [MASK]."], "uuid": 440, "relation": "IsA", "sub_label_pl": "snooks"}
+{"sub_label": "totara", "obj_label": ["tree", "trees"], "masked_sentences": ["A totara is a [MASK]."], "uuid": 441, "relation": "IsA", "sub_label_pl": "totaras"}
+{"sub_label": "clusia", "obj_label": ["tree", "trees"], "masked_sentences": ["A clusia is a [MASK]."], "uuid": 442, "relation": "IsA", "sub_label_pl": "clusia"}
+{"sub_label": "toadflax", "obj_label": ["flower", "flowers"], "masked_sentences": ["A toadflax is a [MASK]."], "uuid": 443, "relation": "IsA", "sub_label_pl": "toadflaxes"}
+{"sub_label": "bookmobile", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A bookmobile is a [MASK]."], "uuid": 444, "relation": "IsA", "sub_label_pl": "bookmobiles"}
+{"sub_label": "catamaran", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A catamaran is a [MASK]."], "uuid": 445, "relation": "IsA", "sub_label_pl": "catamarans"}
+{"sub_label": "ibis", "obj_label": ["bird", "birds"], "masked_sentences": ["An ibis is a [MASK]."], "uuid": 446, "relation": "IsA", "sub_label_pl": "ibis"}
+{"sub_label": "skyscraper", "obj_label": ["building", "buildings"], "masked_sentences": ["A skyscraper is a [MASK]."], "uuid": 447, "relation": "IsA", "sub_label_pl": "skyscrapers"}
+{"sub_label": "pratincole", "obj_label": ["bird", "birds"], "masked_sentences": ["A pratincole is a [MASK]."], "uuid": 448, "relation": "IsA", "sub_label_pl": "pratincoles"}
+{"sub_label": "tern", "obj_label": ["bird", "birds"], "masked_sentences": ["A tern is a [MASK]."], "uuid": 449, "relation": "IsA", "sub_label_pl": "terns"}
+{"sub_label": "moorcock", "obj_label": ["bird", "birds"], "masked_sentences": ["A moorcock is a [MASK]."], "uuid": 450, "relation": "IsA", "sub_label_pl": "moorcocks"}
+{"sub_label": "siris", "obj_label": ["tree", "trees"], "masked_sentences": ["A siris is a [MASK]."], "uuid": 451, "relation": "IsA", "sub_label_pl": "siris"}
+{"sub_label": "airship", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["An airship is a [MASK]."], "uuid": 452, "relation": "IsA", "sub_label_pl": "airships"}
+{"sub_label": "wheatear", "obj_label": ["bird", "birds"], "masked_sentences": ["A wheatear is a [MASK]."], "uuid": 453, "relation": "IsA", "sub_label_pl": "wheatears"}
+{"sub_label": "blenny", "obj_label": ["fish"], "masked_sentences": ["A blenny is a [MASK]."], "uuid": 454, "relation": "IsA", "sub_label_pl": "blennies"}
+{"sub_label": "guesthouse", "obj_label": ["building", "buildings"], "masked_sentences": ["A guesthouse is a [MASK]."], "uuid": 455, "relation": "IsA", "sub_label_pl": "guesthouses"}
+{"sub_label": "podocarp", "obj_label": ["tree", "trees"], "masked_sentences": ["A podocarp is a [MASK]."], "uuid": 456, "relation": "IsA", "sub_label_pl": "podocarps"}
+{"sub_label": "canvasback", "obj_label": ["bird", "birds"], "masked_sentences": ["A canvasback is a [MASK]."], "uuid": 457, "relation": "IsA", "sub_label_pl": "canvasbacks"}
+{"sub_label": "longan", "obj_label": ["tree", "trees"], "masked_sentences": ["A longan is a [MASK]."], "uuid": 458, "relation": "IsA", "sub_label_pl": "longans"}
+{"sub_label": "cacao", "obj_label": ["tree", "trees"], "masked_sentences": ["A cacao is a [MASK]."], "uuid": 459, "relation": "IsA", "sub_label_pl": "cacaos"}
+{"sub_label": "nunnery", "obj_label": ["building", "buildings"], "masked_sentences": ["A nunnery is a [MASK]."], "uuid": 460, "relation": "IsA", "sub_label_pl": "nunneries"}
+{"sub_label": "brewpub", "obj_label": ["building", "buildings"], "masked_sentences": ["A brewpub is a [MASK]."], "uuid": 461, "relation": "IsA", "sub_label_pl": "brewpubs"}
+{"sub_label": "goldilocks", "obj_label": ["flower", "flowers"], "masked_sentences": ["A goldilocks is a [MASK]."], "uuid": 462, "relation": "IsA", "sub_label_pl": "goldilocks"}
+{"sub_label": "sheepshead", "obj_label": ["fish"], "masked_sentences": ["A sheepshead is a [MASK]."], "uuid": 463, "relation": "IsA", "sub_label_pl": "sheepsheads"}
+{"sub_label": "ponderosa", "obj_label": ["tree", "trees"], "masked_sentences": ["A ponderosa is a [MASK]."], "uuid": 464, "relation": "IsA", "sub_label_pl": "ponderosas"}
+{"sub_label": "candytuft", "obj_label": ["flower", "flowers"], "masked_sentences": ["A candytuft is a [MASK]."], "uuid": 465, "relation": "IsA", "sub_label_pl": "candytufts"}
+{"sub_label": "fryer", "obj_label": ["bird", "birds"], "masked_sentences": ["A fryer is a [MASK]."], "uuid": 466, "relation": "IsA", "sub_label_pl": "fryers"}
+{"sub_label": "farmhouse", "obj_label": ["building", "buildings"], "masked_sentences": ["A farmhouse is a [MASK]."], "uuid": 467, "relation": "IsA", "sub_label_pl": "farmhouses"}
+{"sub_label": "aviary", "obj_label": ["building", "buildings"], "masked_sentences": ["An aviary is a [MASK]."], "uuid": 468, "relation": "IsA", "sub_label_pl": "aviaries"}
+{"sub_label": "outhouse", "obj_label": ["building", "buildings"], "masked_sentences": ["An outhouse is a [MASK]."], "uuid": 469, "relation": "IsA", "sub_label_pl": "outhouses"}
+{"sub_label": "jointer", "obj_label": ["tool", "tools"], "masked_sentences": ["A jointer is a [MASK]."], "uuid": 470, "relation": "IsA", "sub_label_pl": "jointers"}
+{"sub_label": "handcar", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A handcar is a [MASK]."], "uuid": 471, "relation": "IsA", "sub_label_pl": "handcars"}
+{"sub_label": "cacique", "obj_label": ["bird", "birds"], "masked_sentences": ["A cacique is a [MASK]."], "uuid": 472, "relation": "IsA", "sub_label_pl": "caciques"}
+{"sub_label": "stickleback", "obj_label": ["fish"], "masked_sentences": ["A stickleback is a [MASK]."], "uuid": 473, "relation": "IsA", "sub_label_pl": "sticklebacks"}
+{"sub_label": "hoatzin", "obj_label": ["bird", "birds"], "masked_sentences": ["A hoatzin is a [MASK]."], "uuid": 474, "relation": "IsA", "sub_label_pl": "hoatzins"}
+{"sub_label": "guillemot", "obj_label": ["bird", "birds"], "masked_sentences": ["A guillemot is a [MASK]."], "uuid": 475, "relation": "IsA", "sub_label_pl": "guillemots"}
+{"sub_label": "adelgid", "obj_label": ["insect", "insects"], "masked_sentences": ["An adelgid is an [MASK]."], "uuid": 476, "relation": "IsA", "sub_label_pl": "adelgids"}
+{"sub_label": "catkin", "obj_label": ["flower", "flowers"], "masked_sentences": ["A catkin is a [MASK]."], "uuid": 477, "relation": "IsA", "sub_label_pl": "catkins"}
+{"sub_label": "redbud", "obj_label": ["tree", "trees"], "masked_sentences": ["A redbud is a [MASK]."], "uuid": 478, "relation": "IsA", "sub_label_pl": "redbuds"}
+{"sub_label": "minelayer", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A minelayer is a [MASK]."], "uuid": 479, "relation": "IsA", "sub_label_pl": "minelayers"}
+{"sub_label": "jaeger", "obj_label": ["bird", "birds"], "masked_sentences": ["A jaeger is a [MASK]."], "uuid": 480, "relation": "IsA", "sub_label_pl": "jaegers"}
+{"sub_label": "razorbill", "obj_label": ["bird", "birds"], "masked_sentences": ["A razorbill is a [MASK]."], "uuid": 481, "relation": "IsA", "sub_label_pl": "razorbills"}
+{"sub_label": "masjid", "obj_label": ["building", "buildings"], "masked_sentences": ["A masjid is a [MASK]."], "uuid": 482, "relation": "IsA", "sub_label_pl": "masjids"}
+{"sub_label": "minicar", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A minicar is a [MASK]."], "uuid": 483, "relation": "IsA", "sub_label_pl": "minicars"}
+{"sub_label": "chancellery", "obj_label": ["building", "buildings"], "masked_sentences": ["A chancellery is a [MASK]."], "uuid": 484, "relation": "IsA", "sub_label_pl": "chancelleries"}
+{"sub_label": "sailboat", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A sailboat is a [MASK]."], "uuid": 485, "relation": "IsA", "sub_label_pl": "sailboats"}
+{"sub_label": "bumblebee", "obj_label": ["insect", "insects"], "masked_sentences": ["A bumblebee is an [MASK]."], "uuid": 486, "relation": "IsA", "sub_label_pl": "bumblebees"}
+{"sub_label": "adelie", "obj_label": ["bird", "birds"], "masked_sentences": ["An adelie is a [MASK]."], "uuid": 487, "relation": "IsA", "sub_label_pl": "adelies"}
+{"sub_label": "clinid", "obj_label": ["fish"], "masked_sentences": ["A clinid is a [MASK]."], "uuid": 488, "relation": "IsA", "sub_label_pl": "clinids"}
+{"sub_label": "airplane", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["An airplane is a [MASK]."], "uuid": 489, "relation": "IsA", "sub_label_pl": "airplanes"}
+{"sub_label": "shoebill", "obj_label": ["bird", "birds"], "masked_sentences": ["A shoebill is a [MASK]."], "uuid": 490, "relation": "IsA", "sub_label_pl": "shoebills"}
+{"sub_label": "flatcar", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A flatcar is a [MASK]."], "uuid": 491, "relation": "IsA", "sub_label_pl": "flatcars"}
+{"sub_label": "masdevallia", "obj_label": ["flower", "flowers"], "masked_sentences": ["A masdevallia is a [MASK]."], "uuid": 492, "relation": "IsA", "sub_label_pl": "masdevallia"}
+{"sub_label": "calceolaria", "obj_label": ["flower", "flowers"], "masked_sentences": ["A calceolaria is a [MASK]."], "uuid": 493, "relation": "IsA", "sub_label_pl": "calceolaria"}
+{"sub_label": "delphinium", "obj_label": ["flower", "flowers"], "masked_sentences": ["A delphinium is a [MASK]."], "uuid": 494, "relation": "IsA", "sub_label_pl": "delphinia"}
+{"sub_label": "raceme", "obj_label": ["flower", "flowers"], "masked_sentences": ["A raceme is a [MASK]."], "uuid": 495, "relation": "IsA", "sub_label_pl": "racemes"}
+{"sub_label": "streptocarpus", "obj_label": ["flower", "flowers"], "masked_sentences": ["A streptocarpus is a [MASK]."], "uuid": 496, "relation": "IsA", "sub_label_pl": "streptocarpus"}
+{"sub_label": "auklet", "obj_label": ["bird", "birds"], "masked_sentences": ["An auklet is a [MASK]."], "uuid": 497, "relation": "IsA", "sub_label_pl": "auklets"}
+{"sub_label": "raven", "obj_label": ["bird", "birds"], "masked_sentences": ["A raven is a [MASK]."], "uuid": 498, "relation": "IsA", "sub_label_pl": "ravens"}
+{"sub_label": "skiff", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A skiff is a [MASK]."], "uuid": 499, "relation": "IsA", "sub_label_pl": "skiffs"}
+{"sub_label": "brant", "obj_label": ["bird", "birds"], "masked_sentences": ["A brant is a [MASK]."], "uuid": 500, "relation": "IsA", "sub_label_pl": "brants"}
+{"sub_label": "damselfly", "obj_label": ["insect", "insects"], "masked_sentences": ["A damselfly is an [MASK]."], "uuid": 501, "relation": "IsA", "sub_label_pl": "damselflies"}
+{"sub_label": "osprey", "obj_label": ["bird", "birds"], "masked_sentences": ["An osprey is a [MASK]."], "uuid": 502, "relation": "IsA", "sub_label_pl": "ospreys"}
+{"sub_label": "motorboat", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A motorboat is a [MASK]."], "uuid": 503, "relation": "IsA", "sub_label_pl": "motorboats"}
+{"sub_label": "platy", "obj_label": ["fish"], "masked_sentences": ["A platy is a [MASK]."], "uuid": 504, "relation": "IsA", "sub_label_pl": "platies"}
+{"sub_label": "minivan", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A minivan is a [MASK]."], "uuid": 505, "relation": "IsA", "sub_label_pl": "minivans"}
+{"sub_label": "gyrfalcon", "obj_label": ["bird", "birds"], "masked_sentences": ["A gyrfalcon is a [MASK]."], "uuid": 506, "relation": "IsA", "sub_label_pl": "gyrfalcons"}
+{"sub_label": "lychnis", "obj_label": ["flower", "flowers"], "masked_sentences": ["A lychnis is a [MASK]."], "uuid": 507, "relation": "IsA", "sub_label_pl": "lychnis"}
+{"sub_label": "baya", "obj_label": ["bird", "birds"], "masked_sentences": ["A baya is a [MASK]."], "uuid": 508, "relation": "IsA", "sub_label_pl": "bayas"}
+{"sub_label": "owlet", "obj_label": ["bird", "birds"], "masked_sentences": ["An owlet is a [MASK]."], "uuid": 509, "relation": "IsA", "sub_label_pl": "owlets"}
+{"sub_label": "archaeopteryx", "obj_label": ["bird", "birds"], "masked_sentences": ["An archaeopteryx is a [MASK]."], "uuid": 510, "relation": "IsA", "sub_label_pl": "archaeopteryxes"}
+{"sub_label": "titmouse", "obj_label": ["bird", "birds"], "masked_sentences": ["A titmouse is a [MASK]."], "uuid": 511, "relation": "IsA", "sub_label_pl": "titmice"}
+{"sub_label": "priory", "obj_label": ["building", "buildings"], "masked_sentences": ["A priory is a [MASK]."], "uuid": 512, "relation": "IsA", "sub_label_pl": "priories"}
+{"sub_label": "spoonbill", "obj_label": ["bird", "birds"], "masked_sentences": ["A spoonbill is a [MASK]."], "uuid": 513, "relation": "IsA", "sub_label_pl": "spoonbills"}
+{"sub_label": "parakeet", "obj_label": ["bird", "birds"], "masked_sentences": ["A parakeet is a [MASK]."], "uuid": 514, "relation": "IsA", "sub_label_pl": "parakeets"}
+{"sub_label": "moa", "obj_label": ["bird", "birds"], "masked_sentences": ["A moa is a [MASK]."], "uuid": 515, "relation": "IsA", "sub_label_pl": "moas"}
+{"sub_label": "falcon", "obj_label": ["bird", "birds"], "masked_sentences": ["A falcon is a [MASK]."], "uuid": 516, "relation": "IsA", "sub_label_pl": "falcons"}
+{"sub_label": "brasserie", "obj_label": ["building", "buildings"], "masked_sentences": ["A brasserie is a [MASK]."], "uuid": 517, "relation": "IsA", "sub_label_pl": "brasseries"}
+{"sub_label": "goatsucker", "obj_label": ["bird", "birds"], "masked_sentences": ["A goatsucker is a [MASK]."], "uuid": 518, "relation": "IsA", "sub_label_pl": "goatsuckers"}
+{"sub_label": "tenement", "obj_label": ["building", "buildings"], "masked_sentences": ["A tenement is a [MASK]."], "uuid": 519, "relation": "IsA", "sub_label_pl": "tenements"}
+{"sub_label": "minster", "obj_label": ["building", "buildings"], "masked_sentences": ["A minster is a [MASK]."], "uuid": 520, "relation": "IsA", "sub_label_pl": "minsters"}
+{"sub_label": "godwit", "obj_label": ["bird", "birds"], "masked_sentences": ["A godwit is a [MASK]."], "uuid": 521, "relation": "IsA", "sub_label_pl": "godwits"}
+{"sub_label": "plover", "obj_label": ["bird", "birds"], "masked_sentences": ["A plover is a [MASK]."], "uuid": 522, "relation": "IsA", "sub_label_pl": "plovers"}
+{"sub_label": "whydah", "obj_label": ["bird", "birds"], "masked_sentences": ["A whydah is a [MASK]."], "uuid": 523, "relation": "IsA", "sub_label_pl": "whydahs"}
+{"sub_label": "toucan", "obj_label": ["bird", "birds"], "masked_sentences": ["A toucan is a [MASK]."], "uuid": 524, "relation": "IsA", "sub_label_pl": "toucans"}
+{"sub_label": "whorehouse", "obj_label": ["building", "buildings"], "masked_sentences": ["A whorehouse is a [MASK]."], "uuid": 525, "relation": "IsA", "sub_label_pl": "whorehouses"}
+{"sub_label": "megapode", "obj_label": ["bird", "birds"], "masked_sentences": ["A megapode is a [MASK]."], "uuid": 526, "relation": "IsA", "sub_label_pl": "megapodes"}
+{"sub_label": "cockerel", "obj_label": ["bird", "birds"], "masked_sentences": ["A cockerel is a [MASK]."], "uuid": 527, "relation": "IsA", "sub_label_pl": "cockerels"}
+{"sub_label": "chaffinch", "obj_label": ["bird", "birds"], "masked_sentences": ["A chaffinch is a [MASK]."], "uuid": 528, "relation": "IsA", "sub_label_pl": "chaffinches"}
+{"sub_label": "petrel", "obj_label": ["bird", "birds"], "masked_sentences": ["A petrel is a [MASK]."], "uuid": 529, "relation": "IsA", "sub_label_pl": "petrels"}
+{"sub_label": "floatplane", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A floatplane is a [MASK]."], "uuid": 530, "relation": "IsA", "sub_label_pl": "floatplanes"}
+{"sub_label": "trireme", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A trireme is a [MASK]."], "uuid": 531, "relation": "IsA", "sub_label_pl": "triremes"}
+{"sub_label": "hansom", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A hansom is a [MASK]."], "uuid": 532, "relation": "IsA", "sub_label_pl": "hansoms"}
+{"sub_label": "dhak", "obj_label": ["tree", "trees"], "masked_sentences": ["A dhak is a [MASK]."], "uuid": 533, "relation": "IsA", "sub_label_pl": "dhaks"}
+{"sub_label": "lugger", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A lugger is a [MASK]."], "uuid": 534, "relation": "IsA", "sub_label_pl": "luggers"}
+{"sub_label": "bareboat", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A bareboat is a [MASK]."], "uuid": 535, "relation": "IsA", "sub_label_pl": "bareboats"}
+{"sub_label": "monoplane", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A monoplane is a [MASK]."], "uuid": 536, "relation": "IsA", "sub_label_pl": "monoplanes"}
+{"sub_label": "gidgee", "obj_label": ["tree", "trees"], "masked_sentences": ["A gidgee is a [MASK]."], "uuid": 537, "relation": "IsA", "sub_label_pl": "gidgees"}
+{"sub_label": "deodar", "obj_label": ["tree", "trees"], "masked_sentences": ["A deodar is a [MASK]."], "uuid": 538, "relation": "IsA", "sub_label_pl": "deodars"}
+{"sub_label": "sternwheeler", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A sternwheeler is a [MASK]."], "uuid": 539, "relation": "IsA", "sub_label_pl": "sternwheelers"}
+{"sub_label": "angelim", "obj_label": ["tree", "trees"], "masked_sentences": ["An angelim is a [MASK]."], "uuid": 540, "relation": "IsA", "sub_label_pl": "angelims"}
+{"sub_label": "humvee", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A humvee is a [MASK]."], "uuid": 541, "relation": "IsA", "sub_label_pl": "humvees"}
+{"sub_label": "snowmobile", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A snowmobile is a [MASK]."], "uuid": 542, "relation": "IsA", "sub_label_pl": "snowmobiles"}
+{"sub_label": "mallee", "obj_label": ["tree", "trees"], "masked_sentences": ["A mallee is a [MASK]."], "uuid": 543, "relation": "IsA", "sub_label_pl": "mallees"}
+{"sub_label": "palmyra", "obj_label": ["tree", "trees"], "masked_sentences": ["A palmyra is a [MASK]."], "uuid": 544, "relation": "IsA", "sub_label_pl": "palmyras"}
+{"sub_label": "cladogram", "obj_label": ["tree", "trees"], "masked_sentences": ["A cladogram is a [MASK]."], "uuid": 545, "relation": "IsA", "sub_label_pl": "cladograms"}
+{"sub_label": "aspen", "obj_label": ["tree", "trees"], "masked_sentences": ["An aspen is a [MASK]."], "uuid": 546, "relation": "IsA", "sub_label_pl": "aspens"}
+{"sub_label": "shagbark", "obj_label": ["tree", "trees"], "masked_sentences": ["A shagbark is a [MASK]."], "uuid": 547, "relation": "IsA", "sub_label_pl": "shagbarks"}
+{"sub_label": "pignut", "obj_label": ["tree", "trees"], "masked_sentences": ["A pignut is a [MASK]."], "uuid": 548, "relation": "IsA", "sub_label_pl": "pignuts"}
+{"sub_label": "metasequoia", "obj_label": ["tree", "trees"], "masked_sentences": ["A metasequoia is a [MASK]."], "uuid": 549, "relation": "IsA", "sub_label_pl": "metasequoia"}
+{"sub_label": "rangpur", "obj_label": ["tree", "trees"], "masked_sentences": ["A rangpur is a [MASK]."], "uuid": 550, "relation": "IsA", "sub_label_pl": "rangpurs"}
+{"sub_label": "montezuma", "obj_label": ["tree", "trees"], "masked_sentences": ["A montezuma is a [MASK]."], "uuid": 551, "relation": "IsA", "sub_label_pl": "montezumas"}
+{"sub_label": "mamo", "obj_label": ["bird", "birds"], "masked_sentences": ["A mamo is a [MASK]."], "uuid": 552, "relation": "IsA", "sub_label_pl": "mamos"}
+{"sub_label": "solan", "obj_label": ["bird", "birds"], "masked_sentences": ["A solan is a [MASK]."], "uuid": 553, "relation": "IsA", "sub_label_pl": "solans"}
+{"sub_label": "bustard", "obj_label": ["bird", "birds"], "masked_sentences": ["A bustard is a [MASK]."], "uuid": 554, "relation": "IsA", "sub_label_pl": "bustards"}
+{"sub_label": "ptarmigan", "obj_label": ["bird", "birds"], "masked_sentences": ["A ptarmigan is a [MASK]."], "uuid": 555, "relation": "IsA", "sub_label_pl": "ptarmigans"}
+{"sub_label": "reeve", "obj_label": ["bird", "birds"], "masked_sentences": ["A reeve is a [MASK]."], "uuid": 556, "relation": "IsA", "sub_label_pl": "reeves"}
+{"sub_label": "lorikeet", "obj_label": ["bird", "birds"], "masked_sentences": ["A lorikeet is a [MASK]."], "uuid": 557, "relation": "IsA", "sub_label_pl": "lorikeets"}
+{"sub_label": "hornbill", "obj_label": ["bird", "birds"], "masked_sentences": ["A hornbill is a [MASK]."], "uuid": 558, "relation": "IsA", "sub_label_pl": "hornbills"}
+{"sub_label": "sandpiper", "obj_label": ["bird", "birds"], "masked_sentences": ["A sandpiper is a [MASK]."], "uuid": 559, "relation": "IsA", "sub_label_pl": "sandpipers"}
+{"sub_label": "bulbul", "obj_label": ["bird", "birds"], "masked_sentences": ["A bulbul is a [MASK]."], "uuid": 560, "relation": "IsA", "sub_label_pl": "bulbuls"}
+{"sub_label": "sandgrouse", "obj_label": ["bird", "birds"], "masked_sentences": ["A sandgrouse is a [MASK]."], "uuid": 561, "relation": "IsA", "sub_label_pl": "sandgrouses"}
+{"sub_label": "knockabout", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A knockabout is a [MASK]."], "uuid": 562, "relation": "IsA", "sub_label_pl": "knockabouts"}
+{"sub_label": "ani", "obj_label": ["bird", "birds"], "masked_sentences": ["An ani is a [MASK]."], "uuid": 563, "relation": "IsA", "sub_label_pl": "anis"}
+{"sub_label": "condor", "obj_label": ["bird", "birds"], "masked_sentences": ["A condor is a [MASK]."], "uuid": 564, "relation": "IsA", "sub_label_pl": "condors"}
+{"sub_label": "crake", "obj_label": ["bird", "birds"], "masked_sentences": ["A crake is a [MASK]."], "uuid": 565, "relation": "IsA", "sub_label_pl": "crakes"}
+{"sub_label": "jeep", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A jeep is a [MASK]."], "uuid": 566, "relation": "IsA", "sub_label_pl": "jeeps"}
+{"sub_label": "buggy", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A buggy is a [MASK]."], "uuid": 567, "relation": "IsA", "sub_label_pl": "buggies"}
+{"sub_label": "shearwater", "obj_label": ["bird", "birds"], "masked_sentences": ["A shearwater is a [MASK]."], "uuid": 568, "relation": "IsA", "sub_label_pl": "shearwaters"}
+{"sub_label": "sloop", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A sloop is a [MASK]."], "uuid": 569, "relation": "IsA", "sub_label_pl": "sloops"}
+{"sub_label": "mailboat", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A mailboat is a [MASK]."], "uuid": 570, "relation": "IsA", "sub_label_pl": "mailboats"}
+{"sub_label": "shrike", "obj_label": ["bird", "birds"], "masked_sentences": ["A shrike is a [MASK]."], "uuid": 571, "relation": "IsA", "sub_label_pl": "shrikes"}
+{"sub_label": "biplane", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A biplane is a [MASK]."], "uuid": 572, "relation": "IsA", "sub_label_pl": "biplanes"}
+{"sub_label": "baobab", "obj_label": ["tree", "trees"], "masked_sentences": ["A baobab is a [MASK]."], "uuid": 573, "relation": "IsA", "sub_label_pl": "baobabs"}
+{"sub_label": "aircraft", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["An aircraft is a [MASK]."], "uuid": 574, "relation": "IsA", "sub_label_pl": "aircrafts"}
+{"sub_label": "gean", "obj_label": ["tree", "trees"], "masked_sentences": ["A gean is a [MASK]."], "uuid": 575, "relation": "IsA", "sub_label_pl": "geans"}
+{"sub_label": "luge", "obj_label": ["vehicle", "vehicles"], "masked_sentences": ["A luge is a [MASK]."], "uuid": 576, "relation": "IsA", "sub_label_pl": "luges"}

@@ -1,0 +1,83 @@
+{
+    "IsA": {
+        "relation": "IsA",
+        "def_sap": [
+            "A [X] is a <mask>.",
+            "A [X] is an <mask>.",
+            "An [X] is a <mask>.",
+            "An [X] is an <mask>."
+        ],
+        "def_dap": [
+            "A [X] or [Z] is a <mask>.",
+            "A [X] or [Z] is an <mask>.",
+            "An [X] or [Z] is a <mask>.",
+            "An [X] or [Z] is an <mask>."
+        ],
+        "lsp_sap": [
+            "<mask> such as [X], ",
+            "<mask>, such as [X], ",
+            "<mask>, such as [X] and  ",
+            "<mask>, such as [X] or ",
+            "such <mask> as [X], ",
+            ", [X] or other <mask>",
+            ", [X] and other <mask>",
+            "<mask>, including [X], ",
+            "<mask>, including [X] and",
+            "<mask>, including [X] or",
+            "<mask>, especillay [X], ",
+            "<mask>, especillay [X] and ",
+            "<mask>, especillay [X] or ",
+            "<mask> (e.g., [X] )"
+        ],
+        "lsp_dap": [
+            "<mask> such as [X] and [Z]",
+            "such <mask> as [X] and [Z]",
+            "[X], [Z] or other <mask>",
+            "[X], [Z] and other <mask>",
+            "<mask> including [X], [Z]",
+            "<mask>, especillay [X], [Z] "
+        ],
+        "use_dap": true,
+        "anchor_target": "[X]",
+        "anchor_lsp_sap": [
+            "such as [X] and <mask>,",
+            "such as [X] or <mask>,",
+            "such as [X], <mask>,",
+            "such as [X], <mask>, and",
+            ", such as [X] and <mask>,",
+            ", such as [X] or <mask>, ",
+            "as [X] and <mask>",
+            "as [X] or <mask>",
+            "as [X], <mask>,",
+            "[X], <mask> or other",
+            "[X], <mask> and other",
+            ", including [X] and <mask>",
+            ", including [X] or <mask>",
+            ", including [X], <mask>,",
+            ", including [X], <mask>, and",
+            ", including [X], <mask>, or",
+            ", especially [X] and <mask> ,",
+            ", especially [X] or <mask> ,",
+            ", especially [X], <mask> ,",
+            ", especially [X], <mask> , and"
+        ]
+    }
+}
+Some weights of the model checkpoint at bert-base-cased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at bert-base-cased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+---------------------------------------- bert-base-cased-anchor_type: Coordinate-scorer_anchor:freqProbLogSum-op:concate_or_single ----------------------------------------
+Processing IsA ... data/clsb/blank//IsA.jsonl
+#Test_instances: 522
+	 step1: get anchors (fill and filter)
+--- def_sap
+--- lsp_sap
+       mask_type       p@1      p@10 relation   mrr     mAP@1    mAP@10
+0  mask_sentence  0.319923  0.645594      IsA  42.6  0.494253  0.560016
+1   mask_def_sap  0.195402  0.568966      IsA  30.9  0.327586  0.416564
+2   mask_lsp_sap  0.170498  0.515326      IsA  27.9  0.243295  0.317257
+save log/bert-base-cased/blank/df_all_use_global_dap_False_anchor_type_Coordinate_concate_or_single_max_anchor_num_3_anchor_scorer_freqProbLogSum.csv
+save log/bert-base-cased/blank/exp_data_results_anchor_type_Coordinate_concate_or_single_max_anchor_num_3_anchor_scorer_freqProbLogSum.csv

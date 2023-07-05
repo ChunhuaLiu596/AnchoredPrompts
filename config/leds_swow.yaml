@@ -1,0 +1,53 @@
+# @package _global_
+
+debug: False
+test_relations: ["IsA"]
+
+save_all_data:  True  
+top_k: 10
+data_dir:  'data/hypernymsuite/LEDS/swow_rw/'
+mask_string_mapping:  {
+                # "roberta-large": "<mask>", 
+            #    "bert-base-uncased": "[MASK]",
+               "bert-large-uncased": "[MASK]"
+               }
+
+use_dap_global:  True
+return_probs:  True
+anchor_scorer_list:  ['probAvg'] #['freqProbLogSum']  # #[  'freq', 'probSum', 'probAvg', 'freqProbSum', 'probLogSum', 'freqProbLogSum']
+scorer_target_1_prompt:  'probSum'
+scorer_target_N_prompts:  'probAvg' #'probLogSum'
+
+use_original_prompt:  True
+original_prompt_source: 'masked_sentence' #'templated_double_anchor'
+incorporate_operations:  [ "concate_or_single"] #, "concate_comma_multiple", "replace" ]
+
+filter_anchors_flag: True   #filter the anchors
+filter_objects_flag: False  #filter the model predicitons/outputs 
+
+cpt_only:  False # False # only use cpt to select anchor or not
+anchor_types: ["Coordinate_remove_Y_PUNC_FULL"]
+add_cpt_score: False  #False #
+constrain_targets:  False
+add_wordnet_path_score: False #True   #use worndet_path_score in anchor scoring function or not 
+
+anchor_probe: 'plural_probe'
+anchor_col: 'subj_anchors'
+anchor_col_sg: 'subj_anchors_sg'
+anchor_col_pl: 'subj_anchors_pl'
+anchor_col_all: 'anchor_col_all'
+filter_objects_with_input: True
+sub_col: 'sub_label'
+sub_col_sg: 'sub_label_sg'
+sub_col_pl: 'sub_label_pl'
+top_k_anchors: 5
+max_anchor_num_list: [10]
+max_anchor_num:  10
+sub_col_sgpl: 'sub_label_sgpl'
+filter_objects_with_anchors: False 
+oracle_anchor_inserted: False
+
+use_oracle_anchor: True 
+anchor_source: 'LM'
+add_swow_score: True 
+swow_score_source: 'SWOWSimilar'

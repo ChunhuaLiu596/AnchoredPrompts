@@ -1,0 +1,900 @@
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q1208016", "sub_label": "Foster + Partners", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q17007851", "sub_label": "Circle", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q7883459", "sub_label": "Underbelly Limited", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q36405", "obj_label": "Aberdeen", "sub_uri": "Q7145029", "sub_label": "Patio Hotels", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q4789651", "sub_label": "Argon 18", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q54173", "sub_label": "General Electric", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q34006", "obj_label": "Hollywood", "sub_uri": "Q4676636", "sub_label": "Act One, Inc.", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q2256", "obj_label": "Birmingham", "sub_uri": "Q4979593", "sub_label": "Bruntwood", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q12439", "obj_label": "Detroit", "sub_uri": "Q3154512", "sub_label": "Iron Fist Records", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q16557", "obj_label": "Dallas", "sub_uri": "Q5300228", "sub_label": "Doug's Gym", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q2096", "obj_label": "Edmonton", "sub_uri": "Q4711650", "sub_label": "Alberta Health Services", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q5694872", "sub_label": "Heavenly Group Ltd", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_uri": "Q770080", "sub_label": "Gwardia Warsaw", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1156", "obj_label": "Mumbai", "sub_uri": "Q18125884", "sub_label": "Image Media Vision", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q6024385", "sub_label": "Indica Records", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q5838", "obj_label": "Kabul", "sub_uri": "Q17013425", "sub_label": "Aschiana", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_uri": "Q7389450", "sub_label": "SDI Media Polska", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q1821242", "sub_label": "Lettre International", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q406", "obj_label": "Istanbul", "sub_uri": "Q6023157", "sub_label": "Memorial Health Group", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q5281952", "sub_label": "Discovery Networks UK", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q406", "obj_label": "Istanbul", "sub_uri": "Q6100694", "sub_label": "Okan University", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_uri": "Q17072677", "sub_label": "Hispakart", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q22905", "obj_label": "Bradford", "sub_uri": "Q896965", "sub_label": "Bradford (Park Avenue) A.F.C.", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_uri": "Q83822", "sub_label": "\u00d6sterreichische Bundesbahnen", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q7256169", "sub_label": "PsyMontr\u00e9al", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_uri": "Q414066", "sub_label": "Academy of Fine Arts", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q844008", "obj_label": "Kent", "sub_uri": "Q7074829", "sub_label": "Oberto Sausage Company", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q2750156", "sub_label": "Xtreme Pro Wrestling", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q8652", "obj_label": "Miami", "sub_uri": "Q911931", "sub_label": "Dyras", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q5270865", "sub_label": "Diamond Management & Technology Consultants", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q36312", "obj_label": "Calgary", "sub_uri": "Q4925899", "sub_label": "Bleeding Art Industries", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q24639", "obj_label": "Vancouver", "sub_uri": "Q6722987", "sub_label": "Macdonald Realty", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q2135", "obj_label": "Winnipeg", "sub_uri": "Q4808912", "sub_label": "Assiniboine Credit Union", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1156", "obj_label": "Mumbai", "sub_uri": "Q5411182", "sub_label": "Eureka Forbes", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q8652", "obj_label": "Miami", "sub_uri": "Q5415033", "sub_label": "Eva Danielle", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_uri": "Q1643121", "sub_label": "Six Apart", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1726", "obj_label": "Munich", "sub_uri": "Q662623", "sub_label": "BenQ-Siemens", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1781", "obj_label": "Budapest", "sub_uri": "Q4817298", "sub_label": "Atomic Motion", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q7450978", "sub_label": "Sense Worldwide", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q325635", "sub_label": "Telefunken", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q8686", "obj_label": "Shanghai", "sub_uri": "Q4859670", "sub_label": "Barbie Shanghai", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q29364", "obj_label": "Montgomery", "sub_uri": "Q1641692", "sub_label": "Hyundai Motor Manufacturing Alabama", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q365", "obj_label": "Cologne", "sub_uri": "Q650195", "sub_label": "Johann Maria Farina gegen\u00fcber dem J\u00fclichs-Platz", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3141", "obj_label": "Melbourne", "sub_uri": "Q5686196", "sub_label": "Hayball", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q37320", "obj_label": "Cleveland", "sub_uri": "Q5454794", "sub_label": "Fisher Foods", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q3029296", "sub_label": "F5 Networks", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1342", "obj_label": "Pittsburgh", "sub_uri": "Q7939247", "sub_label": "Vocelli Pizza", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q334", "obj_label": "Singapore", "sub_uri": "Q4806406", "sub_label": "Omniscien Technologies", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q3149496", "sub_label": "Imprimerie nationale", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q16927916", "sub_label": "MKG Group", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q1432908", "sub_label": "Supreme Headquarters Allied Powers Europe", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_uri": "Q1329630", "sub_label": "Elipsos", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q16555", "obj_label": "Houston", "sub_uri": "Q1525831", "sub_label": "University of Texas MD Anderson Cancer Center", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q234453", "obj_label": "Hollywood", "sub_uri": "Q5367665", "sub_label": "Elsinore Multimedia", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1726", "obj_label": "Munich", "sub_uri": "Q7301342", "sub_label": "Realmforge Studios", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q2567164", "sub_label": "Whitman's", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q188313", "obj_label": "Blackburn", "sub_uri": "Q880782", "sub_label": "Blackburn with Darwen", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1393", "obj_label": "Delaware", "sub_uri": "Q4795598", "sub_label": "Arotech Corporation", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q956", "obj_label": "Beijing", "sub_uri": "Q8053714", "sub_label": "Yingke", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q43", "obj_label": "Turkey", "sub_uri": "Q683816", "sub_label": "Demir\u00f6ren News Agency", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q2135", "obj_label": "Winnipeg", "sub_uri": "Q1191833", "sub_label": "University of Manitoba", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q805", "obj_label": "Yemen", "sub_uri": "Q6898454", "sub_label": "Yemen Mobile", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q29", "obj_label": "Spain", "sub_uri": "Q5447282", "sub_label": "Fierro Group", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q16988003", "sub_label": "Jennings & Company", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q49219", "obj_label": "Irvine", "sub_uri": "Q5422499", "sub_label": "Exult Inc.", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q37836", "obj_label": "Milwaukee", "sub_uri": "Q3438452", "sub_label": "Bradley Foundation", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_uri": "Q5635865", "sub_label": "HSBC Bank Polska", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q896587", "sub_label": "Disconto-Gesellschaft", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q827589", "sub_label": "Ontario New Democratic Party", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q11332510", "sub_label": "Fill-in-Cafe", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q7306001", "sub_label": "Redknee", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q37100", "obj_label": "Auckland", "sub_uri": "Q6844094", "sub_label": "Mighty Ape", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q7564975", "sub_label": "Soundstreams Canada", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q6655313", "sub_label": "Live Nation UK", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3141", "obj_label": "Melbourne", "sub_uri": "Q7205311", "sub_label": "Plum Financial Services", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q956", "obj_label": "Beijing", "sub_uri": "Q1073512", "sub_label": "China State Shipbuilding Corporation", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q49255", "obj_label": "Tampa", "sub_uri": "Q7453006", "sub_label": "Serbu Firearms", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1761", "obj_label": "Dublin", "sub_uri": "Q1007312", "sub_label": "Eddie Rocket's", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3141", "obj_label": "Melbourne", "sub_uri": "Q7243711", "sub_label": "Primus Telecommunications", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q7826466", "sub_label": "Toronto Parking Authority", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q7607311", "sub_label": "Stemcor", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3891562", "obj_label": "Wayne", "sub_uri": "Q7696143", "sub_label": "Teleflex", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1761", "obj_label": "Dublin", "sub_uri": "Q5154237", "sub_label": "Communicorp", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q7231905", "sub_label": "Portland Communications", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_uri": "Q1658541", "sub_label": "Steffl Department Store Wien", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q1160945", "sub_label": "BBC News", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1781", "obj_label": "Budapest", "sub_uri": "Q630125", "sub_label": "Gedeon Richter Ltd.", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q1172062", "sub_label": "Titanus", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q868660", "obj_label": "Kingston", "sub_uri": "Q6834905", "sub_label": "Michael Tobias Design", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q315774", "sub_label": "Graetz AG", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1352", "obj_label": "Chennai", "sub_uri": "Q15261623", "sub_label": "Nemmeli Seawater Desalination Plant", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q34600", "obj_label": "Kyoto", "sub_uri": "Q10883251", "sub_label": "Kyoto Municipal Junior College of Nursing", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q1630451", "sub_label": "Hospital Records", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q13824461", "sub_label": "NOXXON Pharma", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q203263", "obj_label": "Athens", "sub_uri": "Q7703294", "sub_label": "Terrapin Beer Company", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q34664", "obj_label": "Hiroshima", "sub_uri": "Q1933038", "sub_label": "Mikasa Sports", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q8686", "obj_label": "Shanghai", "sub_uri": "Q6006390", "sub_label": "Imperial Bank of China", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_uri": "Q4824593", "sub_label": "Australian Radio Network", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_uri": "Q1136732", "sub_label": "Sp\u00e5rv\u00e4gens FF", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q5092", "obj_label": "Baltimore", "sub_uri": "Q1426388", "sub_label": "Glenn L. Martin Company", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_uri": "Q262569", "sub_label": "Polonia Warsaw", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q16557", "obj_label": "Dallas", "sub_uri": "Q7851426", "sub_label": "Tuesday Morning", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q3354444", "sub_label": "Opta Sports", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q24639", "obj_label": "Vancouver", "sub_uri": "Q1534795", "sub_label": "Goldcorp", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q34932", "obj_label": "Brisbane", "sub_uri": "Q839997", "sub_label": "Brisbane Roar FC", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q5384537", "sub_label": "Equinox Minerals", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q15845476", "sub_label": "Soci\u00e9t\u00e9 de biologie", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q37100", "obj_label": "Auckland", "sub_uri": "Q5606484", "sub_label": "Gregg's", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_uri": "Q1932886", "sub_label": "Spanx, Inc.", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q55", "obj_label": "Netherlands", "sub_uri": "Q2273437", "sub_label": "Ninsee", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q983974", "obj_label": "Lima", "sub_uri": "Q4039262", "sub_label": "Superior Coach Company", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q491461", "obj_label": "Anderson", "sub_uri": "Q1801355", "sub_label": "Lambert Automobile Company", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1295", "obj_label": "Dortmund", "sub_uri": "Q895850", "sub_label": "DB AutoZug", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q1317942", "sub_label": "Linklaters", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1156", "obj_label": "Mumbai", "sub_uri": "Q1340361", "sub_label": "State Bank of India", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q6984029", "sub_label": "Neal, James, Fordyce and Down", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q5465134", "sub_label": "Fontana North", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q18151544", "sub_label": "Ministry of Supply", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q236837", "obj_label": "Richmond", "sub_uri": "Q2071877", "sub_label": "CHC Helicopter", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q43788", "obj_label": "Madison", "sub_uri": "Q5427113", "sub_label": "FSBO Madison", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q796", "obj_label": "Iraq", "sub_uri": "Q6067988", "sub_label": "Iraqi Constitutional Monarchy", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q567477", "sub_label": "Colt Technology Services", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q926749", "sub_label": "Lyc\u00e9e Condorcet", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q4650306", "sub_label": "ABG Sundal Collier", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_uri": "Q10680526", "sub_label": "Stockholms Enskilda Bank", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q8023934", "sub_label": "Wind Point Partners", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q4869886", "sub_label": "Battery Ventures", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q1840797", "sub_label": "PicMonkey.com", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q18419", "obj_label": "Brooklyn", "sub_uri": "Q5318346", "sub_label": "Dwyer Brothers Stable", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_uri": "Q4659501", "sub_label": "A Side Productions", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1156", "obj_label": "Mumbai", "sub_uri": "Q7074787", "sub_label": "Oberoi Realty", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q34932", "obj_label": "Brisbane", "sub_uri": "Q7670289", "sub_label": "THQ Studio Australia", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q1464858", "sub_label": "Frigg Oslo FK", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1761", "obj_label": "Dublin", "sub_uri": "Q324437", "sub_label": "Glen Dimplex", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q339759", "sub_label": "Bibliotheca Hertziana \u2013 Max Planck Institute of Art History", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1794", "obj_label": "Frankfurt", "sub_uri": "Q10184", "sub_label": "Frankfurter Allgemeine Zeitung", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q2882925", "sub_label": "Molson Bank", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q2156823", "sub_label": "Freeview", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q22868", "sub_label": "RT", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q995255", "obj_label": "Burlington", "sub_uri": "Q5318894", "sub_label": "DynamicOps", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q6346", "obj_label": "Indianapolis", "sub_uri": "Q7144752", "sub_label": "Pathfinder", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3141", "obj_label": "Melbourne", "sub_uri": "Q7122497", "sub_label": "Pacific Hydro", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q966922", "obj_label": "Clayton", "sub_uri": "Q5598285", "sub_label": "Graybar", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q218", "obj_label": "Romania", "sub_uri": "Q16211549", "sub_label": "Reaching Out Romania", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1761", "obj_label": "Dublin", "sub_uri": "Q5463627", "sub_label": "Flyleaf Press", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q18562040", "sub_label": "Georg Neumann", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1342", "obj_label": "Pittsburgh", "sub_uri": "Q17109162", "sub_label": "Industrial Scientific Corporation", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_uri": "Q131209", "sub_label": "FK Austria Wien", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q16555", "obj_label": "Houston", "sub_uri": "Q3377616", "sub_label": "Petrohawk", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q24826", "obj_label": "Liverpool", "sub_uri": "Q6658539", "sub_label": "Liverpool Rifles", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_uri": "Q8189627", "sub_label": "Yuhikaku Publishing", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1352", "obj_label": "Chennai", "sub_uri": "Q7681301", "sub_label": "Tamil Nadu Newsprint", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q334", "obj_label": "Singapore", "sub_uri": "Q4140545", "sub_label": "ComfortDelGro", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_uri": "Q766979", "sub_label": "Bingo Airways", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q7310479", "sub_label": "Reiss", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_uri": "Q1260224", "sub_label": "Droog", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1761", "obj_label": "Dublin", "sub_uri": "Q5603798", "sub_label": "Greencore Group", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q2807996", "sub_label": "Ubisoft Milan", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q43196", "obj_label": "Cincinnati", "sub_uri": "Q7895273", "sub_label": "University of Cincinnati College of Law", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q49219", "obj_label": "Irvine", "sub_uri": "Q1404438", "sub_label": "Felt Bicycles", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q597", "obj_label": "Lisbon", "sub_uri": "Q378372", "sub_label": "Banco de Portugal", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1492", "obj_label": "Barcelona", "sub_uri": "Q18390566", "sub_label": "Metalogenia", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q14930424", "sub_label": "Auctionata", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q6771376", "sub_label": "Marks & Clerk", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q7795687", "sub_label": "Thompson & Odell", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q130191", "obj_label": "Norwich", "sub_uri": "Q2716255", "sub_label": "Colman's", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q39121", "obj_label": "Leeds", "sub_uri": "Q6515953", "sub_label": "Leeds Development Corporation", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1002926", "obj_label": "Vienna", "sub_uri": "Q610703", "sub_label": "Envision EMI, LLC", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q334", "obj_label": "Singapore", "sub_uri": "Q7199716", "sub_label": "Pixelmetrix", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q54880", "obj_label": "Valencia", "sub_uri": "Q7529899", "sub_label": "S\u00edragon", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q49202", "obj_label": "Greenwich", "sub_uri": "Q1369955", "sub_label": "W. R. Berkley", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q36091", "obj_label": "Minneapolis", "sub_uri": "Q7157350", "sub_label": "Peace Coffee", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q438511", "sub_label": "Alternative Investment Market", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1761", "obj_label": "Dublin", "sub_uri": "Q5310991", "sub_label": "Dublin United Transport Company", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q6445332", "sub_label": "Kupei Musika", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q79848", "obj_label": "Southampton", "sub_uri": "Q1546633", "sub_label": "Griffon Hoverwork", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q12439", "obj_label": "Detroit", "sub_uri": "Q3391420", "sub_label": "Planet E Communications", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1218", "obj_label": "Jerusalem", "sub_uri": "Q174158", "sub_label": "Hebrew University of Jerusalem", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q6783960", "sub_label": "MassChallenge", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q4033665", "sub_label": "Alaska Air Group", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1000642", "obj_label": "Summit", "sub_uri": "Q842947", "sub_label": "Celgene", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q8684", "obj_label": "Seoul", "sub_uri": "Q55931", "sub_label": "Hyundai Motor Company", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q6385858", "sub_label": "Kellogg Switchboard & Supply Company", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q907435", "sub_label": "Onex Corporation", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q3237793", "sub_label": "Liberty", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q6823303", "sub_label": "Metaversum GmbH", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q8684", "obj_label": "Seoul", "sub_uri": "Q483971", "sub_label": "Stone Music Entertainment", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1156", "obj_label": "Mumbai", "sub_uri": "Q1521893", "sub_label": "Taj Hotels Resorts and Palaces", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q5598163", "sub_label": "Gray Coach", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1156", "obj_label": "Mumbai", "sub_uri": "Q19321885", "sub_label": "Balkrishna industries", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q995255", "obj_label": "Burlington", "sub_uri": "Q3783947", "sub_label": "Heartbeat Records", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_uri": "Q892824", "sub_label": "Cosmos Music Group", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q10690", "obj_label": "Cardiff", "sub_uri": "Q9285532", "sub_label": "Calon", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q956", "obj_label": "Beijing", "sub_uri": "Q1439934", "sub_label": "Kingsoft", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q782", "obj_label": "Hawaii", "sub_uri": "Q7112915", "sub_label": "Outrigger Hotels & Resorts", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q8058230", "sub_label": "Young Liberals of Canada", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1524", "obj_label": "Athens", "sub_uri": "Q3792528", "sub_label": "Sporting B.C.", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q5055268", "sub_label": "Caxton FX", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q485176", "obj_label": "Pasadena", "sub_uri": "Q8041638", "sub_label": "X1 Technologies", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q209929", "obj_label": "Alexandria", "sub_uri": "Q3749047", "sub_label": "FCM Alexandria", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q16555", "obj_label": "Houston", "sub_uri": "Q5570059", "sub_label": "GlobalSantaFe Corporation", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q1133759", "sub_label": "Chicago Mustangs", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q2392255", "sub_label": "Teleperformance SE", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q192870", "obj_label": "Nokia", "sub_uri": "Q1481634", "sub_label": "Nokian Tyres", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q1643220", "sub_label": "Paris Chamber of Commerce", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1156", "obj_label": "Mumbai", "sub_uri": "Q3572415", "sub_label": "Wockhardt", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q18094", "obj_label": "Honolulu", "sub_uri": "Q16975515", "sub_label": "Hawaiian Tel Federal Credit Union", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q18419", "obj_label": "Brooklyn", "sub_uri": "Q3873357", "sub_label": "Nature Sounds", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q5598058", "sub_label": "Gravity Payments", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q194393", "sub_label": "SK Slavia Prague", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q7781431", "sub_label": "Theo Chocolate", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q85", "obj_label": "Cairo", "sub_uri": "Q4857077", "sub_label": "Banque du Caire", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q49117", "sub_label": "University of Pennsylvania", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q36312", "obj_label": "Calgary", "sub_uri": "Q7178878", "sub_label": "Petrobank Energy and Resources", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q917821", "obj_label": "Bristol", "sub_uri": "Q1741688", "sub_label": "King Pharmaceuticals", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_uri": "Q1783959", "sub_label": "Tradedoubler", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_uri": "Q7445787", "sub_label": "Seeker Wireless", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q8007646", "sub_label": "William Davies Company", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q4093", "obj_label": "Glasgow", "sub_uri": "Q1092174", "sub_label": "Neilson and Company", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q7669457", "sub_label": "TA Associates", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q88", "obj_label": "Alexandria", "sub_uri": "Q906113", "sub_label": "Feminists for Life", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q5018053", "sub_label": "Cake Girls", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q557643", "obj_label": "Mission", "sub_uri": "Q18378178", "sub_label": "Senior Animals In Need Today Society", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q5838", "obj_label": "Kabul", "sub_uri": "Q1941629", "sub_label": "MOBY Group", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q17022460", "sub_label": "Student@Home", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q18395289", "sub_label": "WonderLuk", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q8652", "obj_label": "Miami", "sub_uri": "Q2863562", "sub_label": "Arquitectonica", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q16559", "obj_label": "Austin", "sub_uri": "Q4654544", "sub_label": "AT&T Labs", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q4586064", "sub_label": "Norwegian Forest Owners Association", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1794", "obj_label": "Frankfurt", "sub_uri": "Q524424", "sub_label": "DZ Bank", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q414", "obj_label": "Argentina", "sub_uri": "Q830437", "sub_label": "YCF", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1663", "obj_label": "Split", "sub_uri": "Q609301", "sub_label": "University of Split", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q298", "obj_label": "Chile", "sub_uri": "Q6979447", "sub_label": "National Women's Service", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_uri": "Q5139099", "sub_label": "Coca Braun", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1794", "obj_label": "Frankfurt", "sub_uri": "Q2144325", "sub_label": "Rentenbank", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q8005603", "sub_label": "William Blair & Company", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q7317630", "sub_label": "Reuters Group", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1001742", "obj_label": "Holland", "sub_uri": "Q7828029", "sub_label": "Total Logistic Control", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q43196", "obj_label": "Cincinnati", "sub_uri": "Q1092571", "sub_label": "Cintas", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q2986833", "sub_label": "Commonwealth Edison", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q287668", "sub_label": "Sporveien Trikken", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q130191", "obj_label": "Norwich", "sub_uri": "Q17062190", "sub_label": "The UK Holiday Group", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q18161207", "sub_label": "Jock Willis Shipping Line", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_uri": "Q2031726", "sub_label": "Westpac", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q18161142", "sub_label": "IQ Analytics", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1524", "obj_label": "Athens", "sub_uri": "Q192406", "sub_label": "Communist Party of Greece", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3616", "obj_label": "Tehran", "sub_uri": "Q5323768", "sub_label": "EN Bank", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1461", "obj_label": "Manila", "sub_uri": "Q1637464", "sub_label": "Philippine National Railways", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_uri": "Q5035428", "sub_label": "Capital & Centric Plc", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q5511172", "sub_label": "FxPro", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q8686", "obj_label": "Shanghai", "sub_uri": "Q1756895", "sub_label": "East Dawning", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q575750", "obj_label": "Quincy", "sub_uri": "Q17077143", "sub_label": "Quincy Media", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q902", "obj_label": "Bangladesh", "sub_uri": "Q2945843", "sub_label": "International Centre for Diarrhoeal Disease Research, Bangladesh", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q22905", "obj_label": "Bradford", "sub_uri": "Q48879", "sub_label": "Bradford City A.F.C.", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_uri": "Q471141", "sub_label": "Sascha-Film", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q18094", "obj_label": "Honolulu", "sub_uri": "Q7318606", "sub_label": "RevoluSun", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q8684", "obj_label": "Seoul", "sub_uri": "Q29311", "sub_label": "Hyundai", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q2840710", "sub_label": "Ales Groupe", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q7752493", "sub_label": "The Mountaineers", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q2887", "obj_label": "Santiago", "sub_uri": "Q1023187", "sub_label": "C.D. Green Cross", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_uri": "Q2263518", "sub_label": "Seca GmbH", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q571293", "sub_label": "University of Paris III: Sorbonne Nouvelle", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q984577", "obj_label": "Superior", "sub_uri": "Q10943718", "sub_label": "University of Wisconsin-Superior", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q49169", "obj_label": "Stamford", "sub_uri": "Q6716367", "sub_label": "MJLF & Associates", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q990271", "obj_label": "Troy", "sub_uri": "Q7744955", "sub_label": "The Kresge Foundation", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1748", "obj_label": "Copenhagen", "sub_uri": "Q2481701", "sub_label": "Bjarke Ingels Group", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q184", "obj_label": "Belarus", "sub_uri": "Q15983798", "sub_label": "Mova Nanova", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q641129", "sub_label": "Hudson's Bay", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q23436", "obj_label": "Edinburgh", "sub_uri": "Q7122494", "sub_label": "Pacific Horizon Investment Trust", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_uri": "Q569779", "sub_label": "Universal Edition", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q7975268", "sub_label": "Wave", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q1877668", "sub_label": "Lurquin-Coudert", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q128891", "obj_label": "Lafayette", "sub_uri": "Q6460273", "sub_label": "LUSFiber", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q7437716", "sub_label": "Scottish Equity Partners", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1726", "obj_label": "Munich", "sub_uri": "Q5188611", "sub_label": "Crossgate AG", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q956", "obj_label": "Beijing", "sub_uri": "Q5099546", "sub_label": "ChinaCache", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q5564150", "sub_label": "Girard Bank", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q4586557", "sub_label": "Human Rights Service", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q17065993", "sub_label": "Pickering Valley Railroad", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q995255", "obj_label": "Burlington", "sub_uri": "Q1137289", "sub_label": "Nuance Communications", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3183", "obj_label": "Perth", "sub_uri": "Q17009847", "sub_label": "Leviathan", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3141", "obj_label": "Melbourne", "sub_uri": "Q6822270", "sub_label": "MetaCDN", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q79848", "obj_label": "Southampton", "sub_uri": "Q1759468", "sub_label": "P&O Cruises", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q365", "obj_label": "Cologne", "sub_uri": "Q1201094", "sub_label": "Detecon", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q3357167", "sub_label": "Aschehoug", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_uri": "Q4876226", "sub_label": "Beams", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q8818", "obj_label": "Valencia", "sub_uri": "Q3822555", "sub_label": "Cannabis Party", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_uri": "Q50602", "sub_label": "Manchester City F.C.", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q6346", "obj_label": "Indianapolis", "sub_uri": "Q27582", "sub_label": "Duesenberg", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q7489522", "sub_label": "Shareasale", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q826561", "obj_label": "Halifax", "sub_uri": "Q7099675", "sub_label": "Orange Mountain Bikes", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q3438273", "sub_label": "Kristiania Sporveisselskab", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1731", "obj_label": "Dresden", "sub_uri": "Q884087", "sub_label": "EADS EFW", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q17509333", "sub_label": "Aanerud Industries", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3616", "obj_label": "Tehran", "sub_uri": "Q242260", "sub_label": "Persepolis F.C.", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q126039", "sub_label": "Beggars Banquet Records", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3141", "obj_label": "Melbourne", "sub_uri": "Q4209865", "sub_label": "Optus Television", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1352", "obj_label": "Chennai", "sub_uri": "Q17073435", "sub_label": "Radiance Realty", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q5325130", "sub_label": "Eagle Insurance", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1510465", "obj_label": "Norwich", "sub_uri": "Q16998403", "sub_label": "King Arthur Flour", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q755275", "obj_label": "Laurel", "sub_uri": "Q6978041", "sub_label": "National Research Associates, Inc", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q12439", "obj_label": "Detroit", "sub_uri": "Q4688208", "sub_label": "Aerocar", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q3736837", "sub_label": "Honest Ed's", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q184579", "obj_label": "Bolton", "sub_uri": "Q5048653", "sub_label": "Cash Generator", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q8686", "obj_label": "Shanghai", "sub_uri": "Q18127692", "sub_label": "Mailman Group", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q17014201", "sub_label": "Mongrel Media", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q6051162", "sub_label": "International Institute of New England", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1761", "obj_label": "Dublin", "sub_uri": "Q5450143", "sub_label": "Fineos", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q31", "obj_label": "Belgium", "sub_uri": "Q7235472", "sub_label": "Poudreries R\u00e9unies de Belgique", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_uri": "Q1129295", "sub_label": "Mojang", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q37100", "obj_label": "Auckland", "sub_uri": "Q1521598", "sub_label": "University-Mount Wellington", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q10686", "obj_label": "Belfast", "sub_uri": "Q7880003", "sub_label": "Ulster Railway", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1524", "obj_label": "Athens", "sub_uri": "Q2007823", "sub_label": "OPAP", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q956", "obj_label": "Beijing", "sub_uri": "Q4415024", "sub_label": "BBMG", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q16557", "obj_label": "Dallas", "sub_uri": "Q3147593", "sub_label": "IceRocket", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q37836", "obj_label": "Milwaukee", "sub_uri": "Q5615731", "sub_label": "Guild Software", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q39121", "obj_label": "Leeds", "sub_uri": "Q7113645", "sub_label": "Overfinch", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q822", "obj_label": "Lebanon", "sub_uri": "Q1454007", "sub_label": "Free Patriotic Movement", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q334", "obj_label": "Singapore", "sub_uri": "Q2868048", "sub_label": "Singapore Weiqi Association", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q812", "obj_label": "Florida", "sub_uri": "Q3153246", "sub_label": "International Cultic Studies Association", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q3225161", "sub_label": "Le Palais des Th\u00e9s", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q1371239", "sub_label": "Steel Authority of India Limited", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1726", "obj_label": "Munich", "sub_uri": "Q4119712", "sub_label": "Messe M\u00fcnchen", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q35484", "obj_label": "Medina", "sub_uri": "Q5701238", "sub_label": "Hejaz Expeditionary Force", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q7795923", "sub_label": "Thon Hotels", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q365", "obj_label": "Cologne", "sub_uri": "Q1287572", "sub_label": "Fritz Thyssen Foundation", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1218", "obj_label": "Jerusalem", "sub_uri": "Q4892558", "sub_label": "Berman's Bakery", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3616", "obj_label": "Tehran", "sub_uri": "Q7451761", "sub_label": "Sepanta", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q2228269", "obj_label": "Medina", "sub_uri": "Q1850587", "sub_label": "Polaris Industries", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q88", "obj_label": "Alexandria", "sub_uri": "Q16980674", "sub_label": "Iron Road Railways", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q7971859", "sub_label": "WaFd Bank", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q8684", "obj_label": "Seoul", "sub_uri": "Q490787", "sub_label": "Shinsegae", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q5546972", "sub_label": "Georgetown Brewing Company", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_uri": "Q856619", "sub_label": "FC Tokyo", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_uri": "Q16949202", "sub_label": "Cleveland Electric Company", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q36091", "obj_label": "Minneapolis", "sub_uri": "Q9058233", "sub_label": "PepsiAmericas", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q362844", "sub_label": "First Comics", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3141", "obj_label": "Melbourne", "sub_uri": "Q3005576", "sub_label": "Crumpler", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q16555", "obj_label": "Houston", "sub_uri": "Q6820087", "sub_label": "Merrick Systems, Inc.", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1731", "obj_label": "Dresden", "sub_uri": "Q2235853", "sub_label": "Schilling & Graebner", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1352", "obj_label": "Chennai", "sub_uri": "Q7078417", "sub_label": "Odyssey", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q6346", "obj_label": "Indianapolis", "sub_uri": "Q3798089", "sub_label": "Indianapolis Daredevils", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q750124", "sub_label": "Cabot Corporation", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q2773", "obj_label": "Brunswick", "sub_uri": "Q2564847", "sub_label": "Westermann Verlag", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q631", "sub_label": "Inter Milan", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q8660", "obj_label": "Karachi", "sub_uri": "Q1030866", "sub_label": "Iqra University", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q3968141", "sub_label": "Standard Ethics Aei", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q1122851", "sub_label": "Libera Universit\u00e0 Internazionale degli Studi Sociali Guido Carli", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_uri": "Q7635074", "sub_label": "Sugatsune", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q2256", "obj_label": "Birmingham", "sub_uri": "Q386065", "sub_label": "British Motor Corporation", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q334", "obj_label": "Singapore", "sub_uri": "Q18346391", "sub_label": "Quadria Capital", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_uri": "Q7933964", "sub_label": "Virgin Mobile Australia", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q165684", "sub_label": "Rogers Communications", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q22", "obj_label": "Scotland", "sub_uri": "Q7586816", "sub_label": "St. Andrew's Ambulance Association", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q7240596", "sub_label": "PrepMe", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1342", "obj_label": "Pittsburgh", "sub_uri": "Q4936783", "sub_label": "BodyMedia", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q4650622", "sub_label": "ACE Bakery", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q8684", "obj_label": "Seoul", "sub_uri": "Q5012261", "sub_label": "CJ CGV", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q7580827", "sub_label": "Springcm", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q43196", "obj_label": "Cincinnati", "sub_uri": "Q1411810", "sub_label": "Fifth Third Bank", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_uri": "Q6785541", "sub_label": "Mastiff", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q44846", "sub_label": "Guerry et Bourguignon", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q17090016", "sub_label": "Wine Folly", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q5001876", "sub_label": "Business for New Europe", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q16555", "obj_label": "Houston", "sub_uri": "Q7164325", "sub_label": "Penny-Farthing Press", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q865", "obj_label": "Taiwan", "sub_uri": "Q5943259", "sub_label": "Taiwan Mobile", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q16555", "obj_label": "Houston", "sub_uri": "Q7559532", "sub_label": "Somebody's Mother's Chocolate Sauce", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_uri": "Q586665", "sub_label": "Wienerberger", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q49111", "obj_label": "Cambridge", "sub_uri": "Q15995489", "sub_label": "Sookbox", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q43788", "obj_label": "Madison", "sub_uri": "Q6727979", "sub_label": "Madison Gas and Electric", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q36405", "obj_label": "Aberdeen", "sub_uri": "Q3274099", "sub_label": "Macaulay Institute", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q334", "obj_label": "Singapore", "sub_uri": "Q7388847", "sub_label": "SATS Ltd", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q16556", "obj_label": "Phoenix", "sub_uri": "Q7924444", "sub_label": "Viad", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q43382", "obj_label": "Plymouth", "sub_uri": "Q7859468", "sub_label": "Twofour", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q4713637", "sub_label": "Alderbrink Press", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q844008", "obj_label": "Kent", "sub_uri": "Q2390584", "sub_label": "Tally", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q273819", "sub_label": "\u00c9ditions Gallimard", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q17088539", "sub_label": "Verizon Pennsylvania", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q8660", "obj_label": "Karachi", "sub_uri": "Q7125652", "sub_label": "Pakistan Navy Engineering College", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q6974628", "sub_label": "Norwegian Building Authority", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q23154", "obj_label": "Bristol", "sub_uri": "Q5874552", "sub_label": "Hoare Lea", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q6072542", "sub_label": "Iron Gate Private Wine Management", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1156", "obj_label": "Mumbai", "sub_uri": "Q7557049", "sub_label": "Solaris Pictures", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q334", "obj_label": "Singapore", "sub_uri": "Q5308464", "sub_label": "Dropmysite", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q1932556", "sub_label": "Sandline International", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q70", "obj_label": "Bern", "sub_uri": "Q1760108", "sub_label": "BSC YB Frauen", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_uri": "Q6584353", "sub_label": "Yamato Transport", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q6673283", "sub_label": "Long Tall Sally Clothing", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1726", "obj_label": "Munich", "sub_uri": "Q1054364", "sub_label": "Centrosolar", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1726", "obj_label": "Munich", "sub_uri": "Q980030", "sub_label": "Ed Meier", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q2083043", "sub_label": "Rockstar London", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q7969414", "sub_label": "Warhorse Studios", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q821969", "sub_label": "Berluti", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q16555", "obj_label": "Houston", "sub_uri": "Q6695701", "sub_label": "Luby's", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q34218", "obj_label": "Burlington", "sub_uri": "Q5056978", "sub_label": "Cedarlane Laboratories", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q8565184", "sub_label": "Fox", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q38453", "obj_label": "Columbia", "sub_uri": "Q7692221", "sub_label": "Technetics Group", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1524", "obj_label": "Athens", "sub_uri": "Q203934", "sub_label": "Panhellenic Socialist Movement", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_uri": "Q686292", "sub_label": "Steinberg", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q17087927", "sub_label": "ServedBy The Net", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q3743456", "sub_label": "AF Group", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q458001", "sub_label": "CP Ships", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q910727", "sub_label": "Th\u00e9\u00e2tre du Soleil", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q7691159", "sub_label": "Teach First", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q1357727", "sub_label": "GO Transit", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q6516627", "sub_label": "Lefax", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1757", "obj_label": "Helsinki", "sub_uri": "Q2367199", "sub_label": "Altia", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q365", "obj_label": "Cologne", "sub_uri": "Q896215", "sub_label": "Rhenish Railway Company", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q2887", "obj_label": "Santiago", "sub_uri": "Q3488749", "sub_label": "Socovesa", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_uri": "Q13911700", "sub_label": "LELO", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q314880", "sub_label": "Directmedia Publishing GmbH", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q843", "obj_label": "Pakistan", "sub_uri": "Q7242362", "sub_label": "Prevention of Blindness Trust", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_uri": "Q565047", "sub_label": "Hamburger Flugzeugbau", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q16555", "obj_label": "Houston", "sub_uri": "Q16995997", "sub_label": "Houston Tomorrow", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1156", "obj_label": "Mumbai", "sub_uri": "Q7982076", "sub_label": "Welspun Investments and Commercials Ltd", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q16243430", "sub_label": "Balderton Capital", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q956", "obj_label": "Beijing", "sub_uri": "Q7132531", "sub_label": "PapayaMobile", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q1747944", "sub_label": "\u00cele-de-France mobilit\u00e9s", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q872718", "sub_label": "Bunzl", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q6709613", "sub_label": "Lyon & Healy", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q5289796", "sub_label": "DomainTools", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_uri": "Q5412075", "sub_label": "Calidad Pascual S.A.U.", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1524", "obj_label": "Athens", "sub_uri": "Q17102414", "sub_label": "Vianex", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q55", "obj_label": "Netherlands", "sub_uri": "Q2802214", "sub_label": "Van der Valk", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q49219", "obj_label": "Irvine", "sub_uri": "Q64884", "sub_label": "Orange County SC", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q6368707", "sub_label": "Karate Canada", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q42970", "sub_label": "Amnesty International", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1748", "obj_label": "Copenhagen", "sub_uri": "Q1261263", "sub_label": "Nordvision", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q5413836", "sub_label": "Eurostar International Limited", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3141", "obj_label": "Melbourne", "sub_uri": "Q447403", "sub_label": "Alumina Limited", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q2135", "obj_label": "Winnipeg", "sub_uri": "Q7404775", "sub_label": "Salisbury House", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q2256", "obj_label": "Birmingham", "sub_uri": "Q7102786", "sub_label": "Orion Media", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q23436", "obj_label": "Edinburgh", "sub_uri": "Q8032236", "sub_label": "Wood Mackenzie", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q956", "obj_label": "Beijing", "sub_uri": "Q3269017", "sub_label": "Quanjude", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q5147373", "sub_label": "Collins Engineers", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1861", "obj_label": "Bangkok", "sub_uri": "Q277252", "sub_label": "Southeast Asia Treaty Organization", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q2776509", "sub_label": "43 Things", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q5112", "obj_label": "Adelaide", "sub_uri": "Q7895011", "sub_label": "University of Adelaide Press", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q16555", "obj_label": "Houston", "sub_uri": "Q8036205", "sub_label": "World Services Group", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q36091", "obj_label": "Minneapolis", "sub_uri": "Q8063291", "sub_label": "ZTR Control Systems", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q6972823", "sub_label": "National Futures Association", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q7314421", "sub_label": "Republic Windows and Doors", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q8064602", "sub_label": "Zaha Hadid Architects", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q23436", "obj_label": "Edinburgh", "sub_uri": "Q3415248", "sub_label": "RMJM", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q406", "obj_label": "Istanbul", "sub_uri": "Q3073363", "sub_label": "Istanbul Commerce University", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q12439", "obj_label": "Detroit", "sub_uri": "Q4743120", "sub_label": "American Axle", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q1972420", "sub_label": "Navteq", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3141", "obj_label": "Melbourne", "sub_uri": "Q7303547", "sub_label": "Redbubble", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q996725", "sub_label": "Font Bureau", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q43", "obj_label": "Turkey", "sub_uri": "Q7116303", "sub_label": "Oypa", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q49202", "obj_label": "Greenwich", "sub_uri": "Q7833603", "sub_label": "TransAtlantic Lines", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q36091", "obj_label": "Minneapolis", "sub_uri": "Q16839365", "sub_label": "Fulton Beer", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_uri": "Q3432521", "sub_label": "Altor Equity Partners", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q12439", "obj_label": "Detroit", "sub_uri": "Q5998419", "sub_label": "Ilitch Holdings", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q12439", "obj_label": "Detroit", "sub_uri": "Q19370799", "sub_label": "Avalon International Breads", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q24639", "obj_label": "Vancouver", "sub_uri": "Q7197726", "sub_label": "Piranha Games", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1352", "obj_label": "Chennai", "sub_uri": "Q17145804", "sub_label": "Notion Press", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q34932", "obj_label": "Brisbane", "sub_uri": "Q5014458", "sub_label": "CS Energy", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_uri": "Q466350", "sub_label": "Empress Elisabeth Railway", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q15846429", "sub_label": "EidosMedia", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1156", "obj_label": "Mumbai", "sub_uri": "Q5204317", "sub_label": "DAR motion pictures", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q398", "obj_label": "Bahrain", "sub_uri": "Q7716512", "sub_label": "The Benefit Company", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1757", "obj_label": "Helsinki", "sub_uri": "Q11854553", "sub_label": "Botnia-69", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1726", "obj_label": "Munich", "sub_uri": "Q871160", "sub_label": "Deutsche Eislauf-Union", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q6332960", "sub_label": "KLP Eiendom", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1492", "obj_label": "Barcelona", "sub_uri": "Q24576", "sub_label": "Ramon Llull University", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q16557", "obj_label": "Dallas", "sub_uri": "Q4763129", "sub_label": "Anger Room", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_uri": "Q5361526", "sub_label": "Tombow", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q7640792", "sub_label": "Sunnybrook Research Institute", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_uri": "Q2045552", "sub_label": "Pacific National", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q958555", "obj_label": "Hutchinson", "sub_uri": "Q5147384", "sub_label": "Collins Industries", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q2997693", "sub_label": "Osisko Mining", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1342", "obj_label": "Pittsburgh", "sub_uri": "Q5242019", "sub_label": "Davison Design & Development", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q3736197", "sub_label": "Extreme Rising", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q17007499", "sub_label": "Chicago Clearing Corporation", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q2167", "obj_label": "Lund", "sub_uri": "Q10487582", "sub_label": "Ericsson Mobile Communications", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3114", "obj_label": "Canberra", "sub_uri": "Q6433025", "sub_label": "Kosciuszko Huts Association", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q1188923", "sub_label": "TVA", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q5283800", "sub_label": "Divadlo v Dlouh\u00e9", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q5443007", "sub_label": "Fenchurch", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q5197703", "sub_label": "CyberWatcher", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q4763066", "sub_label": "Angels Costumes", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q6912573", "sub_label": "Morleys Stores Ltd", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3630", "obj_label": "Jakarta", "sub_uri": "Q17051079", "sub_label": "Mahaka Media", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q485176", "obj_label": "Pasadena", "sub_uri": "Q5615400", "sub_label": "Guidance Software", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q18419", "obj_label": "Brooklyn", "sub_uri": "Q6749309", "sub_label": "Manhattan Special", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q49188", "obj_label": "Lynn", "sub_uri": "Q1244162", "sub_label": "Thomson-Houston Electric Company", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q273482", "sub_label": "\u00c9cole Normale de Musique de Paris", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q240804", "sub_label": "Mute Records", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q39984", "obj_label": "Cannes", "sub_uri": "Q2946060", "sub_label": "Cannes Mandelieu Space Center", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q96", "obj_label": "Mexico", "sub_uri": "Q5418561", "sub_label": "Evoga", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1649", "obj_label": "Oklahoma", "sub_uri": "Q6394305", "sub_label": "Kerr-McGee", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q10686", "obj_label": "Belfast", "sub_uri": "Q4918924", "sub_label": "Bitplane", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q4936481", "sub_label": "Boden", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3616", "obj_label": "Tehran", "sub_uri": "Q7307085", "sub_label": "Refah Chain Stores Co.", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q2090107", "sub_label": "Unicorn College", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q2135", "obj_label": "Winnipeg", "sub_uri": "Q4915787", "sub_label": "Birchwood Automotive Group", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q23154", "obj_label": "Bristol", "sub_uri": "Q5026174", "sub_label": "Cameron Balloons", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q1093882", "sub_label": "City Centre Offices", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_uri": "Q5413863", "sub_label": "Eurotroll", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q334", "obj_label": "Singapore", "sub_uri": "Q17050678", "sub_label": "Humanist Society of Singapore", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1086827", "obj_label": "Berlin", "sub_uri": "Q4647066", "sub_label": "A.C. Moore", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q5185537", "sub_label": "Criminal IQ Records", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q956", "obj_label": "Beijing", "sub_uri": "Q7643492", "sub_label": "Superior Aviation Beijing", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q5357376", "sub_label": "Electric Factory Concerts", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_uri": "Q6973676", "sub_label": "National Institute of Information and Communications Technology", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1156", "obj_label": "Mumbai", "sub_uri": "Q3522235", "sub_label": "Atomic Energy Regulatory Board", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q6031606", "sub_label": "Infratek", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q334", "obj_label": "Singapore", "sub_uri": "Q15304359", "sub_label": "Asia Pacific Breweries", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q49219", "obj_label": "Irvine", "sub_uri": "Q795575", "sub_label": "Diedrich Coffee", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q18168039", "sub_label": "Reel One Entertainment", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q801", "obj_label": "Israel", "sub_uri": "Q19514732", "sub_label": "B144", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1461", "obj_label": "Manila", "sub_uri": "Q7568219", "sub_label": "South Phoenix Airlines", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q2522363", "sub_label": "Victor Gollancz Ltd", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q1071867", "sub_label": "Chicago Board of Trade", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q6460153", "sub_label": "LTB", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_uri": "Q5189849", "sub_label": "Cruden BV", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q5838", "obj_label": "Kabul", "sub_uri": "Q383108", "sub_label": "Afghan National Army", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q16557", "obj_label": "Dallas", "sub_uri": "Q16995778", "sub_label": "HomeVestors of America", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_uri": "Q507269", "sub_label": "Bandai Co., Ltd.", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1218", "obj_label": "Jerusalem", "sub_uri": "Q5974822", "sub_label": "ITIM: Jewish Life Advocacy Center", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q484678", "obj_label": "Berkeley", "sub_uri": "Q16958120", "sub_label": "Ninth Street Opus", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q18712175", "sub_label": "Cross of Valour Association of Australia", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q597", "obj_label": "Lisbon", "sub_uri": "Q7140205", "sub_label": "Partex", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q39121", "obj_label": "Leeds", "sub_uri": "Q5437971", "sub_label": "Fattorini and Sons", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q43196", "obj_label": "Cincinnati", "sub_uri": "Q5592430", "sub_label": "Graeter's", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q7849471", "sub_label": "Tschudi Group", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3493021", "obj_label": "Spencer", "sub_uri": "Q5426522", "sub_label": "FLEXcon", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q8034387", "sub_label": "Wordfarm", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q37100", "obj_label": "Auckland", "sub_uri": "Q5148282", "sub_label": "Colonial Ammunition Company", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q791179", "sub_label": "Aviva", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q5293642", "sub_label": "Don Valley Brick Works", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q49219", "obj_label": "Irvine", "sub_uri": "Q15917448", "sub_label": "Quality Systems", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q2333358", "sub_label": "Metropolis Records", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q1588877", "sub_label": "Blom", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q5272577", "sub_label": "Dick's Drive-In", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q8035166", "sub_label": "Workspace Group", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q83065", "obj_label": "Leicester", "sub_uri": "Q7841382", "sub_label": "Trident Comics", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q49111", "obj_label": "Cambridge", "sub_uri": "Q4674655", "sub_label": "Acoustic Research", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q2529854", "sub_label": "Vodohod", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q663035", "obj_label": "Lincoln", "sub_uri": "Q2294054", "sub_label": "Sleepycat Software", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q1916402", "sub_label": "Pearson plc", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q2233170", "obj_label": "Charlotte", "sub_uri": "Q5289685", "sub_label": "Dolson", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q873794", "sub_label": "MetaDesign", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q49255", "obj_label": "Tampa", "sub_uri": "Q7669940", "sub_label": "TECO Energy", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q17010014", "sub_label": "Merchlar", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q3336907", "sub_label": "National Life Finance Corporation", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q928", "obj_label": "Philippines", "sub_uri": "Q4729924", "sub_label": "All Youth Channels", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q4652402", "sub_label": "ALNAP", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q85", "obj_label": "Cairo", "sub_uri": "Q617584", "sub_label": "Petroleum Air Services", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q72259", "obj_label": "Portsmouth", "sub_uri": "Q7232504", "sub_label": "Portsmouth Water", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q8045955", "sub_label": "YMCA Training, Inc.", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q538210", "obj_label": "Alexandria", "sub_uri": "Q7447748", "sub_label": "Selective TV, Inc.", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q2773", "obj_label": "Brunswick", "sub_uri": "Q977598", "sub_label": "Volkswagenwerk Braunschweig", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3141", "obj_label": "Melbourne", "sub_uri": "Q767627", "sub_label": "Jetstar Airways", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q350", "obj_label": "Cambridge", "sub_uri": "Q540751", "sub_label": "Anglia Ruskin University", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1726", "obj_label": "Munich", "sub_uri": "Q461257", "sub_label": "Giesecke+Devrient", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_uri": "Q4823467", "sub_label": "Australasian Society for Historical Archaeology", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q46210", "sub_label": "University of Milan", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q34932", "obj_label": "Brisbane", "sub_uri": "Q7600309", "sub_label": "Stanwell Corporation", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q239", "obj_label": "Brussels", "sub_uri": "Q7184", "sub_label": "NATO", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q7579146", "sub_label": "Turbo", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q12439", "obj_label": "Detroit", "sub_uri": "Q2123099", "sub_label": "Quicken Loans", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1342", "obj_label": "Pittsburgh", "sub_uri": "Q1522721", "sub_label": "Giant Eagle", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q7949871", "sub_label": "WGN America", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q1636748", "sub_label": "Amblimation", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q59670", "obj_label": "Columbia", "sub_uri": "Q7538410", "sub_label": "Slackers CDs and Games", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q83065", "obj_label": "Leicester", "sub_uri": "Q6791833", "sub_label": "Mattioli Woods", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q5112", "obj_label": "Adelaide", "sub_uri": "Q18165867", "sub_label": "Jumbuck Pastoral Company", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q822", "obj_label": "Lebanon", "sub_uri": "Q8035919", "sub_label": "World Lebanese Cultural Union", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q1357111", "sub_label": "Reign FC", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q6058623", "sub_label": "Intrepid Records", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q2132317", "obj_label": "Meridian", "sub_uri": "Q1199757", "sub_label": "Dish Network", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q23436", "obj_label": "Edinburgh", "sub_uri": "Q13218598", "sub_label": "The Royal Bank of Scotland Group", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q5264280", "sub_label": "Design International", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q10686", "obj_label": "Belfast", "sub_uri": "Q7058144", "sub_label": "Northern Bank", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1320403", "obj_label": "Jamaica", "sub_uri": "Q6783330", "sub_label": "Jamaica Muslim Center", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q794", "obj_label": "Iran", "sub_uri": "Q1674127", "sub_label": "Islamic Republic of Iran Broadcasting", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q71", "obj_label": "Geneva", "sub_uri": "Q663926", "sub_label": "Mercuria Energy Group", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_uri": "Q7040497", "sub_label": "Nishi Tokyo Bus", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q7739365", "sub_label": "The Hempest", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q7513074", "sub_label": "Signwave", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q37320", "obj_label": "Cleveland", "sub_uri": "Q16995348", "sub_label": "Higbee's", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q31519", "sub_label": "Charles University", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q16993848", "sub_label": "Heathrow Hub", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q8686", "obj_label": "Shanghai", "sub_uri": "Q7935221", "sub_label": "Virtuos", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q956", "obj_label": "Beijing", "sub_uri": "Q3376770", "sub_label": "Chinese Maritime Customs Service", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q34600", "obj_label": "Kyoto", "sub_uri": "Q2613004", "sub_label": "Jupiter", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q2135", "obj_label": "Winnipeg", "sub_uri": "Q7144593", "sub_label": "Paterson GlobalFoods", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3141", "obj_label": "Melbourne", "sub_uri": "Q7362954", "sub_label": "Rome2rio", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_uri": "Q1032414", "sub_label": "Canadian Soccer Association", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1156", "obj_label": "Mumbai", "sub_uri": "Q4662646", "sub_label": "Aarti Industries", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q3051166", "sub_label": "Elixir Studios", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q406", "obj_label": "Istanbul", "sub_uri": "Q1258701", "sub_label": "Kalan M\u00fczik", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q726141", "sub_label": "Dux Factory", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3141", "obj_label": "Melbourne", "sub_uri": "Q6421682", "sub_label": "Kmart Australia", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q1934330", "sub_label": "Sk\u00e5netrafiken", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q4942921", "sub_label": "BookThug", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q6438022", "sub_label": "Kristiania Elektriske Sporvei", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q7544115", "sub_label": "Smarterphone", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3114", "obj_label": "Canberra", "sub_uri": "Q5473100", "sub_label": "Forum for European\u2013Australian Science and Technology Cooperation", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q71", "obj_label": "Geneva", "sub_uri": "Q942284", "sub_label": "Lutheran World Federation", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q3272997", "sub_label": "Moscow State Institute of Radio-engineering Electronics and Automation", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q16554", "obj_label": "Denver", "sub_uri": "Q2456368", "sub_label": "JD Edwards", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q49202", "obj_label": "Greenwich", "sub_uri": "Q7312406", "sub_label": "Renaissance Capital", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_uri": "Q1982888", "sub_label": "New South Wales Government Railways", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q4314950", "sub_label": "National Cable Networks", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q33147", "obj_label": "Allen", "sub_uri": "Q7119110", "sub_label": "PFSweb", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q6979331", "sub_label": "National Voting Rights Institute", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q427075", "obj_label": "Temple", "sub_uri": "Q3569219", "sub_label": "Wilsonart", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q15840850", "sub_label": "Posteo", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q4816251", "sub_label": "Atlantic-ACM", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1904", "obj_label": "Ontario", "sub_uri": "Q7094942", "sub_label": "Ontario Young Liberals", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_uri": "Q1424136", "sub_label": "Reemtsma", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_uri": "Q156868", "sub_label": "Civic Platform", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q36405", "obj_label": "Aberdeen", "sub_uri": "Q15735830", "sub_label": "KCA DEUTAG", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q334", "obj_label": "Singapore", "sub_uri": "Q7522279", "sub_label": "Sindicatum", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q5312873", "sub_label": "Duke Street Capital", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q5038860", "sub_label": "Care Quality Commission", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q17018495", "sub_label": "PH Media Group", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q36312", "obj_label": "Calgary", "sub_uri": "Q4906227", "sub_label": "Big Rock Brewery", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q16556", "obj_label": "Phoenix", "sub_uri": "Q1502859", "sub_label": "Ramada", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q985481", "obj_label": "Vance", "sub_uri": "Q1921340", "sub_label": "Mercedes-Benz U.S. International", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1942086", "obj_label": "Independence", "sub_uri": "Q5592433", "sub_label": "GrafTech", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q23436", "obj_label": "Edinburgh", "sub_uri": "Q471958", "sub_label": "Standard Life Aberdeen", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q43788", "obj_label": "Madison", "sub_uri": "Q5508018", "sub_label": "Full Compass Systems", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q7209132", "sub_label": "Polaris Partners", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q4403274", "sub_label": "SU-155", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_uri": "Q4653134", "sub_label": "AOC Holdings", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q18419", "obj_label": "Brooklyn", "sub_uri": "Q1138658", "sub_label": "40 Acres & A Mule Filmworks", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1530", "obj_label": "Baghdad", "sub_uri": "Q4838508", "sub_label": "Babylon Bank", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3183", "obj_label": "Perth", "sub_uri": "Q7639184", "sub_label": "Sundance Resources", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q16828673", "sub_label": "Byron Hamburgers", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q2135", "obj_label": "Winnipeg", "sub_uri": "Q7516080", "sub_label": "Silver Jeans", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q3499025", "sub_label": "Fresh TV", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q24639", "obj_label": "Vancouver", "sub_uri": "Q16827446", "sub_label": "Alliance Cinemas", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1156", "obj_label": "Mumbai", "sub_uri": "Q17050115", "sub_label": "Inter-connected Stock Exchange of India", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q71", "obj_label": "Geneva", "sub_uri": "Q7178", "sub_label": "International Red Cross and Red Crescent Movement", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1794", "obj_label": "Frankfurt", "sub_uri": "Q162222", "sub_label": "Deutsche Bundesbank", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q5018052", "sub_label": "Cake Entertainment", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q3100744", "sub_label": "Genivar", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q6806317", "sub_label": "Medical Council of Canada", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q11299", "obj_label": "Manhattan", "sub_uri": "Q17110129", "sub_label": "Safefood 360\u00b0", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q23436", "obj_label": "Edinburgh", "sub_uri": "Q594917", "sub_label": "Scottish Rugby Union", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q3152057", "sub_label": "Institute of Environmental Medicine", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3640", "obj_label": "Ankara", "sub_uri": "Q5299335", "sub_label": "Dost TV", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q36091", "obj_label": "Minneapolis", "sub_uri": "Q1133687", "sub_label": "Minnesota Kicks", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q318732", "sub_label": "Berthold Type Foundry", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1156", "obj_label": "Mumbai", "sub_uri": "Q8066083", "sub_label": "Zandu Realty", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q41262", "obj_label": "Nottingham", "sub_uri": "Q19598", "sub_label": "Notts County F.C.", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q2141", "obj_label": "Halifax", "sub_uri": "Q17034399", "sub_label": "Silverback Productions", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q4848606", "sub_label": "Baird & Warner", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q1247544", "sub_label": "University of Westminster", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q1813833", "sub_label": "Eagle Rock Entertainment", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q55", "obj_label": "Netherlands", "sub_uri": "Q257815", "sub_label": "Spyker", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q36312", "obj_label": "Calgary", "sub_uri": "Q6766373", "sub_label": "Mark's Work Wearhouse", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q15980802", "sub_label": "Democratic Socialist Arab Ba'ath Party", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_uri": "Q155465", "sub_label": "Neptec Design Group", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_uri": "Q1200904", "sub_label": "Macquarie Group", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1156", "obj_label": "Mumbai", "sub_uri": "Q6064951", "sub_label": "Ipca Laboratories", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q5122989", "sub_label": "CitySocialising", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1342", "obj_label": "Pittsburgh", "sub_uri": "Q3009498", "sub_label": "MSA Safety", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q16555", "obj_label": "Houston", "sub_uri": "Q5125081", "sub_label": "Claim Jumper", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q2577693", "sub_label": "Philadelphia Spartans", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q49219", "obj_label": "Irvine", "sub_uri": "Q16982056", "sub_label": "Gkkworks", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1492", "obj_label": "Barcelona", "sub_uri": "Q220013", "sub_label": "Barcelona Zoo", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q3745440", "sub_label": "Filmauro", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q29364", "obj_label": "Montgomery", "sub_uri": "Q5148293", "sub_label": "Colonial Bancgroup", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3141", "obj_label": "Melbourne", "sub_uri": "Q2299832", "sub_label": "Mushroom Records", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1904", "obj_label": "Ontario", "sub_uri": "Q16958809", "sub_label": "Ultra Food & Drug", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q16257527", "sub_label": "Henry Herbert Tailors", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q320514", "obj_label": "Lancaster", "sub_uri": "Q6483218", "sub_label": "Lancaster Laboratories", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q614798", "obj_label": "Riverside", "sub_uri": "Q631043", "sub_label": "Safenet", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1016633", "obj_label": "Burlington", "sub_uri": "Q17049527", "sub_label": "Honda Aero", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q49219", "obj_label": "Irvine", "sub_uri": "Q4943790", "sub_label": "Boost Mobile", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1757", "obj_label": "Helsinki", "sub_uri": "Q7201329", "sub_label": "Planmeca", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q3108236", "sub_label": "Gjensidige", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q23661", "obj_label": "Wellington", "sub_uri": "Q7443377", "sub_label": "Second Intention", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3616", "obj_label": "Tehran", "sub_uri": "Q18609530", "sub_label": "Saba Foulad Zagros", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1156", "obj_label": "Mumbai", "sub_uri": "Q3523273", "sub_label": "The Walt Disney Company India", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q826561", "obj_label": "Halifax", "sub_uri": "Q3528974", "sub_label": "Timeform", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q491114", "obj_label": "Hayward", "sub_uri": "Q6816564", "sub_label": "Mendel Biotechnology, Inc.", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_uri": "Q254425", "sub_label": "Demel", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q5078586", "sub_label": "Charles H. Kerr Publishing Company", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q49272", "obj_label": "Chandler", "sub_uri": "Q7564567", "sub_label": "Soultone", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q38453", "obj_label": "Columbia", "sub_uri": "Q4690905", "sub_label": "AgFirst", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q755197", "obj_label": "Derby", "sub_uri": "Q2279731", "sub_label": "Charlton Comics", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q17090233", "sub_label": "Tom, Dick & Harry Creative Co.", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q334", "obj_label": "Singapore", "sub_uri": "Q7077771", "sub_label": "Odex", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q42448", "obj_label": "Sheffield", "sub_uri": "Q1752117", "sub_label": "Sheffield Hallam University", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q334", "obj_label": "Singapore", "sub_uri": "Q5142390", "sub_label": "Cold Storage", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q2716043", "sub_label": "American University of Paris", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q7937567", "sub_label": "Vive Crop Protection", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q22", "obj_label": "Scotland", "sub_uri": "Q7822843", "sub_label": "Tony Macaroni", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q24639", "obj_label": "Vancouver", "sub_uri": "Q6050633", "sub_label": "International Forest Products", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q2882996", "sub_label": "Banque d'Hochelaga", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1088629", "obj_label": "Wayne", "sub_uri": "Q7912152", "sub_label": "Valley National Bank", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1794", "obj_label": "Frankfurt", "sub_uri": "Q189709", "sub_label": "Star Alliance", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q5133455", "sub_label": "Climate and Clean Air Coalition to Reduce Short-Lived Climate Pollutants", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q4696954", "sub_label": "Aikenhead's Hardware", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q16824238", "sub_label": "Acceleron Pharma", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q16557", "obj_label": "Dallas", "sub_uri": "Q7928838", "sub_label": "Viewzi", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q6388894", "sub_label": "Kendall College", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q365", "obj_label": "Cologne", "sub_uri": "Q151159", "sub_label": "Bl\u00e4ck F\u00f6\u00f6ss", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q8684", "obj_label": "Seoul", "sub_uri": "Q6684903", "sub_label": "Lotte Card", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_uri": "Q2531521", "sub_label": "Kojima Productions", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q1458528", "sub_label": "PAI Partners", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q2559758", "obj_label": "Westminster", "sub_uri": "Q7958782", "sub_label": "Wachusett Brewing Company", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q2887", "obj_label": "Santiago", "sub_uri": "Q2423252", "sub_label": "Ita\u00fa Corpbanca", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q23661", "obj_label": "Wellington", "sub_uri": "Q1051650", "sub_label": "New Zealand Defence Force", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q6696097", "sub_label": "Lucas Brothers, Builders", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q571779", "sub_label": "Liberty Global", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q956", "obj_label": "Beijing", "sub_uri": "Q5152520", "sub_label": "Commercial Press", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_uri": "Q699152", "sub_label": "United Nations Office for Outer Space Affairs", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q16555", "obj_label": "Houston", "sub_uri": "Q13635788", "sub_label": "Hennessey Performance Engineering", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q7833819", "sub_label": "Transcapitalbank", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q49169", "obj_label": "Stamford", "sub_uri": "Q3756083", "sub_label": "GIANTmicrobes", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q79848", "obj_label": "Southampton", "sub_uri": "Q693667", "sub_label": "Maritime and Coastguard Agency", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q2516736", "sub_label": "Melantrich", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1342", "obj_label": "Pittsburgh", "sub_uri": "Q5063572", "sub_label": "Cepstral", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q501785", "obj_label": "Fairfax", "sub_uri": "Q7548978", "sub_label": "SoBran, Inc.", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1133554", "obj_label": "Franklin", "sub_uri": "Q494241", "sub_label": "Venango County", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_uri": "Q1572759", "sub_label": "Hamburg Atlantic Line", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q4860767", "sub_label": "Baring Vostok Capital Partners", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q3055844", "sub_label": "EPOS Game Studios", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q7538126", "sub_label": "Skyway Luggage", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q10686", "obj_label": "Belfast", "sub_uri": "Q1345321", "sub_label": "Orange Order", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_uri": "Q5591015", "sub_label": "Grace Bros.", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q3881260", "sub_label": "Oh! Production", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q7142355", "sub_label": "Pasquinelli Homes", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_uri": "Q11236114", "sub_label": "NTT Resonant Inc.", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q23661", "obj_label": "Wellington", "sub_uri": "Q204716", "sub_label": "New Zealand National Party", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q5424105", "sub_label": "F. Weber & Company, Inc.", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q23154", "obj_label": "Bristol", "sub_uri": "Q4968915", "sub_label": "Bristol Guild of Applied Art", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q597", "obj_label": "Lisbon", "sub_uri": "Q18672490", "sub_label": "Primeira Idade", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_uri": "Q1382629", "sub_label": "Evotec", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1731", "obj_label": "Dresden", "sub_uri": "Q267390", "sub_label": "Taschenbergpalais Dresden", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q34218", "obj_label": "Burlington", "sub_uri": "Q5146200", "sub_label": "Collector's Guide Publishing", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3630", "obj_label": "Jakarta", "sub_uri": "Q6127003", "sub_label": "Jalur Nugraha Ekakurir", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q36312", "obj_label": "Calgary", "sub_uri": "Q906120", "sub_label": "Nova Chemicals", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q406", "obj_label": "Istanbul", "sub_uri": "Q5443333", "sub_label": "Fenerbah\u00e7e TV", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q16555", "obj_label": "Houston", "sub_uri": "Q7126598", "sub_label": "Palais Royal", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1524", "obj_label": "Athens", "sub_uri": "Q3562882", "sub_label": "Pagrati B.C.", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q652569", "sub_label": "Native Instruments", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q5364466", "sub_label": "Ella Bach\u00e9", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_uri": "Q16950802", "sub_label": "SpaceWorks Enterprises", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1524", "obj_label": "Athens", "sub_uri": "Q4320605", "sub_label": "Autokinitoviomihania Ellados", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_uri": "Q4698482", "sub_label": "Aircel Comics", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q135615", "obj_label": "Springfield", "sub_uri": "Q4569311", "sub_label": "Evangel University", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q2135", "obj_label": "Winnipeg", "sub_uri": "Q6802463", "sub_label": "McNally Robinson", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_uri": "Q7699269", "sub_label": "Ten Network Holdings", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q1136077", "sub_label": "Hostway", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q5610630", "sub_label": "Grosvenor Capital Management", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q37100", "obj_label": "Auckland", "sub_uri": "Q5926822", "sub_label": "Hubbard Foods", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q6167962", "sub_label": "Jays Foods", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1352", "obj_label": "Chennai", "sub_uri": "Q14628864", "sub_label": "NEPC Airlines", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q846694", "sub_label": "William Cramp and Sons", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q365", "obj_label": "Cologne", "sub_uri": "Q676520", "sub_label": "Sal. Oppenheim jr. & Cie. AG & Co. KGaA", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1492", "obj_label": "Barcelona", "sub_uri": "Q1640731", "sub_label": "Polytechnic University of Catalonia", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q4836858", "sub_label": "BW Gas", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q29364", "obj_label": "Montgomery", "sub_uri": "Q7316830", "sub_label": "Retirement Systems of Alabama", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q71", "obj_label": "Geneva", "sub_uri": "Q687365", "sub_label": "Vitol", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q3626885", "sub_label": "A.S. Lodigiani", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q71", "obj_label": "Geneva", "sub_uri": "Q691715", "sub_label": "International Lesbian, Gay, Bisexual, Trans and Intersex Association", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q3294022", "sub_label": "Lambie-Nairn", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q4647775", "sub_label": "A. G. Becker & Co.", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q36074", "obj_label": "Queensland", "sub_uri": "Q5381107", "sub_label": "Environmental Defenders Office (Qld) Inc.", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q2256", "obj_label": "Birmingham", "sub_uri": "Q3078964", "sub_label": "Ansells Brewery", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q522381", "sub_label": "Andre Py", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q365", "obj_label": "Cologne", "sub_uri": "Q896041", "sub_label": "Verkehrsverbund Rhein-Sieg", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_uri": "Q7376302", "sub_label": "Ruby Cycle Co Ltd", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1156", "obj_label": "Mumbai", "sub_uri": "Q3764225", "sub_label": "Godrej Group", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q3429278", "sub_label": "Luxo", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q36312", "obj_label": "Calgary", "sub_uri": "Q1518382", "sub_label": "Alberta Social Credit Party", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q15138646", "sub_label": "TeamTO", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3240990", "obj_label": "Davis", "sub_uri": "Q4879378", "sub_label": "Bedre Fine Chocolate", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q2539154", "sub_label": "Waggon Union", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q3149665", "sub_label": "In These Times", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q739", "obj_label": "Colombia", "sub_uri": "Q6465288", "sub_label": "La Silla Vac\u00eda", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q43196", "obj_label": "Cincinnati", "sub_uri": "Q7839812", "sub_label": "TriHealth", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1342", "obj_label": "Pittsburgh", "sub_uri": "Q5553766", "sub_label": "GetGo", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q5112", "obj_label": "Adelaide", "sub_uri": "Q7756621", "sub_label": "The People's Republic of Animation", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q16961406", "sub_label": "Amy's Candy Bar", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q497373", "obj_label": "Dartmouth", "sub_uri": "Q14875664", "sub_label": "Dartmouth Yacht Club", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q28198", "obj_label": "Jackson", "sub_uri": "Q5385824", "sub_label": "Ergon, Inc.", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_uri": "Q190814", "sub_label": "Central Agency for Jewish Emigration in Vienna", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1156", "obj_label": "Mumbai", "sub_uri": "Q59177", "sub_label": "Shiv Sena", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_uri": "Q6041359", "sub_label": "Instituto Madrile\u00f1o de Estudios Avanzados", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3141", "obj_label": "Melbourne", "sub_uri": "Q7834621", "sub_label": "Transmission Games", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q16941505", "sub_label": "Lonrho", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q662409", "obj_label": "Bradford", "sub_uri": "Q7945902", "sub_label": "W. R. Case & Sons Cutlery Co.", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q58707", "sub_label": "Aeroflot", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q8058145", "sub_label": "Young Greens of Canada", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q34932", "obj_label": "Brisbane", "sub_uri": "Q17510971", "sub_label": "Conrad Gargett Riddel Ancher Mortlock Woolley", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q986329", "obj_label": "Jupiter", "sub_uri": "Q5196961", "sub_label": "G4S Secure Solutions", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1731", "obj_label": "Dresden", "sub_uri": "Q206606", "sub_label": "f6", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q9863", "obj_label": "Salem", "sub_uri": "Q3531832", "sub_label": "Modern Theatres", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q36091", "obj_label": "Minneapolis", "sub_uri": "Q4796891", "sub_label": "Art Instruction Schools", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q4974584", "sub_label": "Brookfield Office Properties", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1748", "obj_label": "Copenhagen", "sub_uri": "Q10469899", "sub_label": "Det Kvindelige Velg\u00f8rende Selskab", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q456", "obj_label": "Lyon", "sub_uri": "Q8478", "sub_label": "Euronews", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q16963372", "sub_label": "WIDEawake", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q36312", "obj_label": "Calgary", "sub_uri": "Q1339966", "sub_label": "Enbridge", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q2135", "obj_label": "Winnipeg", "sub_uri": "Q4691427", "sub_label": "Agassiz Brewing", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q3554415", "sub_label": "Van Houtte", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q18013", "obj_label": "Sacramento", "sub_uri": "Q19647970", "sub_label": "Run for Courage", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q2485022", "sub_label": "\u00c9ditions Deno\u00ebl", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q843431", "sub_label": "Virgin Trains", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3820", "obj_label": "Beirut", "sub_uri": "Q2882964", "sub_label": "Banque Zilkha", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q956", "obj_label": "Beijing", "sub_uri": "Q7544627", "sub_label": "Smile Angel Foundation", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q16557", "obj_label": "Dallas", "sub_uri": "Q7562014", "sub_label": "Sonny Bryan's Smokehouse", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q236837", "obj_label": "Richmond", "sub_uri": "Q3334277", "sub_label": "NCIX", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3141", "obj_label": "Melbourne", "sub_uri": "Q4655119", "sub_label": "AWB Limited", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q16555", "obj_label": "Houston", "sub_uri": "Q119991", "sub_label": "Apache Corporation", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1225611", "obj_label": "Dillon", "sub_uri": "Q5276929", "sub_label": "Dillon Dam Brewery", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q956", "obj_label": "Beijing", "sub_uri": "Q2607378", "sub_label": "Ministry of Culture of the People's Republic of China", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q42448", "obj_label": "Sheffield", "sub_uri": "Q7988686", "sub_label": "Westfield Health", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q16559", "obj_label": "Austin", "sub_uri": "Q49213", "sub_label": "University of Texas at Austin", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q23148", "obj_label": "Cornwall", "sub_uri": "Q7374213", "sub_label": "Royal Geological Society of Cornwall", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q485176", "obj_label": "Pasadena", "sub_uri": "Q8006544", "sub_label": "William Carey Library", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q686004", "sub_label": "Jack Sport", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q16555", "obj_label": "Houston", "sub_uri": "Q931032", "sub_label": "Kinder Morgan", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q8818", "obj_label": "Valencia", "sub_uri": "Q927193", "sub_label": "Comprom\u00eds", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q4809193", "sub_label": "Associated Grocers", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1726", "obj_label": "Munich", "sub_uri": "Q2147902", "sub_label": "Rheinmetall MAN Military Vehicles", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_uri": "Q122549", "sub_label": "Shochiku", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q1598474", "sub_label": "Technip", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1353", "obj_label": "Delhi", "sub_uri": "Q7806527", "sub_label": "Times Business School", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q1189954", "sub_label": "Mines ParisTech", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q49219", "obj_label": "Irvine", "sub_uri": "Q6457180", "sub_label": "LA Fitness", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q4838247", "sub_label": "Baby Cow Productions", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1342", "obj_label": "Pittsburgh", "sub_uri": "Q1296860", "sub_label": "Gulf Oil", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q8686", "obj_label": "Shanghai", "sub_uri": "Q2331029", "sub_label": "ACAC consortium", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q24639", "obj_label": "Vancouver", "sub_uri": "Q4120690", "sub_label": "Hothead Games", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q16953348", "sub_label": "Tenzing Communications", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1726", "obj_label": "Munich", "sub_uri": "Q830846", "sub_label": "Dyckerhoff & Widmann", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q828", "obj_label": "Americas", "sub_uri": "Q15733081", "sub_label": "Panamerican Karate Federation", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q54138", "obj_label": "Beverly", "sub_uri": "Q4816569", "sub_label": "Atlantic Tele-Network", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q2245650", "sub_label": "Kudos", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1761", "obj_label": "Dublin", "sub_uri": "Q5190791", "sub_label": "CryptoLogic", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q35", "obj_label": "Denmark", "sub_uri": "Q5015595", "sub_label": "Cabinn Hotels", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q37100", "obj_label": "Auckland", "sub_uri": "Q5508281", "sub_label": "Fullers Group", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q4093", "obj_label": "Glasgow", "sub_uri": "Q2371991", "sub_label": "Chemikal Underground", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q350", "obj_label": "Cambridge", "sub_uri": "Q7304184", "sub_label": "Red Gate Software", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1794", "obj_label": "Frankfurt", "sub_uri": "Q565423", "sub_label": "T-Systems International GmbH", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q18160840", "sub_label": "Medopad", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3766", "obj_label": "Damascus", "sub_uri": "Q179933", "sub_label": "Ba'ath Party", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1761", "obj_label": "Dublin", "sub_uri": "Q831015", "sub_label": "Green Party", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q597", "obj_label": "Lisbon", "sub_uri": "Q806188", "sub_label": "Banco Esp\u00edrito Santo", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q1329777", "sub_label": "Wilson Sporting Goods", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q2569926", "sub_label": "Wikiwoods", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q7696797", "sub_label": "Telescene", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1748", "obj_label": "Copenhagen", "sub_uri": "Q5425745", "sub_label": "FIH Erhvervsbank A/S", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q23197", "obj_label": "Nashville", "sub_uri": "Q16994911", "sub_label": "Harveys", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q3153868", "sub_label": "Inventel", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q71", "obj_label": "Geneva", "sub_uri": "Q3146553", "sub_label": "ICVolunteers", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_uri": "Q7813998", "sub_label": "Tokyo Star Bank", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q3490485", "sub_label": "Seznam.cz", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q956", "obj_label": "Beijing", "sub_uri": "Q16466345", "sub_label": "BDA China Limited", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q23436", "obj_label": "Edinburgh", "sub_uri": "Q1777807", "sub_label": "Heineken UK Limited", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q483597", "sub_label": "Anacostia and Pacific Company", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q576316", "sub_label": "Cacharel", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q334", "obj_label": "Singapore", "sub_uri": "Q15070429", "sub_label": "Playware Studios", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q632694", "sub_label": "Archer Daniels Midland", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q48", "obj_label": "Asia", "sub_uri": "Q6485792", "sub_label": "Langdon & Seah", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q658909", "sub_label": "Lenta.ru", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q7798534", "sub_label": "Throwback Entertainment", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_uri": "Q700974", "sub_label": "Trend Micro", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q51690", "obj_label": "Irving", "sub_uri": "Q7906944", "sub_label": "VHA, Inc.", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q16840562", "sub_label": "Gunter's Tea Shop", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q8684", "obj_label": "Seoul", "sub_uri": "Q487230", "sub_label": "Shinhan Bank", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q5130161", "obj_label": "Clayton", "sub_uri": "Q1624372", "sub_label": "Holden Special Vehicles", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q597", "obj_label": "Lisbon", "sub_uri": "Q782858", "sub_label": "Companhia Portuguesa de Hipermercados", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q49111", "obj_label": "Cambridge", "sub_uri": "Q1113755", "sub_label": "American Repertory Theater", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1156", "obj_label": "Mumbai", "sub_uri": "Q848059", "sub_label": "Mahindra & Mahindra", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q54140", "obj_label": "Salem", "sub_uri": "Q1501379", "sub_label": "Parker Brothers", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q537120", "obj_label": "Walker", "sub_uri": "Q4918436", "sub_label": "Bissell", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q3141", "obj_label": "Melbourne", "sub_uri": "Q5393268", "sub_label": "Ernest Hillier Chocolates", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q3127944", "sub_label": "Dominion Diamond Corporation", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1492", "obj_label": "Barcelona", "sub_uri": "Q1629001", "sub_label": "Moritz", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q18424", "obj_label": "Queens", "sub_uri": "Q156391", "sub_label": "Steinway & Sons", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q5522275", "sub_label": "Garden Networks", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1156", "obj_label": "Mumbai", "sub_uri": "Q6433849", "sub_label": "Kotak Securities", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q2185221", "sub_label": "Isense", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_uri": "Q4883081", "sub_label": "Bell-Northern Research", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1726", "obj_label": "Munich", "sub_uri": "Q16974244", "sub_label": "ADESS AG", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q8652", "obj_label": "Miami", "sub_uri": "Q2178198", "sub_label": "Ryder", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_uri": "Q258373", "sub_label": "Ergonomidesign", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q4688128", "sub_label": "Aero Controls", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q16999870", "sub_label": "Netmorf", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_uri": "Q15957046", "sub_label": "Mondia", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q3438623", "sub_label": "Roger & Gallet", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q7000460", "sub_label": "Vy Buss", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q5194119", "sub_label": "Cummings Machine Works", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q88", "obj_label": "Alexandria", "sub_uri": "Q4931480", "sub_label": "BoatUS", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q19605779", "sub_label": "Tecdesk", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q5431972", "sub_label": "Falkland Oil and Gas", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q769112", "sub_label": "European Securities and Markets Authority", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q17077817", "sub_label": "Jimmy the Greek", "predicate_id": "P159"}
+{"uuid": "", "obj_uri": "Q43421", "obj_label": "Richmond", "sub_uri": "Q6805492", "sub_label": "Media General", "predicate_id": "P159"}

@@ -1,0 +1,49 @@
+debug False
+begin{tabular}{rlrrrr}
+hline
+    	 mask_type           	   p@1 	   p@5 	   p@10 	   mrr 
+hline
+  0 	 subj_anchors_all_sg 	    66 	  86.6 	   89.6 	  73.9 
+hline
+end{tabular}
+save ../../log/bert-large-uncased/hypernymsuite/BLESS/exp_data_results_anchor_type_Coordinate_remove_Y_PUNC_FULL_concate_or_single_max_anchor_num_5_anchor_scorer_probAvg_filter_obj_True_filter_objects_with_input_True_wnp_False_cpt_False.HYPERNYMSUITE.cohyponyms.csv
+begin{tabular}{rlrrrr}
+hline
+    	 mask_type           	   p@1 	   p@5 	   p@10 	   mrr 
+hline
+  0 	 subj_anchors_all_sg 	  28.6 	  43.8 	   48.8 	  34.9 
+hline
+end{tabular}
+save ../../log/bert-large-uncased/lm_diagnostic_extended/singular/exp_data_results_anchor_type_Coordinate_remove_Y_PUNC_FULL_concate_or_single_max_anchor_num_5_anchor_scorer_probAvg_filter_obj_True_filter_objects_with_input_True_wnp_False_cpt_False.LM_DIAGNOSTIC_EXTENDED.cohyponyms.csv
+begin{tabular}{rlrrrr}
+hline
+    	 mask_type           	   p@1 	   p@5 	   p@10 	   mrr 
+hline
+  0 	 subj_anchors_all_sg 	  51.2 	  73.2 	   77.7 	  60.3 
+hline
+end{tabular}
+save ../../log/bert-large-uncased/clsb/singular/exp_data_results_anchor_type_Coordinate_remove_Y_PUNC_FULL_concate_or_single_max_anchor_num_5_anchor_scorer_probAvg_filter_obj_True_filter_objects_with_input_True_wnp_False_cpt_False.CLSB.cohyponyms.csv
+begin{tabular}{rlrrrr}
+hline
+    	 mask_type           	   p@1 	   p@5 	   p@10 	   mrr 
+hline
+  0 	 subj_anchors_all_sg 	  35.7 	  59.7 	   66.3 	  45.8 
+hline
+end{tabular}
+save ../../log/bert-large-uncased/hypernymsuite/LEDS/exp_data_results_anchor_type_Coordinate_remove_Y_PUNC_FULL_concate_or_single_max_anchor_num_5_anchor_scorer_probAvg_filter_obj_True_filter_objects_with_input_True_wnp_False_cpt_False.HYPERNYMSUITE.cohyponyms.csv
+begin{tabular}{rlrrrr}
+hline
+    	 mask_type           	   p@1 	   p@5 	   p@10 	   mrr 
+hline
+  0 	 subj_anchors_all_sg 	  26.1 	  44.1 	   49.4 	  33.6 
+hline
+end{tabular}
+save ../../log/bert-large-uncased/hypernymsuite/EVAL/exp_data_results_anchor_type_Coordinate_remove_Y_PUNC_FULL_concate_or_single_max_anchor_num_5_anchor_scorer_probAvg_filter_obj_True_filter_objects_with_input_True_wnp_False_cpt_False.HYPERNYMSUITE.cohyponyms.csv
+begin{tabular}{rlrrrr}
+hline
+    	 mask_type           	   p@1 	   p@5 	   p@10 	   mrr 
+hline
+  0 	 subj_anchors_all_sg 	   8.7 	  17.1 	   20.6 	  12.3 
+hline
+end{tabular}
+save ../../log/bert-large-uncased/hypernymsuite/SHWARTZ/exp_data_results_anchor_type_Coordinate_remove_Y_PUNC_FULL_concate_or_single_max_anchor_num_5_anchor_scorer_probAvg_filter_obj_True_filter_objects_with_input_True_wnp_False_cpt_False.HYPERNYMSUITE.cohyponyms.csv

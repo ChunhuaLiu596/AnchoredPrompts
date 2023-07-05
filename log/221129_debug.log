@@ -1,0 +1,99 @@
+debug: True
+---------------------------------------- config ----------------------------------------
+{'debug': False, 'test_relations': ['IsA'], 'save_all_data': True, 'top_k': 10, 'data_dir': 'data/clsb/sgpl/', 'mask_string_mapping': {'bert-large-uncased': '[MASK]'}, 'use_dap_global': True, 'max_anchor_num': 3, 'return_probs': True, 'anchor_scorer_list': ['probAvg'], 'scorer_target_1_prompt': 'probSum', 'scorer_target_N_prompts': 'probAvg', 'use_original_prompt': True, 'original_prompt_source': 'masked_sentence', 'incorporate_operations': ['concate_or_single'], 'filter_anchors_flag': True, 'filter_objects_flag': False, 'cpt_only': False, 'max_anchor_num_list': [5], 'anchor_types': ['Coordinate_remove_Y_PUNC_FULL'], 'add_cpt_score': True, 'constrain_targets': False, 'add_wordnet_path_score': False}
+---------------------------------------- config ----------------------------------------
+Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+---------------------------------------- bert-large-uncased-anchor_type: Coordinate_remove_Y_PUNC_FULL-scorer_anchor:probAvg-op:concate_or_single ----------------------------------------
+{
+    "IsA": {
+        "relation": "IsA",
+        "def_sap": [
+            "A [X] is a [MASK].",
+            "A [X] is an [MASK].",
+            "An [X] is a [MASK].",
+            "An [X] is an [MASK]."
+        ],
+        "def_dap": [
+            "A [X] or [Z] is a [MASK].",
+            "A [X] or [Z] is an [MASK].",
+            "An [X] or [Z] is a [MASK].",
+            "An [X] or [Z] is an [MASK]."
+        ],
+        "lsp_sap": [
+            "[MASK] such as [X].",
+            "[MASK], including [X].",
+            "[MASK], especially [X].",
+            "[X] or other [MASK].",
+            "[X] and other [MASK].",
+            "such [MASK] as [X]."
+        ],
+        "lsp_dap": [
+            "[MASK] such as [X] and [Z].",
+            "[MASK], including [X] and [Z].",
+            "[MASK], especially [X] and [Z].",
+            "[X], [Z] and other [MASK].",
+            "[X], [Z] or other [MASK].",
+            "such [MASK] as [X] and [Z]."
+        ],
+        "use_dap": true,
+        "anchor_target": "[X]",
+        "anchor_lsp_sap": [
+            "such as [X] and [MASK].",
+            "such as [X] or [MASK].",
+            "such as [X], [MASK],",
+            "including [X] and [MASK].",
+            "including [X] or [MASK].",
+            "including [X], [MASK],",
+            "especially [X] and [MASK].",
+            "especially [X] or [MASK].",
+            "especially [X], [MASK],",
+            "[X], [MASK] or other",
+            "[X], [MASK] and other"
+        ]
+    }
+}
+Processing IsA ... data/clsb/sgpl//IsA.jsonl
+#Test_instances: 1042
+	 step1: get anchors (fill and filter)
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+--- def_sap
+--- lsp_sap
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+relation: IsA 	 use_dap: True
+	 step2: insert anchors
+	 step3: fill mask in dap anchors
+  0%|          | 0/5 [00:00<?, ?it/s]/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+ 40%|████      | 2/5 [00:00<00:00, 11.48it/s] 80%|████████  | 4/5 [00:00<00:00, 11.67it/s]100%|██████████| 5/5 [00:00<00:00, 11.61it/s]
+  0%|          | 0/5 [00:00<?, ?it/s] 20%|██        | 1/5 [00:00<00:00,  6.96it/s] 40%|████      | 2/5 [00:00<00:00,  7.03it/s] 60%|██████    | 3/5 [00:00<00:00,  6.98it/s] 80%|████████  | 4/5 [00:00<00:00,  7.02it/s]100%|██████████| 5/5 [00:00<00:00,  6.95it/s]100%|██████████| 5/5 [00:00<00:00,  6.97it/s]
+  0%|          | 0/5 [00:00<?, ?it/s] 20%|██        | 1/5 [00:00<00:01,  2.31it/s] 40%|████      | 2/5 [00:00<00:01,  2.32it/s] 60%|██████    | 3/5 [00:01<00:00,  2.27it/s] 80%|████████  | 4/5 [00:01<00:00,  2.29it/s]100%|██████████| 5/5 [00:02<00:00,  2.30it/s]100%|██████████| 5/5 [00:02<00:00,  2.30it/s]
+   sub_label                obj_label             masked_sentences relation  weight feature_type  sub_position                                            def_sap                                            def_dap                                            lsp_sap                                            lsp_dap                                     anchor_lsp_sap                                  obj_mask_sentence                            obj_mask_sentence_score                                   obj_mask_def_sap                             obj_mask_def_sap_score                                   obj_mask_lsp_sap                             obj_mask_lsp_sap_score                                       subj_anchors                                 subj_anchors_score                  masked_sentences_with_subj_anchor                           def_dap_with_subj_anchor                           lsp_dap_with_subj_anchor                              subj_anchors_combined  \
+0  aeroplane      [vehicle, vehicles]  [An aeroplane is a [MASK].]    is a        2    taxonomic             3  [An aeroplane is a [MASK]., An aeroplane is an...  [An aeroplane or [Z] is a [MASK]., An aeroplan...  [[MASK] such as aeroplane., [MASK], including ...  [[MASK] such as aeroplane and [Z]., [MASK], in...  [such as aeroplane and [MASK]., such as aeropl...  [plane, biplane, glider, aircraft, helicopter,...  {'plane': 0.46381837129592896, 'biplane': 0.10...  [plane, aircraft, airplane, biplane, glider, h...  {'plane': 0.46381837129592896, 'aircraft': 0.4...  [aircraft, things, aviation, airplane, article...  {'aircraft': 0.3639552718959749, 'things': 0.2...  [airship, helicopter, aircraft, airplane, subm...  {'airship': 0.10743164333204429, 'helicopter':...  [An aeroplane is a [MASK]., An aeroplane or ai...  [An aeroplane or airship is a [MASK]., An aero...  [[MASK] such as aeroplane and airship., [MASK]...  aeroplane airship helicopter aircraft airplane...   
+1  alligator      [reptile, reptiles]  [An alligator is a [MASK].]    is a       16    taxonomic             3  [An alligator is a [MASK]., An alligator is an...  [An alligator or [Z] is a [MASK]., An alligato...  [[MASK] such as alligator., [MASK], including ...  [[MASK] such as alligator and [Z]., [MASK], in...  [such as alligator and [MASK]., such as alliga...  [fish, monster, snake, crocodile, turtle, huma...  {'fish': 0.12116950005292892, 'monster': 0.052...  [animal, fish, monster, snake, crocodile, turt...  {'animal': 0.35219907760620117, 'fish': 0.1211...  [reptiles, things, animals, snakes, fish, spec...  {'reptiles': 0.25948552694171667, 'things': 0....       [crocodile, turtle, catfish, shark, dolphin]  {'crocodile': 1.1134126414121552, 'turtle': 1....  [An alligator is a [MASK]., An alligator or cr...  [An alligator or crocodile is a [MASK]., An al...  [[MASK] such as alligator and crocodile., [MAS...   alligator crocodile turtle catfish shark dolphin   
+2  alligator  [carnivore, carnivores]  [An alligator is a [MASK].]    is a        8   functional             3  [An alligator is a [MASK]., An alligator is an...  [An alligator or [Z] is a [MASK]., An alligato...  [[MASK] such as alligator., [MASK], including ...  [[MASK] such as alligator and [Z]., [MASK], in...  [such as alligator and [MASK]., such as alliga...  [fish, monster, snake, crocodile, turtle, huma...  {'fish': 0.12116950005292892, 'monster': 0.052...  [animal, fish, monster, snake, crocodile, turt...  {'animal': 0.35219907760620117, 'fish': 0.1211...  [reptiles, things, animals, snakes, fish, spec...  {'reptiles': 0.25948552694171667, 'things': 0....       [crocodile, turtle, catfish, shark, dolphin]  {'crocodile': 1.1134126414121552, 'turtle': 1....  [An alligator is a [MASK]., An alligator or cr...  [An alligator or crocodile is a [MASK]., An al...  [[MASK] such as alligator and crocodile., [MAS...   alligator crocodile turtle catfish shark dolphin   
+3  alligator    [predator, predators]  [An alligator is a [MASK].]    is a        6    taxonomic             3  [An alligator is a [MASK]., An alligator is an...  [An alligator or [Z] is a [MASK]., An alligato...  [[MASK] such as alligator., [MASK], including ...  [[MASK] such as alligator and [Z]., [MASK], in...  [such as alligator and [MASK]., such as alliga...  [fish, monster, snake, crocodile, turtle, huma...  {'fish': 0.12116950005292892, 'monster': 0.052...  [animal, fish, monster, snake, crocodile, turt...  {'animal': 0.35219907760620117, 'fish': 0.1211...  [reptiles, things, animals, snakes, fish, spec...  {'reptiles': 0.25948552694171667, 'things': 0....       [crocodile, turtle, catfish, shark, dolphin]  {'crocodile': 1.1134126414121552, 'turtle': 1....  [An alligator is a [MASK]., An alligator or cr...  [An alligator or crocodile is a [MASK]., An al...  [[MASK] such as alligator and crocodile., [MAS...   alligator crocodile turtle catfish shark dolphin   
+4  ambulance      [vehicle, vehicles]  [An ambulance is a [MASK].]    is a       21    taxonomic             3  [An ambulance is a [MASK]., An ambulance is an...  [An ambulance or [Z] is a [MASK]., An ambulanc...  [[MASK] such as ambulance., [MASK], including ...  [[MASK] such as ambulance and [Z]., [MASK], in...  [such as ambulance and [MASK]., such as ambula...  [car, helicopter, hospital, vehicle, machine, ...  {'car': 0.07050518691539764, 'helicopter': 0.0...  [emergency, accident, car, helicopter, hospita...  {'emergency': 0.1300235539674759, 'accident': ...  [things, vehicle, services, vehicles, transpor...  {'things': 0.3309165835380554, 'vehicle': 0.27...                   [ems, police, fire, yes, rescue]  {'ems': 1.009245644789189, 'police': 0.9461107...  [An ambulance is a [MASK]., An ambulance or em...  [An ambulance or ems is a [MASK]., An ambulanc...  [[MASK] such as ambulance and ems., [MASK] suc...               ambulance ems police fire yes rescue   
+
+                               obj_mask_sentence_dap                        obj_mask_sentence_dap_score                                   obj_mask_def_dap                             obj_mask_def_dap_score                                   obj_mask_lsp_dap                             obj_mask_lsp_dap_score  
+0  [plane, submarine, helicopter, boat, vehicle, ...  {'plane': 0.3103759866207838, 'submarine': 0.3...  [aircraft, submarine, plane, helicopter, airpl...  {'aircraft': 0.41174219027161596, 'submarine':...  [aircraft, things, aviation, vehicle, vessel, ...  {'aircraft': 0.5212309445653643, 'things': 0.2...  
+1  [fish, predator, mammal, crocodile, catfish, s...  {'fish': 0.25032490119338036, 'predator': 0.17...  [animal, fish, predator, alligator, mammal, cr...  {'animal': 0.7933935523033142, 'fish': 0.27615...  [reptiles, animals, species, animal, fish, all...  {'reptiles': 0.3692114966568248, 'animals': 0....  
+2  [fish, predator, mammal, crocodile, catfish, s...  {'fish': 0.25032490119338036, 'predator': 0.17...  [animal, fish, predator, alligator, mammal, cr...  {'animal': 0.7933935523033142, 'fish': 0.27615...  [reptiles, animals, species, animal, fish, all...  {'reptiles': 0.3692114966568248, 'animals': 0....  
+3  [fish, predator, mammal, crocodile, catfish, s...  {'fish': 0.25032490119338036, 'predator': 0.17...  [animal, fish, predator, alligator, mammal, cr...  {'animal': 0.7933935523033142, 'fish': 0.27615...  [reptiles, animals, species, animal, fish, all...  {'reptiles': 0.3692114966568248, 'animals': 0....  
+4  [vehicle, yes, response, service, rescue, fire...  {'vehicle': 0.18839946575462818, 'yes': 0.1818...  [order, example, ambulance, vehicle, exception...  {'order': 0.28339219093322754, 'example': 0.23...  [services, things, yes, shows, words, bands, a...  {'services': 0.3901529593679767, 'things': 0.2...  
+---------------------------------------- obj_label evaluation ----------------------------------------
+      mask_type   p@1   p@5  p@10   mrr relation  anchor_wordnet_avg_path  anchor_wordnet_coverage  mask_type_id
+0      sentence   0.0  20.0  60.0  10.4      IsA                     9.83                     0.96             1
+3  sentence_dap  20.0  60.0  60.0  34.0      IsA                     9.83                     0.96             2
+1       def_sap   0.0   0.0  60.0   7.8      IsA                     9.83                     0.96             3
+4       def_dap   0.0  40.0  60.0  14.5      IsA                     9.83                     0.96             4
+2       lsp_sap  20.0  40.0  60.0  32.9      IsA                     9.83                     0.96             5
+5       lsp_dap  20.0  40.0  60.0  27.0      IsA                     9.83                     0.96             6
+save log/bert-large-uncased/clsb/sgpl/df_all_use_global_dap_True_anchor_type_Coordinate_remove_Y_PUNC_FULL_concate_or_single_max_anchor_num_5_anchor_scorer_probAvg_wnp_False_cpt_True.CLSB.tsv
+save log/bert-large-uncased/clsb/sgpl/exp_data_results_anchor_type_Coordinate_remove_Y_PUNC_FULL_concate_or_single_max_anchor_num_5_anchor_scorer_probAvg_wnp_False_cpt_True.CLSB.csv

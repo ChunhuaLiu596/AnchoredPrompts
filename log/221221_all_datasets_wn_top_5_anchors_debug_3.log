@@ -1,0 +1,654 @@
+debug: True
+---------------------------------------- config ----------------------------------------
+{'debug': True, 'test_relations': ['IsA'], 'save_all_data': True, 'top_k': 10, 'data_dir': 'data/hypernymsuite/BLESS/', 'mask_string_mapping': {'bert-large-uncased': '[MASK]'}, 'use_dap_global': True, 'return_probs': True, 'anchor_scorer_list': ['probAvg'], 'scorer_target_1_prompt': 'probSum', 'scorer_target_N_prompts': 'freqProbLogSum', 'use_original_prompt': True, 'original_prompt_source': 'masked_sentence', 'incorporate_operations': ['concate_or_single'], 'filter_anchors_flag': True, 'filter_objects_flag': True, 'cpt_only': False, 'anchor_types': ['Coordinate_remove_Y_PUNC_FULL'], 'add_cpt_score': False, 'constrain_targets': False, 'add_wordnet_path_score': True, 'anchor_probe': 'plural_probe', 'anchor_col': 'subj_anchors', 'anchor_col_sg': 'subj_anchors_sg', 'anchor_col_pl': 'subj_anchors_pl', 'anchor_col_all': 'anchor_col_all', 'filter_objects_with_input': True, 'sub_col': 'sub_label', 'sub_col_sg': 'sub_label_sg', 'sub_col_pl': 'sub_label_pl', 'top_k_anchors': 5, 'max_anchor_num_list': [10], 'max_anchor_num': 10, 'sub_col_sgpl': 'sub_label_sgpl', 'filter_objects_with_anchors': False, 'oracle_anchor_inserted': False}
+---------------------------------------- config ----------------------------------------
+Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+---------------------------------------- bert-large-uncased-anchor_type: Coordinate_remove_Y_PUNC_FULL-scorer_anchor:probAvg-op:concate_or_single ----------------------------------------
+{
+    "IsA": {
+        "relation": "IsA",
+        "def_sap": [
+            "[X] is a [MASK].",
+            "[X] is a type of [MASK].",
+            "[X] is a kind of [MASK]."
+        ],
+        "def_dap": [
+            "[X] or [Z] is a [MASK].",
+            "[X] or [Z] is a type of [MASK].",
+            "[X] or [Z] is a kind of [MASK]."
+        ],
+        "lsp_sap": [
+            "[MASK] such as [X].",
+            "[MASK], including [X].",
+            "[MASK], especially [X].",
+            "[X] or other [MASK].",
+            "[X] and other [MASK].",
+            "such [MASK] as [X]."
+        ],
+        "lsp_dap": [
+            "[MASK] such as [X] and [Z].",
+            "[MASK], including [X] and [Z].",
+            "[MASK], especially [X] and [Z].",
+            "[X], [Z] and other [MASK].",
+            "[X], [Z] or other [MASK].",
+            "such [MASK] as [X] and [Z]."
+        ],
+        "use_dap": true,
+        "anchor_target": "[X]",
+        "anchor_lsp_sap": [
+            "such as [X] and [MASK].",
+            "such as [X] or [MASK].",
+            "such as [X], [MASK],",
+            "including [X] and [MASK].",
+            "including [X] or [MASK].",
+            "including [X], [MASK],",
+            "especially [X] and [MASK].",
+            "especially [X] or [MASK].",
+            "especially [X], [MASK],",
+            "[X], [MASK] or other",
+            "[X], [MASK] and other"
+        ]
+    }
+}
+Processing IsA ... data/hypernymsuite/BLESS//IsA.jsonl
+#Test_instances: 1337
+	 step1: get anchors (fill and filter)
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+--- def_sap
+--- lsp_sap
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+relation: IsA 	 use_dap: True
+	 step2: insert anchors
+sub_col sub_label
+	 step3: fill mask in dap anchors
+  0%|          | 0/50 [00:00<?, ?it/s]/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+  2%|▏         | 1/50 [00:00<00:09,  5.18it/s]  4%|▍         | 2/50 [00:00<00:09,  5.23it/s]  6%|▌         | 3/50 [00:00<00:08,  5.24it/s]  8%|▊         | 4/50 [00:00<00:08,  5.25it/s] 10%|█         | 5/50 [00:00<00:08,  5.26it/s] 12%|█▏        | 6/50 [00:01<00:08,  5.26it/s] 14%|█▍        | 7/50 [00:01<00:08,  5.26it/s] 16%|█▌        | 8/50 [00:01<00:07,  5.25it/s] 18%|█▊        | 9/50 [00:01<00:07,  5.26it/s] 20%|██        | 10/50 [00:01<00:07,  5.27it/s] 22%|██▏       | 11/50 [00:02<00:07,  5.27it/s] 24%|██▍       | 12/50 [00:02<00:07,  5.27it/s] 26%|██▌       | 13/50 [00:02<00:07,  5.27it/s] 28%|██▊       | 14/50 [00:02<00:06,  5.26it/s] 30%|███       | 15/50 [00:02<00:06,  5.27it/s] 32%|███▏      | 16/50 [00:03<00:06,  5.27it/s] 34%|███▍      | 17/50 [00:03<00:06,  5.28it/s] 36%|███▌      | 18/50 [00:03<00:06,  5.27it/s] 38%|███▊      | 19/50 [00:03<00:05,  5.23it/s] 40%|████      | 20/50 [00:03<00:05,  5.19it/s] 42%|████▏     | 21/50 [00:04<00:05,  5.22it/s] 44%|████▍     | 22/50 [00:04<00:05,  5.23it/s] 46%|████▌     | 23/50 [00:04<00:05,  5.24it/s] 48%|████▊     | 24/50 [00:04<00:04,  5.24it/s] 50%|█████     | 25/50 [00:04<00:04,  5.25it/s] 52%|█████▏    | 26/50 [00:04<00:04,  5.26it/s] 54%|█████▍    | 27/50 [00:05<00:04,  5.26it/s] 56%|█████▌    | 28/50 [00:05<00:04,  5.27it/s] 58%|█████▊    | 29/50 [00:05<00:03,  5.26it/s] 60%|██████    | 30/50 [00:05<00:03,  5.27it/s] 62%|██████▏   | 31/50 [00:05<00:03,  5.27it/s] 64%|██████▍   | 32/50 [00:06<00:03,  5.27it/s] 66%|██████▌   | 33/50 [00:06<00:03,  5.27it/s] 68%|██████▊   | 34/50 [00:06<00:03,  5.27it/s] 70%|███████   | 35/50 [00:06<00:02,  5.26it/s] 72%|███████▏  | 36/50 [00:06<00:02,  5.26it/s] 74%|███████▍  | 37/50 [00:07<00:02,  5.26it/s] 76%|███████▌  | 38/50 [00:07<00:02,  5.25it/s] 78%|███████▊  | 39/50 [00:07<00:02,  5.25it/s] 80%|████████  | 40/50 [00:07<00:01,  5.24it/s] 82%|████████▏ | 41/50 [00:07<00:01,  5.25it/s] 84%|████████▍ | 42/50 [00:07<00:01,  5.26it/s] 86%|████████▌ | 43/50 [00:08<00:01,  5.27it/s] 88%|████████▊ | 44/50 [00:08<00:01,  5.26it/s] 90%|█████████ | 45/50 [00:08<00:00,  5.25it/s] 92%|█████████▏| 46/50 [00:08<00:00,  5.25it/s] 94%|█████████▍| 47/50 [00:08<00:00,  5.23it/s] 96%|█████████▌| 48/50 [00:09<00:00,  5.24it/s] 98%|█████████▊| 49/50 [00:09<00:00,  5.25it/s]100%|██████████| 50/50 [00:09<00:00,  5.25it/s]100%|██████████| 50/50 [00:09<00:00,  5.25it/s]
+  0%|          | 0/50 [00:00<?, ?it/s]  2%|▏         | 1/50 [00:00<00:18,  2.67it/s]  4%|▍         | 2/50 [00:00<00:18,  2.66it/s]  6%|▌         | 3/50 [00:01<00:17,  2.66it/s]  8%|▊         | 4/50 [00:01<00:17,  2.65it/s] 10%|█         | 5/50 [00:01<00:16,  2.65it/s] 12%|█▏        | 6/50 [00:02<00:16,  2.66it/s] 14%|█▍        | 7/50 [00:02<00:16,  2.66it/s] 16%|█▌        | 8/50 [00:03<00:15,  2.66it/s] 18%|█▊        | 9/50 [00:03<00:15,  2.66it/s] 20%|██        | 10/50 [00:03<00:14,  2.67it/s] 22%|██▏       | 11/50 [00:04<00:14,  2.66it/s] 24%|██▍       | 12/50 [00:04<00:14,  2.67it/s] 26%|██▌       | 13/50 [00:04<00:13,  2.67it/s] 28%|██▊       | 14/50 [00:05<00:13,  2.66it/s] 30%|███       | 15/50 [00:05<00:13,  2.67it/s] 32%|███▏      | 16/50 [00:06<00:13,  2.59it/s] 34%|███▍      | 17/50 [00:06<00:12,  2.61it/s] 36%|███▌      | 18/50 [00:06<00:12,  2.63it/s] 38%|███▊      | 19/50 [00:07<00:11,  2.63it/s] 40%|████      | 20/50 [00:07<00:11,  2.64it/s] 42%|████▏     | 21/50 [00:07<00:10,  2.65it/s] 44%|████▍     | 22/50 [00:08<00:10,  2.64it/s] 46%|████▌     | 23/50 [00:08<00:10,  2.65it/s] 48%|████▊     | 24/50 [00:09<00:09,  2.66it/s] 50%|█████     | 25/50 [00:09<00:09,  2.65it/s] 52%|█████▏    | 26/50 [00:09<00:09,  2.65it/s] 54%|█████▍    | 27/50 [00:10<00:08,  2.64it/s] 56%|█████▌    | 28/50 [00:10<00:08,  2.65it/s] 58%|█████▊    | 29/50 [00:10<00:07,  2.66it/s] 60%|██████    | 30/50 [00:11<00:07,  2.66it/s] 62%|██████▏   | 31/50 [00:11<00:07,  2.66it/s] 64%|██████▍   | 32/50 [00:12<00:06,  2.65it/s] 66%|██████▌   | 33/50 [00:12<00:06,  2.66it/s] 68%|██████▊   | 34/50 [00:12<00:06,  2.66it/s] 70%|███████   | 35/50 [00:13<00:05,  2.66it/s] 72%|███████▏  | 36/50 [00:13<00:05,  2.66it/s] 74%|███████▍  | 37/50 [00:13<00:04,  2.66it/s] 76%|███████▌  | 38/50 [00:14<00:04,  2.66it/s] 78%|███████▊  | 39/50 [00:14<00:04,  2.66it/s] 80%|████████  | 40/50 [00:15<00:03,  2.65it/s] 82%|████████▏ | 41/50 [00:15<00:03,  2.66it/s] 84%|████████▍ | 42/50 [00:15<00:03,  2.66it/s] 86%|████████▌ | 43/50 [00:16<00:02,  2.66it/s] 88%|████████▊ | 44/50 [00:16<00:02,  2.65it/s] 90%|█████████ | 45/50 [00:16<00:01,  2.65it/s] 92%|█████████▏| 46/50 [00:17<00:01,  2.65it/s] 94%|█████████▍| 47/50 [00:17<00:01,  2.65it/s] 96%|█████████▌| 48/50 [00:18<00:00,  2.64it/s] 98%|█████████▊| 49/50 [00:18<00:00,  2.64it/s]100%|██████████| 50/50 [00:18<00:00,  2.65it/s]100%|██████████| 50/50 [00:18<00:00,  2.65it/s]
+  sub_label    obj_label relation                                   masked_sentences                                         sub_sister  uuid  sub_position sub_label_sg sub_label_pl                                            def_sap                                            def_dap                                            lsp_sap                                            lsp_dap                                     anchor_lsp_sap           sub_label_sgpl                                  obj_mask_sentence                            obj_mask_sentence_score                                   obj_mask_def_sap                             obj_mask_def_sap_score                                   obj_mask_lsp_sap                             obj_mask_lsp_sap_score                                       subj_anchors                                 subj_anchors_score                          subj_anchors_sg                               subj_anchors_pl  \
+0     geese  [waterbird]      IsA      [A goose is a [MASK]., A goose is an [MASK].]  [dove, fathead, meshuggener, duck, goofball, m...     0             2        goose        geese  [a goose is a [MASK]., a goose is a type of [M...  [a goose or [Z] is a [MASK]., a goose or [Z] i...  [[MASK] such as geese., [MASK], including gees...  [[MASK] such as geese and [Z]., [MASK], includ...  [such as geese and [MASK]., such as geese or [...        geese goose geese  [animal, egg, duck, bird, elephant, example, i...  {'animal': -5.786499026614672, 'egg': -9.50074...  [bird, duck, animal, fish, chicken, dog, pig, ...  {'bird': -6.954867762567489, 'duck': -8.584280...  [bird, animal, mammal, duck, wildlife, species...  {'birds': -5.032278561472217, 'animals': -8.39...  [ducks, duck, turkey, chickens, swans, sheep, ...  {'ducks': 1.0498979527390364, 'duck': 0.344091...     [duck, turkey, chicken, swan, sheep]      [ducks, turkeys, chickens, swans, sheep]   
+1    robins  [passerine]      IsA      [A robin is a [MASK]., A robin is an [MASK].]  [snowbird, veery, redtail, redstart, redbreast...     1             2        robin       robins  [a robin is a [MASK]., a robin is a type of [M...  [a robin or [Z] is a [MASK]., a robin or [Z] i...  [[MASK] such as robins., [MASK], including rob...  [[MASK] such as robins and [Z]., [MASK], inclu...  [such as robins and [MASK]., such as robins or...      robins robin robins  [bird, owl, animal, insect, individual, egg, a...  {'bird': -7.298175077630147, 'owl': -7.7604106...  [bird, pigeon, butterfly, fish, tree, kite, an...  {'bird': -5.464577741788737, 'pigeon': -9.7975...  [bird, story, crow, player, team, species, poe...  {'birds': -6.812829643369277, 'stories': -8.96...  [orioles, swallows, martins, tits, ravens, jay...  {'orioles': 0.3246557352443536, 'swallows': 0....    [oriole, swallow, martin, tit, raven]    [orioles, swallows, martins, tits, ravens]   
+2   catfish       [fish]      IsA  [A catfish is a [MASK]., A catfish is an [MASK].]  [sandfish, wolffish, eel, greeneye, ghostfish,...     2             2      catfish      catfish  [a catfish is a [MASK]., a catfish is a type o...  [a catfish or [Z] is a [MASK]., a catfish or [...  [[MASK] such as catfish., [MASK], including ca...  [[MASK] such as catfish and [Z]., [MASK], incl...  [such as catfish and [MASK]., such as catfish ...  catfish catfish catfish  [animal, fish, insect, eel, oyster, organism, ...  {'animal': -5.884246700948145, 'fish': -7.3868...  [fish, shrimp, mollusk, swimmer, salmon, bird,...  {'fish': -4.442973047064299, 'shrimp': -12.345...  [fish, species, animal, seafood, reptile, inve...  {'fish': -4.942579534624883, 'species': -9.299...  [bass, carp, perch, pike, eel, sucker, eels, s...  {'bass': 0.7321240423303661, 'carp': 0.5149355...           [bass, carp, perch, pike, eel]         [basses, carps, perches, pikes, eels]   
+3   muskets    [firearm]      IsA    [A musket is a [MASK]., A musket is an [MASK].]  [flintlock, hackbut, harquebus, firelock, arqu...     3             2       musket      muskets  [a musket is a [MASK]., a musket is a type of ...  [a musket or [Z] is a [MASK]., a musket or [Z]...  [[MASK] such as muskets., [MASK], including mu...  [[MASK] such as muskets and [Z]., [MASK], incl...  [such as muskets and [MASK]., such as muskets ...   muskets musket muskets  [artillery, firearm, gun, cannon, arrow, instr...  {'artillery': -6.829809756901031, 'firearm': -...  [firearm, cannon, gun, weapon, rifle, pistol, ...  {'firearm': -5.349813407088699, 'cannon': -7.0...  [weapon, firearm, gun, artillery, arm, impleme...  {'weapons': -6.112329372878857, 'firearms': -6...  [pistols, rifles, cannons, rifle, pistol, shot...  {'pistols': 0.4992455047639933, 'rifles': 0.39...  [pistol, rifle, cannon, shotgun, sword]  [pistols, rifles, cannons, shotguns, swords]   
+4    lemons    [produce]      IsA      [A lemon is a [MASK]., A lemon is an [MASK].]  [lemanderin, grapefruit, good, insert, button,...     4             2        lemon       lemons  [a lemon is a [MASK]., a lemon is a type of [M...  [a lemon or [Z] is a [MASK]., a lemon or [Z] i...  [[MASK] such as lemons., [MASK], including lem...  [[MASK] such as lemons and [Z]., [MASK], inclu...  [such as lemons and [MASK]., such as lemons or...      lemons lemon lemons  [apple, orange, object, adjective, olive, almo...  {'apple': -6.533058511601689, 'orange': -7.425...  [fruit, drink, lime, candy, apple, orange, ber...  {'fruit': -7.934486012665629, 'drink': -10.454...  [fruit, citrus, thing, vegetable, apple, grape...  {'fruits': -5.722469901882303, 'fruit': -6.802...  [lime, orange, apples, grapes, bananas, dates,...  {'lime': 0.6487420508355806, 'orange': 0.39988...     [lime, orange, apple, grape, banana]     [limes, oranges, apples, grapes, bananas]   
+
+                                      anchor_col_all    subj_anchors_combined                  masked_sentences_with_subj_anchor                           def_dap_with_subj_anchor                           lsp_dap_with_subj_anchor                                   obj_mask_def_dap                             obj_mask_def_dap_score                                   obj_mask_lsp_dap                             obj_mask_lsp_dap_score  
+0  [duck, turkey, chicken, swan, sheep, hen, fish...        geese goose geese  [A goose is a [MASK]., A goose or ducks  is a ...  [a goose or a duck is a [MASK]., a goose or a ...  [[MASK] such as geese and ducks., [MASK] such ...  [bird, duck, animal, chicken, poultry, pig, tu...  {'bird': -5.8785510519732584, 'duck': -8.04827...  [bird, animal, duck, mammal, poultry, livestoc...  {'birds': -5.550101037475513, 'animals': -8.51...  
+1  [oriole, swallow, martin, tit, raven, jay, cro...      robins robin robins  [A robin is a [MASK]., A robin  or orioles is ...  [a robin or an oriole is a [MASK]., a robin or...  [[MASK] such as robins and orioles., [MASK] su...  [bird, pigeon, butterfly, fish, parrot, dog, c...  {'bird': -4.898162472078813, 'pigeon': -9.6199...  [bird, species, crow, butterfly, falcon, oriol...  {'birds': -4.630458433179838, 'species': -9.92...  
+2  [bass, carp, perch, pike, eel, sucker, shrimp,...  catfish catfish catfish  [A catfish is a [MASK]., A catfish or bass  is...  [a catfish or a bass is a [MASK]., a catfish o...  [[MASK] such as catfish and basses., [MASK] su...  [fish, species, salmon, predator, carp, eel, f...  {'fish': -4.287295234139043, 'species': -13.62...  [fish, species, animal, seafood, invertebrate,...  {'fish': -4.892952919834313, 'fishes': -8.6836...  
+3       [pistol, rifle, cannon, shotgun, sword, bow]   muskets musket muskets  [A musket is a [MASK]., A musket  or pistols i...  [a musket or a pistol is a [MASK]., a musket o...  [[MASK] such as muskets and pistols., [MASK] s...  [firearm, weapon, gun, cannon, shotgun, pistol...  {'firearm': -5.122244370795247, 'weapon': -6.8...  [weapon, firearm, gun, arm, weaponry, artiller...  {'weapons': -5.497227832979361, 'firearms': -6...  
+4  [lime, orange, apple, grape, banana, date, nut...      lemons lemon lemons  [A lemon is a [MASK]., A lemon  or lime is a [...  [a lemon or a lime is a [MASK]., a lemon or an...  [[MASK] such as lemons and limes., [MASK] such...  [fruit, drink, apple, vegetable, lime, wine, j...  {'fruit': -5.935728642233068, 'drink': -9.6769...  [fruit, thing, citrus, vegetable, apple, lime,...  {'fruits': -5.360826104327633, 'fruit': -6.503...  
+---------------------------------------- anchor evaluation ----------------------------------------
+begin{tabular}{rlrrrrrr}
+hline
+    	 mask_type       	   p@1 	   p@5 	   p@10 	   mrr 	   anchor_wordnet_avg_path 	   anchor_wordnet_coverage 
+hline
+  0 	 subj_anchors_sg 	    64 	    78 	     78 	  69.7 	                       3.9 	                         1 
+  1 	 anchor_col_all  	    64 	    78 	     78 	  69.7 	                       3.9 	                         1 
+hline
+end{tabular}
+---------------------------------------- obj_label evaluation ----------------------------------------
+begin{tabular}{rlrrrrrrr}
+hline
+    	 mask_type   	   p@1 	   p@5 	   p@10 	   mrr 	   anchor_wordnet_avg_path 	   anchor_wordnet_coverage 	   mask_type_id 
+hline
+  1 	 def_sap     	    16 	    28 	     36 	  22.2 	                       3.9 	                         1 	              1 
+  2 	 lsp_sap     	     8 	    26 	     36 	  15.4 	                       3.9 	                         1 	              3 
+  3 	 def_dap     	    18 	    32 	     38 	  24.3 	                       3.9 	                         1 	              2 
+  4 	 lsp_dap     	     8 	    20 	     32 	  15   	                       3.9 	                         1 	              4 
+hline
+end{tabular}
+save log/bert-large-uncased/hypernymsuite/BLESS/df_all_use_global_dap_True_anchor_type_Coordinate_remove_Y_PUNC_FULL_concate_or_single_max_anchor_num_5_anchor_scorer_probAvg_filter_obj_True_filter_objects_with_input_True_wnp_True_cpt_False.HYPERNYMSUITE.tsv
+save log/bert-large-uncased/hypernymsuite/BLESS/exp_data_results_anchor_type_Coordinate_remove_Y_PUNC_FULL_concate_or_single_max_anchor_num_5_anchor_scorer_probAvg_filter_obj_True_filter_objects_with_input_True_wnp_True_cpt_False.HYPERNYMSUITE.csv
+debug: True
+---------------------------------------- config ----------------------------------------
+{'debug': True, 'test_relations': ['IsA'], 'save_all_data': True, 'top_k': 10, 'data_dir': 'data/lm_diagnostic_extended/singular/', 'mask_string_mapping': {'bert-large-uncased': '[MASK]'}, 'use_dap_global': True, 'return_probs': True, 'anchor_scorer_list': ['probAvg'], 'scorer_target_1_prompt': 'probSum', 'scorer_target_N_prompts': 'freqProbLogSum', 'use_original_prompt': True, 'original_prompt_source': 'masked_sentence', 'incorporate_operations': ['concate_or_single'], 'filter_anchors_flag': True, 'filter_objects_flag': True, 'cpt_only': False, 'anchor_types': ['Coordinate_remove_Y_PUNC_FULL'], 'add_cpt_score': False, 'constrain_targets': False, 'add_wordnet_path_score': True, 'anchor_probe': 'plural_probe', 'anchor_col': 'subj_anchors', 'anchor_col_sg': 'subj_anchors_sg', 'anchor_col_pl': 'subj_anchors_pl', 'filter_objects_with_input': True, 'sub_col': 'sub_label', 'sub_col_sg': 'sub_label_sg', 'sub_col_pl': 'sub_label_pl', 'top_k_anchors': 5, 'max_anchor_num_list': [10], 'max_anchor_num': 5, 'sub_col_sgpl': 'sub_label_sgpl', 'filter_objects_with_anchors': False, 'anchor_col_all': 'anchor_col_all', 'oracle_anchor_inserted': False}
+---------------------------------------- config ----------------------------------------
+Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+---------------------------------------- bert-large-uncased-anchor_type: Coordinate_remove_Y_PUNC_FULL-scorer_anchor:probAvg-op:concate_or_single ----------------------------------------
+{
+    "IsA": {
+        "relation": "IsA",
+        "def_sap": [
+            "[X] is a [MASK].",
+            "[X] is a type of [MASK].",
+            "[X] is a kind of [MASK]."
+        ],
+        "def_dap": [
+            "[X] or [Z] is a [MASK].",
+            "[X] or [Z] is a type of [MASK].",
+            "[X] or [Z] is a kind of [MASK]."
+        ],
+        "lsp_sap": [
+            "[MASK] such as [X].",
+            "[MASK], including [X].",
+            "[MASK], especially [X].",
+            "[X] or other [MASK].",
+            "[X] and other [MASK].",
+            "such [MASK] as [X]."
+        ],
+        "lsp_dap": [
+            "[MASK] such as [X] and [Z].",
+            "[MASK], including [X] and [Z].",
+            "[MASK], especially [X] and [Z].",
+            "[X], [Z] and other [MASK].",
+            "[X], [Z] or other [MASK].",
+            "such [MASK] as [X] and [Z]."
+        ],
+        "use_dap": true,
+        "anchor_target": "[X]",
+        "anchor_lsp_sap": [
+            "such as [X] and [MASK].",
+            "such as [X] or [MASK].",
+            "such as [X], [MASK],",
+            "including [X] and [MASK].",
+            "including [X] or [MASK].",
+            "including [X], [MASK],",
+            "especially [X] and [MASK].",
+            "especially [X] or [MASK].",
+            "especially [X], [MASK],",
+            "[X], [MASK] or other",
+            "[X], [MASK] and other"
+        ]
+    }
+}
+Processing IsA ... data/lm_diagnostic_extended/singular//IsA.jsonl
+#Test_instances: 576
+	 step1: get anchors (fill and filter)
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+--- def_sap
+--- lsp_sap
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+relation: IsA 	 use_dap: True
+	 step2: insert anchors
+sub_col sub_label
+	 step3: fill mask in dap anchors
+  0%|          | 0/50 [00:00<?, ?it/s]/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+  2%|▏         | 1/50 [00:00<00:09,  5.16it/s]  4%|▍         | 2/50 [00:00<00:09,  5.22it/s]  6%|▌         | 3/50 [00:00<00:08,  5.22it/s]  8%|▊         | 4/50 [00:00<00:08,  5.23it/s] 10%|█         | 5/50 [00:00<00:08,  5.24it/s] 12%|█▏        | 6/50 [00:01<00:08,  5.24it/s] 14%|█▍        | 7/50 [00:01<00:08,  5.25it/s] 16%|█▌        | 8/50 [00:01<00:08,  5.25it/s] 18%|█▊        | 9/50 [00:01<00:07,  5.25it/s] 20%|██        | 10/50 [00:01<00:07,  5.25it/s] 22%|██▏       | 11/50 [00:02<00:07,  5.25it/s] 24%|██▍       | 12/50 [00:02<00:07,  5.25it/s] 26%|██▌       | 13/50 [00:02<00:07,  5.24it/s] 28%|██▊       | 14/50 [00:02<00:06,  5.25it/s] 30%|███       | 15/50 [00:02<00:06,  5.20it/s] 32%|███▏      | 16/50 [00:03<00:06,  5.22it/s] 34%|███▍      | 17/50 [00:03<00:06,  5.23it/s] 36%|███▌      | 18/50 [00:03<00:06,  5.24it/s] 38%|███▊      | 19/50 [00:03<00:05,  5.24it/s] 40%|████      | 20/50 [00:03<00:05,  5.25it/s] 42%|████▏     | 21/50 [00:04<00:05,  5.26it/s] 44%|████▍     | 22/50 [00:04<00:05,  5.26it/s] 46%|████▌     | 23/50 [00:04<00:05,  5.26it/s] 48%|████▊     | 24/50 [00:04<00:04,  5.25it/s] 50%|█████     | 25/50 [00:04<00:04,  5.24it/s] 52%|█████▏    | 26/50 [00:04<00:04,  5.25it/s] 54%|█████▍    | 27/50 [00:05<00:04,  5.26it/s] 56%|█████▌    | 28/50 [00:05<00:04,  5.26it/s] 58%|█████▊    | 29/50 [00:05<00:04,  5.25it/s] 60%|██████    | 30/50 [00:05<00:03,  5.25it/s] 62%|██████▏   | 31/50 [00:05<00:03,  5.26it/s] 64%|██████▍   | 32/50 [00:06<00:03,  5.27it/s] 66%|██████▌   | 33/50 [00:06<00:03,  5.27it/s] 68%|██████▊   | 34/50 [00:06<00:03,  5.26it/s] 70%|███████   | 35/50 [00:06<00:02,  5.26it/s] 72%|███████▏  | 36/50 [00:06<00:02,  5.26it/s] 74%|███████▍  | 37/50 [00:07<00:02,  5.26it/s] 76%|███████▌  | 38/50 [00:07<00:02,  5.26it/s] 78%|███████▊  | 39/50 [00:07<00:02,  5.25it/s] 80%|████████  | 40/50 [00:07<00:01,  5.26it/s] 82%|████████▏ | 41/50 [00:07<00:01,  5.26it/s] 84%|████████▍ | 42/50 [00:08<00:01,  5.26it/s] 86%|████████▌ | 43/50 [00:08<00:01,  5.26it/s] 88%|████████▊ | 44/50 [00:08<00:01,  5.26it/s] 90%|█████████ | 45/50 [00:08<00:00,  5.26it/s] 92%|█████████▏| 46/50 [00:08<00:00,  5.26it/s] 94%|█████████▍| 47/50 [00:08<00:00,  5.26it/s] 96%|█████████▌| 48/50 [00:09<00:00,  5.26it/s] 98%|█████████▊| 49/50 [00:09<00:00,  5.26it/s]100%|██████████| 50/50 [00:09<00:00,  5.25it/s]100%|██████████| 50/50 [00:09<00:00,  5.25it/s]
+  0%|          | 0/50 [00:00<?, ?it/s]  2%|▏         | 1/50 [00:00<00:18,  2.66it/s]  4%|▍         | 2/50 [00:00<00:18,  2.65it/s]  6%|▌         | 3/50 [00:01<00:17,  2.62it/s]  8%|▊         | 4/50 [00:01<00:17,  2.63it/s] 10%|█         | 5/50 [00:01<00:17,  2.64it/s] 12%|█▏        | 6/50 [00:02<00:16,  2.63it/s] 14%|█▍        | 7/50 [00:02<00:16,  2.63it/s] 16%|█▌        | 8/50 [00:03<00:15,  2.63it/s] 18%|█▊        | 9/50 [00:03<00:15,  2.63it/s] 20%|██        | 10/50 [00:03<00:15,  2.63it/s] 22%|██▏       | 11/50 [00:04<00:14,  2.64it/s] 24%|██▍       | 12/50 [00:04<00:14,  2.64it/s] 26%|██▌       | 13/50 [00:04<00:14,  2.63it/s] 28%|██▊       | 14/50 [00:05<00:13,  2.64it/s] 30%|███       | 15/50 [00:05<00:13,  2.64it/s] 32%|███▏      | 16/50 [00:06<00:12,  2.64it/s] 34%|███▍      | 17/50 [00:06<00:12,  2.65it/s] 36%|███▌      | 18/50 [00:06<00:12,  2.65it/s] 38%|███▊      | 19/50 [00:07<00:11,  2.65it/s] 40%|████      | 20/50 [00:07<00:11,  2.65it/s] 42%|████▏     | 21/50 [00:07<00:10,  2.64it/s] 44%|████▍     | 22/50 [00:08<00:10,  2.64it/s] 46%|████▌     | 23/50 [00:08<00:10,  2.64it/s] 48%|████▊     | 24/50 [00:09<00:09,  2.65it/s] 50%|█████     | 25/50 [00:09<00:09,  2.65it/s] 52%|█████▏    | 26/50 [00:09<00:09,  2.65it/s] 54%|█████▍    | 27/50 [00:10<00:08,  2.64it/s] 56%|█████▌    | 28/50 [00:10<00:08,  2.64it/s] 58%|█████▊    | 29/50 [00:10<00:07,  2.65it/s] 60%|██████    | 30/50 [00:11<00:07,  2.64it/s] 62%|██████▏   | 31/50 [00:11<00:07,  2.65it/s] 64%|██████▍   | 32/50 [00:12<00:06,  2.64it/s] 66%|██████▌   | 33/50 [00:12<00:06,  2.64it/s] 68%|██████▊   | 34/50 [00:12<00:06,  2.63it/s] 70%|███████   | 35/50 [00:13<00:05,  2.63it/s] 72%|███████▏  | 36/50 [00:13<00:05,  2.63it/s] 74%|███████▍  | 37/50 [00:14<00:04,  2.63it/s] 76%|███████▌  | 38/50 [00:14<00:04,  2.64it/s] 78%|███████▊  | 39/50 [00:14<00:04,  2.63it/s] 80%|████████  | 40/50 [00:15<00:03,  2.63it/s] 82%|████████▏ | 41/50 [00:15<00:03,  2.63it/s] 84%|████████▍ | 42/50 [00:15<00:03,  2.62it/s] 86%|████████▌ | 43/50 [00:16<00:02,  2.62it/s] 88%|████████▊ | 44/50 [00:16<00:02,  2.55it/s] 90%|█████████ | 45/50 [00:17<00:01,  2.57it/s] 92%|█████████▏| 46/50 [00:17<00:01,  2.58it/s] 94%|█████████▍| 47/50 [00:17<00:01,  2.60it/s] 96%|█████████▌| 48/50 [00:18<00:00,  2.60it/s] 98%|█████████▊| 49/50 [00:18<00:00,  2.61it/s]100%|██████████| 50/50 [00:19<00:00,  2.61it/s]100%|██████████| 50/50 [00:19<00:00,  2.63it/s]
+              masked_sentences obj_label    sub_label sub_label_pl relation                                         sub_sister  uuid  sub_position sub_label_sg                                            def_sap                                            def_dap                                            lsp_sap                                            lsp_dap                                     anchor_lsp_sap                      sub_label_sgpl                                  obj_mask_sentence                            obj_mask_sentence_score                                   obj_mask_def_sap                             obj_mask_def_sap_score                                   obj_mask_lsp_sap                             obj_mask_lsp_sap_score                                       subj_anchors                                 subj_anchors_score                        subj_anchors_sg                              subj_anchors_pl                                     anchor_col_all  \
+0      [A graver is a [MASK].]    [tool]      gravers      gravers      IsA  [awl, scraper, tweezer, dibber, shovel, plyers...     1             2       graver  [a graver is a [MASK]., a graver is a type of ...  [a graver or [Z] is a [MASK]., a graver or [Z]...  [[MASK] such as gravers., [MASK], including gr...  [[MASK] such as gravers and [Z]., [MASK], incl...  [such as gravers and [MASK]., such as gravers ...              gravers graver gravers  [digger, shovel, tool, grave, coffin, person, ...  {'digger': -8.93893395450476, 'shovel': -8.996...  [shovel, tool, coffin, digger, grave, oven, to...  {'shovel': -7.8714093588212215, 'tool': -8.745...  [grave, people, burial, dead, worker, tool, ce...  {'graves': -7.996814498471318, 'people': -8.72...  [markers, graves, axes, collectors, bodies, di...  {'markers': 0.17831640566388765, 'graves': 0.1...  [marker, grave, axe, collector, body]  [markers, graves, axes, collectors, bodies]  [marker, grave, axe, collector, body, digger, ...   
+1  [A smallmouth is a [MASK].]    [fish]  smallmouths  smallmouths      IsA                                       [largemouth]     2             2   smallmouth  [a smallmouth is a [MASK]., a smallmouth is a ...  [a smallmouth or [Z] is a [MASK]., a smallmout...  [[MASK] such as smallmouths., [MASK], includin...  [[MASK] such as smallmouths and [Z]., [MASK], ...  [such as smallmouths and [MASK]., such as smal...  smallmouths smallmouth smallmouths  [fish, catfish, salmon, shark, trout, swimmer,...  {'fish': -4.648060742066287, 'catfish': -6.835...  [fish, catfish, shark, swimmer, salmon, carp, ...  {'fish': -4.852696385096972, 'catfish': -6.629...  [fish, catfish, species, reptile, thing, preda...  {'fish': -6.019906277942945, 'catfish': -7.293...  [catfish, carp, bass, perch, pike, marlins, ee...  {'catfish': 0.8201920868772449, 'carp': 0.2299...     [catfish, carp, bass, perch, pike]     [catfish, carps, basses, perches, pikes]  [catfish, carp, bass, perch, pike, marlin, eel...   
+2     [A pelican is a [MASK].]    [bird]     pelicans     pelicans      IsA  [gannet, snakebird, tropicbird, darter, cormor...     3             2      pelican  [a pelican is a [MASK]., a pelican is a type o...  [a pelican or [Z] is a [MASK]., a pelican or [...  [[MASK] such as pelicans., [MASK], including p...  [[MASK] such as pelicans and [Z]., [MASK], inc...  [such as pelicans and [MASK]., such as pelican...           pelicans pelican pelicans  [bird, parrot, penguin, dolphin, fish, dog, pi...  {'bird': -5.553109751033401, 'parrot': -7.7402...  [bird, parrot, dolphin, fish, dog, turtle, ani...  {'bird': -5.434608383702077, 'parrot': -8.5271...  [bird, animal, fish, wildlife, dolphin, pet, c...  {'birds': -5.697596724104815, 'animals': -7.14...  [dolphins, penguins, ducks, swans, cranes, eag...  {'dolphins': 0.2766755797437854, 'penguins': 0...  [dolphin, penguin, duck, swan, crane]   [dolphins, penguins, ducks, swans, cranes]  [dolphin, penguin, duck, swan, crane, eagle, g...   
+3   [A sapsucker is a [MASK].]    [bird]   sapsuckers   sapsuckers      IsA    [flicker, redhead, wryneck, piculet, ivorybill]     4             2    sapsucker  [a sapsucker is a [MASK]., a sapsucker is a ty...  [a sapsucker or [Z] is a [MASK]., a sapsucker ...  [[MASK] such as sapsuckers., [MASK], including...  [[MASK] such as sapsuckers and [Z]., [MASK], i...  [such as sapsuckers and [MASK]., such as sapsu...     sapsuckers sapsucker sapsuckers  [snake, worm, spider, bug, lizard, predator, t...  {'snake': -7.64518889675958, 'worm': -8.365534...  [insect, snake, spider, lizard, animal, worm, ...  {'insect': -7.6130040846174385, 'snake': -8.26...  [snake, reptile, animal, insect, predator, cre...  {'snakes': -6.653929158976036, 'reptiles': -7....  [snakes, owls, spiders, monsters, frogs, lizar...  {'snakes': 0.36424588378180156, 'owls': 0.1763...    [snake, owl, spider, monster, frog]     [snakes, owls, spiders, monsters, frogs]  [snake, owl, spider, monster, frog, lizard, mu...   
+4        [A mako is a [MASK].]    [fish]        makos        makos      IsA                                        [porbeagle]     5             2         mako  [a mako is a [MASK]., a mako is a type of [MAS...  [a mako or [Z] is a [MASK]., a mako or [Z] is ...  [[MASK] such as makos., [MASK], including mako...  [[MASK] such as makos and [Z]., [MASK], includ...  [such as makos and [MASK]., such as makos or [...                    makos mako makos  [fish, canoe, drum, dog, boat, drummer, bird, ...  {'fish': -9.140592458399126, 'canoe': -9.49322...  [drum, fish, boat, canoe, bird, umbrella, flut...  {'drum': -8.934197447070298, 'fish': -9.539210...  [story, people, poem, artist, thing, animal, g...  {'stories': -9.431891756749435, 'people': -9.4...  [birds, human, sirens, chiefs, drums, friends,...  {'birds': 0.11706465586192077, 'human': 0.1013...      [bird, human, siren, chief, drum]       [birds, humans, sirens, chiefs, drums]  [bird, human, siren, chief, drum, friend, nati...   
+
+                subj_anchors_combined                  masked_sentences_with_subj_anchor                           def_dap_with_subj_anchor                           lsp_dap_with_subj_anchor                                   obj_mask_def_dap                             obj_mask_def_dap_score                                   obj_mask_lsp_dap                             obj_mask_lsp_dap_score  
+0              gravers graver gravers  [A graver is a [MASK]., A graver  or markers i...  [a graver or a marker is a [MASK]., a graver o...  [[MASK] such as gravers and markers., [MASK] s...  [grave, coffin, tool, shovel, person, marker, ...  {'grave': -7.9359934590309, 'coffin': -8.37144...  [tool, object, grave, thing, cemetery, item, p...  {'tools': -8.891049810665399, 'objects': -9.58...  
+1  smallmouths smallmouth smallmouths  [A smallmouth is a [MASK]., A smallmouth  or c...  [a smallmouth or a catfish is a [MASK]., a sma...  [[MASK] such as smallmouths and catfish., [MAS...  [fish, catfish, salmon, bass, trout, pike, car...  {'fish': -4.609888952385891, 'catfish': -7.612...  [fish, catfish, species, bass, carp, fishing, ...  {'fish': -5.191521784083674, 'catfish': -8.334...  
+2           pelicans pelican pelicans  [A pelican is a [MASK]., A pelican  or dolphin...  [a pelican or a dolphin is a [MASK]., a pelica...  [[MASK] such as pelicans and dolphins., [MASK]...  [bird, dolphin, animal, fish, penguin, parrot,...  {'bird': -5.530932478274758, 'dolphin': -9.276...  [bird, animal, wildlife, species, fish, thing,...  {'birds': -5.276525220004379, 'animals': -8.35...  
+3     sapsuckers sapsucker sapsuckers  [A sapsucker is a [MASK]., A sapsucker  or sna...  [a sapsucker or a snake is a [MASK]., a sapsuc...  [[MASK] such as sapsuckers and snakes., [MASK]...  [insect, animal, lizard, snake, spider, mammal...  {'insect': -8.290516542537123, 'animal': -8.46...  [animal, snake, reptile, insect, predator, cre...  {'animals': -8.000021099747595, 'snakes': -8.4...  
+4                    makos mako makos  [A mako is a [MASK]., A mako  or birds is a [M...  [a mako or a bird is a [MASK]., a mako or a hu...  [[MASK] such as makos and birds., [MASK] such ...  [siren, bird, drum, chief, person, animal, fis...  {'siren': -8.316377587370312, 'bird': -8.50661...  [animal, percussion, instrument, siren, chief,...  {'animals': -7.6645129259795794, 'percussion':...  
+---------------------------------------- anchor evaluation ----------------------------------------
+begin{tabular}{rlrrrrrr}
+hline
+    	 mask_type       	   p@1 	   p@5 	   p@10 	   mrr 	   anchor_wordnet_avg_path 	   anchor_wordnet_coverage 
+hline
+  0 	 subj_anchors_sg 	    32 	    36 	     36 	    34 	                      7.09 	                     0.998 
+  1 	 anchor_col_all  	    32 	    36 	     36 	    34 	                      7.09 	                     0.998 
+hline
+end{tabular}
+---------------------------------------- obj_label evaluation ----------------------------------------
+begin{tabular}{rlrrrrrrr}
+hline
+    	 mask_type   	   p@1 	   p@5 	   p@10 	   mrr 	   anchor_wordnet_avg_path 	   anchor_wordnet_coverage 	   mask_type_id 
+hline
+  1 	 def_sap     	    32 	    60 	     68 	  43.1 	                      7.09 	                     0.998 	              1 
+  2 	 lsp_sap     	    42 	    62 	     68 	  50.8 	                      7.09 	                     0.998 	              3 
+  3 	 def_dap     	    52 	    70 	     76 	  59.2 	                      7.09 	                     0.998 	              2 
+  4 	 lsp_dap     	    48 	    70 	     78 	  58.8 	                      7.09 	                     0.998 	              4 
+hline
+end{tabular}
+save log/bert-large-uncased/lm_diagnostic_extended/singular/df_all_use_global_dap_True_anchor_type_Coordinate_remove_Y_PUNC_FULL_concate_or_single_max_anchor_num_5_anchor_scorer_probAvg_filter_obj_True_filter_objects_with_input_True_wnp_True_cpt_False.LM_DIAGNOSTIC_EXTENDED.tsv
+save log/bert-large-uncased/lm_diagnostic_extended/singular/exp_data_results_anchor_type_Coordinate_remove_Y_PUNC_FULL_concate_or_single_max_anchor_num_5_anchor_scorer_probAvg_filter_obj_True_filter_objects_with_input_True_wnp_True_cpt_False.LM_DIAGNOSTIC_EXTENDED.csv
+debug: True
+---------------------------------------- config ----------------------------------------
+{'debug': True, 'test_relations': ['IsA'], 'save_all_data': True, 'top_k': 10, 'data_dir': 'data/clsb/singular/', 'mask_string_mapping': {'bert-large-uncased': '[MASK]'}, 'use_dap_global': True, 'return_probs': True, 'anchor_scorer_list': ['probAvg'], 'scorer_target_1_prompt': 'probSum', 'scorer_target_N_prompts': 'freqProbLogSum', 'use_original_prompt': True, 'original_prompt_source': 'masked_sentence', 'incorporate_operations': ['concate_or_single'], 'filter_anchors_flag': True, 'filter_objects_flag': True, 'cpt_only': False, 'anchor_types': ['Coordinate_remove_Y_PUNC_FULL'], 'add_cpt_score': False, 'constrain_targets': False, 'add_wordnet_path_score': True, 'anchor_probe': 'plural_probe', 'anchor_col': 'subj_anchors', 'anchor_col_sg': 'subj_anchors_sg', 'anchor_col_pl': 'subj_anchors_pl', 'filter_objects_with_input': True, 'sub_col': 'sub_label', 'sub_col_sg': 'sub_label_sg', 'sub_col_pl': 'sub_label_pl', 'top_k_anchors': 5, 'max_anchor_num_list': [10], 'max_anchor_num': 10, 'sub_col_sgpl': 'sub_label_sgpl', 'filter_objects_with_anchors': False, 'anchor_col_all': 'anchor_col_all', 'oracle_anchor_inserted': False}
+---------------------------------------- config ----------------------------------------
+Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+---------------------------------------- bert-large-uncased-anchor_type: Coordinate_remove_Y_PUNC_FULL-scorer_anchor:probAvg-op:concate_or_single ----------------------------------------
+{
+    "IsA": {
+        "relation": "IsA",
+        "def_sap": [
+            "[X] is a [MASK].",
+            "[X] is a type of [MASK].",
+            "[X] is a kind of [MASK]."
+        ],
+        "def_dap": [
+            "[X] or [Z] is a [MASK].",
+            "[X] or [Z] is a type of [MASK].",
+            "[X] or [Z] is a kind of [MASK]."
+        ],
+        "lsp_sap": [
+            "[MASK] such as [X].",
+            "[MASK], including [X].",
+            "[MASK], especially [X].",
+            "[X] or other [MASK].",
+            "[X] and other [MASK].",
+            "such [MASK] as [X]."
+        ],
+        "lsp_dap": [
+            "[MASK] such as [X] and [Z].",
+            "[MASK], including [X] and [Z].",
+            "[MASK], especially [X] and [Z].",
+            "[X], [Z] and other [MASK].",
+            "[X], [Z] or other [MASK].",
+            "such [MASK] as [X] and [Z]."
+        ],
+        "use_dap": true,
+        "anchor_target": "[X]",
+        "anchor_lsp_sap": [
+            "such as [X] and [MASK].",
+            "such as [X] or [MASK].",
+            "such as [X], [MASK],",
+            "including [X] and [MASK].",
+            "including [X] or [MASK].",
+            "including [X], [MASK],",
+            "especially [X] and [MASK].",
+            "especially [X] or [MASK].",
+            "especially [X], [MASK],",
+            "[X], [MASK] or other",
+            "[X], [MASK] and other"
+        ]
+    }
+}
+Processing IsA ... data/clsb/singular//IsA.jsonl
+#Test_instances: 1310
+	 step1: get anchors (fill and filter)
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+--- def_sap
+--- lsp_sap
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+relation: IsA 	 use_dap: True
+	 step2: insert anchors
+sub_col sub_label
+	 step3: fill mask in dap anchors
+  0%|          | 0/50 [00:00<?, ?it/s]/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+  2%|▏         | 1/50 [00:00<00:09,  5.24it/s]  4%|▍         | 2/50 [00:00<00:09,  5.28it/s]  6%|▌         | 3/50 [00:00<00:08,  5.31it/s]  8%|▊         | 4/50 [00:00<00:08,  5.31it/s] 10%|█         | 5/50 [00:00<00:08,  5.32it/s] 12%|█▏        | 6/50 [00:01<00:08,  5.32it/s] 14%|█▍        | 7/50 [00:01<00:08,  5.32it/s] 16%|█▌        | 8/50 [00:01<00:07,  5.32it/s] 18%|█▊        | 9/50 [00:01<00:07,  5.33it/s] 20%|██        | 10/50 [00:01<00:07,  5.32it/s] 22%|██▏       | 11/50 [00:02<00:07,  5.33it/s] 24%|██▍       | 12/50 [00:02<00:07,  5.33it/s] 26%|██▌       | 13/50 [00:02<00:06,  5.33it/s] 28%|██▊       | 14/50 [00:02<00:06,  5.33it/s] 30%|███       | 15/50 [00:02<00:06,  5.32it/s] 32%|███▏      | 16/50 [00:03<00:06,  5.33it/s] 34%|███▍      | 17/50 [00:03<00:06,  5.33it/s] 36%|███▌      | 18/50 [00:03<00:06,  5.33it/s] 38%|███▊      | 19/50 [00:03<00:05,  5.33it/s] 40%|████      | 20/50 [00:03<00:05,  5.32it/s] 42%|████▏     | 21/50 [00:03<00:05,  5.32it/s] 44%|████▍     | 22/50 [00:04<00:05,  5.32it/s] 46%|████▌     | 23/50 [00:04<00:05,  5.32it/s] 48%|████▊     | 24/50 [00:04<00:04,  5.32it/s] 50%|█████     | 25/50 [00:04<00:04,  5.31it/s] 52%|█████▏    | 26/50 [00:04<00:04,  5.31it/s] 54%|█████▍    | 27/50 [00:05<00:04,  5.32it/s] 56%|█████▌    | 28/50 [00:05<00:04,  5.31it/s] 58%|█████▊    | 29/50 [00:05<00:04,  4.98it/s] 60%|██████    | 30/50 [00:05<00:03,  5.03it/s] 62%|██████▏   | 31/50 [00:05<00:03,  5.11it/s] 64%|██████▍   | 32/50 [00:06<00:03,  5.17it/s] 66%|██████▌   | 33/50 [00:06<00:03,  5.21it/s] 68%|██████▊   | 34/50 [00:06<00:03,  5.25it/s] 70%|███████   | 35/50 [00:06<00:02,  5.27it/s] 72%|███████▏  | 36/50 [00:06<00:02,  5.27it/s] 74%|███████▍  | 37/50 [00:07<00:02,  5.28it/s] 76%|███████▌  | 38/50 [00:07<00:02,  5.29it/s] 78%|███████▊  | 39/50 [00:07<00:02,  5.30it/s] 80%|████████  | 40/50 [00:07<00:01,  5.31it/s] 82%|████████▏ | 41/50 [00:07<00:01,  5.30it/s] 84%|████████▍ | 42/50 [00:07<00:01,  5.31it/s] 86%|████████▌ | 43/50 [00:08<00:01,  5.31it/s] 88%|████████▊ | 44/50 [00:08<00:01,  5.31it/s] 90%|█████████ | 45/50 [00:08<00:00,  5.31it/s] 92%|█████████▏| 46/50 [00:08<00:00,  5.31it/s] 94%|█████████▍| 47/50 [00:08<00:00,  5.31it/s] 96%|█████████▌| 48/50 [00:09<00:00,  5.31it/s] 98%|█████████▊| 49/50 [00:09<00:00,  5.32it/s]100%|██████████| 50/50 [00:09<00:00,  5.32it/s]100%|██████████| 50/50 [00:09<00:00,  5.29it/s]
+  0%|          | 0/50 [00:00<?, ?it/s]  2%|▏         | 1/50 [00:00<00:18,  2.66it/s]  4%|▍         | 2/50 [00:00<00:17,  2.67it/s]  6%|▌         | 3/50 [00:01<00:17,  2.67it/s]  8%|▊         | 4/50 [00:01<00:17,  2.67it/s] 10%|█         | 5/50 [00:01<00:16,  2.67it/s] 12%|█▏        | 6/50 [00:02<00:16,  2.68it/s] 14%|█▍        | 7/50 [00:02<00:16,  2.68it/s] 16%|█▌        | 8/50 [00:02<00:15,  2.69it/s] 18%|█▊        | 9/50 [00:03<00:15,  2.69it/s] 20%|██        | 10/50 [00:03<00:14,  2.69it/s] 22%|██▏       | 11/50 [00:04<00:14,  2.70it/s] 24%|██▍       | 12/50 [00:04<00:14,  2.69it/s] 26%|██▌       | 13/50 [00:04<00:13,  2.70it/s] 28%|██▊       | 14/50 [00:05<00:13,  2.70it/s] 30%|███       | 15/50 [00:05<00:12,  2.70it/s] 32%|███▏      | 16/50 [00:05<00:12,  2.69it/s] 34%|███▍      | 17/50 [00:06<00:12,  2.69it/s] 36%|███▌      | 18/50 [00:06<00:11,  2.69it/s] 38%|███▊      | 19/50 [00:07<00:11,  2.68it/s] 40%|████      | 20/50 [00:07<00:11,  2.69it/s] 42%|████▏     | 21/50 [00:07<00:10,  2.69it/s] 44%|████▍     | 22/50 [00:08<00:10,  2.70it/s] 46%|████▌     | 23/50 [00:08<00:10,  2.70it/s] 48%|████▊     | 24/50 [00:08<00:09,  2.69it/s] 50%|█████     | 25/50 [00:09<00:09,  2.68it/s] 52%|█████▏    | 26/50 [00:09<00:08,  2.67it/s] 54%|█████▍    | 27/50 [00:10<00:08,  2.67it/s] 56%|█████▌    | 28/50 [00:10<00:08,  2.67it/s] 58%|█████▊    | 29/50 [00:10<00:07,  2.67it/s] 60%|██████    | 30/50 [00:11<00:07,  2.67it/s] 62%|██████▏   | 31/50 [00:11<00:07,  2.67it/s] 64%|██████▍   | 32/50 [00:11<00:06,  2.67it/s] 66%|██████▌   | 33/50 [00:12<00:06,  2.67it/s] 68%|██████▊   | 34/50 [00:12<00:05,  2.67it/s] 70%|███████   | 35/50 [00:13<00:05,  2.67it/s] 72%|███████▏  | 36/50 [00:13<00:05,  2.65it/s] 74%|███████▍  | 37/50 [00:13<00:04,  2.66it/s] 76%|███████▌  | 38/50 [00:14<00:04,  2.63it/s] 78%|███████▊  | 39/50 [00:14<00:04,  2.65it/s] 80%|████████  | 40/50 [00:14<00:03,  2.66it/s] 82%|████████▏ | 41/50 [00:15<00:03,  2.67it/s] 84%|████████▍ | 42/50 [00:15<00:02,  2.67it/s] 86%|████████▌ | 43/50 [00:16<00:02,  2.67it/s] 88%|████████▊ | 44/50 [00:16<00:02,  2.67it/s] 90%|█████████ | 45/50 [00:16<00:01,  2.68it/s] 92%|█████████▏| 46/50 [00:17<00:01,  2.68it/s] 94%|█████████▍| 47/50 [00:17<00:01,  2.67it/s] 96%|█████████▌| 48/50 [00:17<00:00,  2.68it/s] 98%|█████████▊| 49/50 [00:18<00:00,  2.68it/s]100%|██████████| 50/50 [00:18<00:00,  2.68it/s]100%|██████████| 50/50 [00:18<00:00,  2.68it/s]
+    sub_label    obj_label              masked_sentences relation  weight feature_type obj_label_single                                         sub_sister  uuid  sub_position sub_label_sg sub_label_pl                                            def_sap                                            def_dap                                            lsp_sap                                            lsp_dap                                     anchor_lsp_sap                   sub_label_sgpl                                  obj_mask_sentence                            obj_mask_sentence_score                                   obj_mask_def_sap                             obj_mask_def_sap_score                                   obj_mask_lsp_sap                             obj_mask_lsp_sap_score                                       subj_anchors                                 subj_anchors_score                               subj_anchors_sg                                    subj_anchors_pl  \
+0  aeroplanes    [vehicle]   [An aeroplane is a [MASK].]      IsA       2    taxonomic          vehicle  [drone, airplane, whirlybird, ornithopter, war...     0             3    aeroplane   aeroplanes  [an aeroplane is a [MASK]., an aeroplane is a ...  [an aeroplane or [Z] is a [MASK]., an aeroplan...  [[MASK] such as aeroplanes., [MASK], including...  [[MASK] such as aeroplanes and [Z]., [MASK], i...  [such as aeroplanes and [MASK]., such as aerop...  aeroplanes aeroplane aeroplanes  [plane, biplane, glider, aircraft, helicopter,...  {'plane': -5.430296225218525, 'biplane': -7.54...  [aircraft, plane, airplane, glider, airship, b...  {'aircraft': -5.844922140009729, 'plane': -8.0...  [aircraft, thing, airplane, vehicle, plane, av...  {'aircraft': -5.754823951878233, 'things': -8....  [airplanes, planes, airplane, helicopters, bal...  {'airplanes': 1.0728505998849869, 'planes': 1....  [airplane, plane, helicopter, balloon, boat]  [airplanes, planes, helicopters, balloons, boats]   
+1  alligators    [reptile]   [An alligator is a [MASK].]      IsA      16    taxonomic          reptile  [deerskin, calfskin, buff, fleece, crocodile, ...     1             3    alligator   alligators  [an alligator is a [MASK]., an alligator is a ...  [an alligator or [Z] is a [MASK]., an alligato...  [[MASK] such as alligators., [MASK], including...  [[MASK] such as alligators and [Z]., [MASK], i...  [such as alligators and [MASK]., such as allig...  alligators alligator alligators  [fish, monster, snake, crocodile, turtle, huma...  {'fish': -7.292829009024019, 'monster': -8.504...  [fish, animal, turtle, crocodile, snake, lizar...  {'fish': -7.438471333835193, 'animal': -7.6710...  [reptile, animal, snake, thing, wildlife, fish...  {'reptiles': -5.7917639368590335, 'animals': -...  [snakes, crocodile, turtles, lizards, foxes, f...  {'snakes': 0.5833024694160982, 'crocodile': 0....       [snake, crocodile, turtle, lizard, fox]      [snakes, crocodiles, turtles, lizards, foxes]   
+2  alligators     [animal]  [An alligator is an [MASK].]      IsA      11    taxonomic           animal  [deerskin, calfskin, buff, fleece, crocodile, ...     2             3    alligator   alligators  [an alligator is a [MASK]., an alligator is a ...  [an alligator or [Z] is a [MASK]., an alligato...  [[MASK] such as alligators., [MASK], including...  [[MASK] such as alligators and [Z]., [MASK], i...  [such as alligators and [MASK]., such as allig...  alligators alligator alligators  [animal, insect, eel, alien, idiot, elephant, ...  {'animal': -5.75346447751135, 'insect': -10.19...  [fish, animal, turtle, crocodile, snake, lizar...  {'fish': -7.438471333835193, 'animal': -7.6710...  [reptile, animal, snake, thing, wildlife, fish...  {'reptiles': -5.7917639368590335, 'animals': -...  [snakes, crocodile, turtles, lizards, foxes, f...  {'snakes': 0.5833024694160982, 'crocodile': 0....       [snake, crocodile, turtle, lizard, fox]      [snakes, crocodiles, turtles, lizards, foxes]   
+3  alligators  [carnivore]   [An alligator is a [MASK].]      IsA       8   functional        carnivore  [deerskin, calfskin, buff, fleece, crocodile, ...     3             3    alligator   alligators  [an alligator is a [MASK]., an alligator is a ...  [an alligator or [Z] is a [MASK]., an alligato...  [[MASK] such as alligators., [MASK], including...  [[MASK] such as alligators and [Z]., [MASK], i...  [such as alligators and [MASK]., such as allig...  alligators alligator alligators  [fish, monster, snake, crocodile, turtle, huma...  {'fish': -7.292829009024019, 'monster': -8.504...  [fish, animal, turtle, crocodile, snake, lizar...  {'fish': -7.438471333835193, 'animal': -7.6710...  [reptile, animal, snake, thing, wildlife, fish...  {'reptiles': -5.7917639368590335, 'animals': -...  [snakes, crocodile, turtles, lizards, foxes, f...  {'snakes': 0.5833024694160982, 'crocodile': 0....       [snake, crocodile, turtle, lizard, fox]      [snakes, crocodiles, turtles, lizards, foxes]   
+4  alligators   [predator]   [An alligator is a [MASK].]      IsA       6    taxonomic         predator  [deerskin, calfskin, buff, fleece, crocodile, ...     4             3    alligator   alligators  [an alligator is a [MASK]., an alligator is a ...  [an alligator or [Z] is a [MASK]., an alligato...  [[MASK] such as alligators., [MASK], including...  [[MASK] such as alligators and [Z]., [MASK], i...  [such as alligators and [MASK]., such as allig...  alligators alligator alligators  [fish, monster, snake, crocodile, turtle, huma...  {'fish': -7.292829009024019, 'monster': -8.504...  [fish, animal, turtle, crocodile, snake, lizar...  {'fish': -7.438471333835193, 'animal': -7.6710...  [reptile, animal, snake, thing, wildlife, fish...  {'reptiles': -5.7917639368590335, 'animals': -...  [snakes, crocodile, turtles, lizards, foxes, f...  {'snakes': 0.5833024694160982, 'crocodile': 0....       [snake, crocodile, turtle, lizard, fox]      [snakes, crocodiles, turtles, lizards, foxes]   
+
+                                      anchor_col_all            subj_anchors_combined                  masked_sentences_with_subj_anchor                           def_dap_with_subj_anchor                           lsp_dap_with_subj_anchor                                   obj_mask_def_dap                             obj_mask_def_dap_score                                   obj_mask_lsp_dap                             obj_mask_lsp_dap_score  
+0  [airplane, plane, helicopter, balloon, boat, a...  aeroplanes aeroplane aeroplanes  [An aeroplane is a [MASK]., An aeroplane  or a...  [an aeroplane or an airplane is a [MASK]., an ...  [[MASK] such as aeroplanes and airplanes., [MA...  [aircraft, plane, airplane, vehicle, airship, ...  {'aircraft': -6.135989357514616, 'plane': -8.7...  [aircraft, vehicle, airplane, thing, aviation,...  {'aircraft': -5.8668096400947745, 'vehicles': ...  
+1  [snake, crocodile, turtle, lizard, fox, frog, ...  alligators alligator alligators  [An alligator is a [MASK]., An alligator  or s...  [an alligator or a snake is a [MASK]., an alli...  [[MASK] such as alligators and snakes., [MASK]...  [fish, animal, mammal, lizard, snake, turtle, ...  {'fish': -7.485400407383422, 'animal': -7.6242...  [reptile, animal, snake, wildlife, thing, pred...  {'reptiles': -5.859315859567248, 'animals': -7...  
+2  [snake, crocodile, turtle, lizard, fox, frog, ...  alligators alligator alligators  [An alligator is an [MASK]., An alligator  or ...  [an alligator or a snake is a [MASK]., an alli...  [[MASK] such as alligators and snakes., [MASK]...  [fish, animal, mammal, lizard, snake, turtle, ...  {'fish': -7.485400407383422, 'animal': -7.6242...  [reptile, animal, snake, wildlife, thing, pred...  {'reptiles': -5.859315859567248, 'animals': -7...  
+3  [snake, crocodile, turtle, lizard, fox, frog, ...  alligators alligator alligators  [An alligator is a [MASK]., An alligator  or s...  [an alligator or a snake is a [MASK]., an alli...  [[MASK] such as alligators and snakes., [MASK]...  [fish, animal, mammal, lizard, snake, turtle, ...  {'fish': -7.485400407383422, 'animal': -7.6242...  [reptile, animal, snake, wildlife, thing, pred...  {'reptiles': -5.859315859567248, 'animals': -7...  
+4  [snake, crocodile, turtle, lizard, fox, frog, ...  alligators alligator alligators  [An alligator is a [MASK]., An alligator  or s...  [an alligator or a snake is a [MASK]., an alli...  [[MASK] such as alligators and snakes., [MASK]...  [fish, animal, mammal, lizard, snake, turtle, ...  {'fish': -7.485400407383422, 'animal': -7.6242...  [reptile, animal, snake, wildlife, thing, pred...  {'reptiles': -5.859315859567248, 'animals': -7...  
+---------------------------------------- anchor evaluation ----------------------------------------
+begin{tabular}{rlrrrrrr}
+hline
+    	 mask_type       	   p@1 	   p@5 	   p@10 	   mrr 	   anchor_wordnet_avg_path 	   anchor_wordnet_coverage 
+hline
+  0 	 subj_anchors_sg 	    40 	    76 	     76 	    57 	                      4.77 	                         1 
+  1 	 anchor_col_all  	    40 	    76 	     76 	    57 	                      4.77 	                         1 
+hline
+end{tabular}
+---------------------------------------- obj_label evaluation ----------------------------------------
+begin{tabular}{rlrrrrrrr}
+hline
+    	 mask_type   	   p@1 	   p@5 	   p@10 	   mrr 	   anchor_wordnet_avg_path 	   anchor_wordnet_coverage 	   mask_type_id 
+hline
+  1 	 def_sap     	    18 	    42 	     56 	  29   	                      4.77 	                         1 	              1 
+  2 	 lsp_sap     	    18 	    40 	     54 	  29.6 	                      4.77 	                         1 	              3 
+  3 	 def_dap     	    20 	    52 	     62 	  33.7 	                      4.77 	                         1 	              2 
+  4 	 lsp_dap     	    20 	    46 	     54 	  32.5 	                      4.77 	                         1 	              4 
+hline
+end{tabular}
+save log/bert-large-uncased/clsb/singular/df_all_use_global_dap_True_anchor_type_Coordinate_remove_Y_PUNC_FULL_concate_or_single_max_anchor_num_5_anchor_scorer_probAvg_filter_obj_True_filter_objects_with_input_True_wnp_True_cpt_False.CLSB.tsv
+save log/bert-large-uncased/clsb/singular/exp_data_results_anchor_type_Coordinate_remove_Y_PUNC_FULL_concate_or_single_max_anchor_num_5_anchor_scorer_probAvg_filter_obj_True_filter_objects_with_input_True_wnp_True_cpt_False.CLSB.csv
+debug: True
+---------------------------------------- config ----------------------------------------
+{'debug': True, 'test_relations': ['IsA'], 'save_all_data': True, 'top_k': 10, 'data_dir': 'data/hypernymsuite/LEDS/', 'mask_string_mapping': {'bert-large-uncased': '[MASK]'}, 'use_dap_global': True, 'return_probs': True, 'anchor_scorer_list': ['probAvg'], 'scorer_target_1_prompt': 'probSum', 'scorer_target_N_prompts': 'freqProbLogSum', 'use_original_prompt': True, 'original_prompt_source': 'masked_sentence', 'incorporate_operations': ['concate_or_single'], 'filter_anchors_flag': True, 'filter_objects_flag': True, 'cpt_only': False, 'anchor_types': ['Coordinate_remove_Y_PUNC_FULL'], 'add_cpt_score': False, 'constrain_targets': False, 'add_wordnet_path_score': True, 'anchor_probe': 'plural_probe', 'anchor_col': 'subj_anchors', 'anchor_col_sg': 'subj_anchors_sg', 'anchor_col_pl': 'subj_anchors_pl', 'filter_objects_with_input': True, 'sub_col': 'sub_label', 'sub_col_sg': 'sub_label_sg', 'sub_col_pl': 'sub_label_pl', 'top_k_anchors': 5, 'max_anchor_num_list': [10], 'max_anchor_num': 10, 'sub_col_sgpl': 'sub_label_sgpl', 'filter_objects_with_anchors': False, 'anchor_col_all': 'anchor_col_all', 'oracle_anchor_inserted': False}
+---------------------------------------- config ----------------------------------------
+Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+---------------------------------------- bert-large-uncased-anchor_type: Coordinate_remove_Y_PUNC_FULL-scorer_anchor:probAvg-op:concate_or_single ----------------------------------------
+{
+    "IsA": {
+        "relation": "IsA",
+        "def_sap": [
+            "[X] is a [MASK].",
+            "[X] is a type of [MASK].",
+            "[X] is a kind of [MASK]."
+        ],
+        "def_dap": [
+            "[X] or [Z] is a [MASK].",
+            "[X] or [Z] is a type of [MASK].",
+            "[X] or [Z] is a kind of [MASK]."
+        ],
+        "lsp_sap": [
+            "[MASK] such as [X].",
+            "[MASK], including [X].",
+            "[MASK], especially [X].",
+            "[X] or other [MASK].",
+            "[X] and other [MASK].",
+            "such [MASK] as [X]."
+        ],
+        "lsp_dap": [
+            "[MASK] such as [X] and [Z].",
+            "[MASK], including [X] and [Z].",
+            "[MASK], especially [X] and [Z].",
+            "[X], [Z] and other [MASK].",
+            "[X], [Z] or other [MASK].",
+            "such [MASK] as [X] and [Z]."
+        ],
+        "use_dap": true,
+        "anchor_target": "[X]",
+        "anchor_lsp_sap": [
+            "such as [X] and [MASK].",
+            "such as [X] or [MASK].",
+            "such as [X], [MASK],",
+            "including [X] and [MASK].",
+            "including [X] or [MASK].",
+            "including [X], [MASK],",
+            "especially [X] and [MASK].",
+            "especially [X] or [MASK].",
+            "especially [X], [MASK],",
+            "[X], [MASK] or other",
+            "[X], [MASK] and other"
+        ]
+    }
+}
+Processing IsA ... data/hypernymsuite/LEDS//IsA.jsonl
+#Test_instances: 1385
+	 step1: get anchors (fill and filter)
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+--- def_sap
+--- lsp_sap
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+relation: IsA 	 use_dap: True
+	 step2: insert anchors
+sub_col sub_label
+	 step3: fill mask in dap anchors
+  0%|          | 0/50 [00:00<?, ?it/s]/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+  2%|▏         | 1/50 [00:00<00:09,  5.21it/s]  4%|▍         | 2/50 [00:00<00:09,  5.26it/s]  6%|▌         | 3/50 [00:00<00:08,  5.27it/s]  8%|▊         | 4/50 [00:00<00:08,  5.29it/s] 10%|█         | 5/50 [00:00<00:08,  5.29it/s] 12%|█▏        | 6/50 [00:01<00:08,  5.25it/s] 14%|█▍        | 7/50 [00:01<00:08,  5.26it/s] 16%|█▌        | 8/50 [00:01<00:07,  5.28it/s] 18%|█▊        | 9/50 [00:01<00:07,  5.28it/s] 20%|██        | 10/50 [00:01<00:07,  5.29it/s] 22%|██▏       | 11/50 [00:02<00:07,  5.28it/s] 24%|██▍       | 12/50 [00:02<00:07,  5.28it/s] 26%|██▌       | 13/50 [00:02<00:07,  5.28it/s] 28%|██▊       | 14/50 [00:02<00:06,  5.29it/s] 30%|███       | 15/50 [00:02<00:06,  5.30it/s] 32%|███▏      | 16/50 [00:03<00:06,  5.29it/s] 34%|███▍      | 17/50 [00:03<00:06,  5.28it/s] 36%|███▌      | 18/50 [00:03<00:06,  5.29it/s] 38%|███▊      | 19/50 [00:03<00:05,  5.29it/s] 40%|████      | 20/50 [00:03<00:05,  5.30it/s] 42%|████▏     | 21/50 [00:03<00:05,  5.30it/s] 44%|████▍     | 22/50 [00:04<00:05,  5.30it/s] 46%|████▌     | 23/50 [00:04<00:05,  5.30it/s] 48%|████▊     | 24/50 [00:04<00:04,  5.30it/s] 50%|█████     | 25/50 [00:04<00:04,  5.30it/s] 52%|█████▏    | 26/50 [00:04<00:04,  5.30it/s] 54%|█████▍    | 27/50 [00:05<00:04,  5.29it/s] 56%|█████▌    | 28/50 [00:05<00:04,  5.30it/s] 58%|█████▊    | 29/50 [00:05<00:03,  5.29it/s] 60%|██████    | 30/50 [00:05<00:03,  5.27it/s] 62%|██████▏   | 31/50 [00:05<00:03,  5.28it/s] 64%|██████▍   | 32/50 [00:06<00:03,  5.29it/s] 66%|██████▌   | 33/50 [00:06<00:03,  5.27it/s] 68%|██████▊   | 34/50 [00:06<00:03,  5.28it/s] 70%|███████   | 35/50 [00:06<00:02,  5.30it/s] 72%|███████▏  | 36/50 [00:06<00:02,  5.30it/s] 74%|███████▍  | 37/50 [00:06<00:02,  5.30it/s] 76%|███████▌  | 38/50 [00:07<00:02,  5.29it/s] 78%|███████▊  | 39/50 [00:07<00:02,  5.29it/s] 80%|████████  | 40/50 [00:07<00:01,  5.28it/s] 82%|████████▏ | 41/50 [00:07<00:01,  5.29it/s] 84%|████████▍ | 42/50 [00:07<00:01,  5.29it/s] 86%|████████▌ | 43/50 [00:08<00:01,  5.29it/s] 88%|████████▊ | 44/50 [00:08<00:01,  5.28it/s] 90%|█████████ | 45/50 [00:08<00:00,  5.29it/s] 92%|█████████▏| 46/50 [00:08<00:00,  5.29it/s] 94%|█████████▍| 47/50 [00:08<00:00,  5.29it/s] 96%|█████████▌| 48/50 [00:09<00:00,  5.29it/s] 98%|█████████▊| 49/50 [00:09<00:00,  5.29it/s]100%|██████████| 50/50 [00:09<00:00,  5.29it/s]100%|██████████| 50/50 [00:09<00:00,  5.29it/s]
+  0%|          | 0/50 [00:00<?, ?it/s]  2%|▏         | 1/50 [00:00<00:18,  2.68it/s]  4%|▍         | 2/50 [00:00<00:17,  2.68it/s]  6%|▌         | 3/50 [00:01<00:17,  2.68it/s]  8%|▊         | 4/50 [00:01<00:17,  2.67it/s] 10%|█         | 5/50 [00:01<00:16,  2.67it/s] 12%|█▏        | 6/50 [00:02<00:16,  2.68it/s] 14%|█▍        | 7/50 [00:02<00:16,  2.68it/s] 16%|█▌        | 8/50 [00:02<00:15,  2.68it/s] 18%|█▊        | 9/50 [00:03<00:15,  2.68it/s] 20%|██        | 10/50 [00:03<00:14,  2.68it/s] 22%|██▏       | 11/50 [00:04<00:14,  2.67it/s] 24%|██▍       | 12/50 [00:04<00:14,  2.59it/s] 26%|██▌       | 13/50 [00:04<00:14,  2.62it/s] 28%|██▊       | 14/50 [00:05<00:13,  2.63it/s] 30%|███       | 15/50 [00:05<00:13,  2.63it/s] 32%|███▏      | 16/50 [00:06<00:12,  2.64it/s] 34%|███▍      | 17/50 [00:06<00:12,  2.66it/s] 36%|███▌      | 18/50 [00:06<00:12,  2.66it/s] 38%|███▊      | 19/50 [00:07<00:11,  2.67it/s] 40%|████      | 20/50 [00:07<00:11,  2.67it/s] 42%|████▏     | 21/50 [00:07<00:10,  2.67it/s] 44%|████▍     | 22/50 [00:08<00:10,  2.67it/s] 46%|████▌     | 23/50 [00:08<00:10,  2.66it/s] 48%|████▊     | 24/50 [00:09<00:09,  2.67it/s] 50%|█████     | 25/50 [00:09<00:09,  2.67it/s] 52%|█████▏    | 26/50 [00:09<00:08,  2.67it/s] 54%|█████▍    | 27/50 [00:10<00:08,  2.68it/s] 56%|█████▌    | 28/50 [00:10<00:08,  2.67it/s] 58%|█████▊    | 29/50 [00:10<00:07,  2.67it/s] 60%|██████    | 30/50 [00:11<00:07,  2.68it/s] 62%|██████▏   | 31/50 [00:11<00:07,  2.67it/s] 64%|██████▍   | 32/50 [00:12<00:06,  2.67it/s] 66%|██████▌   | 33/50 [00:12<00:06,  2.67it/s] 68%|██████▊   | 34/50 [00:12<00:05,  2.67it/s] 70%|███████   | 35/50 [00:13<00:05,  2.67it/s] 72%|███████▏  | 36/50 [00:13<00:05,  2.67it/s] 74%|███████▍  | 37/50 [00:13<00:04,  2.67it/s] 76%|███████▌  | 38/50 [00:14<00:04,  2.67it/s] 78%|███████▊  | 39/50 [00:14<00:04,  2.67it/s] 80%|████████  | 40/50 [00:15<00:03,  2.67it/s] 82%|████████▏ | 41/50 [00:15<00:03,  2.67it/s] 84%|████████▍ | 42/50 [00:15<00:03,  2.66it/s] 86%|████████▌ | 43/50 [00:16<00:02,  2.66it/s] 88%|████████▊ | 44/50 [00:16<00:02,  2.67it/s] 90%|█████████ | 45/50 [00:16<00:01,  2.67it/s] 92%|█████████▏| 46/50 [00:17<00:01,  2.66it/s] 94%|█████████▍| 47/50 [00:17<00:01,  2.66it/s] 96%|█████████▌| 48/50 [00:18<00:00,  2.66it/s] 98%|█████████▊| 49/50 [00:18<00:00,  2.66it/s]100%|██████████| 50/50 [00:18<00:00,  2.66it/s]100%|██████████| 50/50 [00:18<00:00,  2.66it/s]
+   sub_label     obj_label relation                                   masked_sentences                                         sub_sister  uuid  sub_position sub_label_sg sub_label_pl                                            def_sap                                            def_dap                                            lsp_sap                                            lsp_dap                                     anchor_lsp_sap                sub_label_sgpl                                  obj_mask_sentence                            obj_mask_sentence_score                                   obj_mask_def_sap                             obj_mask_def_sap_score                                   obj_mask_lsp_sap                             obj_mask_lsp_sap_score                                       subj_anchors                                 subj_anchors_score                                    subj_anchors_sg                                    subj_anchors_pl  \
+0     etches         [art]      IsA  [An etching is a [MASK]., An etching is an [MA...  [halftone, serigraphy, woodcut, lithography, p...     0             3      etching       etches  [an etching is a [MASK]., an etching is a type...  [an etching or [Z] is a [MASK]., an etching or...  [[MASK] such as etches., [MASK], including etc...  [[MASK] such as etches and [Z]., [MASK], inclu...  [such as etches and [MASK]., such as etches or...         etches etching etches  [drawing, illustration, painting, engraving, p...  {'drawing': -6.798399279520061, 'illustration'...  [drawing, painting, engraving, print, illustra...  {'drawing': -6.167860487330729, 'painting': -6...  [work, drawing, painting, thing, painter, mate...  {'works': -8.609558271397141, 'drawings': -8.9...  [engravings, engraving, scratches, drawings, c...  {'engravings': 1.0769264002641041, 'engraving'...    [engraving, engrave, scratch, drawing, carving]  [engravings, engraves, scratches, drawings, ca...   
+1     pandas  [vertebrate]      IsA      [A panda is a [MASK]., A panda is an [MASK].]  [potto, coati, raccoon, kinkajou, racoon, bass...     1             2        panda       pandas  [a panda is a [MASK]., a panda is a type of [M...  [a panda or [Z] is a [MASK]., a panda or [Z] i...  [[MASK] such as pandas., [MASK], including pan...  [[MASK] such as pandas and [Z]., [MASK], inclu...  [such as pandas and [MASK]., such as pandas or...           pandas panda pandas  [animal, elephant, ape, bear, gorilla, tiger, ...  {'animal': -6.413663161854189, 'elephant': -6....  [animal, dog, bear, bird, elephant, tiger, cat...  {'animal': -8.441025296429839, 'dog': -9.59382...  [animal, story, bird, mammal, tiger, creature,...  {'animals': -5.2429824712466555, 'stories': -9...  [elephants, tigers, bears, lions, monkeys, dog...  {'elephants': 0.42077363259864575, 'tigers': 0...              [elephant, tiger, bear, lion, monkey]         [elephants, tigers, bears, lions, monkeys]   
+2  decreases      [change]      IsA  [A decrease is a [MASK]., A decrease is an [MA...  [birth, nascency, defining, dealignment, degen...     2             2     decrease    decreases  [a decrease is a [MASK]., a decrease is a type...  [a decrease or [Z] is a [MASK]., a decrease or...  [[MASK] such as decreases., [MASK], including ...  [[MASK] such as decreases and [Z]., [MASK], in...  [such as decreases and [MASK]., such as decrea...  decreases decrease decreases  [increase, gain, loss, improvement, maximum, r...  {'increase': -6.402507361409926, 'gain': -6.77...  [increase, gain, loss, change, reduction, expa...  {'increase': -7.421413369852303, 'gain': -8.46...  [cause, increase, change, factor, mean, effect...  {'causes': -8.435093703711, 'increases': -8.43...  [increases, decreasing, increase, improves, gr...  {'increases': 1.0293080734484124, 'decreasing'...      [increase, decrease, improve, growth, expand]  [increases, decreases, improves, growths, expa...   
+3   dinghies        [boat]      IsA    [A dinghy is a [MASK]., A dinghy is an [MASK].]  [canoe, cockleshell, gig, rowboat, dory, yawl,...     3             2       dinghy     dinghies  [a dinghy is a [MASK]., a dinghy is a type of ...  [a dinghy or [Z] is a [MASK]., a dinghy or [Z]...  [[MASK] such as dinghies., [MASK], including d...  [[MASK] such as dinghies and [Z]., [MASK], inc...  [such as dinghies and [MASK]., such as dinghie...      dinghies dinghy dinghies  [aircraft, airship, yacht, boat, automobile, e...  {'aircraft': -6.9738131185113055, 'airship': -...  [boat, yacht, vessel, sailing, sail, ship, cra...  {'boat': -5.155298464348918, 'yacht': -5.60234...  [boat, thing, ship, sailing, vessel, yacht, cr...  {'boats': -4.961173063122545, 'things': -9.064...  [boats, canoe, ferries, barges, punt, ships, y...  {'boats': 0.5399069799618288, 'canoe': 0.34126...                  [boat, canoe, ferry, barge, punt]            [boats, canoes, ferries, barges, punts]   
+4  islanders  [inhabitant]      IsA  [An islander is a [MASK]., An islander is an [...  [resident, earthling, philistine, plainsman, e...     4             3     islander    islanders  [an islander is a [MASK]., an islander is a ty...  [an islander or [Z] is a [MASK]., an islander ...  [[MASK] such as islanders., [MASK], including ...  [[MASK] such as islanders and [Z]., [MASK], in...  [such as islanders and [MASK]., such as island...  islanders islander islanders  [person, island, indian, foreigner, man, ameri...  {'person': -7.47869206028443, 'island': -8.106...  [person, man, sailor, foreigner, human, island...  {'person': -8.225699883559747, 'man': -9.68378...  [people, yes, island, group, animal, culture, ...  {'people': -7.11951827401747, 'yes': -9.224110...  [aboriginal, australians, europeans, resident,...  {'aboriginal': 0.40328970551490784, 'australia...  [aboriginal, australian, european, resident, a...  [aboriginals, australians, europeans, resident...   
+
+                                      anchor_col_all         subj_anchors_combined                  masked_sentences_with_subj_anchor                           def_dap_with_subj_anchor                           lsp_dap_with_subj_anchor                                   obj_mask_def_dap                             obj_mask_def_dap_score                                   obj_mask_lsp_dap                             obj_mask_lsp_dap_score  
+0  [engraving, engrave, scratch, drawing, carving...         etches etching etches  [An etching is a [MASK]., An etchin or engravi...  [an etching or an engraving is a [MASK]., an e...  [[MASK] such as etches and engravings., [MASK]...  [drawing, painting, engraving, print, artwork,...  {'drawing': -6.5587496550685485, 'painting': -...  [work, print, art, thing, painting, drawing, m...  {'works': -8.14325208705529, 'prints': -9.0539...  
+1  [elephant, tiger, bear, lion, monkey, dog, bat...           pandas panda pandas  [A panda is a [MASK]., A panda  or elephants i...  [a panda or an elephant is a [MASK]., a panda ...  [[MASK] such as pandas and elephants., [MASK] ...  [animal, monkey, bear, elephant, tiger, mammal...  {'animal': -6.887195547629623, 'monkey': -8.70...  [animal, mammal, wildlife, tiger, creature, pe...  {'animals': -4.773331777431663, 'mammals': -9....  
+2  [increase, decrease, improve, growth, expand, ...  decreases decrease decreases  [A decrease is a [MASK]., A decrease  or incre...  [a decrease or an increase is a [MASK]., a dec...  [[MASK] such as decreases and increases., [MAS...  [change, increase, reduction, loss, contractio...  {'change': -6.942449737940815, 'increase': -8....  [thing, change, effect, variable, factor, meas...  {'things': -8.732071025414328, 'changes': -8.8...  
+3  [boat, canoe, ferry, barge, punt, ship, yacht,...      dinghies dinghy dinghies  [A dinghy is a [MASK]., A dinghy i or boats s ...  [a dinghy or a boat is a [MASK]., a dinghy or ...  [[MASK] such as dinghies and boats., [MASK] su...  [boat, vessel, yacht, ship, craft, sail, saili...  {'boat': -4.717241244290368, 'vessel': -7.5500...  [boat, vessel, ship, thing, craft, vehicle, sa...  {'boats': -4.8877939718831955, 'vessels': -9.5...  
+4  [aboriginal, australian, european, resident, a...  islanders islander islanders  [An islander is a [MASK]., An islander  or abo...  [an islander or an aboriginal is a [MASK]., an...  [[MASK] such as islanders and aboriginals., [M...  [person, human, indian, australian, american, ...  {'person': -5.668484878639272, 'human': -10.15...  [people, minority, group, foreigner, nationali...  {'people': -6.916411683525214, 'minorities': -...  
+---------------------------------------- anchor evaluation ----------------------------------------
+begin{tabular}{rlrrrrrr}
+hline
+    	 mask_type       	   p@1 	   p@5 	   p@10 	   mrr 	   anchor_wordnet_avg_path 	   anchor_wordnet_coverage 
+hline
+  0 	 subj_anchors_sg 	    50 	    74 	     74 	  61.2 	                      4.65 	                      0.97 
+  1 	 anchor_col_all  	    50 	    74 	     74 	  61.2 	                      4.65 	                      0.97 
+hline
+end{tabular}
+---------------------------------------- obj_label evaluation ----------------------------------------
+begin{tabular}{rlrrrrrrr}
+hline
+    	 mask_type   	   p@1 	   p@5 	   p@10 	   mrr 	   anchor_wordnet_avg_path 	   anchor_wordnet_coverage 	   mask_type_id 
+hline
+  1 	 def_sap     	    16 	    44 	     60 	  28.2 	                      4.65 	                      0.97 	              1 
+  2 	 lsp_sap     	    20 	    52 	     56 	  31.9 	                      4.65 	                      0.97 	              3 
+  3 	 def_dap     	    28 	    50 	     64 	  37.8 	                      4.65 	                      0.97 	              2 
+  4 	 lsp_dap     	    18 	    60 	     70 	  35.6 	                      4.65 	                      0.97 	              4 
+hline
+end{tabular}
+save log/bert-large-uncased/hypernymsuite/LEDS/df_all_use_global_dap_True_anchor_type_Coordinate_remove_Y_PUNC_FULL_concate_or_single_max_anchor_num_5_anchor_scorer_probAvg_filter_obj_True_filter_objects_with_input_True_wnp_True_cpt_False.HYPERNYMSUITE.tsv
+save log/bert-large-uncased/hypernymsuite/LEDS/exp_data_results_anchor_type_Coordinate_remove_Y_PUNC_FULL_concate_or_single_max_anchor_num_5_anchor_scorer_probAvg_filter_obj_True_filter_objects_with_input_True_wnp_True_cpt_False.HYPERNYMSUITE.csv
+debug: True
+---------------------------------------- config ----------------------------------------
+{'debug': True, 'test_relations': ['IsA'], 'save_all_data': True, 'top_k': 10, 'data_dir': 'data/hypernymsuite/EVAL/', 'mask_string_mapping': {'bert-large-uncased': '[MASK]'}, 'use_dap_global': True, 'return_probs': True, 'anchor_scorer_list': ['probAvg'], 'scorer_target_1_prompt': 'probSum', 'scorer_target_N_prompts': 'freqProbLogSum', 'use_original_prompt': True, 'original_prompt_source': 'masked_sentence', 'incorporate_operations': ['concate_or_single'], 'filter_anchors_flag': True, 'filter_objects_flag': True, 'cpt_only': False, 'anchor_types': ['Coordinate_remove_Y_PUNC_FULL'], 'add_cpt_score': False, 'constrain_targets': False, 'add_wordnet_path_score': True, 'anchor_probe': 'plural_probe', 'anchor_col': 'subj_anchors', 'anchor_col_sg': 'subj_anchors_sg', 'anchor_col_pl': 'subj_anchors_pl', 'filter_objects_with_input': True, 'sub_col': 'sub_label', 'sub_col_sg': 'sub_label_sg', 'sub_col_pl': 'sub_label_pl', 'top_k_anchors': 5, 'max_anchor_num_list': [10], 'max_anchor_num': 10, 'sub_col_sgpl': 'sub_label_sgpl', 'filter_objects_with_anchors': False, 'anchor_col_all': 'anchor_col_all', 'oracle_anchor_inserted': False}
+---------------------------------------- config ----------------------------------------
+Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+---------------------------------------- bert-large-uncased-anchor_type: Coordinate_remove_Y_PUNC_FULL-scorer_anchor:probAvg-op:concate_or_single ----------------------------------------
+{
+    "IsA": {
+        "relation": "IsA",
+        "def_sap": [
+            "[X] is a [MASK].",
+            "[X] is a type of [MASK].",
+            "[X] is a kind of [MASK]."
+        ],
+        "def_dap": [
+            "[X] or [Z] is a [MASK].",
+            "[X] or [Z] is a type of [MASK].",
+            "[X] or [Z] is a kind of [MASK]."
+        ],
+        "lsp_sap": [
+            "[MASK] such as [X].",
+            "[MASK], including [X].",
+            "[MASK], especially [X].",
+            "[X] or other [MASK].",
+            "[X] and other [MASK].",
+            "such [MASK] as [X]."
+        ],
+        "lsp_dap": [
+            "[MASK] such as [X] and [Z].",
+            "[MASK], including [X] and [Z].",
+            "[MASK], especially [X] and [Z].",
+            "[X], [Z] and other [MASK].",
+            "[X], [Z] or other [MASK].",
+            "such [MASK] as [X] and [Z]."
+        ],
+        "use_dap": true,
+        "anchor_target": "[X]",
+        "anchor_lsp_sap": [
+            "such as [X] and [MASK].",
+            "such as [X] or [MASK].",
+            "such as [X], [MASK],",
+            "including [X] and [MASK].",
+            "including [X] or [MASK].",
+            "including [X], [MASK],",
+            "especially [X] and [MASK].",
+            "especially [X] or [MASK].",
+            "especially [X], [MASK],",
+            "[X], [MASK] or other",
+            "[X], [MASK] and other"
+        ]
+    }
+}
+Processing IsA ... data/hypernymsuite/EVAL//IsA.jsonl
+#Test_instances: 957
+	 step1: get anchors (fill and filter)
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+--- def_sap
+--- lsp_sap
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+relation: IsA 	 use_dap: True
+	 step2: insert anchors
+sub_col sub_label
+	 step3: fill mask in dap anchors
+  0%|          | 0/50 [00:00<?, ?it/s]/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+  2%|▏         | 1/50 [00:00<00:09,  5.16it/s]  4%|▍         | 2/50 [00:00<00:09,  5.24it/s]  6%|▌         | 3/50 [00:00<00:08,  5.26it/s]  8%|▊         | 4/50 [00:00<00:08,  5.28it/s] 10%|█         | 5/50 [00:00<00:08,  5.29it/s] 12%|█▏        | 6/50 [00:01<00:08,  5.29it/s] 14%|█▍        | 7/50 [00:01<00:08,  5.30it/s] 16%|█▌        | 8/50 [00:01<00:07,  5.30it/s] 18%|█▊        | 9/50 [00:01<00:07,  5.31it/s] 20%|██        | 10/50 [00:01<00:07,  5.31it/s] 22%|██▏       | 11/50 [00:02<00:07,  5.31it/s] 24%|██▍       | 12/50 [00:02<00:07,  5.31it/s] 26%|██▌       | 13/50 [00:02<00:06,  5.31it/s] 28%|██▊       | 14/50 [00:02<00:06,  5.30it/s] 30%|███       | 15/50 [00:02<00:06,  5.29it/s] 32%|███▏      | 16/50 [00:03<00:06,  5.29it/s] 34%|███▍      | 17/50 [00:03<00:06,  5.24it/s] 36%|███▌      | 18/50 [00:03<00:06,  5.25it/s] 38%|███▊      | 19/50 [00:03<00:05,  5.26it/s] 40%|████      | 20/50 [00:03<00:05,  5.27it/s] 42%|████▏     | 21/50 [00:03<00:05,  5.22it/s] 44%|████▍     | 22/50 [00:04<00:05,  5.24it/s] 46%|████▌     | 23/50 [00:04<00:05,  5.26it/s] 48%|████▊     | 24/50 [00:04<00:04,  5.28it/s] 50%|█████     | 25/50 [00:04<00:04,  5.29it/s] 52%|█████▏    | 26/50 [00:04<00:04,  5.29it/s] 54%|█████▍    | 27/50 [00:05<00:04,  5.28it/s] 56%|█████▌    | 28/50 [00:05<00:04,  5.29it/s] 58%|█████▊    | 29/50 [00:05<00:03,  5.30it/s] 60%|██████    | 30/50 [00:05<00:03,  5.30it/s] 62%|██████▏   | 31/50 [00:05<00:03,  5.31it/s] 64%|██████▍   | 32/50 [00:06<00:03,  5.30it/s] 66%|██████▌   | 33/50 [00:06<00:03,  5.29it/s] 68%|██████▊   | 34/50 [00:06<00:03,  5.30it/s] 70%|███████   | 35/50 [00:06<00:02,  5.30it/s] 72%|███████▏  | 36/50 [00:06<00:02,  5.30it/s] 74%|███████▍  | 37/50 [00:07<00:02,  5.31it/s] 76%|███████▌  | 38/50 [00:07<00:02,  5.30it/s] 78%|███████▊  | 39/50 [00:07<00:02,  5.30it/s] 80%|████████  | 40/50 [00:07<00:01,  5.30it/s] 82%|████████▏ | 41/50 [00:07<00:01,  5.31it/s] 84%|████████▍ | 42/50 [00:07<00:01,  5.30it/s] 86%|████████▌ | 43/50 [00:08<00:01,  5.30it/s] 88%|████████▊ | 44/50 [00:08<00:01,  5.30it/s] 90%|█████████ | 45/50 [00:08<00:00,  5.30it/s] 92%|█████████▏| 46/50 [00:08<00:00,  5.30it/s] 94%|█████████▍| 47/50 [00:08<00:00,  5.29it/s] 96%|█████████▌| 48/50 [00:09<00:00,  5.30it/s] 98%|█████████▊| 49/50 [00:09<00:00,  5.29it/s]100%|██████████| 50/50 [00:09<00:00,  5.30it/s]100%|██████████| 50/50 [00:09<00:00,  5.29it/s]
+  0%|          | 0/50 [00:00<?, ?it/s]  2%|▏         | 1/50 [00:00<00:18,  2.68it/s]  4%|▍         | 2/50 [00:00<00:17,  2.68it/s]  6%|▌         | 3/50 [00:01<00:17,  2.68it/s]  8%|▊         | 4/50 [00:01<00:17,  2.69it/s] 10%|█         | 5/50 [00:01<00:16,  2.68it/s] 12%|█▏        | 6/50 [00:02<00:16,  2.69it/s] 14%|█▍        | 7/50 [00:02<00:15,  2.69it/s] 16%|█▌        | 8/50 [00:02<00:15,  2.69it/s] 18%|█▊        | 9/50 [00:03<00:15,  2.69it/s] 20%|██        | 10/50 [00:03<00:14,  2.69it/s] 22%|██▏       | 11/50 [00:04<00:14,  2.69it/s] 24%|██▍       | 12/50 [00:04<00:14,  2.69it/s] 26%|██▌       | 13/50 [00:04<00:13,  2.69it/s] 28%|██▊       | 14/50 [00:05<00:13,  2.68it/s] 30%|███       | 15/50 [00:05<00:13,  2.69it/s] 32%|███▏      | 16/50 [00:05<00:12,  2.68it/s] 34%|███▍      | 17/50 [00:06<00:12,  2.68it/s] 36%|███▌      | 18/50 [00:06<00:11,  2.69it/s] 38%|███▊      | 19/50 [00:07<00:11,  2.69it/s] 40%|████      | 20/50 [00:07<00:11,  2.69it/s] 42%|████▏     | 21/50 [00:07<00:10,  2.69it/s] 44%|████▍     | 22/50 [00:08<00:10,  2.69it/s] 46%|████▌     | 23/50 [00:08<00:10,  2.70it/s] 48%|████▊     | 24/50 [00:08<00:09,  2.69it/s] 50%|█████     | 25/50 [00:09<00:09,  2.69it/s] 52%|█████▏    | 26/50 [00:09<00:08,  2.69it/s] 54%|█████▍    | 27/50 [00:10<00:08,  2.69it/s] 56%|█████▌    | 28/50 [00:10<00:08,  2.69it/s] 58%|█████▊    | 29/50 [00:10<00:07,  2.69it/s] 60%|██████    | 30/50 [00:11<00:07,  2.69it/s] 62%|██████▏   | 31/50 [00:11<00:07,  2.69it/s] 64%|██████▍   | 32/50 [00:11<00:06,  2.69it/s] 66%|██████▌   | 33/50 [00:12<00:06,  2.69it/s] 68%|██████▊   | 34/50 [00:12<00:05,  2.69it/s] 70%|███████   | 35/50 [00:13<00:05,  2.69it/s] 72%|███████▏  | 36/50 [00:13<00:05,  2.69it/s] 74%|███████▍  | 37/50 [00:13<00:04,  2.69it/s] 76%|███████▌  | 38/50 [00:14<00:04,  2.69it/s] 78%|███████▊  | 39/50 [00:14<00:04,  2.60it/s] 80%|████████  | 40/50 [00:14<00:03,  2.63it/s] 82%|████████▏ | 41/50 [00:15<00:03,  2.65it/s] 84%|████████▍ | 42/50 [00:15<00:03,  2.64it/s] 86%|████████▌ | 43/50 [00:16<00:02,  2.65it/s] 88%|████████▊ | 44/50 [00:16<00:02,  2.66it/s] 90%|█████████ | 45/50 [00:16<00:01,  2.66it/s] 92%|█████████▏| 46/50 [00:17<00:01,  2.67it/s] 94%|█████████▍| 47/50 [00:17<00:01,  2.67it/s] 96%|█████████▌| 48/50 [00:17<00:00,  2.68it/s] 98%|█████████▊| 49/50 [00:18<00:00,  2.68it/s]100%|██████████| 50/50 [00:18<00:00,  2.68it/s]100%|██████████| 50/50 [00:18<00:00,  2.68it/s]
+   sub_label  obj_label relation                                   masked_sentences                                         sub_sister  uuid  sub_position sub_label_sg sub_label_pl                                            def_sap                                            def_dap                                            lsp_sap                                            lsp_dap                                     anchor_lsp_sap                sub_label_sgpl                                  obj_mask_sentence                            obj_mask_sentence_score                                   obj_mask_def_sap                             obj_mask_def_sap_score                                   obj_mask_lsp_sap                             obj_mask_lsp_sap_score                                       subj_anchors                                 subj_anchors_score                                    subj_anchors_sg                                    subj_anchors_pl  \
+0  accidents    [error]      IsA  [An accident is a [MASK]., An accident is an [...  [gravy, convergence, reverse, flash, interrupt...     0             3     accident    accidents  [an accident is a [MASK]., an accident is a ty...  [an accident or [Z] is a [MASK]., an accident ...  [[MASK] such as accidents., [MASK], including ...  [[MASK] such as accidents and [Z]., [MASK], in...  [such as accidents and [MASK]., such as accide...  accidents accident accidents  [mistake, disaster, failure, tragedy, crime, c...  {'mistake': -7.604061857774812, 'disaster': -8...  [tragedy, disaster, mistake, catastrophe, crim...  {'tragedy': -8.648991036579575, 'disaster': -8...  [incident, injury, thing, event, cause, disast...  {'incidents': -8.381302205838045, 'injuries': ...  [incidents, fires, fire, collapses, failures, ...  {'incidents': 0.48598293599983056, 'fires': 0....      [incident, fire, collapse, failure, disaster]  [incidents, fires, collapses, failures, disast...   
+1  accidents  [mistake]      IsA  [An accident is a [MASK]., An accident is an [...  [gravy, convergence, reverse, flash, interrupt...     1             3     accident    accidents  [an accident is a [MASK]., an accident is a ty...  [an accident or [Z] is a [MASK]., an accident ...  [[MASK] such as accidents., [MASK], including ...  [[MASK] such as accidents and [Z]., [MASK], in...  [such as accidents and [MASK]., such as accide...  accidents accident accidents  [mistake, disaster, failure, tragedy, crime, c...  {'mistake': -7.604061857774812, 'disaster': -8...  [tragedy, disaster, mistake, catastrophe, crim...  {'tragedy': -8.648991036579575, 'disaster': -8...  [incident, injury, thing, event, cause, disast...  {'incidents': -8.381302205838045, 'injuries': ...  [incidents, fires, fire, collapses, failures, ...  {'incidents': 0.48598293599983056, 'fires': 0....      [incident, fire, collapse, failure, disaster]  [incidents, fires, collapses, failures, disast...   
+2    actions    [event]      IsA  [An action is a [MASK]., An action is an [MASK].]  [job, ironing, omnipotence, degeneration, inte...     2             3       action      actions  [an action is a [MASK]., an action is a type o...  [an action or [Z] is a [MASK]., an action or [...  [[MASK] such as actions., [MASK], including ac...  [[MASK] such as actions and [Z]., [MASK], incl...  [such as actions and [MASK]., such as actions ...        actions action actions  [act, idea, statement, process, reaction, cons...  {'act': -8.938543281627771, 'idea': -9.7474822...  [behavior, movement, process, reaction, decisi...  {'behavior': -9.292473658582107, 'movement': -...  [thing, act, emotion, thought, event, feeling,...  {'things': -8.395079900742743, 'acts': -9.6160...  [activities, feelings, causes, relationships, ...  {'activities': 1.0093807973898947, 'feelings':...  [activity, feeling, cause, relationship, opera...  [activities, feelings, causes, relationships, ...   
+3    actions     [work]      IsA  [An action is a [MASK]., An action is an [MASK].]  [job, ironing, omnipotence, degeneration, inte...     3             3       action      actions  [an action is a [MASK]., an action is a type o...  [an action or [Z] is a [MASK]., an action or [...  [[MASK] such as actions., [MASK], including ac...  [[MASK] such as actions and [Z]., [MASK], incl...  [such as actions and [MASK]., such as actions ...        actions action actions  [act, idea, statement, process, reaction, cons...  {'act': -8.938543281627771, 'idea': -9.7474822...  [behavior, movement, process, reaction, decisi...  {'behavior': -9.292473658582107, 'movement': -...  [thing, act, emotion, thought, event, feeling,...  {'things': -8.395079900742743, 'acts': -9.6160...  [activities, feelings, causes, relationships, ...  {'activities': 1.0093807973898947, 'feelings':...  [activity, feeling, cause, relationship, opera...  [activities, feelings, causes, relationships, ...   
+4     actors   [person]      IsA    [An actor is a [MASK]., An actor is an [MASK].]  [quester, white, signer, knocker, granter, nam...     4             3        actor       actors  [an actor is a [MASK]., an actor is a type of ...  [an actor or [Z] is a [MASK]., an actor or [Z]...  [[MASK] such as actors., [MASK], including act...  [[MASK] such as actors and [Z]., [MASK], inclu...  [such as actors and [MASK]., such as actors or...           actors actor actors  [performer, singer, musician, writer, person, ...  {'performer': -7.68316421097708, 'singer': -8....  [person, performer, musician, writer, singer, ...  {'person': -7.954193489394565, 'performer': -8...  [artist, performer, people, professional, cele...  {'artists': -7.7648846420167414, 'performers':...  [musicians, singers, dancers, directors, comed...  {'musicians': 0.5195887538068222, 'singers': 0...     [musician, singer, dancer, director, comedian]  [musicians, singers, dancers, directors, comed...   
+
+                                      anchor_col_all         subj_anchors_combined                  masked_sentences_with_subj_anchor                           def_dap_with_subj_anchor                           lsp_dap_with_subj_anchor                                   obj_mask_def_dap                             obj_mask_def_dap_score                                   obj_mask_lsp_dap                             obj_mask_lsp_dap_score  
+0  [incident, fire, collapse, failure, disaster, ...  accidents accident accidents  [An accident is a [MASK]., An accident  or inc...  [an accident or an incident is a [MASK]., an a...  [[MASK] such as accidents and incidents., [MAS...  [disaster, catastrophe, failure, tragedy, crim...  {'disaster': -7.675267312467665, 'catastrophe'...  [incident, event, thing, disaster, cause, emer...  {'incidents': -7.780978371873857, 'events': -9...  
+1  [incident, fire, collapse, failure, disaster, ...  accidents accident accidents  [An accident is a [MASK]., An accident  or inc...  [an accident or an incident is a [MASK]., an a...  [[MASK] such as accidents and incidents., [MAS...  [disaster, catastrophe, failure, tragedy, crim...  {'disaster': -7.675267312467665, 'catastrophe'...  [incident, event, thing, disaster, cause, emer...  {'incidents': -7.780978371873857, 'events': -9...  
+2  [activity, feeling, cause, relationship, opera...        actions action actions  [An action is a [MASK]., An action  or activit...  [an action or an activity is a [MASK]., an act...  [[MASK] such as actions and activities., [MASK...  [relationship, process, behavior, activity, la...  {'relationship': -8.18823902312312, 'process':...  [thing, concept, emotion, activity, relationsh...  {'things': -8.597345925705957, 'concepts': -9....  
+3  [activity, feeling, cause, relationship, opera...        actions action actions  [An action is a [MASK]., An action  or activit...  [an action or an activity is a [MASK]., an act...  [[MASK] such as actions and activities., [MASK...  [relationship, process, behavior, activity, la...  {'relationship': -8.18823902312312, 'process':...  [thing, concept, emotion, activity, relationsh...  {'things': -8.597345925705957, 'concepts': -9....  
+4  [musician, singer, dancer, director, comedian,...           actors actor actors  [An actor is a [MASK]., An actor  or musicians...  [an actor or a musician is a [MASK]., an actor...  [[MASK] such as actors and musicians., [MASK] ...  [person, musician, performer, artist, entertai...  {'person': -6.517726397052436, 'musician': -7....  [artist, performer, professional, musician, ce...  {'artists': -6.9295141211429, 'performers': -7...  
+---------------------------------------- anchor evaluation ----------------------------------------
+begin{tabular}{rlrrrrrr}
+hline
+    	 mask_type       	   p@1 	   p@5 	   p@10 	   mrr 	   anchor_wordnet_avg_path 	   anchor_wordnet_coverage 
+hline
+  0 	 subj_anchors_sg 	    66 	    86 	     86 	    76 	                      3.48 	                         1 
+  1 	 anchor_col_all  	    66 	    86 	     86 	    76 	                      3.48 	                         1 
+hline
+end{tabular}
+---------------------------------------- obj_label evaluation ----------------------------------------
+begin{tabular}{rlrrrrrrr}
+hline
+    	 mask_type   	   p@1 	   p@5 	   p@10 	   mrr 	   anchor_wordnet_avg_path 	   anchor_wordnet_coverage 	   mask_type_id 
+hline
+  1 	 def_sap     	    12 	    38 	     46 	  22   	                      3.48 	                         1 	              1 
+  2 	 lsp_sap     	     6 	    20 	     36 	  12.1 	                      3.48 	                         1 	              3 
+  3 	 def_dap     	    14 	    40 	     46 	  24.8 	                      3.48 	                         1 	              2 
+  4 	 lsp_dap     	     4 	    14 	     32 	   9.4 	                      3.48 	                         1 	              4 
+hline
+end{tabular}
+save log/bert-large-uncased/hypernymsuite/EVAL/df_all_use_global_dap_True_anchor_type_Coordinate_remove_Y_PUNC_FULL_concate_or_single_max_anchor_num_5_anchor_scorer_probAvg_filter_obj_True_filter_objects_with_input_True_wnp_True_cpt_False.HYPERNYMSUITE.tsv
+save log/bert-large-uncased/hypernymsuite/EVAL/exp_data_results_anchor_type_Coordinate_remove_Y_PUNC_FULL_concate_or_single_max_anchor_num_5_anchor_scorer_probAvg_filter_obj_True_filter_objects_with_input_True_wnp_True_cpt_False.HYPERNYMSUITE.csv
+debug: True
+---------------------------------------- config ----------------------------------------
+{'debug': True, 'test_relations': ['IsA'], 'save_all_data': True, 'top_k': 10, 'data_dir': 'data/hypernymsuite/SHWARTZ/', 'mask_string_mapping': {'bert-large-uncased': '[MASK]'}, 'use_dap_global': True, 'return_probs': True, 'anchor_scorer_list': ['probAvg'], 'scorer_target_1_prompt': 'probSum', 'scorer_target_N_prompts': 'freqProbLogSum', 'use_original_prompt': True, 'original_prompt_source': 'masked_sentence', 'incorporate_operations': ['concate_or_single'], 'filter_anchors_flag': True, 'filter_objects_flag': True, 'cpt_only': False, 'anchor_types': ['Coordinate_remove_Y_PUNC_FULL'], 'add_cpt_score': False, 'constrain_targets': False, 'add_wordnet_path_score': True, 'anchor_probe': 'plural_probe', 'anchor_col': 'subj_anchors', 'anchor_col_sg': 'subj_anchors_sg', 'anchor_col_pl': 'subj_anchors_pl', 'filter_objects_with_input': True, 'sub_col': 'sub_label', 'sub_col_sg': 'sub_label_sg', 'sub_col_pl': 'sub_label_pl', 'top_k_anchors': 5, 'max_anchor_num_list': [10], 'max_anchor_num': 10, 'sub_col_sgpl': 'sub_label_sgpl', 'filter_objects_with_anchors': False, 'anchor_col_all': 'anchor_col_all', 'oracle_anchor_inserted': False}
+---------------------------------------- config ----------------------------------------
+Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+---------------------------------------- bert-large-uncased-anchor_type: Coordinate_remove_Y_PUNC_FULL-scorer_anchor:probAvg-op:concate_or_single ----------------------------------------
+{
+    "IsA": {
+        "relation": "IsA",
+        "def_sap": [
+            "[X] is a [MASK].",
+            "[X] is a type of [MASK].",
+            "[X] is a kind of [MASK]."
+        ],
+        "def_dap": [
+            "[X] or [Z] is a [MASK].",
+            "[X] or [Z] is a type of [MASK].",
+            "[X] or [Z] is a kind of [MASK]."
+        ],
+        "lsp_sap": [
+            "[MASK] such as [X].",
+            "[MASK], including [X].",
+            "[MASK], especially [X].",
+            "[X] or other [MASK].",
+            "[X] and other [MASK].",
+            "such [MASK] as [X]."
+        ],
+        "lsp_dap": [
+            "[MASK] such as [X] and [Z].",
+            "[MASK], including [X] and [Z].",
+            "[MASK], especially [X] and [Z].",
+            "[X], [Z] and other [MASK].",
+            "[X], [Z] or other [MASK].",
+            "such [MASK] as [X] and [Z]."
+        ],
+        "use_dap": true,
+        "anchor_target": "[X]",
+        "anchor_lsp_sap": [
+            "such as [X] and [MASK].",
+            "such as [X] or [MASK].",
+            "such as [X], [MASK],",
+            "including [X] and [MASK].",
+            "including [X] or [MASK].",
+            "including [X], [MASK],",
+            "especially [X] and [MASK].",
+            "especially [X] or [MASK].",
+            "especially [X], [MASK],",
+            "[X], [MASK] or other",
+            "[X], [MASK] and other"
+        ]
+    }
+}
+Processing IsA ... data/hypernymsuite/SHWARTZ//IsA.jsonl
+#Test_instances: 12994
+	 step1: get anchors (fill and filter)
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+--- def_sap
+--- lsp_sap
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+relation: IsA 	 use_dap: True
+	 step2: insert anchors
+sub_col sub_label
+	 step3: fill mask in dap anchors
+  0%|          | 0/50 [00:00<?, ?it/s]/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+  2%|▏         | 1/50 [00:00<00:09,  5.18it/s]  4%|▍         | 2/50 [00:00<00:09,  5.21it/s]  6%|▌         | 3/50 [00:00<00:08,  5.22it/s]  8%|▊         | 4/50 [00:00<00:08,  5.22it/s] 10%|█         | 5/50 [00:00<00:08,  5.23it/s] 12%|█▏        | 6/50 [00:01<00:08,  5.24it/s] 14%|█▍        | 7/50 [00:01<00:08,  5.24it/s] 16%|█▌        | 8/50 [00:01<00:08,  5.25it/s] 18%|█▊        | 9/50 [00:01<00:07,  5.23it/s] 20%|██        | 10/50 [00:01<00:07,  5.24it/s] 22%|██▏       | 11/50 [00:02<00:07,  5.24it/s] 24%|██▍       | 12/50 [00:02<00:07,  5.25it/s] 26%|██▌       | 13/50 [00:02<00:07,  5.25it/s] 28%|██▊       | 14/50 [00:02<00:06,  5.26it/s] 30%|███       | 15/50 [00:02<00:06,  5.25it/s] 32%|███▏      | 16/50 [00:03<00:06,  5.25it/s] 34%|███▍      | 17/50 [00:03<00:06,  5.25it/s] 36%|███▌      | 18/50 [00:03<00:06,  5.25it/s] 38%|███▊      | 19/50 [00:03<00:05,  5.26it/s] 40%|████      | 20/50 [00:03<00:05,  5.25it/s] 42%|████▏     | 21/50 [00:04<00:05,  5.25it/s] 44%|████▍     | 22/50 [00:04<00:05,  5.26it/s] 46%|████▌     | 23/50 [00:04<00:05,  5.24it/s] 48%|████▊     | 24/50 [00:04<00:04,  5.25it/s] 50%|█████     | 25/50 [00:04<00:04,  5.25it/s] 52%|█████▏    | 26/50 [00:04<00:04,  5.25it/s] 54%|█████▍    | 27/50 [00:05<00:04,  5.25it/s] 56%|█████▌    | 28/50 [00:05<00:04,  5.26it/s] 58%|█████▊    | 29/50 [00:05<00:03,  5.26it/s] 60%|██████    | 30/50 [00:05<00:03,  5.26it/s] 62%|██████▏   | 31/50 [00:05<00:03,  5.26it/s] 64%|██████▍   | 32/50 [00:06<00:03,  5.26it/s] 66%|██████▌   | 33/50 [00:06<00:03,  5.26it/s] 68%|██████▊   | 34/50 [00:06<00:03,  5.26it/s] 70%|███████   | 35/50 [00:06<00:02,  5.26it/s] 72%|███████▏  | 36/50 [00:06<00:02,  5.24it/s] 74%|███████▍  | 37/50 [00:07<00:02,  5.25it/s] 76%|███████▌  | 38/50 [00:07<00:02,  5.25it/s] 78%|███████▊  | 39/50 [00:07<00:02,  5.25it/s] 80%|████████  | 40/50 [00:07<00:01,  5.26it/s] 82%|████████▏ | 41/50 [00:07<00:01,  5.25it/s] 84%|████████▍ | 42/50 [00:08<00:01,  5.25it/s] 86%|████████▌ | 43/50 [00:08<00:01,  5.26it/s] 88%|████████▊ | 44/50 [00:08<00:01,  5.26it/s] 90%|█████████ | 45/50 [00:08<00:00,  5.24it/s] 92%|█████████▏| 46/50 [00:08<00:00,  5.24it/s] 94%|█████████▍| 47/50 [00:08<00:00,  5.25it/s] 96%|█████████▌| 48/50 [00:09<00:00,  5.25it/s] 98%|█████████▊| 49/50 [00:09<00:00,  5.26it/s]100%|██████████| 50/50 [00:09<00:00,  5.24it/s]100%|██████████| 50/50 [00:09<00:00,  5.25it/s]
+  0%|          | 0/50 [00:00<?, ?it/s]  2%|▏         | 1/50 [00:00<00:18,  2.65it/s]  4%|▍         | 2/50 [00:00<00:18,  2.64it/s]  6%|▌         | 3/50 [00:01<00:17,  2.64it/s]  8%|▊         | 4/50 [00:01<00:17,  2.64it/s] 10%|█         | 5/50 [00:01<00:17,  2.65it/s] 12%|█▏        | 6/50 [00:02<00:16,  2.65it/s] 14%|█▍        | 7/50 [00:02<00:16,  2.64it/s] 16%|█▌        | 8/50 [00:03<00:15,  2.64it/s] 18%|█▊        | 9/50 [00:03<00:15,  2.64it/s] 20%|██        | 10/50 [00:03<00:15,  2.64it/s] 22%|██▏       | 11/50 [00:04<00:14,  2.64it/s] 24%|██▍       | 12/50 [00:04<00:14,  2.64it/s] 26%|██▌       | 13/50 [00:04<00:14,  2.64it/s] 28%|██▊       | 14/50 [00:05<00:13,  2.64it/s] 30%|███       | 15/50 [00:05<00:13,  2.64it/s] 32%|███▏      | 16/50 [00:06<00:12,  2.63it/s] 34%|███▍      | 17/50 [00:06<00:12,  2.64it/s] 36%|███▌      | 18/50 [00:06<00:12,  2.65it/s] 38%|███▊      | 19/50 [00:07<00:11,  2.65it/s] 40%|████      | 20/50 [00:07<00:11,  2.65it/s] 42%|████▏     | 21/50 [00:07<00:10,  2.65it/s] 44%|████▍     | 22/50 [00:08<00:10,  2.64it/s] 46%|████▌     | 23/50 [00:08<00:10,  2.64it/s] 48%|████▊     | 24/50 [00:09<00:09,  2.65it/s] 50%|█████     | 25/50 [00:09<00:09,  2.65it/s] 52%|█████▏    | 26/50 [00:09<00:09,  2.65it/s] 54%|█████▍    | 27/50 [00:10<00:08,  2.56it/s] 56%|█████▌    | 28/50 [00:10<00:08,  2.59it/s] 58%|█████▊    | 29/50 [00:11<00:08,  2.61it/s] 60%|██████    | 30/50 [00:11<00:07,  2.62it/s] 62%|██████▏   | 31/50 [00:11<00:07,  2.62it/s] 64%|██████▍   | 32/50 [00:12<00:06,  2.63it/s] 66%|██████▌   | 33/50 [00:12<00:06,  2.64it/s] 68%|██████▊   | 34/50 [00:12<00:06,  2.64it/s] 70%|███████   | 35/50 [00:13<00:05,  2.64it/s] 72%|███████▏  | 36/50 [00:13<00:05,  2.64it/s] 74%|███████▍  | 37/50 [00:14<00:04,  2.65it/s] 76%|███████▌  | 38/50 [00:14<00:04,  2.64it/s] 78%|███████▊  | 39/50 [00:14<00:04,  2.65it/s] 80%|████████  | 40/50 [00:15<00:03,  2.65it/s] 82%|████████▏ | 41/50 [00:15<00:03,  2.64it/s] 84%|████████▍ | 42/50 [00:15<00:03,  2.65it/s] 86%|████████▌ | 43/50 [00:16<00:02,  2.64it/s] 88%|████████▊ | 44/50 [00:16<00:02,  2.63it/s] 90%|█████████ | 45/50 [00:17<00:01,  2.63it/s] 92%|█████████▏| 46/50 [00:17<00:01,  2.64it/s] 94%|█████████▍| 47/50 [00:17<00:01,  2.64it/s] 96%|█████████▌| 48/50 [00:18<00:00,  2.64it/s] 98%|█████████▊| 49/50 [00:18<00:00,  2.64it/s]100%|██████████| 50/50 [00:18<00:00,  2.64it/s]100%|██████████| 50/50 [00:18<00:00,  2.64it/s]
+      sub_label obj_label relation                                   masked_sentences                                         sub_sister  uuid  sub_position sub_label_sg  sub_label_pl                                            def_sap                                            def_dap                                            lsp_sap                                            lsp_dap                                     anchor_lsp_sap                         sub_label_sgpl                                  obj_mask_sentence                            obj_mask_sentence_score                                   obj_mask_def_sap                             obj_mask_def_sap_score                                   obj_mask_lsp_sap                             obj_mask_lsp_sap_score                                       subj_anchors                                 subj_anchors_score                                    subj_anchors_sg                                    subj_anchors_pl  \
+0         golos   [river]      IsA        [A golo is a [MASK]., A golo is an [MASK].]                                                 []     0             2         golo         golos  [a golo is a [MASK]., a golo is a type of [MAS...  [a golo or [Z] is a [MASK]., a golo or [Z] is ...  [[MASK] such as golos., [MASK], including golo...  [[MASK] such as golos and [Z]., [MASK], includ...  [such as golos and [MASK]., such as golos or [...                       golos golo golos  [animal, elephant, donkey, dog, fish, eel, acc...  {'animal': -6.888653904527905, 'elephant': -8....  [fish, drum, bird, boat, dog, donkey, canoe, p...  {'fish': -9.915112659666699, 'drum': -10.30261...  [animal, yes, bird, thing, fish, story, poem, ...  {'animals': -9.165659436344457, 'yes': -9.6197...  [human, bird, demons, dragons, spain, humans, ...  {'human': 0.10149449110031128, 'bird': 0.05481...                [human, bird, demon, dragon, spain]           [humans, birds, demons, dragons, spains]   
+1    kerroberts    [town]      IsA  [A kerrobert is a [MASK]., A kerrobert is an [...                                                 []     1             2    kerrobert    kerroberts  [a kerrobert is a [MASK]., a kerrobert is a ty...  [a kerrobert or [Z] is a [MASK]., a kerrobert ...  [[MASK] such as kerroberts., [MASK], including...  [[MASK] such as kerroberts and [Z]., [MASK], i...  [such as kerroberts and [MASK]., such as kerro...        kerroberts kerrobert kerroberts  [asteroid, acronym, aircraft, automobile, umbr...  {'asteroid': -9.461400115751571, 'acronym': -1...  [reactor, robot, explosive, cannon, bomb, ball...  {'reactor': -10.873440118965053, 'robot': -11....  [company, publisher, brand, place, artist, peo...  {'companies': -8.823329391863737, 'publishers'...  [germany, french, robert, john, david, peter, ...  {'germany': 0.025464955096443493, 'french': 0....             [germany, french, robert, john, david]      [germanies, frenches, roberts, johns, davids]   
+2    geometrias    [film]      IsA  [A geometria is a [MASK]., A geometria is an [...                                                 []     2             2    geometria    geometrias  [a geometria is a [MASK]., a geometria is a ty...  [a geometria or [Z] is a [MASK]., a geometria ...  [[MASK] such as geometrias., [MASK], including...  [[MASK] such as geometrias and [Z]., [MASK], i...  [such as geometrias and [MASK]., such as geome...        geometrias geometria geometrias  [object, algebra, manifold, dimension, surface...  {'object': -6.18670296737651, 'algebra': -7.88...  [manifold, geometry, space, structure, surface...  {'manifold': -7.623828773356801, 'geometry': -...  [geometry, mathematics, object, thing, phenome...  {'geometry': -8.077484210937316, 'mathematics'...  [spheres, geometry, surfaces, crystals, mathem...  {'spheres': 0.07430552284825932, 'geometry': 0...  [sphere, geometry, surface, crystal, mathematics]  [spheres, geometries, surfaces, crystals, math...   
+3  evaporations   [place]      IsA  [An evaporation is a [MASK]., An evaporation i...  [melting, vapour, thawing, thaw, vaporisation,...     3             3  evaporation  evaporations  [an evaporation is a [MASK]., an evaporation i...  [an evaporation or [Z] is a [MASK]., an evapor...  [[MASK] such as evaporations., [MASK], includi...  [[MASK] such as evaporations and [Z]., [MASK],...  [such as evaporations and [MASK]., such as eva...  evaporations evaporation evaporations  [process, explosion, precipitation, expansion,...  {'process': -7.783032526316761, 'explosion': -...  [precipitation, process, liquid, reaction, dro...  {'precipitation': -6.517468626047083, 'process...  [phenomenon, precipitation, process, liquid, f...  {'phenomena': -7.646275684013182, 'precipitati...  [vapor, freezing, melting, precipitation, conv...  {'vapor': 1.0271918661892414, 'freezing': 0.34...   [vapor, freeze, melt, precipitation, convection]  [vapors, freezes, melts, precipitations, conve...   
+4     boneheads    [band]      IsA  [A bonehead is a [MASK]., A bonehead is an [MA...  [knucklehead, hammerhead, loggerhead, dumbass,...     4             2     bonehead     boneheads  [a bonehead is a [MASK]., a bonehead is a type...  [a bonehead or [Z] is a [MASK]., a bonehead or...  [[MASK] such as boneheads., [MASK], including ...  [[MASK] such as boneheads and [Z]., [MASK], in...  [such as boneheads and [MASK]., such as bonehe...           boneheads bonehead boneheads  [animal, individual, actor, insect, anchor, el...  {'animal': -7.760352993909391, 'individual': -...  [fish, turtle, bird, bone, animal, catfish, pi...  {'fish': -9.285614179926169, 'turtle': -9.8092...  [yeah, bone, people, thing, animal, band, yes,...  {'yeah': -8.830292573364021, 'bones': -9.55534...  [idiots, fools, women, men, crabs, babies, fem...  {'idiots': 0.2942011896520853, 'fools': 0.2606...                    [idiot, fool, woman, man, crab]                 [idiots, fools, women, men, crabs]   
+
+                                      anchor_col_all                  subj_anchors_combined                  masked_sentences_with_subj_anchor                           def_dap_with_subj_anchor                           lsp_dap_with_subj_anchor                                   obj_mask_def_dap                             obj_mask_def_dap_score                                   obj_mask_lsp_dap                             obj_mask_lsp_dap_score  
+0  [human, bird, demon, dragon, spain, yes, franc...                       golos golo golos  [A golo is a [MASK]., A golo  or human is a [M...  [a golo or a human is a [MASK]., a golo or a b...  [[MASK] such as golos and humans., [MASK] such...  [animal, bird, creature, demon, fish, human, r...  {'animal': -8.44834543486657, 'bird': -8.89544...  [creature, animal, thing, demon, monster, rept...  {'creatures': -7.826360598310793, 'animals': -...  
+1  [germany, french, robert, john, david, peter, ...        kerroberts kerrobert kerroberts  [A kerrobert is a [MASK]., A kerrobert  or ger...  [a kerrobert or a germany is a [MASK]., a kerr...  [[MASK] such as kerroberts and germanies., [MA...  [car, sausage, bicycle, shotgun, pastry, canno...  {'car': -11.099399638510802, 'sausage': -11.21...  [company, publisher, architect, firm, name, br...  {'companies': -9.358462072404077, 'publishers'...  
+2  [sphere, geometry, surface, crystal, mathemati...        geometrias geometria geometrias  [A geometria is a [MASK]., A geometria  or sph...  [a geometria or a sphere is a [MASK]., a geome...  [[MASK] such as geometrias and spheres., [MASK...  [geometry, manifold, space, crystal, structure...  {'geometry': -7.624184442009725, 'manifold': -...  [geometry, object, material, topic, mathematic...  {'geometry': -8.725755805391199, 'objects': -8...  
+3  [vapor, freeze, melt, precipitation, convectio...  evaporations evaporation evaporations  [An evaporation is a [MASK]., An evaporation  ...  [an evaporation or a vapor is a [MASK]., an ev...  [[MASK] such as evaporations and vapors., [MAS...  [precipitation, process, liquid, reaction, coo...  {'precipitation': -7.313455519670398, 'process...  [phenomenon, process, precipitation, thing, ef...  {'phenomena': -7.292133268718677, 'processes':...  
+4  [idiot, fool, woman, man, crab, baby, female, ...           boneheads bonehead boneheads  [A bonehead is a [MASK]., A bonehead  or idiot...  [a bonehead or an idiot is a [MASK]., a bonehe...  [[MASK] such as boneheads and idiots., [MASK] ...  [crab, person, man, fool, animal, fish, human,...  {'crab': -8.219559783206885, 'person': -9.0482...  [people, crab, animal, thing, woman, fool, fis...  {'people': -8.807701939421198, 'crabs': -8.858...  
+---------------------------------------- anchor evaluation ----------------------------------------
+begin{tabular}{rlrrrrrr}
+hline
+    	 mask_type       	   p@1 	   p@5 	   p@10 	   mrr 	   anchor_wordnet_avg_path 	   anchor_wordnet_coverage 
+hline
+  0 	 subj_anchors_sg 	    30 	    32 	     32 	  31   	                      5.06 	                      0.56 
+  1 	 anchor_col_all  	    30 	    32 	     34 	  31.2 	                      5.06 	                      0.56 
+hline
+end{tabular}
+---------------------------------------- obj_label evaluation ----------------------------------------
+begin{tabular}{rlrrrrrrr}
+hline
+    	 mask_type   	   p@1 	   p@5 	   p@10 	   mrr 	   anchor_wordnet_avg_path 	   anchor_wordnet_coverage 	   mask_type_id 
+hline
+  1 	 def_sap     	     4 	     6 	      8 	   5.3 	                      5.06 	                      0.56 	              1 
+  2 	 lsp_sap     	     2 	     4 	      8 	   3.6 	                      5.06 	                      0.56 	              3 
+  3 	 def_dap     	     6 	    10 	     10 	   6.9 	                      5.06 	                      0.56 	              2 
+  4 	 lsp_dap     	     2 	     6 	      8 	   3.4 	                      5.06 	                      0.56 	              4 
+hline
+end{tabular}
+save log/bert-large-uncased/hypernymsuite/SHWARTZ/df_all_use_global_dap_True_anchor_type_Coordinate_remove_Y_PUNC_FULL_concate_or_single_max_anchor_num_5_anchor_scorer_probAvg_filter_obj_True_filter_objects_with_input_True_wnp_True_cpt_False.HYPERNYMSUITE.tsv
+save log/bert-large-uncased/hypernymsuite/SHWARTZ/exp_data_results_anchor_type_Coordinate_remove_Y_PUNC_FULL_concate_or_single_max_anchor_num_5_anchor_scorer_probAvg_filter_obj_True_filter_objects_with_input_True_wnp_True_cpt_False.HYPERNYMSUITE.csv

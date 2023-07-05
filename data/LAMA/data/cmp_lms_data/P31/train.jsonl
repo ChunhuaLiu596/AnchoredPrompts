@@ -1,0 +1,900 @@
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q5306693", "sub_label": "Dreams Come True", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q5458917", "sub_label": "Flex", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q6383177", "sub_label": "Keep the Light Alive : Celebrating the Music of Lowen & Navarro", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q15232984", "sub_label": "Kalattiyur", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q618779", "obj_label": "award", "sub_uri": "Q1070276", "sub_label": "Chern Medal", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q618779", "obj_label": "award", "sub_uri": "Q6733247", "sub_label": "Maharaja Ranjit Singh Award", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q618779", "obj_label": "award", "sub_uri": "Q16974791", "sub_label": "America Award in Literature", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q736917", "obj_label": "formation", "sub_uri": "Q17514501", "sub_label": "Pilton Shales", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q7529946", "sub_label": "Sirala", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q39614", "obj_label": "cemetery", "sub_uri": "Q8509826", "sub_label": "Mount Albion Cemetery", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q5881488", "sub_label": "Hollingworth", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q4862081", "sub_label": "Baron, Allahabad", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q118167", "sub_label": "V\u00e9z\u00e8re", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q4674476", "sub_label": "Acomb", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q27686", "obj_label": "hotel", "sub_uri": "Q15253446", "sub_label": "Mineola Hotel", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q5977605", "sub_label": "I Heard It Today", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q736917", "obj_label": "formation", "sub_uri": "Q18378877", "sub_label": "Snyder Creek Shale", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q1714424", "sub_label": "Roxburgh", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q847915", "sub_label": "Chocolate Starfish and the Hot Dog Flavored Water", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q1401172", "sub_label": "Fehla", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q17153574", "sub_label": "The Black Market", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q1472999", "sub_label": "Fuhlenau", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q192611", "obj_label": "constituency", "sub_uri": "Q7588086", "sub_label": "St. George's-Stephenville East", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q8274", "obj_label": "manga", "sub_uri": "Q4646415", "sub_label": "Fairy Navigator Runa", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q740445", "obj_label": "ridge", "sub_uri": "Q4937466", "sub_label": "Bogdan Ridge", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q27686", "obj_label": "hotel", "sub_uri": "Q3346241", "sub_label": "Null Stern Hotel", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q618779", "obj_label": "award", "sub_uri": "Q954244", "sub_label": "Thorolf Rafto Memorial Prize", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q4048302", "sub_label": "Ride On", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q8022776", "sub_label": "Wilmington River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q618779", "obj_label": "award", "sub_uri": "Q17103408", "sub_label": "Stub\u00f8prisen", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q15210130", "sub_label": "Chulkana", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q4783864", "sub_label": "Arakulam", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q3381195", "sub_label": "Penclawdd", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q694188", "sub_label": "Pulau River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q6588790", "sub_label": "Punta Arena Airstrip", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q618779", "obj_label": "award", "sub_uri": "Q17007847", "sub_label": "Hum Award for Best Actress Viewers Choice", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q16939133", "sub_label": "Strobosphere", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q188509", "obj_label": "suburb", "sub_uri": "Q5167402", "sub_label": "Coolana", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q957398", "sub_label": "Pleasure to Kill", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q3886849", "sub_label": "Happy Camp Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q618779", "obj_label": "award", "sub_uri": "Q8047432", "sub_label": "Yale Series of Younger Poets Competition", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q1750563", "sub_label": "Negri River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q8366", "obj_label": "algorithm", "sub_uri": "Q496939", "sub_label": "Levenshtein distance", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q2195432", "sub_label": "Tamale Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q19460315", "sub_label": "Augusto Vergara Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q131681", "obj_label": "reservoir", "sub_uri": "Q1425346", "sub_label": "Nizhnekamsk Reservoir", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q8366", "obj_label": "algorithm", "sub_uri": "Q3252726", "sub_label": "selection algorithm", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q7209145", "sub_label": "Polarity", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q642694", "sub_label": "Otra", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q35666", "obj_label": "glacier", "sub_uri": "Q5272235", "sub_label": "Dibble Glacier", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q18713802", "sub_label": "Selma Bajrami", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q483453", "obj_label": "fountain", "sub_uri": "Q2420041", "sub_label": "fontaine Maubu\u00e9e", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q7171102", "sub_label": "Perunilam", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q8030717", "sub_label": "Woman in Me", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q17575166", "sub_label": "Guiers Vif", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q11004", "obj_label": "vegetable", "sub_uri": "Q1277255", "sub_label": "Lagenaria siceraria", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q604405", "sub_label": "Ubaye", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q12280", "obj_label": "bridge", "sub_uri": "Q16852441", "sub_label": "King's Bridge, Glasgow", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q223227", "sub_label": "Caprino, Switzerland", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q740445", "obj_label": "ridge", "sub_uri": "Q5265042", "sub_label": "Dessent Ridge", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q12280", "obj_label": "bridge", "sub_uri": "Q14704820", "sub_label": "Carns State Aid Bridge", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q7075", "obj_label": "library", "sub_uri": "Q7114110", "sub_label": "Oviatt Library", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q188055", "obj_label": "siege", "sub_uri": "Q3272485", "sub_label": "Siege of Barcelona", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q736917", "obj_label": "formation", "sub_uri": "Q17515286", "sub_label": "Kulthieth Formation", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q3207123", "sub_label": "Hoskins Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q12323", "obj_label": "dam", "sub_uri": "Q6367692", "sub_label": "Karacasu Dam", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q5588216", "sub_label": "Goulais River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q174736", "obj_label": "destroyer", "sub_uri": "Q7869418", "sub_label": "USS Floyd B. Parks", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q450816", "sub_label": "Alzou", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q39715", "obj_label": "lighthouse", "sub_uri": "Q2549659", "sub_label": "Lighthouse of Ameland", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q8030558", "sub_label": "Wolverton", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q81163", "obj_label": "polymer", "sub_uri": "Q145863", "sub_label": "polyethylene terephthalate", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q9779", "obj_label": "alphabet", "sub_uri": "Q15104320", "sub_label": "Pallava alphabet", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q5736887", "sub_label": "Here & Now", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q188509", "obj_label": "suburb", "sub_uri": "Q7137788", "sub_label": "Park Holme", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q42998", "obj_label": "orchestra", "sub_uri": "Q7649328", "sub_label": "Susquehanna Symphony Orchestra", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q4790812", "sub_label": "Mwewe River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q192611", "obj_label": "constituency", "sub_uri": "Q14875270", "sub_label": "London North Centre (provincial electoral district)", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q12323", "obj_label": "dam", "sub_uri": "Q7677241", "sub_label": "Takaono Dam", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q7117090", "sub_label": "P.T.S.D.", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q42998", "obj_label": "orchestra", "sub_uri": "Q16967266", "sub_label": "Ploie\u0219ti Philharmonic Orchestra", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q283202", "obj_label": "harbor", "sub_uri": "Q5501488", "sub_label": "Fremantle Harbour", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q736917", "obj_label": "formation", "sub_uri": "Q5523369", "sub_label": "Garita Creek Formation", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q18575582", "sub_label": "2014 Forest Hills Drive", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q4801200", "sub_label": "Artisan", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q736917", "obj_label": "formation", "sub_uri": "Q7800263", "sub_label": "Tiaojishan Formation", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q10884", "obj_label": "tree", "sub_uri": "Q944175", "sub_label": "Sri Maha Bodhi", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q7366217", "sub_label": "Rookie Card", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q3863", "obj_label": "asteroid", "sub_uri": "Q6579202", "sub_label": "2013 EC", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q5288150", "sub_label": "Dog", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q188509", "obj_label": "suburb", "sub_uri": "Q5738973", "sub_label": "Heritage Park", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q188509", "obj_label": "suburb", "sub_uri": "Q4942523", "sub_label": "Bonnyrigg", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q1958893", "sub_label": "Angmering", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q32815", "obj_label": "mosque", "sub_uri": "Q5529123", "sub_label": "Gazi Mehmet Pasha's Mosque", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q12323", "obj_label": "dam", "sub_uri": "Q6672420", "sub_label": "Long Branch Dam", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q8072", "obj_label": "volcano", "sub_uri": "Q2601149", "sub_label": "Demon", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q43812", "obj_label": "passport", "sub_uri": "Q610650", "sub_label": "Latvian passport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q1062661", "sub_label": "Chapeauroux", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q27686", "obj_label": "hotel", "sub_uri": "Q14681990", "sub_label": "Fremont Hotel, Los Angeles", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q4117292", "sub_label": "Bani Walid Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q44613", "obj_label": "monastery", "sub_uri": "Q6898375", "sub_label": "Monastery of Santa Mar\u00eda la Real in Obona", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q7306581", "sub_label": "Reece Mastin", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q35666", "obj_label": "glacier", "sub_uri": "Q7530533", "sub_label": "Sirocco Glacier", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q7382392", "sub_label": "Rust Airstrip", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q16846779", "sub_label": "IBM 1401, A User's Manual", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q736917", "obj_label": "formation", "sub_uri": "Q17508637", "sub_label": "Robertson Formation", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q427178", "sub_label": "Senza nuvole", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q5410378", "sub_label": "Euphonicmontage", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q584600", "sub_label": "Seasons in the Abyss", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q3863", "obj_label": "asteroid", "sub_uri": "Q4619002", "sub_label": "2010 XC15", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q35666", "obj_label": "glacier", "sub_uri": "Q4568138", "sub_label": "Fresvikbreen", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q736917", "obj_label": "formation", "sub_uri": "Q17513507", "sub_label": "Calcaires marneaux inferieurs", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q2232118", "sub_label": "Quanzhou Jinjiang Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q7203951", "sub_label": "Pleasant River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q192611", "obj_label": "constituency", "sub_uri": "Q16259531", "sub_label": "Shuswap", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q1686659", "sub_label": "Tono River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q5068923", "sub_label": "Challenge for a Civilized Society", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q134768", "obj_label": "cocktail", "sub_uri": "Q917361", "sub_label": "daiquiri", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q7064975", "sub_label": "Novo River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q4052802", "sub_label": "Voyage", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q34038", "obj_label": "waterfall", "sub_uri": "Q37706", "sub_label": "Betzner Falls", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q484416", "obj_label": "caste", "sub_uri": "Q17010525", "sub_label": "Roniaur", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q7796979", "sub_label": "Thought 'Ya Knew", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q32815", "obj_label": "mosque", "sub_uri": "Q5445954", "sub_label": "Fethiye Mosque, Athens", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q6665167", "sub_label": "Lochsa River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q736917", "obj_label": "formation", "sub_uri": "Q17510592", "sub_label": "Colsterdale Marine Beds", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q716125", "sub_label": "Kalin\u010diakovo", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q3113998", "sub_label": "Kolakovi\u0107i", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q3354080", "sub_label": "Operation Phoenix", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q5071007", "sub_label": "Chandeni", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q5602145", "sub_label": "Greely", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q16944555", "sub_label": "Aschenbach", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q3863", "obj_label": "asteroid", "sub_uri": "Q148000", "sub_label": "218 Bianca", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q39614", "obj_label": "cemetery", "sub_uri": "Q11886099", "sub_label": "Oulu Cemetery", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q27686", "obj_label": "hotel", "sub_uri": "Q5568062", "sub_label": "Glen Tavern Inn", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q3879248", "sub_label": "Nude", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q6516685", "sub_label": "Station Group Banak", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q8274", "obj_label": "manga", "sub_uri": "Q16931816", "sub_label": "Lady Snowblood", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q7555524", "sub_label": "Sol Filosofia", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q2770663", "sub_label": "Cotheridge", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q17009840", "sub_label": "Project Success", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q39614", "obj_label": "cemetery", "sub_uri": "Q16999040", "sub_label": "Lakeside Cemetery", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q5587975", "sub_label": "Gotta Get Thru This", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q618779", "obj_label": "award", "sub_uri": "Q17144896", "sub_label": "The Pacific Sociological Association Distinguished Scholarship Award", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q7075", "obj_label": "library", "sub_uri": "Q7438667", "sub_label": "Scoville Library", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q17065980", "sub_label": "R&BW", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q7075", "obj_label": "library", "sub_uri": "Q6453758", "sub_label": "K\u00f3rnik Library", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q15284", "obj_label": "municipality", "sub_uri": "Q3229301", "sub_label": "Lemba, Kinshasa", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q17002491", "sub_label": "Egna", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q7313589", "sub_label": "Renukanagar", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q7876667", "sub_label": "Ucharpi", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q39614", "obj_label": "cemetery", "sub_uri": "Q14714030", "sub_label": "Harmony Cemetery (Marlowe, West Virginia)", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q5192151", "sub_label": "Cubat\u00e3o River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q2469695", "sub_label": "Axum Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q3502141", "sub_label": "Trading Snakeoil for Wolftickets", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q39614", "obj_label": "cemetery", "sub_uri": "Q3676882", "sub_label": "Polish Cemetery at Casamassima", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q3428570", "sub_label": "Revolutions per Minute", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q12280", "obj_label": "bridge", "sub_uri": "Q7958675", "sub_label": "Wabasha Street Bridge", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q5449881", "sub_label": "Find Your Worth, Come Home", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q2982386", "sub_label": "Cold Hands", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q5984851", "sub_label": "Ibrahimpur, Ranga Reddy", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q7261241", "sub_label": "Purificaci\u00f3n River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q7568960", "sub_label": "South Wood County Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q6813411", "sub_label": "Melodrama", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q3469654", "sub_label": "Salcha River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q35509", "obj_label": "cave", "sub_uri": "Q7679447", "sub_label": "Talgua caves", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q42998", "obj_label": "orchestra", "sub_uri": "Q7894622", "sub_label": "University College Dublin Symphony Orchestra", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q7103783", "sub_label": "Orongorongo River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q7941357", "sub_label": "Volym 3", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q618779", "obj_label": "award", "sub_uri": "Q505825", "sub_label": "WNBA Coach of the Year Award", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q12280", "obj_label": "bridge", "sub_uri": "Q14712179", "sub_label": "Clarkton Bridge", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q7755", "obj_label": "constitution", "sub_uri": "Q598887", "sub_label": "French Constitution of 1793", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q927158", "sub_label": "Infinity Within", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q6125851", "sub_label": "Jalal, Punjab", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q188509", "obj_label": "suburb", "sub_uri": "Q5646261", "sub_label": "Hampton Park", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1344", "obj_label": "opera", "sub_uri": "Q5277544", "sub_label": "Dimitrij", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q3965262", "sub_label": "Sotto una pioggia di parole", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q7337076", "sub_label": "River Alne", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q3775290", "sub_label": "Adasi", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q4875498", "sub_label": "Be Good at It", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q27686", "obj_label": "hotel", "sub_uri": "Q5432581", "sub_label": "Falmouth Beach Hotel", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q87167", "obj_label": "manuscript", "sub_uri": "Q60867", "sub_label": "Gospel of Philip", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q12140", "obj_label": "medication", "sub_uri": "Q621834", "sub_label": "aprepitant", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q8274", "obj_label": "manga", "sub_uri": "Q706146", "sub_label": "Jungle King Tar-chan", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q7231712", "sub_label": "Portessie", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q28803", "obj_label": "sandwich", "sub_uri": "Q5192125", "sub_label": "Cuban sandwich", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q2826878", "sub_label": "Agi\u0107i", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q188509", "obj_label": "suburb", "sub_uri": "Q5000117", "sub_label": "Burnside", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q6692665", "sub_label": "Lovoni River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q23413", "obj_label": "castle", "sub_uri": "Q5249731", "sub_label": "Deddington Castle", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q34038", "obj_label": "waterfall", "sub_uri": "Q5595405", "sub_label": "Grandfather Falls", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q787021", "sub_label": "Fairytales", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q4829261", "sub_label": "Avon Water", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q3207060", "sub_label": "Houston County Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q3282566", "sub_label": "Balls and My Word", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q6462166", "sub_label": "La C\u00f4te Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q2603491", "sub_label": "Oud-Alblas", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q2900722", "sub_label": "Arthur Dunn Airpark", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q736917", "obj_label": "formation", "sub_uri": "Q17514666", "sub_label": "Vunta Formation", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q27686", "obj_label": "hotel", "sub_uri": "Q6394930", "sub_label": "Kesgrave Hall", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q7711111", "sub_label": "That's the Way Love Goes", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q4999517", "sub_label": "Burn It Black", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q4185495", "sub_label": "Neverland", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q7278637", "sub_label": "Rabbit on My Wheel", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q6533040", "sub_label": "Let Your Hair Down", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q3274353", "sub_label": "Campbell Field Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q872181", "obj_label": "scouting", "sub_uri": "Q314733", "sub_label": "Ring deutscher Pfadfinderverb\u00e4nde", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q41425", "obj_label": "ballet", "sub_uri": "Q8565078", "sub_label": "Four Last Songs", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q189962", "obj_label": "interval", "sub_uri": "Q623939", "sub_label": "tritone", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q32815", "obj_label": "mosque", "sub_uri": "Q2393709", "sub_label": "Pul-e Khishti Mosque", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q188509", "obj_label": "suburb", "sub_uri": "Q5942110", "sub_label": "Hunchy", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q1869251", "sub_label": "Hassocks", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q3863", "obj_label": "asteroid", "sub_uri": "Q137447", "sub_label": "1269 Rollandia", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q7736868", "sub_label": "The Go", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q6369142", "sub_label": "Kardia Mou Moni", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q17313286", "sub_label": "The Breeze: An Appreciation of JJ Cale", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q10439408", "sub_label": "Cajsa Stina \u00c5kerstr\u00f6m", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q8274", "obj_label": "manga", "sub_uri": "Q2604307", "sub_label": "Pani Poni", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1137809", "obj_label": "courthouse", "sub_uri": "Q7971766", "sub_label": "Washington County Courthouse", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q6668901", "sub_label": "Loliondo Airstrip", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q39614", "obj_label": "cemetery", "sub_uri": "Q7146197", "sub_label": "Patrick Calhoun Family Cemetery", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q3787631", "sub_label": "Hungry", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q6816907", "sub_label": "Menere River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q8081", "obj_label": "tornado", "sub_uri": "Q4579282", "sub_label": "1980 Kalamazoo tornado", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q872181", "obj_label": "scouting", "sub_uri": "Q7541920", "sub_label": "Slovensk\u00fd skauting", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q3283157", "sub_label": "Get Money, Stay True", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q188784", "obj_label": "superhero", "sub_uri": "Q2735518", "sub_label": "Box", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q648332", "sub_label": "We Are All We Have", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q4124894", "sub_label": "Vongoda River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q618779", "obj_label": "award", "sub_uri": "Q4311715", "sub_label": "Sylvanus Thayer Award", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q2901486", "sub_label": "Atlanta Municipal Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q370750", "sub_label": "Savannah River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q35666", "obj_label": "glacier", "sub_uri": "Q11829778", "sub_label": "Gluvreklett Glacier", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q188509", "obj_label": "suburb", "sub_uri": "Q4476251", "sub_label": "Watson", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q7012466", "sub_label": "New Wood River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q33384", "obj_label": "dialect", "sub_uri": "Q846157", "sub_label": "Shirvani Arabic", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q483110", "obj_label": "stadium", "sub_uri": "Q7230490", "sub_label": "Port Arthur Stadium", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q3863", "obj_label": "asteroid", "sub_uri": "Q141111", "sub_label": "1585 Union", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q3040637", "sub_label": "Denchworth", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1137809", "obj_label": "courthouse", "sub_uri": "Q5642575", "sub_label": "Hall County Courthouse", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q87167", "obj_label": "manuscript", "sub_uri": "Q7133447", "sub_label": "Papyrus Oxyrhynchus 277", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q736917", "obj_label": "formation", "sub_uri": "Q6684647", "sub_label": "Lotena Formation", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q42998", "obj_label": "orchestra", "sub_uri": "Q4869484", "sub_label": "Baton Rouge Symphony Orchestra", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q7075", "obj_label": "library", "sub_uri": "Q621972", "sub_label": "Quaid-e-Azam Library", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q230596", "sub_label": "Zusam", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1344", "obj_label": "opera", "sub_uri": "Q368019", "sub_label": "Pell\u00e9as et M\u00e9lisande", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q736917", "obj_label": "formation", "sub_uri": "Q17509243", "sub_label": "Saint Cirac Formation", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q131681", "obj_label": "reservoir", "sub_uri": "Q3510553", "sub_label": "Nov\u00e9 Ml\u00fdny reservoirs", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q3130193", "sub_label": "Luka", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q12280", "obj_label": "bridge", "sub_uri": "Q4649279", "sub_label": "A419 Road Bridge", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q17054211", "sub_label": "Second Story", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q598652", "sub_label": "Biratnagar Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q131681", "obj_label": "reservoir", "sub_uri": "Q1739269", "sub_label": "Lake Kerkini", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q736917", "obj_label": "formation", "sub_uri": "Q17510431", "sub_label": "Lowville Formation", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q39614", "obj_label": "cemetery", "sub_uri": "Q4809599", "sub_label": "International Cemetery, Cremation and Funeral Association", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q188913", "obj_label": "plantation", "sub_uri": "Q5047087", "sub_label": "Carter's Grove", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q174736", "obj_label": "destroyer", "sub_uri": "Q5228675", "sub_label": "USS Timmerman", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q6939753", "sub_label": "Murton, Tyne and Wear", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q738836", "sub_label": "Start from the Dark", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q736917", "obj_label": "formation", "sub_uri": "Q18129035", "sub_label": "Osmington Oolite", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q641226", "obj_label": "arena", "sub_uri": "Q8054564", "sub_label": "Yokkaichi Dome", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q188509", "obj_label": "suburb", "sub_uri": "Q985219", "sub_label": "Gladesville", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q1621490", "sub_label": "Hnyly Tikych", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q188509", "obj_label": "suburb", "sub_uri": "Q6912338", "sub_label": "Morisset", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q1430945", "sub_label": "Banja Luka International Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q6532609", "sub_label": "Let's Touch the Sky", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q5375208", "sub_label": "Enamorada", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q39715", "obj_label": "lighthouse", "sub_uri": "Q2085015", "sub_label": "La Vieille", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q7780990", "sub_label": "Thekkummala", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q23413", "obj_label": "castle", "sub_uri": "Q5211070", "sub_label": "Dalkeith Palace", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q188784", "obj_label": "superhero", "sub_uri": "Q327553", "sub_label": "Daredevil", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q7135511", "sub_label": "Parannavalasa", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q7300828", "sub_label": "Real", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q4920031", "sub_label": "Blacc Plague", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q1139716", "sub_label": "Radio-Activity", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q4111238", "sub_label": "Trask River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q262304", "sub_label": "Wave", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q27686", "obj_label": "hotel", "sub_uri": "Q7158068", "sub_label": "Pearl Continental Bhurban", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q4890672", "sub_label": "Bentwitchen", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q7536862", "sub_label": "Skudai River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q6090420", "sub_label": "It's Not About the Melody", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q27686", "obj_label": "hotel", "sub_uri": "Q656054", "sub_label": "H\u00f4tel Ritz Paris", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q23413", "obj_label": "castle", "sub_uri": "Q5757040", "sub_label": "Castillo de Alcal\u00e1 la Real", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q7839388", "sub_label": "Trevor Rabin", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q44613", "obj_label": "monastery", "sub_uri": "Q844841", "sub_label": "Hosios Loukas", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q545127", "sub_label": "Quick the Word, Sharp the Action", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q6403223", "sub_label": "Khustigiri", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q14680013", "sub_label": "Herron River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q188913", "obj_label": "plantation", "sub_uri": "Q4856959", "sub_label": "Bannerman Plantation", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q426159", "sub_label": "\u201c\u2026And His Mother Called Him Bill\u201d", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q3417052", "sub_label": "Radium Round", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q14715368", "sub_label": "Wales Airport (Maine)", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q5179496", "sub_label": "Cowbeech", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q1285293", "sub_label": "Apa River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q4714709", "sub_label": "Curmezi\u0219a River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q3556063", "sub_label": "Loutra Elenis", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q7785808", "sub_label": "This Is How I Feel", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q6168673", "sub_label": "Je ne m\u00e2che pas les mots", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q188509", "obj_label": "suburb", "sub_uri": "Q6735368", "sub_label": "Maiden Gully", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q8274", "obj_label": "manga", "sub_uri": "Q3837864", "sub_label": "Lovers in the Night", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q10534852", "sub_label": "In the Key of G", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q27686", "obj_label": "hotel", "sub_uri": "Q6772011", "sub_label": "Marlton House", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q188509", "obj_label": "suburb", "sub_uri": "Q1021634", "sub_label": "Nea Penteli", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q3560044", "sub_label": "Loudias River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q34038", "obj_label": "waterfall", "sub_uri": "Q16890014", "sub_label": "Tenaru Falls", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q4268839", "sub_label": "Teche voda", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q618779", "obj_label": "award", "sub_uri": "Q4816370", "sub_label": "Atlantic Coast Conference Men's Basketball Coach of the Year", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q34038", "obj_label": "waterfall", "sub_uri": "Q3661554", "sub_label": "Cascate del Varone", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q7075", "obj_label": "library", "sub_uri": "Q2660837", "sub_label": "M\u00e1rio de Andrade Library", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q188509", "obj_label": "suburb", "sub_uri": "Q5313912", "sub_label": "Dummar", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q188055", "obj_label": "siege", "sub_uri": "Q15277671", "sub_label": "Siege of Carlisle (1315)", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1344", "obj_label": "opera", "sub_uri": "Q972350", "sub_label": "Julie", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q3863", "obj_label": "asteroid", "sub_uri": "Q152477", "sub_label": "4009 Drobyshevskij", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q42998", "obj_label": "orchestra", "sub_uri": "Q7413983", "sub_label": "San Francisco Composers Chamber Orchestra", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q17280951", "sub_label": "Red Light (album)", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q170238", "obj_label": "sitcom", "sub_uri": "Q11903534", "sub_label": "13 anys i un dia", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q65943", "obj_label": "theorem", "sub_uri": "Q4455023", "sub_label": "Sazonov's theorem", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q44377", "obj_label": "tunnel", "sub_uri": "Q179992", "sub_label": "Plabutsch Tunnel", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q7241008", "sub_label": "Presenting Isaac Hayes", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q6012350", "sub_label": "In the Key of Disney", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q15284", "obj_label": "municipality", "sub_uri": "Q2445843", "sub_label": "Ciudad Vieja", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q9372299", "sub_label": "Wheatley Hill", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q7995895", "sub_label": "Whitefish River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q5127726", "sub_label": "Claro River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q188509", "obj_label": "suburb", "sub_uri": "Q7735866", "sub_label": "The Gardens", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q618779", "obj_label": "award", "sub_uri": "Q7011684", "sub_label": "New South Wales Cancer Institute Awards", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q7709031", "sub_label": "Thadiyoor", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q16899232", "sub_label": "Rengo Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q188509", "obj_label": "suburb", "sub_uri": "Q7967163", "sub_label": "Wandana Heights", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q212198", "obj_label": "pub", "sub_uri": "Q15979003", "sub_label": "Hare and Hounds", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q35666", "obj_label": "glacier", "sub_uri": "Q16842588", "sub_label": "Bj\u00f8rnbreen", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q3403140", "sub_label": "Llanfair-ar-y-bryn", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q1051446", "sub_label": "Caudal", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q12280", "obj_label": "bridge", "sub_uri": "Q7732315", "sub_label": "The Entrance Bridge", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q4693585", "sub_label": "Agorapocalypse", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q8037640", "sub_label": "Wraxall, Dorset", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1107", "obj_label": "anime", "sub_uri": "Q842292", "sub_label": "Whisper of the Heart", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q87167", "obj_label": "manuscript", "sub_uri": "Q6870611", "sub_label": "Minuscule 541", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q2832407", "sub_label": "Alega", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q2537293", "sub_label": "So Real", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q5417727", "sub_label": "Everybody Knows", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q618779", "obj_label": "award", "sub_uri": "Q11117419", "sub_label": "Kamal Kumari National Award", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q39614", "obj_label": "cemetery", "sub_uri": "Q5058720", "sub_label": "The Evergreens Cemetery", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q3120228", "sub_label": "Zarje\u010da", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q605647", "sub_label": "HoboSapiens", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q6421723", "sub_label": "Knaith", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q170877", "obj_label": "bomber", "sub_uri": "Q599891", "sub_label": "B-58 Hustler", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q7055394", "sub_label": "North Fork Embarras River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q7811949", "sub_label": "Tocantins River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q11424", "obj_label": "film", "sub_uri": "Q492089", "sub_label": "The Adjustment Bureau", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q5601481", "sub_label": "Greatham", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q736917", "obj_label": "formation", "sub_uri": "Q18345918", "sub_label": "Purlawaugh Formation", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q188784", "obj_label": "superhero", "sub_uri": "Q3613591", "sub_label": "Amanda Sefton", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q131186", "obj_label": "choir", "sub_uri": "Q7860598", "sub_label": "Typaldos D. children's choir", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q4860201", "sub_label": "Bardon Hill", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q17147953", "sub_label": "Unconscious State", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q7944", "obj_label": "earthquake", "sub_uri": "Q1750697", "sub_label": "1770 Port-au-Prince earthquake", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q65943", "obj_label": "theorem", "sub_uri": "Q192760", "sub_label": "fundamental theorem of algebra", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q8072", "obj_label": "volcano", "sub_uri": "Q1376373", "sub_label": "Volc\u00e1n Wolf", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q4802989", "sub_label": "As Shadows Burn", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q3863", "obj_label": "asteroid", "sub_uri": "Q137170", "sub_label": "1230 Riceia", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q10394410", "sub_label": "Xou da Xuxa 3", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q3863", "obj_label": "asteroid", "sub_uri": "Q154131", "sub_label": "4450 Pan", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q679024", "sub_label": "Paar", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q339990", "sub_label": "Ljubljanica", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q4633223", "sub_label": "2StepMarv", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q572173", "sub_label": "Issues", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q4861821", "sub_label": "Barnfields", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q8274", "obj_label": "manga", "sub_uri": "Q6168176", "sub_label": "Jazz", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q239661", "sub_label": "Lenne", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q6352604", "sub_label": "Kaligram", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q408614", "sub_label": "Aire", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q2596509", "sub_label": "W\u00f6rpe", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q16244982", "sub_label": "Brothers and Sisters of the Eternal Son", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q2044133", "sub_label": "Behaviour", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q1941177", "sub_label": "Halber Mensch", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q736917", "obj_label": "formation", "sub_uri": "Q17512727", "sub_label": "Nehou Formation", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q132821", "obj_label": "murder", "sub_uri": "Q5247511", "sub_label": "death of Phylicia Barnes", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q3274578", "sub_label": "General William J. Fox Airfield", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q8366", "obj_label": "algorithm", "sub_uri": "Q1937853", "sub_label": "Pollard's p \u2212 1 algorithm", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q4935678", "sub_label": "Sings for Lonely Nights", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q15252976", "sub_label": "Memala", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q5977966", "sub_label": "I Like Men!", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q14680821", "sub_label": "Danville Municipal Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q188509", "obj_label": "suburb", "sub_uri": "Q6671177", "sub_label": "Londonderry", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q3285793", "sub_label": "Don't Censor Me", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q3749211", "sub_label": "Fragile", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q35666", "obj_label": "glacier", "sub_uri": "Q1026461", "sub_label": "Calderone glacier", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q853332", "sub_label": "Cauca River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q618779", "obj_label": "award", "sub_uri": "Q1749049", "sub_label": "Pete Newell Big Man Award", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q736917", "obj_label": "formation", "sub_uri": "Q17077687", "sub_label": "Heichengtzu Series", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q3863", "obj_label": "asteroid", "sub_uri": "Q150441", "sub_label": "296 Pha\u00ebtusa", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q4039450", "sub_label": "Chemistry: The Tour", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q12323", "obj_label": "dam", "sub_uri": "Q18157206", "sub_label": "Relief Dam", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q4059477", "sub_label": "Akiak Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q35666", "obj_label": "glacier", "sub_uri": "Q5503672", "sub_label": "Friederichsen Glacier", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q3863", "obj_label": "asteroid", "sub_uri": "Q147954", "sub_label": "217 Eudora", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q3253281", "obj_label": "pond", "sub_uri": "Q1194779", "sub_label": "Upper Pond Kaliningrad", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q5096490", "sub_label": "Chicopee River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q43812", "obj_label": "passport", "sub_uri": "Q1289208", "sub_label": "Maltese passport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q7033820", "sub_label": "Nightingale", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q192611", "obj_label": "constituency", "sub_uri": "Q12810999", "sub_label": "Mu\u015f", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q736917", "obj_label": "formation", "sub_uri": "Q17513519", "sub_label": "Calcaires marneux inferieurs", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q618779", "obj_label": "award", "sub_uri": "Q4738888", "sub_label": "Am-Pol Eagle Citizen of the Year Award", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q5607268", "sub_label": "Greg\u00f3rio River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q1261531", "sub_label": "Drw\u0119ca", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q8502", "obj_label": "mountain", "sub_uri": "Q4853304", "sub_label": "Bamba Dhura", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q7783365", "sub_label": "These Days", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q5372", "obj_label": "basketball", "sub_uri": "Q16837591", "sub_label": "CB Collado Villalba", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q5763433", "sub_label": "Tiputini River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q821531", "sub_label": "Since I Left You", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1137809", "obj_label": "courthouse", "sub_uri": "Q14693338", "sub_label": "Old Warren County Courthouse", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q6297813", "sub_label": "Joyride", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q1367059", "sub_label": "Bristol Filton Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q3235211", "sub_label": "Healthy in Paranoid Times", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q27686", "obj_label": "hotel", "sub_uri": "Q5764663", "sub_label": "Hilton New Orleans/St. Charles Avenue", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q254105", "sub_label": "This Nation's Saving Grace", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q7755", "obj_label": "constitution", "sub_uri": "Q5164198", "sub_label": "Constitution of Jamaica", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q7259150", "sub_label": "Pukpui", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q3863", "obj_label": "asteroid", "sub_uri": "Q140273", "sub_label": "151 Abundantia", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q4983276", "sub_label": "Buckland", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q3285331", "sub_label": "Seediq Bale", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q39614", "obj_label": "cemetery", "sub_uri": "Q2020595", "sub_label": "Kanchanaburi War Cemetery", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q7662415", "sub_label": "Synesthesia", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q17121872", "sub_label": "Manic Pop Thrill", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q39715", "obj_label": "lighthouse", "sub_uri": "Q4750771", "sub_label": "Anadolu Feneri", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q15284", "obj_label": "municipality", "sub_uri": "Q1044720", "sub_label": "Lontov", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q2700056", "sub_label": "Maximum Violence", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q4691147", "sub_label": "Agalkera", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q34038", "obj_label": "waterfall", "sub_uri": "Q5402647", "sub_label": "Eternal Flame Falls", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q618779", "obj_label": "award", "sub_uri": "Q7167420", "sub_label": "Percy Janes First Novel Award", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q16897240", "sub_label": "Sprotte", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q3813567", "sub_label": "Bourem Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q641226", "obj_label": "arena", "sub_uri": "Q3365677", "sub_label": "TipsArena Linz", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q170382", "obj_label": "revolver", "sub_uri": "Q194047", "sub_label": "Type 26 revolver", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q27686", "obj_label": "hotel", "sub_uri": "Q5594627", "sub_label": "Grand Hotel", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q486396", "obj_label": "shotgun", "sub_uri": "Q15991023", "sub_label": "Stevens Model 77E", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q1935199", "sub_label": "Mean Machine", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q890555", "sub_label": "Inhaca Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q34038", "obj_label": "waterfall", "sub_uri": "Q4930565", "sub_label": "Bou Sra Waterfall", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q3283037", "sub_label": "Survive", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q188509", "obj_label": "suburb", "sub_uri": "Q6841517", "sub_label": "Middle Park", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q3955091", "sub_label": "Semley", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q7600479", "sub_label": "Staplestreet", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q7136059", "sub_label": "Parasuvaikkal", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q7000400", "sub_label": "Nett Lake River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q212198", "obj_label": "pub", "sub_uri": "Q17017445", "sub_label": "Paxtons Head", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q212198", "obj_label": "pub", "sub_uri": "Q6127350", "sub_label": "Jamaica Wine House", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q35509", "obj_label": "cave", "sub_uri": "Q1688770", "sub_label": "Cave of Swallows", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q1984600", "sub_label": "Nostradamus \u2013 The Fate of Man", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q1934529", "sub_label": "Pure", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q5597993", "sub_label": "Gravitational Pull vs. the Desire for an Aquatic Life", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q8274", "obj_label": "manga", "sub_uri": "Q8047861", "sub_label": "Yamamoto Zenjirou to Moushimasu", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q34038", "obj_label": "waterfall", "sub_uri": "Q3082927", "sub_label": "Tjaynera Falls", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q41425", "obj_label": "ballet", "sub_uri": "Q6543240", "sub_label": "Seven Beauties", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q1644314", "sub_label": "The Crane Wife", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q736917", "obj_label": "formation", "sub_uri": "Q18158276", "sub_label": "Penholloway Formation", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q7540952", "sub_label": "Slipstream", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q4669784", "sub_label": "Absolute Polysics", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q6741664", "sub_label": "Malayinkeezhu", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q8274", "obj_label": "manga", "sub_uri": "Q711341", "sub_label": "Ground Defense Force! Mao-chan", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q155397", "sub_label": "River Monnow", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q35666", "obj_label": "glacier", "sub_uri": "Q5558961", "sub_label": "Gibbs Glacier", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q7228730", "sub_label": "Poonjar Vadakkekara", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q5936075", "sub_label": "Hullahalli", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q12280", "obj_label": "bridge", "sub_uri": "Q16253415", "sub_label": "Barrack Street Bridge", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q7131362", "sub_label": "Panna Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q35666", "obj_label": "glacier", "sub_uri": "Q7427719", "sub_label": "Savage Glacier", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q736917", "obj_label": "formation", "sub_uri": "Q18354876", "sub_label": "Santa Margarita Formation", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q7379060", "sub_label": "Ruleville-Drew Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q6682791", "sub_label": "Los Guayos River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q7783403", "sub_label": "These People", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q188509", "obj_label": "suburb", "sub_uri": "Q5193934", "sub_label": "Cumberland Park", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q23413", "obj_label": "castle", "sub_uri": "Q4403409", "sub_label": "Sabayil Castle", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q4905972", "sub_label": "Big Lost River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q27686", "obj_label": "hotel", "sub_uri": "Q1330669", "sub_label": "Savoy Homann Bidakara Hotel", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q6091720", "sub_label": "It Don't Mean a Thing If It Ain't Got That Swing", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q736917", "obj_label": "formation", "sub_uri": "Q17512752", "sub_label": "Hazelton Formation", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q23413", "obj_label": "castle", "sub_uri": "Q473477", "sub_label": "Kiel Castle", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q618779", "obj_label": "award", "sub_uri": "Q6393467", "sub_label": "Kerala State Film Award for Second Best Actor", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q3863", "obj_label": "asteroid", "sub_uri": "Q923587", "sub_label": "8992 Magnanimity", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q3863", "obj_label": "asteroid", "sub_uri": "Q2609810", "sub_label": "14832 Alechinsky", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q4763021", "sub_label": "Angels & Demons", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q4620962", "sub_label": "Yenik\u0259nd", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q7918946", "sub_label": "Veligandla", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q338658", "sub_label": "Accelerated Evolution", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q5510676", "sub_label": "Future Future Future Perfect", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q3863", "obj_label": "asteroid", "sub_uri": "Q985420", "sub_label": "7346 Boulanger", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q2757562", "sub_label": "Dejavu", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q11288016", "sub_label": "Wei River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q41425", "obj_label": "ballet", "sub_uri": "Q6435756", "sub_label": "Kraanerg", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q188509", "obj_label": "suburb", "sub_uri": "Q2900765", "sub_label": "Point Piper", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q637860", "sub_label": "Me Against the World", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q736917", "obj_label": "formation", "sub_uri": "Q18394744", "sub_label": "Tomstown Dolomite", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q188055", "obj_label": "siege", "sub_uri": "Q4337460", "sub_label": "Siege of Fellin", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q1011533", "sub_label": "Kilmacolm", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q2899363", "sub_label": "Flor\u00f8 Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q5476354", "sub_label": "Foveran", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q1937400", "sub_label": "Dirty Work", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q147006", "sub_label": "I Am\u2026 Sasha Fierce", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q16917", "obj_label": "hospital", "sub_uri": "Q7894766", "sub_label": "University Hospital Crosshouse", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q4960474", "sub_label": "Brejo Grande River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q5021673", "sub_label": "Call the Doctor", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q736917", "obj_label": "formation", "sub_uri": "Q17511895", "sub_label": "Gr\u00e8s des Estous", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q12280", "obj_label": "bridge", "sub_uri": "Q1623446", "sub_label": "Hohe Br\u00fccke, Vienna", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q15844928", "sub_label": "Close Your Eyes", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q35666", "obj_label": "glacier", "sub_uri": "Q4683018", "sub_label": "Adishi Glacier", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q23413", "obj_label": "castle", "sub_uri": "Q15278231", "sub_label": "Smeaton House", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q4680920", "sub_label": "Adavisomapur", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q7457046", "sub_label": "Seung Mei Yan Gaan", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q3863", "obj_label": "asteroid", "sub_uri": "Q757340", "sub_label": "1994 Shane", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q5320306", "sub_label": "D\u00eda de independencia", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q68", "obj_label": "computer", "sub_uri": "Q169399", "sub_label": "ENIAC", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q736917", "obj_label": "formation", "sub_uri": "Q17512032", "sub_label": "Brigus Formation", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q23413", "obj_label": "castle", "sub_uri": "Q2129936", "sub_label": "Ch\u00e2teau de la Lande", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q117615", "sub_label": "Mamor\u00e9 River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q2290825", "sub_label": "Roshchino International Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q11424", "obj_label": "film", "sub_uri": "Q3391495", "sub_label": "Loafing and Camouflage", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q7290952", "sub_label": "Rancho El Barril Airstrip", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q5097470", "sub_label": "Chikkumbi", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1137809", "obj_label": "courthouse", "sub_uri": "Q432633", "sub_label": "Oscoda County Courthouse", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q35666", "obj_label": "glacier", "sub_uri": "Q7354100", "sub_label": "Rochray Glacier", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q854999", "sub_label": "Bhima River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q2006616", "sub_label": "Brother", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1344", "obj_label": "opera", "sub_uri": "Q688562", "sub_label": "Arminio", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q32815", "obj_label": "mosque", "sub_uri": "Q56907", "sub_label": "Mesih Mehmed Pasha Mosque", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q52371", "obj_label": "regiment", "sub_uri": "Q1150918", "sub_label": "3rd Marine Infantry Parachute Regiment", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q1431059", "sub_label": "Cerro Largo International Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q5641022", "sub_label": "Halagatti", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q8057635", "sub_label": "You Won't Forget Me", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q503262", "sub_label": "River Tweed", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q618779", "obj_label": "award", "sub_uri": "Q6500767", "sub_label": "Laurence Olivier Award for Best Actor", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q39614", "obj_label": "cemetery", "sub_uri": "Q6413588", "sub_label": "Kingston Presbyterian Church Cemetery", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q4936738", "sub_label": "Bodri River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q11103025", "sub_label": "Christina River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q5902902", "sub_label": "Horbury", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q5260269", "sub_label": "Ketapang Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q7980300", "sub_label": "Weir River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q4880043", "sub_label": "Beerakuppam", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q23413", "obj_label": "castle", "sub_uri": "Q7400636", "sub_label": "Saint-Germain Castle", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q2634342", "sub_label": "Benito River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q8274", "obj_label": "manga", "sub_uri": "Q11498319", "sub_label": "Sherlock Bones", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q188509", "obj_label": "suburb", "sub_uri": "Q7593360", "sub_label": "St Helens Park", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q39614", "obj_label": "cemetery", "sub_uri": "Q16153825", "sub_label": "Almen Kirkeg\u00e5rd", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q8274", "obj_label": "manga", "sub_uri": "Q10085467", "sub_label": "Gon", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q7688033", "sub_label": "Thathamangalam", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q736917", "obj_label": "formation", "sub_uri": "Q17515061", "sub_label": "Keuper Waterstones Formation", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q618779", "obj_label": "award", "sub_uri": "Q16998346", "sub_label": "Muso Awards", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q87167", "obj_label": "manuscript", "sub_uri": "Q531568", "sub_label": "Vienna Coronation Gospels", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q4203008", "sub_label": "Tenkodogo Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q4656311", "sub_label": "A Day in the Life", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q6297366", "sub_label": "Joyas de dos siglos", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q1088466", "sub_label": "Crasna River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q10545409", "sub_label": "The Golden Age (Woodkid album)", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q4753362", "sub_label": "And Such Is Progress", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q7404857", "sub_label": "Salitre River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q28823", "obj_label": "textile", "sub_uri": "Q1132110", "sub_label": "corduroy", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q1767323", "sub_label": "Blue Kentucky Girl", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q5364614", "sub_label": "Ellagiri", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q3640719", "sub_label": "Black Hole/Blank Canvas", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q188509", "obj_label": "suburb", "sub_uri": "Q1109698", "sub_label": "Collingwood", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q8047", "obj_label": "enzyme", "sub_uri": "Q5138675", "sub_label": "Cob(I)yrinic acid a,c-diamide adenosyltransferase", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q5500111", "sub_label": "Free Tempo", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q5639998", "sub_label": "Hajimemashite", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q16250288", "sub_label": "Fanfare", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q18344574", "sub_label": "La Isla Bonita", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q6588431", "sub_label": "Taft Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q740445", "obj_label": "ridge", "sub_uri": "Q6807225", "sub_label": "Medley Ridge", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q44", "obj_label": "beer", "sub_uri": "Q1813698", "sub_label": "Imperial", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q7439774", "sub_label": "Se hace por los suenos asesinos", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q87167", "obj_label": "manuscript", "sub_uri": "Q7133439", "sub_label": "Papyrus Oxyrhynchus 269", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q50844", "sub_label": "Izhora River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q1965648", "sub_label": "Rothersthorpe", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1344", "obj_label": "opera", "sub_uri": "Q362014", "sub_label": "Palmira, regina di Persia", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q12323", "obj_label": "dam", "sub_uri": "Q1504264", "sub_label": "Hoa Binh Dam", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q12323", "obj_label": "dam", "sub_uri": "Q7144718", "sub_label": "Pathari Dam", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q7397", "obj_label": "software", "sub_uri": "Q4050773", "sub_label": "Teamcenter", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q3060109", "sub_label": "Amazonka", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q44377", "obj_label": "tunnel", "sub_uri": "Q5766000", "sub_label": "Hindhead Tunnel", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q384147", "sub_label": "Tuba River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q12323", "obj_label": "dam", "sub_uri": "Q1588084", "sub_label": "Hasan U\u011furlu Dam", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q1763002", "sub_label": "The Duke", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q7075", "obj_label": "library", "sub_uri": "Q2007919", "sub_label": "John F. Kennedy Presidential Library and Museum", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q87167", "obj_label": "manuscript", "sub_uri": "Q6870109", "sub_label": "Minuscule 266", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q39614", "obj_label": "cemetery", "sub_uri": "Q5402751", "sub_label": "Eternitatea cemetery", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q4042711", "sub_label": "Legion of Boom", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q618779", "obj_label": "award", "sub_uri": "Q4861439", "sub_label": "Barnard Women Poets Prize", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q736917", "obj_label": "formation", "sub_uri": "Q18158240", "sub_label": "Patapsco Formation", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q618779", "obj_label": "award", "sub_uri": "Q1356928", "sub_label": "Naylor Prize and Lectureship", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q1657929", "sub_label": "Cruzeiro do Sul International Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q4001105", "sub_label": "Two Steps from the Move", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q618779", "obj_label": "award", "sub_uri": "Q7972761", "sub_label": "Wasserman Award", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q2880645", "sub_label": "Balcombe", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q35509", "obj_label": "cave", "sub_uri": "Q5315743", "sub_label": "Dunston Cave", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q44377", "obj_label": "tunnel", "sub_uri": "Q7853280", "sub_label": "Tunnel Bend diversion tunnel, Howqua River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1137809", "obj_label": "courthouse", "sub_uri": "Q5297046", "sub_label": "Dooly County Courthouse", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q16890953", "sub_label": "El Tapihue Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q4747320", "sub_label": "Ammos itane", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q7115620", "sub_label": "Oxhill, County Durham", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q11424", "obj_label": "film", "sub_uri": "Q172241", "sub_label": "The Shawshank Redemption", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q16994261", "sub_label": "The Golden Age of Knowhere", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q8274", "obj_label": "manga", "sub_uri": "Q933589", "sub_label": "Hitohira", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q9655", "obj_label": "artery", "sub_uri": "Q485350", "sub_label": "Posterior superior alveolar artery", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q170382", "obj_label": "revolver", "sub_uri": "Q2806384", "sub_label": "Colt Official Police", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q13130355", "sub_label": "Nantgarw", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q3907102", "sub_label": "Point of Origin", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q34627", "obj_label": "synagogue", "sub_uri": "Q1331109", "sub_label": "Eliyahu Hanavi Synagogue", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q3863", "obj_label": "asteroid", "sub_uri": "Q735260", "sub_label": "9478 Caldeyro", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q4803043", "sub_label": "As You Like It", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q188509", "obj_label": "suburb", "sub_uri": "Q3496549", "sub_label": "Hurstville", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q5417924", "sub_label": "Everything's Different Now", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q5119", "obj_label": "capital", "sub_uri": "Q994", "sub_label": "Tbilisi", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q188509", "obj_label": "suburb", "sub_uri": "Q6674820", "sub_label": "Lonsdale", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q12280", "obj_label": "bridge", "sub_uri": "Q7968209", "sub_label": "Wanzhou Railway Bridge", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q8068762", "sub_label": "Zelienople Municipal Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q16243017", "sub_label": "Back to Forever", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q880329", "sub_label": "Wieseck", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q736917", "obj_label": "formation", "sub_uri": "Q17510999", "sub_label": "Bonanza Formation", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q42998", "obj_label": "orchestra", "sub_uri": "Q16866628", "sub_label": "Liverpool Mozart Orchestra", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q12280", "obj_label": "bridge", "sub_uri": "Q2300018", "sub_label": "Macdonald-Cartier Bridge", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q8274", "obj_label": "manga", "sub_uri": "Q3545660", "sub_label": "Backstage Prince", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q5372", "obj_label": "basketball", "sub_uri": "Q5015204", "sub_label": "Caballeros de Culiac\u00e1n", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q6944124", "sub_label": "Muttuchira", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q7075", "obj_label": "library", "sub_uri": "Q7009486", "sub_label": "New Jersey State Library", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q35509", "obj_label": "cave", "sub_uri": "Q4187549", "sub_label": "Zar Cave", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q17445", "sub_label": "Balranald Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q165826", "sub_label": "Ulfe", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q192611", "obj_label": "constituency", "sub_uri": "Q7425668", "sub_label": "Saskatoon Nutana", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q16738672", "sub_label": "Traveller (Anoushka Shankar album)", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q5251521", "sub_label": "Defiance", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q749780", "sub_label": "Back on the Block", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q3031510", "sub_label": "Kosanica", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q212198", "obj_label": "pub", "sub_uri": "Q15221812", "sub_label": "Golden Lion", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q5297151", "sub_label": "Doon River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q1894480", "sub_label": "Mare", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q6755087", "sub_label": "Maravanthe", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q618779", "obj_label": "award", "sub_uri": "Q2601606", "sub_label": "Nynorsk Literature Prize", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q5091994", "sub_label": "Cheriyanad", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q7836019", "sub_label": "Traveling Circus", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q7004217", "sub_label": "Never Say Die", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q4811574", "sub_label": "Astrological Straits", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q44613", "obj_label": "monastery", "sub_uri": "Q1535717", "sub_label": "Ljubostinja", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q32815", "obj_label": "mosque", "sub_uri": "Q3396996", "sub_label": "Islam-aga's Mosque", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q837933", "sub_label": "Phachi River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q6411748", "sub_label": "King James", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1137809", "obj_label": "courthouse", "sub_uri": "Q7099555", "sub_label": "Orange County Courthouse", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q5597023", "sub_label": "Grapes of Wrath", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q6416493", "sub_label": "Kish Kash", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q3280684", "sub_label": "W.O.W.", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q7296309", "sub_label": "Ravalkole", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q8081", "obj_label": "tornado", "sub_uri": "Q4590180", "sub_label": "1995 Anderson Hills tornado", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q618779", "obj_label": "award", "sub_uri": "Q4041781", "sub_label": "James Dyson Award", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q2734557", "sub_label": "Death Magic Doom", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q27686", "obj_label": "hotel", "sub_uri": "Q16896439", "sub_label": "Park Hotel", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q4849007", "sub_label": "Bakaram Jagir", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q2306439", "sub_label": "Ventry", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q23413", "obj_label": "castle", "sub_uri": "Q687290", "sub_label": "Brunegg Castle", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q283202", "obj_label": "harbor", "sub_uri": "Q5464522", "sub_label": "Folkestone Harbour", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q7821209", "sub_label": "Tongwynlais", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q8274", "obj_label": "manga", "sub_uri": "Q11341509", "sub_label": "Comical Psychosomatic Medicine", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q1595048", "sub_label": "Jabalpur Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q3863", "obj_label": "asteroid", "sub_uri": "Q2614962", "sub_label": "19741 Callahan", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q34038", "obj_label": "waterfall", "sub_uri": "Q7617392", "sub_label": "Stinchar Falls", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q1111255", "sub_label": "The Block", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q1783711", "sub_label": "Bleikvasslia", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q618779", "obj_label": "award", "sub_uri": "Q5462709", "sub_label": "Fluid Dynamics Prize", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q174736", "obj_label": "destroyer", "sub_uri": "Q4551809", "sub_label": "USS Bush", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q5224075", "sub_label": "Darn Floor-Big Bite", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q1111061", "sub_label": "The Drums", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q10765238", "sub_label": "Hanashi", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q2743", "obj_label": "musical", "sub_uri": "Q16851283", "sub_label": "Jet Set Go!", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q5760041", "sub_label": "Highweek", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q7605198", "sub_label": "Steady", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q618319", "sub_label": "Monolith", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q3863", "obj_label": "asteroid", "sub_uri": "Q141268", "sub_label": "160 Una", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q44613", "obj_label": "monastery", "sub_uri": "Q4144523", "sub_label": "Gorne-Uspensky Convent", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q5611710", "sub_label": "Grown Man", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q174736", "obj_label": "destroyer", "sub_uri": "Q7868128", "sub_label": "USS Case", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q12280", "obj_label": "bridge", "sub_uri": "Q7963668", "sub_label": "Walnut Street Bridge", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q5846363", "sub_label": "Qaleh Now, Shahriar", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q4356169", "sub_label": "Centerfield", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q23413", "obj_label": "castle", "sub_uri": "Q7567985", "sub_label": "South Moreton Castle", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q2113291", "sub_label": "Sihanouk International Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q4053227", "sub_label": "Wonders of the Younger", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q12280", "obj_label": "bridge", "sub_uri": "Q13564489", "sub_label": "Mattancherry Bridge", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q170382", "obj_label": "revolver", "sub_uri": "Q6394296", "sub_label": "Kerr's Patent Revolver", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q6125131", "sub_label": "Jakhal", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q7365936", "sub_label": "Ronnie Milsap", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q6368156", "sub_label": "Karakulam Gramapanchayath", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q1763162", "sub_label": "V\u00e4gen hem till dej", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q23413", "obj_label": "castle", "sub_uri": "Q2971715", "sub_label": "Ch\u00e2teau du Hagelschloss", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q989906", "sub_label": "Entropia", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q3132640", "sub_label": "Impact Exciter", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q12280", "obj_label": "bridge", "sub_uri": "Q5298306", "sub_label": "Dorothy Barnes Pelote Bridge", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q3027084", "sub_label": "Wolfheze", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q8047", "obj_label": "enzyme", "sub_uri": "Q10814507", "sub_label": "Spleen exonuclease", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q1768254", "sub_label": "Mellow Gold", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q1018787", "sub_label": "Repton", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q663004", "sub_label": "Eccleston", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q8274", "obj_label": "manga", "sub_uri": "Q6132902", "sub_label": "Sengoku Strays", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q35666", "obj_label": "glacier", "sub_uri": "Q5003267", "sub_label": "Buxton Glacier", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q188509", "obj_label": "suburb", "sub_uri": "Q3437503", "sub_label": "St Marys", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q4748719", "sub_label": "Amroth", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q12021846", "sub_label": "Irreverence", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q15102", "sub_label": "Port Lincoln Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1344", "obj_label": "opera", "sub_uri": "Q4929437", "sub_label": "Blue Monday", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q3863", "obj_label": "asteroid", "sub_uri": "Q138439", "sub_label": "1366 Piccolo", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q830332", "sub_label": "Rhedaer Bach", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q618779", "obj_label": "award", "sub_uri": "Q7018469", "sub_label": "Newman Prize for Chinese Literature", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q641226", "obj_label": "arena", "sub_uri": "Q8058618", "sub_label": "Youngor Arena", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q2545098", "sub_label": "Ukhta Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q7494824", "sub_label": "Sherfield English", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q5140534", "sub_label": "Coed Talon", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q1892287", "sub_label": "Maranoa River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q2002556", "sub_label": "Notte", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q15209789", "sub_label": "Chiquito de Cibao River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q670902", "sub_label": "Tinnitus Sanctus", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q736917", "obj_label": "formation", "sub_uri": "Q17511720", "sub_label": "Brainard Shale", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q6434019", "sub_label": "Kothara", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q7496555", "sub_label": "Shikarpur Village", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q7335474", "sub_label": "Riozinho River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q39715", "obj_label": "lighthouse", "sub_uri": "Q5253241", "sub_label": "Delaware Breakwater Range Front Light", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q14715056", "sub_label": "Niantic River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q6743445", "sub_label": "Malice in Wonderland", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q15272707", "sub_label": "River Meese", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q35509", "obj_label": "cave", "sub_uri": "Q3117158", "sub_label": "Naulette", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q12280", "obj_label": "bridge", "sub_uri": "Q1967331", "sub_label": "Stone Bridge", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q33384", "obj_label": "dialect", "sub_uri": "Q5207168", "sub_label": "Da-Tong dialect", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q128234", "obj_label": "case", "sub_uri": "Q3780059", "sub_label": "intransitive case", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q52371", "obj_label": "regiment", "sub_uri": "Q5211602", "sub_label": "Dalarna Regiment", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q34627", "obj_label": "synagogue", "sub_uri": "Q7580521", "sub_label": "Spring Glen Synagogue", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q483110", "obj_label": "stadium", "sub_uri": "Q2924758", "sub_label": "Brewery Field", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q8514", "obj_label": "desert", "sub_uri": "Q3089476", "sub_label": "Egyptian Sand Sea", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q1837469", "sub_label": "Chaghcharan Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q1636406", "sub_label": "Nors\u00e4lven", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q4943914", "sub_label": "Boothby Graffoe", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q7197397", "sub_label": "Pipestone Municipal Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q75520", "obj_label": "plateau", "sub_uri": "Q7240557", "sub_label": "Prentice Plateau", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q8366", "obj_label": "algorithm", "sub_uri": "Q228693", "sub_label": "Cox\u2013Zucker machine", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q3811468", "sub_label": "Ditton Priors", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q44782", "obj_label": "port", "sub_uri": "Q7231095", "sub_label": "Port of Bristol Police", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q18356916", "sub_label": "Massive Cauldron of Chaos", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q11792999", "sub_label": "North Somercotes", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q6447376", "sub_label": "Kurumali River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q4531227", "sub_label": "Elim Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q35666", "obj_label": "glacier", "sub_uri": "Q430027", "sub_label": "Grant Glacier", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q5647877", "sub_label": "Hanga", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q1129962", "sub_label": "Dive", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q212198", "obj_label": "pub", "sub_uri": "Q17300022", "sub_label": "Earl of Essex", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q23413", "obj_label": "castle", "sub_uri": "Q1547500", "sub_label": "Grosnez Castle", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q2632989", "sub_label": "Dim", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q12323", "obj_label": "dam", "sub_uri": "Q6438854", "sub_label": "Kromfonteinlower (Wilge) Cofferdam", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q35666", "obj_label": "glacier", "sub_uri": "Q4952223", "sub_label": "Boyana Glacier", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q7863004", "sub_label": "U.S.A. for M.O.D.", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q6002583", "sub_label": "Imagination", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q7126336", "sub_label": "Palacios River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q8514", "obj_label": "desert", "sub_uri": "Q1191726", "sub_label": "Golodnaya Steppe", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q44613", "obj_label": "monastery", "sub_uri": "Q1345581", "sub_label": "Paring Abbey", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q39614", "obj_label": "cemetery", "sub_uri": "Q6555151", "sub_label": "Linwood Cemetery", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q736917", "obj_label": "formation", "sub_uri": "Q17510641", "sub_label": "Figuieres Formation", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q1927092", "sub_label": "Midden-Zeeland Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q2875964", "sub_label": "Trois-Rivi\u00e8res Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q7139386", "sub_label": "Parodyziac!!", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q11424", "obj_label": "film", "sub_uri": "Q1169141", "sub_label": "The Gospel of John", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q5309491", "sub_label": "Dry Creek", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q17003587", "sub_label": "Gold Rush: Maybe One Day", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q7261047", "sub_label": "Pure", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q23413", "obj_label": "castle", "sub_uri": "Q2675627", "sub_label": "Castle of Pouanc\u00e9", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q7404698", "sub_label": "Saline River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q6009540", "sub_label": "In God We Trust", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q3863", "obj_label": "asteroid", "sub_uri": "Q157486", "sub_label": "861 A\u00efda", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q3863", "obj_label": "asteroid", "sub_uri": "Q140874", "sub_label": "1566 Icarus", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q8069506", "sub_label": "Zero Day", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q7113467", "sub_label": "Over the Counter Culture", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q6827698", "sub_label": "Mianus River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q8366", "obj_label": "algorithm", "sub_uri": "Q4892326", "sub_label": "Berlekamp\u2013Zassenhaus algorithm", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q32997", "sub_label": "Manas International Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q166142", "obj_label": "application", "sub_uri": "Q188558", "sub_label": "Wine", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q5372629", "sub_label": "Emission Phase", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q7227645", "sub_label": "Poncri Auxiliary Aerodrome", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q1980626", "sub_label": "Bakharevka Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q538249", "sub_label": "Lavant", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q23413", "obj_label": "castle", "sub_uri": "Q5340253", "sub_label": "Edrington", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q618779", "obj_label": "award", "sub_uri": "Q1996996", "sub_label": "Tokyo Anime Award", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q15147684", "sub_label": "Hollowed Out", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q87167", "obj_label": "manuscript", "sub_uri": "Q6870906", "sub_label": "Minuscule 744", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q3612683", "sub_label": "Monroe City Regional Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q3620508", "sub_label": "Anything", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q6375885", "sub_label": "Kated", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q5197244", "sub_label": "Cwmfelin", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q131681", "obj_label": "reservoir", "sub_uri": "Q2402621", "sub_label": "Tempe Town Lake", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q670674", "sub_label": "Hornaday River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q1872806", "sub_label": "Further", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q4668171", "sub_label": "Abnormal", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q131569", "obj_label": "treaty", "sub_uri": "Q7837264", "sub_label": "Treaty of Traverse des Sioux", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q23413", "obj_label": "castle", "sub_uri": "Q859010", "sub_label": "Toompea Castle", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q39816", "obj_label": "valley", "sub_uri": "Q2746878", "sub_label": "Ordesa Valley", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q219423", "obj_label": "mural", "sub_uri": "Q7832995", "sub_label": "Trains", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q618779", "obj_label": "award", "sub_uri": "Q7184194", "sub_label": "Philip Parsons Young Playwrights Award", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q4682741", "sub_label": "Adiganahalli", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q8274", "obj_label": "manga", "sub_uri": "Q2542211", "sub_label": "Demon City Shinjuku", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q152726", "sub_label": "Plane", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q6413456", "sub_label": "Kingston Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q174782", "obj_label": "square", "sub_uri": "Q4859955", "sub_label": "Barclay Square", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q4924743", "sub_label": "Blanc Burn", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q12280", "obj_label": "bridge", "sub_uri": "Q5507940", "sub_label": "Fuling Yangtze River Bridge", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q27686", "obj_label": "hotel", "sub_uri": "Q11592134", "sub_label": "Fukuoka Sunpalace", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q174736", "obj_label": "destroyer", "sub_uri": "Q503867", "sub_label": "HMS Griffin", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q7397", "obj_label": "software", "sub_uri": "Q4819114", "sub_label": "Pintos", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q43109", "obj_label": "referendum", "sub_uri": "Q7321071", "sub_label": "Rhodesian constitutional referendum, 1979", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q35666", "obj_label": "glacier", "sub_uri": "Q1663847", "sub_label": "Inn Glacier", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q628179", "obj_label": "trail", "sub_uri": "Q7169826", "sub_label": "Perry Lake Trail", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q17018538", "sub_label": "Omakase", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q11424", "obj_label": "film", "sub_uri": "Q1304590", "sub_label": "Almost Angels", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q87167", "obj_label": "manuscript", "sub_uri": "Q7133337", "sub_label": "Papyrus Oxyrhynchus 132", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q12323", "obj_label": "dam", "sub_uri": "Q4981958", "sub_label": "Br\u0103di\u0219or Dam", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q7759013", "sub_label": "The Queen of Hardships", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q16851350", "sub_label": "Jhini", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q8274", "obj_label": "manga", "sub_uri": "Q6886986", "sub_label": "Mobile Suit Crossbone Gundam", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q3863", "obj_label": "asteroid", "sub_uri": "Q2805962", "sub_label": "(242450) 2004 QY2", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q7602042", "sub_label": "Starky", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q3458726", "sub_label": "Opon River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q4918265", "sub_label": "Bisle", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q2661278", "sub_label": "Santar\u00e9m-Maestro Wilson Fonseca Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q1473994", "sub_label": "River Wey, Dorset", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q7581660", "sub_label": "Spy", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q12323", "obj_label": "dam", "sub_uri": "Q5473666", "sub_label": "Foster Dam", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q3929829", "sub_label": "Ram Jam", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q3738204", "sub_label": "Face to Face", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q1994784", "sub_label": "Ust-Belaya", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q6646325", "sub_label": "Listen", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q65943", "obj_label": "theorem", "sub_uri": "Q637418", "sub_label": "Napoleon's theorem", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q3035959", "sub_label": "Golobr\u0111e", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q2876117", "sub_label": "Barnby Moor", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q5058438", "sub_label": "Celove\u010dernji the Kid", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q2648335", "sub_label": "Mogrenda", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q87167", "obj_label": "manuscript", "sub_uri": "Q6871055", "sub_label": "Minuscule 857", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q7679204", "sub_label": "Talented 10th", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1344", "obj_label": "opera", "sub_uri": "Q784166", "sub_label": "Iphig\u00e9nie en Tauride", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q736917", "obj_label": "formation", "sub_uri": "Q4789559", "sub_label": "Argiles de Chatillon Formation", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q201823", "sub_label": "Warta", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q134808", "obj_label": "vaccine", "sub_uri": "Q5861101", "sub_label": "tetanus vaccine", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q7993435", "sub_label": "Where the Fast Lane Ends", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q42998", "obj_label": "orchestra", "sub_uri": "Q5951813", "sub_label": "Hwa Chong Institution Chinese Orchestra", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q32815", "obj_label": "mosque", "sub_uri": "Q1586277", "sub_label": "Mevlana Mosque", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q6652501", "sub_label": "Little White Lies", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q174736", "obj_label": "destroyer", "sub_uri": "Q4501988", "sub_label": "USS Hale", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q3283599", "sub_label": "At Heart", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q773033", "sub_label": "Jing River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q4782459", "sub_label": "Aqabah", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q7093922", "sub_label": "Onion River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q7445482", "sub_label": "See Forever Eyes", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q11424", "obj_label": "film", "sub_uri": "Q725946", "sub_label": "The Bodyguard", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q7754427", "sub_label": "The Nothing Show", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q7652876", "sub_label": "Swaddling Songs", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q3657896", "sub_label": "Pacifique", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q5492460", "sub_label": "Frantic City", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q1998191", "sub_label": "Droxford", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q5245398", "sub_label": "Dead Set on Living", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q5182844", "sub_label": "Crawford County Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q5016041", "sub_label": "Cackalack", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q3160509", "sub_label": "Jagged Little Thrill", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q6819683", "sub_label": "Merle Haggard's Christmas Present", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q838304", "sub_label": "Tyr", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q4546264", "sub_label": "101/3 Fists and a Mouthful", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q5505660", "sub_label": "From the Heart", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q42998", "obj_label": "orchestra", "sub_uri": "Q2905648", "sub_label": "Saint Paul Chamber Orchestra", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q10860388", "sub_label": "Pacific Missile Range Facility", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q27686", "obj_label": "hotel", "sub_uri": "Q7761040", "sub_label": "The Riverside Hotel, Monmouth", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q5226413", "sub_label": "Das Kapital", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q3390731", "sub_label": "Place without a Postcard", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q8081", "obj_label": "tornado", "sub_uri": "Q4606547", "sub_label": "2006 London tornado", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q12280", "obj_label": "bridge", "sub_uri": "Q2618925", "sub_label": "Blue Bridge", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q87167", "obj_label": "manuscript", "sub_uri": "Q6870877", "sub_label": "Minuscule 726", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q736917", "obj_label": "formation", "sub_uri": "Q7110492", "sub_label": "Oum ed Diab Formation", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q2135724", "sub_label": "Lembeek", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q188784", "obj_label": "superhero", "sub_uri": "Q2651308", "sub_label": "Magik", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q3522793", "sub_label": "SLAF Batticaloa", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q12140", "obj_label": "medication", "sub_uri": "Q219957", "sub_label": "zonisamide", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q1617282", "sub_label": "Extraordinary Machine", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q11253552", "sub_label": "We Are Sexy", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q9024306", "sub_label": "Los momentos", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q4852580", "sub_label": "Balsinhas River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q5134838", "sub_label": "Clockwork Gray", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q1364077", "sub_label": "Vilicher Bach", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q188913", "obj_label": "plantation", "sub_uri": "Q14712054", "sub_label": "Bowling Eldridge House", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q6479707", "sub_label": "Lakkidi, Palakkad", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q27686", "obj_label": "hotel", "sub_uri": "Q6044880", "sub_label": "InterContinental New York Barclay Hotel", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q7428903", "sub_label": "Say Africa", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q5975868", "sub_label": "I Album: ID", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q2743", "obj_label": "musical", "sub_uri": "Q1872685", "sub_label": "Snoopy! The Musical", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q482994", "obj_label": "album", "sub_uri": "Q1760369", "sub_label": "Silver Moon", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q14714557", "sub_label": "Necedah Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q3887824", "sub_label": "Moton Field Municipal Airport", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q532", "obj_label": "village", "sub_uri": "Q5792310", "sub_label": "Jazireh-ye Shatvar", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q188509", "obj_label": "suburb", "sub_uri": "Q3316720", "sub_label": "Mission Bay, New Zealand", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q12323", "obj_label": "dam", "sub_uri": "Q17003019", "sub_label": "Benutan Dam", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q4022", "obj_label": "river", "sub_uri": "Q5299165", "sub_label": "Dos Indios River", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1137809", "obj_label": "courthouse", "sub_uri": "Q4976106", "sub_label": "Brown County Courthouse", "predicate_id": "P31"}
+{"uuid": "", "obj_uri": "Q1248784", "obj_label": "airport", "sub_uri": "Q687300", "sub_label": "Crotone Airport", "predicate_id": "P31"}

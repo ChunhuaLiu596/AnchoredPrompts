@@ -1,0 +1,9 @@
+flower
+tool
+building
+insect
+vegetable
+tree
+vehicle
+bird
+fish

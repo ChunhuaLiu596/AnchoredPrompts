@@ -1,0 +1,900 @@
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q371938", "sub_label": "Chicago", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q15052670", "sub_label": "Mopti (band)", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q2113827", "sub_label": "Prototypes", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q924963", "sub_label": "Charles Tyrwhitt", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q1420629", "sub_label": "Kayo Dot", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q2401699", "sub_label": "Telekinesis", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q7683577", "sub_label": "Tanks of Zen", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q2887", "obj_label": "Santiago", "sub_uri": "Q5275461", "sub_label": "Difuntos Correa", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q16953134", "sub_label": "Mondo Topless", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q869", "obj_label": "Thailand", "sub_uri": "Q7709167", "sub_label": "Thai Union Group", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q10686", "obj_label": "Belfast", "sub_uri": "Q6348146", "sub_label": "Kainos", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q99", "obj_label": "California", "sub_uri": "Q2118895", "sub_label": "The Association", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q7502612", "sub_label": "shotty", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_uri": "Q1518296", "sub_label": "Mint Royale", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q2937647", "sub_label": "Captain Phoenix", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q7250905", "sub_label": "Prospero", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q392599", "obj_label": "Everett", "sub_uri": "Q7136793", "sub_label": "Parenthetical Girls", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q20", "obj_label": "Norway", "sub_uri": "Q374868", "sub_label": "Myrkskog", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q386567", "obj_label": "Ajax", "sub_uri": "Q483558", "sub_label": "Sum 41", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q846885", "sub_label": "British Overseas Airways Corporation", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5092", "obj_label": "Baltimore", "sub_uri": "Q3977305", "sub_label": "Oblate Sisters of Providence", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q773953", "sub_label": "Death from Above 1979", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_uri": "Q7622399", "sub_label": "StrawberryFrog", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q427498", "sub_label": "Kluster", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q14239494", "sub_label": "Warner Bros. Games Montr\u00e9al", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q5474496", "sub_label": "Foundation for subsidiarity", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q4733807", "sub_label": "Almighty Defenders", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q3979869", "sub_label": "TXT e-solutions", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q1144907", "sub_label": "Kranky", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q10690", "obj_label": "Cardiff", "sub_uri": "Q7756799", "sub_label": "The Peth", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q187219", "sub_label": "Zeke", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1218", "obj_label": "Jerusalem", "sub_uri": "Q2410207", "sub_label": "The Chehade Brothers", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q1361543", "sub_label": "Sunny Day Real Estate", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q10690", "obj_label": "Cardiff", "sub_uri": "Q494215", "sub_label": "Demented Are Go", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q15052655", "sub_label": "Citizens (band)", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_uri": "Q7523557", "sub_label": "Singing Fools", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q133116", "obj_label": "Hamilton", "sub_uri": "Q5176999", "sub_label": "Counterparts", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q7744911", "sub_label": "The Kominas", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q7768902", "sub_label": "The Thought Criminals", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q111579", "sub_label": "Culprit", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q8652", "obj_label": "Miami", "sub_uri": "Q370835", "sub_label": "Cynic", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q205473", "sub_label": "Girls Aloud", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q205838", "sub_label": "Bloc Party", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_uri": "Q130171", "sub_label": "World Championship Wrestling", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q3020573", "sub_label": "Veronica Falls", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q36312", "obj_label": "Calgary", "sub_uri": "Q16850344", "sub_label": "Jocelyn & Lisa", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q11980687", "sub_label": "King Prawn", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q758902", "sub_label": "Audiovision", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q1048429", "sub_label": "Cassius", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q7774423", "sub_label": "The Whiskey Boys", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q7494537", "sub_label": "Sheppard Robson", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q950179", "sub_label": "European Green Party", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q7837745", "sub_label": "Treetop Flyers", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q183", "obj_label": "Germany", "sub_uri": "Q27417", "sub_label": "Modern Talking", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q49219", "obj_label": "Irvine", "sub_uri": "Q2499094", "sub_label": "Young the Giant", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q79867", "obj_label": "Birmingham", "sub_uri": "Q15044728", "sub_label": "Moses Mayfield", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q3812521", "sub_label": "Kaiyodo", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q17405943", "sub_label": "Jungle", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q961460", "sub_label": "Friends", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q42448", "obj_label": "Sheffield", "sub_uri": "Q116385", "sub_label": "Babybird", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18419", "obj_label": "Brooklyn", "sub_uri": "Q4041937", "sub_label": "Jupiter One", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q1304686", "sub_label": "Hefner", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18013", "obj_label": "Sacramento", "sub_uri": "Q6841265", "sub_label": "Middle Class Rut", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q36312", "obj_label": "Calgary", "sub_uri": "Q17137799", "sub_label": "RSX Energy", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1509", "obj_label": "Tennessee", "sub_uri": "Q7838464", "sub_label": "Trent Summar & the New Row Mob", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q3408814", "sub_label": "Henry Poole & Co", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q12439", "obj_label": "Detroit", "sub_uri": "Q5297182", "sub_label": "Doop and the Inside Outlaws", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q24639", "obj_label": "Vancouver", "sub_uri": "Q16875167", "sub_label": "The Royal Oui", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q133116", "obj_label": "Hamilton", "sub_uri": "Q15052854", "sub_label": "Huron (Canadian band)", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q25", "obj_label": "Wales", "sub_uri": "Q4932265", "sub_label": "Bob Delyn a'r Ebillion", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q3713334", "sub_label": "Dominic Cifarelli", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q83065", "obj_label": "Leicester", "sub_uri": "Q545593", "sub_label": "Maybeshewill", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q594559", "sub_label": "Skin Yard", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q42448", "obj_label": "Sheffield", "sub_uri": "Q7058799", "sub_label": "Northern Oak", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q2256", "obj_label": "Birmingham", "sub_uri": "Q6072199", "sub_label": "Iroha", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23197", "obj_label": "Nashville", "sub_uri": "Q17411256", "sub_label": "Lo-Fi", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_uri": "Q1386354", "sub_label": "F. Laeisz", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q245651", "sub_label": "Treat Her Right", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q3996939", "sub_label": "Toxic Narcotic", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1911175", "obj_label": "Johnston", "sub_uri": "Q3302414", "sub_label": "Dirty Little Rabbits", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q2262005", "sub_label": "Kartell", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q2135", "obj_label": "Winnipeg", "sub_uri": "Q4735196", "sub_label": "Alphabet Soup Children's Entertainment", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q36312", "obj_label": "Calgary", "sub_uri": "Q7111313", "sub_label": "Ours to Destroy", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_uri": "Q7589714", "sub_label": "St. Louis Union", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q8652", "obj_label": "Miami", "sub_uri": "Q6938758", "sub_label": "Murk", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q7670674", "sub_label": "TMDP", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q12439", "obj_label": "Detroit", "sub_uri": "Q131885", "sub_label": "Scripps-Booth", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q18712466", "sub_label": "Novel Nature", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3141", "obj_label": "Melbourne", "sub_uri": "Q7758902", "sub_label": "The Quarters", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q36091", "obj_label": "Minneapolis", "sub_uri": "Q7764514", "sub_label": "The Siren Six!", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q156578", "sub_label": "Volkswagen Group", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q1387829", "sub_label": "One Chance", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q731938", "sub_label": "AstraZeneca", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q8684", "obj_label": "Seoul", "sub_uri": "Q7410022", "sub_label": "Samoo Architects & Engineers", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q323187", "sub_label": "Above & Beyond", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q36091", "obj_label": "Minneapolis", "sub_uri": "Q5435021", "sub_label": "Farewell Continental", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q131491", "obj_label": "Brighton", "sub_uri": "Q7757770", "sub_label": "The Popguns", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q2256", "obj_label": "Birmingham", "sub_uri": "Q758380", "sub_label": "Au Pairs", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q3481131", "sub_label": "Shabazz Palaces", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q16950505", "sub_label": "Manooghi Hi", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q131491", "obj_label": "Brighton", "sub_uri": "Q5396778", "sub_label": "Esben and the Witch", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q4793838", "sub_label": "ArmsBendBack", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q36091", "obj_label": "Minneapolis", "sub_uri": "Q16858516", "sub_label": "Koo Koo Kanga Roo", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q1164269", "sub_label": "Danko Jones", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q36312", "obj_label": "Calgary", "sub_uri": "Q8033133", "sub_label": "Woodpigeon", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q28", "obj_label": "Hungary", "sub_uri": "Q6896877", "sub_label": "Moltopera", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_uri": "Q168844", "sub_label": "Narodowy Bank Polski", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q2096", "obj_label": "Edmonton", "sub_uri": "Q6378569", "sub_label": "Katz Group of Companies", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q826782", "obj_label": "Stafford", "sub_uri": "Q490339", "sub_label": "Climax Blues Band", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q36091", "obj_label": "Minneapolis", "sub_uri": "Q8038416", "sub_label": "Write This Down", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_uri": "Q5509847", "sub_label": "Fury UK", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q2776753", "sub_label": "My Sister's Machine", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q189", "obj_label": "Iceland", "sub_uri": "Q6750965", "sub_label": "Mannvit Engineering", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q36091", "obj_label": "Minneapolis", "sub_uri": "Q977253", "sub_label": "Poli\u00e7a", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q731262", "sub_label": "Quatermass", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q8564175", "sub_label": "Foggy Hogtown Boys", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q4093", "obj_label": "Glasgow", "sub_uri": "Q883441", "sub_label": "Bleed From Within", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23154", "obj_label": "Bristol", "sub_uri": "Q7727682", "sub_label": "The Cortinas", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_uri": "Q496214", "sub_label": "Fettes Brot", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q2135", "obj_label": "Winnipeg", "sub_uri": "Q17037825", "sub_label": "Royal Canoe", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q34932", "obj_label": "Brisbane", "sub_uri": "Q7743843", "sub_label": "The Jungle Giants", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_uri": "Q4640280", "sub_label": "52nd Street", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_uri": "Q1140005", "sub_label": "Crime Mob", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q59670", "obj_label": "Columbia", "sub_uri": "Q7538410", "sub_label": "Slackers CDs and Games", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_uri": "Q2468032", "sub_label": "Metropolitan-Vickers", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q21", "obj_label": "England", "sub_uri": "Q5034551", "sub_label": "Capdown", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q7712277", "sub_label": "The Acro-Brats", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18419", "obj_label": "Brooklyn", "sub_uri": "Q16210233", "sub_label": "Frederick Loeser & Co.", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q2715256", "sub_label": "Fat Larry's Band", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18419", "obj_label": "Brooklyn", "sub_uri": "Q5126105", "sub_label": "Clare & the Reasons", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1156", "obj_label": "Mumbai", "sub_uri": "Q7906873", "sub_label": "VFS Global", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q2742913", "sub_label": "Double Negative", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18419", "obj_label": "Brooklyn", "sub_uri": "Q4921996", "sub_label": "Black Taxi", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_uri": "Q7735269", "sub_label": "The Freshies", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q25", "obj_label": "Wales", "sub_uri": "Q4967940", "sub_label": "Brigyn", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1904", "obj_label": "Ontario", "sub_uri": "Q7761720", "sub_label": "The Royal Royal", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q771", "obj_label": "Massachusetts", "sub_uri": "Q15053085", "sub_label": "Herra Terra", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q11991619", "sub_label": "No Torso", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q12439", "obj_label": "Detroit", "sub_uri": "Q7752605", "sub_label": "The Muggs", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q8652", "obj_label": "Miami", "sub_uri": "Q222856", "sub_label": "2 Live Crew", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q2096", "obj_label": "Edmonton", "sub_uri": "Q17113030", "sub_label": "Zerbin", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q2535085", "sub_label": "Barclay", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q131491", "obj_label": "Brighton", "sub_uri": "Q7160745", "sub_label": "Peggy Sue", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q5598380", "sub_label": "Grayskul", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3141", "obj_label": "Melbourne", "sub_uri": "Q16146741", "sub_label": "Alpine", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q4093", "obj_label": "Glasgow", "sub_uri": "Q2230709", "sub_label": "Dananananaykroyd", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_uri": "Q16875193", "sub_label": "R\u00dcF\u00dcS DU SOL", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_uri": "Q7732060", "sub_label": "The End Band", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q5856709", "sub_label": "The Myriad", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_uri": "Q353143", "sub_label": "Simian", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q233808", "obj_label": "Aberdeen", "sub_uri": "Q931863", "sub_label": "Fecal Matter", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q10686", "obj_label": "Belfast", "sub_uri": "Q848977", "sub_label": "Harland and Wolff", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q990271", "obj_label": "Troy", "sub_uri": "Q7662679", "sub_label": "Syntel", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q3962725", "sub_label": "Slaves to Gravity", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3141", "obj_label": "Melbourne", "sub_uri": "Q4820403", "sub_label": "Augie March", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q808333", "sub_label": "BarlowGirl", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q956945", "sub_label": "LUKoil-Avia", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q55", "obj_label": "Netherlands", "sub_uri": "Q1428298", "sub_label": "Vredestein Banden B.V.", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_uri": "Q7090127", "sub_label": "Omerta", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q34006", "obj_label": "Hollywood", "sub_uri": "Q4041912", "sub_label": "Jubilee", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_uri": "Q7727589", "sub_label": "The Cops", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q3264367", "sub_label": "Low Skies", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q7299659", "sub_label": "Razors in the Night", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1563", "obj_label": "Havana", "sub_uri": "Q3356672", "sub_label": "Orquesta Riverside", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18419", "obj_label": "Brooklyn", "sub_uri": "Q689160", "sub_label": "B. T. Express", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q4972297", "sub_label": "Broadside Electric", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q856411", "sub_label": "British American Tobacco", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q858721", "sub_label": "Big D and the Kids Table", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q16554", "obj_label": "Denver", "sub_uri": "Q271513", "sub_label": "The Fray", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q39121", "obj_label": "Leeds", "sub_uri": "Q5249847", "sub_label": "Dedringer", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q2135", "obj_label": "Winnipeg", "sub_uri": "Q7756030", "sub_label": "The Paperbacks", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q18562040", "sub_label": "Georg Neumann", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q914489", "sub_label": "Magma", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q192517", "obj_label": "Boulder", "sub_uri": "Q7774766", "sub_label": "The Widow's Bane", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q8684", "obj_label": "Seoul", "sub_uri": "Q60157", "sub_label": "Crayon Pop", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3141", "obj_label": "Melbourne", "sub_uri": "Q5469709", "sub_label": "Forgiven Rival", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23436", "obj_label": "Edinburgh", "sub_uri": "Q7718149", "sub_label": "The Birthday Suit", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1524", "obj_label": "Athens", "sub_uri": "Q5210074", "sub_label": "Dakrya", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5092", "obj_label": "Baltimore", "sub_uri": "Q5297298", "sub_label": "Dope Body", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q10686", "obj_label": "Belfast", "sub_uri": "Q8024353", "sub_label": "Window Seats", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q70", "obj_label": "Bern", "sub_uri": "Q614803", "sub_label": "Swiss Post", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q25", "obj_label": "Wales", "sub_uri": "Q13127808", "sub_label": "Datblygu", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1156", "obj_label": "Mumbai", "sub_uri": "Q7439143", "sub_label": "Scribe", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q5533747", "sub_label": "Gentlemen Hall", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q36091", "obj_label": "Minneapolis", "sub_uri": "Q465140", "sub_label": "American Indian Movement", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q904589", "sub_label": "Societ\u00e0 Italiana Ernesto Breda", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_uri": "Q5319192", "sub_label": "Dynazty", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q37836", "obj_label": "Milwaukee", "sub_uri": "Q1806882", "sub_label": "Allis-Chalmers", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q24639", "obj_label": "Vancouver", "sub_uri": "Q8026029", "sub_label": "Winston", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q3989886", "sub_label": "The Virus", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1342", "obj_label": "Pittsburgh", "sub_uri": "Q898067", "sub_label": "Watch Tower Bible and Tract Society of Pennsylvania", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q242437", "sub_label": "Lights", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q41262", "obj_label": "Nottingham", "sub_uri": "Q2209500", "sub_label": "Sabbat", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q2256", "obj_label": "Birmingham", "sub_uri": "Q6042458", "sub_label": "Ins\u00f3lito", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q487119", "obj_label": "Compton", "sub_uri": "Q3305720", "sub_label": "Menajahtwa", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q4929922", "sub_label": "Blue States", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_uri": "Q46252", "sub_label": "Crashd\u00efet", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q7658814", "sub_label": "Swirlies", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q5580323", "sub_label": "Goldsmiths Prize", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1748", "obj_label": "Copenhagen", "sub_uri": "Q647370", "sub_label": "Mercyful Fate", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q7832802", "sub_label": "Trailer Trash Tracys", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q16557", "obj_label": "Dallas", "sub_uri": "Q8049252", "sub_label": "Yarbrough and Peoples", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q83823", "sub_label": "Ferrovie dello Stato Italiane", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q262929", "sub_label": "Nocturnal Breed", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3630", "obj_label": "Jakarta", "sub_uri": "Q17544822", "sub_label": "Oriental Film", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q131491", "obj_label": "Brighton", "sub_uri": "Q16239849", "sub_label": "Hatful of Rain", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q10686", "obj_label": "Belfast", "sub_uri": "Q5159157", "sub_label": "Condemned", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q761408", "obj_label": "Springs", "sub_uri": "Q7280985", "sub_label": "Radio Rats", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q4093", "obj_label": "Glasgow", "sub_uri": "Q4822335", "sub_label": "Auricle Ensemble", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q3521251", "sub_label": "The High & Mighty", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q39121", "obj_label": "Leeds", "sub_uri": "Q5050827", "sub_label": "Castrovalva", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q7670236", "sub_label": "THEESatisfaction", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q43788", "obj_label": "Madison", "sub_uri": "Q16992235", "sub_label": "EatStreet", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_uri": "Q273981", "sub_label": "Tionne Watkins", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q2557807", "sub_label": "Wellington Management Company", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q18389303", "sub_label": "The Bobby Broom Organi-Sation", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q24639", "obj_label": "Vancouver", "sub_uri": "Q5308357", "sub_label": "Droom", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q20", "obj_label": "Norway", "sub_uri": "Q5492450", "sub_label": "Frantic Bleep", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_uri": "Q5750247", "sub_label": "Hi-Rise", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q16960029", "sub_label": "Lavender Country", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1083350", "obj_label": "Sussex", "sub_uri": "Q5464803", "sub_label": "Folly", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18419", "obj_label": "Brooklyn", "sub_uri": "Q7717793", "sub_label": "The Big Sleep", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q24639", "obj_label": "Vancouver", "sub_uri": "Q7305815", "sub_label": "Redeye Empire", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23154", "obj_label": "Bristol", "sub_uri": "Q1678489", "sub_label": "Jaguar", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q2256", "obj_label": "Birmingham", "sub_uri": "Q7739613", "sub_label": "The High Society", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q5436718", "sub_label": "Fashion Bomb", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q7738574", "sub_label": "The Gymslips", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q4869733", "sub_label": "Batteries Included", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3183", "obj_label": "Perth", "sub_uri": "Q4866694", "sub_label": "Basement Birds", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_uri": "Q3544284", "sub_label": "Manchester Orchestra", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q5208034", "sub_label": "Daddysmilk", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q1424355", "sub_label": "The Legendary Pink Dots", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q7713204", "sub_label": "The Almighty RSO", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q607108", "obj_label": "Baldwin", "sub_uri": "Q891752", "sub_label": "Bomb the Music Industry!", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q306260", "sub_label": "Supercell", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q212464", "sub_label": "New Kids on the Block", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q55", "obj_label": "Netherlands", "sub_uri": "Q863851", "sub_label": "Bingo Players", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q203263", "obj_label": "Athens", "sub_uri": "Q5308264", "sub_label": "Dromedary", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q8652", "obj_label": "Miami", "sub_uri": "Q7194493", "sub_label": "Piloto Cigars Inc.", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q24639", "obj_label": "Vancouver", "sub_uri": "Q7086382", "sub_label": "Olenka and the Autumn Lovers", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q36091", "obj_label": "Minneapolis", "sub_uri": "Q863090", "sub_label": "Lipps Inc.", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18419", "obj_label": "Brooklyn", "sub_uri": "Q18719059", "sub_label": "Chumped", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q4668280", "sub_label": "Abominable Putridity", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_uri": "Q1484081", "sub_label": "G-Star Raw", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3640", "obj_label": "Ankara", "sub_uri": "Q189410", "sub_label": "Manga", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q7728935", "sub_label": "The Dark Fantastic", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q7731860", "sub_label": "The Embassy", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_uri": "Q4930371", "sub_label": "Bluejuice", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_uri": "Q8002819", "sub_label": "Will Gambola Sing", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3183", "obj_label": "Perth", "sub_uri": "Q576457", "sub_label": "The Panics", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q5586137", "sub_label": "Goreaphobia", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q212841", "obj_label": "Drama", "sub_uri": "Q1328091", "sub_label": "K.A.O.D. B.C.", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3640", "obj_label": "Ankara", "sub_uri": "Q4861136", "sub_label": "Barlas Erin\u00e7", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q24639", "obj_label": "Vancouver", "sub_uri": "Q7722635", "sub_label": "The Choir Practice", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_uri": "Q10593773", "sub_label": "NEXX", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q39121", "obj_label": "Leeds", "sub_uri": "Q297410", "sub_label": "Asda", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q20", "obj_label": "Norway", "sub_uri": "Q7764987", "sub_label": "The Snakes", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q2504465", "sub_label": "World Party", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1757", "obj_label": "Helsinki", "sub_uri": "Q3499735", "sub_label": "Stonesoft Corporation", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q6106", "obj_label": "Portland", "sub_uri": "Q2344956", "sub_label": "Stephen Malkmus and the Jicks", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_uri": "Q19589766", "sub_label": "Mad Mex Fresh Mexican", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_uri": "Q250701", "sub_label": "November", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q131491", "obj_label": "Brighton", "sub_uri": "Q7696269", "sub_label": "Telegraphs", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q6738243", "sub_label": "Major Maker", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q910459", "sub_label": "Bury Your Dead", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1370", "obj_label": "Virginia", "sub_uri": "Q744772", "sub_label": "Clipse", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q7712028", "sub_label": "The A-Sides", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q33", "obj_label": "Finland", "sub_uri": "Q6969050", "sub_label": "Tuxera", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_uri": "Q2811247", "sub_label": "The 1975", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q15835180", "sub_label": "Mighty Oaks", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q34217", "obj_label": "Oxford", "sub_uri": "Q4371", "sub_label": "Ride", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q2941652", "sub_label": "Catalyst", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_uri": "Q4382480", "sub_label": "The Kiddie", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q655648", "sub_label": "Boys Like Girls", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1794", "obj_label": "Frankfurt", "sub_uri": "Q1562727", "sub_label": "Hameg", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_uri": "Q266782", "sub_label": "Combichrist", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1761", "obj_label": "Dublin", "sub_uri": "Q6398551", "sub_label": "Keywest", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1524", "obj_label": "Athens", "sub_uri": "Q5245139", "sub_label": "Dead Congregation", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q2372096", "sub_label": "The Fold", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q8652", "obj_label": "Miami", "sub_uri": "Q17020001", "sub_label": "Social Club Misfits", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q1368192", "sub_label": "Espers", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1006179", "obj_label": "Monroe", "sub_uri": "Q6703540", "sub_label": "Luna Mortis", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q1535279", "sub_label": "Grinderman", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q39121", "obj_label": "Leeds", "sub_uri": "Q2579885", "sub_label": "Hawk Eyes", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q16559", "obj_label": "Austin", "sub_uri": "Q7719597", "sub_label": "The Boxing Lesson", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q2256", "obj_label": "Birmingham", "sub_uri": "Q7670195", "sub_label": "TG Collective", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23154", "obj_label": "Bristol", "sub_uri": "Q5104195", "sub_label": "Choke", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q2256", "obj_label": "Birmingham", "sub_uri": "Q16846969", "sub_label": "Singing Stewarts", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q213832", "obj_label": "Dudley", "sub_uri": "Q7733797", "sub_label": "The Fight", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q24826", "obj_label": "Liverpool", "sub_uri": "Q18178797", "sub_label": "Kingsize Taylor and the Dominoes", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23109", "obj_label": "Norfolk", "sub_uri": "Q686489", "sub_label": "Sebastian", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q198472", "sub_label": "Zico Chain", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18419", "obj_label": "Brooklyn", "sub_uri": "Q5577163", "sub_label": "Goes Cube", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23154", "obj_label": "Bristol", "sub_uri": "Q762747", "sub_label": "Phantom Limb", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q16551", "obj_label": "Vermont", "sub_uri": "Q2890509", "sub_label": "Burnham", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q29303", "obj_label": "Canterbury", "sub_uri": "Q18211565", "sub_label": "Syd Arthur", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_uri": "Q1107048", "sub_label": "Cognos", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q16557", "obj_label": "Dallas", "sub_uri": "Q16995257", "sub_label": "Heritage Auctions", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18419", "obj_label": "Brooklyn", "sub_uri": "Q7534434", "sub_label": "Skeletonbreath", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q2256", "obj_label": "Birmingham", "sub_uri": "Q994112", "sub_label": "Midland Bank", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q350", "obj_label": "Cambridge", "sub_uri": "Q296782", "sub_label": "ARM Holdings", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_uri": "Q1089429", "sub_label": "A II Z", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_uri": "Q19668147", "sub_label": "The Toggery Five", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q7776814", "sub_label": "The Young Werewolves", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q840882", "sub_label": "Klaxons", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3183", "obj_label": "Perth", "sub_uri": "Q7755982", "sub_label": "The Panda Band", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q6346", "obj_label": "Indianapolis", "sub_uri": "Q4656035", "sub_label": "A Common Year", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_uri": "Q5187535", "sub_label": "Croker", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q131491", "obj_label": "Brighton", "sub_uri": "Q7489842", "sub_label": "Sharkboy", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q36312", "obj_label": "Calgary", "sub_uri": "Q764321", "sub_label": "Penn West Exploration", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_uri": "Q7391067", "sub_label": "SMART", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q5457967", "sub_label": "Flats", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q4031903", "sub_label": "5ive", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q491350", "obj_label": "Orange", "sub_uri": "Q19277905", "sub_label": "Dayseeker", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q163", "obj_label": "Yorkshire", "sub_uri": "Q7761554", "sub_label": "The Rose of Avalanche", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q670413", "sub_label": "Piriform", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18419", "obj_label": "Brooklyn", "sub_uri": "Q5167431", "sub_label": "Cooler Kids", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q7742362", "sub_label": "The Interpreters", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q1984612", "sub_label": "Hater", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q890779", "sub_label": "Bohemia Interactive", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5092", "obj_label": "Baltimore", "sub_uri": "Q4691048", "sub_label": "Against Nature", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q24826", "obj_label": "Liverpool", "sub_uri": "Q7752181", "sub_label": "The Moonies", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q4093", "obj_label": "Glasgow", "sub_uri": "Q18619118", "sub_label": "Anime Limited", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q641", "obj_label": "Venice", "sub_uri": "Q548005", "sub_label": "Azienda del Consorzio Trasporti Veneziano", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3183", "obj_label": "Perth", "sub_uri": "Q5125089", "sub_label": "Claim the Throne", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1352", "obj_label": "Chennai", "sub_uri": "Q7382630", "sub_label": "Rusty Moe", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q7729591", "sub_label": "The Defiled", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q7919220", "sub_label": "Vells", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q131491", "obj_label": "Brighton", "sub_uri": "Q7560666", "sub_label": "Son of Science", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q83065", "obj_label": "Leicester", "sub_uri": "Q7278714", "sub_label": "Rabid", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q189074", "obj_label": "Harlem", "sub_uri": "Q4939131", "sub_label": "Bole2Harlem", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23436", "obj_label": "Edinburgh", "sub_uri": "Q7771980", "sub_label": "The Valves", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_uri": "Q1082262", "sub_label": "Kleerup", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q4840406", "sub_label": "Bad Rabbits", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_uri": "Q18163622", "sub_label": "Satan Takes A Holiday", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q844008", "obj_label": "Kent", "sub_uri": "Q5221624", "sub_label": "Daphne Loves Derby", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q16557", "obj_label": "Dallas", "sub_uri": "Q4118850", "sub_label": "Pizza Inn", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_uri": "Q5692964", "sub_label": "Hearts No Static", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q11299", "obj_label": "Manhattan", "sub_uri": "Q2462124", "sub_label": "The Trump Organization", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q28974", "sub_label": "Earth, Wind & Fire", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_uri": "Q694690", "sub_label": "Gr\u00e4f & Stift", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q135615", "obj_label": "Springfield", "sub_uri": "Q17105325", "sub_label": "Positronic", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q3040796", "sub_label": "Duchess Says", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q8660", "obj_label": "Karachi", "sub_uri": "Q5511140", "sub_label": "Fuz\u00f6n", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q36312", "obj_label": "Calgary", "sub_uri": "Q7842385", "sub_label": "Trinidad Drilling", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q43382", "obj_label": "Plymouth", "sub_uri": "Q6725943", "sub_label": "Mad Dog Mcrea", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q4570988", "sub_label": "Public Enemies", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q2256", "obj_label": "Birmingham", "sub_uri": "Q7430434", "sub_label": "Scarlet Harlots", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q7730270", "sub_label": "The Dirty Rooks", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1761", "obj_label": "Dublin", "sub_uri": "Q396", "sub_label": "U2", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q4093", "obj_label": "Glasgow", "sub_uri": "Q7882755", "sub_label": "Uncle John & Whitelock", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_uri": "Q16727521", "sub_label": "Bipolar Sunshine", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q13417242", "sub_label": "Fauve (collective)", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_uri": "Q179898", "sub_label": "Masterplan", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q163", "obj_label": "Yorkshire", "sub_uri": "Q7252840", "sub_label": "Proxies", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q2256", "obj_label": "Birmingham", "sub_uri": "Q6061707", "sub_label": "Io", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q34804", "obj_label": "Albuquerque", "sub_uri": "Q5463530", "sub_label": "Flying Star", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q1552833", "sub_label": "VAST", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q2624442", "sub_label": "Make-up Art Cosmetics", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q548664", "obj_label": "Richmond", "sub_uri": "Q15052737", "sub_label": "Sockweb", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q4093", "obj_label": "Glasgow", "sub_uri": "Q4053500", "sub_label": "The Yummy Fur", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_uri": "Q48284", "sub_label": "Midnight Oil", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q25", "obj_label": "Wales", "sub_uri": "Q13405396", "sub_label": "Sibrydion", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23111", "obj_label": "Suffolk", "sub_uri": "Q487479", "sub_label": "Cradle of Filth", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q806231", "sub_label": "Band Aid", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18424", "obj_label": "Queens", "sub_uri": "Q727115", "sub_label": "Mobb Deep", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_uri": "Q4764054", "sub_label": "Angus & Robertson", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q172157", "obj_label": "Winchester", "sub_uri": "Q7225845", "sub_label": "Polly and the Billets Doux", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q206687", "obj_label": "Nelson", "sub_uri": "Q15379163", "sub_label": "Broods", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q3858655", "sub_label": "Miocene", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q6398452", "sub_label": "Keystone Camera Company", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3114", "obj_label": "Canberra", "sub_uri": "Q1575142", "sub_label": "Hands Like Houses", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3820", "obj_label": "Beirut", "sub_uri": "Q7445932", "sub_label": "Seeqnce", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q16557", "obj_label": "Dallas", "sub_uri": "Q4998263", "sub_label": "Burden Brothers", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q5121710", "sub_label": "Circulus", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q16966630", "sub_label": "Peace and Silence", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_uri": "Q11237223", "sub_label": "Oldcodex", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q199797", "obj_label": "Tacoma", "sub_uri": "Q1393474", "sub_label": "The Fabulous Wailers", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q635772", "sub_label": "Archive", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1439", "obj_label": "Texas", "sub_uri": "Q6033613", "sub_label": "Inhabited", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23154", "obj_label": "Bristol", "sub_uri": "Q4779162", "sub_label": "Apartment", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q2634", "obj_label": "Naples", "sub_uri": "Q2853150", "sub_label": "Antica Pizzeria Port'Alba", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q485176", "obj_label": "Pasadena", "sub_uri": "Q190155", "sub_label": "Van Halen", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q36091", "obj_label": "Minneapolis", "sub_uri": "Q15053014", "sub_label": "The Gateway District", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q288", "obj_label": "Tours", "sub_uri": "Q167850", "sub_label": "Zaz", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q37320", "obj_label": "Cleveland", "sub_uri": "Q1783748", "sub_label": "Peerless", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q16557", "obj_label": "Dallas", "sub_uri": "Q1070755", "sub_label": "Ion Storm", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q24639", "obj_label": "Vancouver", "sub_uri": "Q3640459", "sub_label": "Bison B.C.", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q3238355", "sub_label": "Life's Decay", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q33", "obj_label": "Finland", "sub_uri": "Q1543093", "sub_label": "Stockmann", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q4093", "obj_label": "Glasgow", "sub_uri": "Q3567454", "sub_label": "West of Scotland F.C.", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q4826245", "sub_label": "Autodesk Media and Entertainment", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q5449767", "sub_label": "Finarte", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q4093", "obj_label": "Glasgow", "sub_uri": "Q2913458", "sub_label": "Ted Baker Plc", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q22905", "obj_label": "Bradford", "sub_uri": "Q1129919", "sub_label": "Jowett Cars", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1761", "obj_label": "Dublin", "sub_uri": "Q7452224", "sub_label": "September Girls", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q192517", "obj_label": "Boulder", "sub_uri": "Q16968110", "sub_label": "Xero Shoes", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_uri": "Q7774600", "sub_label": "The White Wires", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q824", "obj_label": "Oregon", "sub_uri": "Q7199979", "sub_label": "Pizza Schmizza", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1757", "obj_label": "Helsinki", "sub_uri": "Q7540934", "sub_label": "Slipping Stitches", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_uri": "Q5308043", "sub_label": "Drivin N Cryin", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q869", "obj_label": "Thailand", "sub_uri": "Q6889114", "sub_label": "Modernform Group", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q1418562", "sub_label": "The Nips", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3141", "obj_label": "Melbourne", "sub_uri": "Q1287909", "sub_label": "The Morning After Girls", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_uri": "Q670154", "sub_label": "Julius Meinl", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q1140997", "sub_label": "Crookers", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q16557", "obj_label": "Dallas", "sub_uri": "Q7296343", "sub_label": "Rave Cinemas", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q207770", "sub_label": "Pirelli", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_uri": "Q5152062", "sub_label": "Comma Press", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q311645", "sub_label": "deLillos", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1726", "obj_label": "Munich", "sub_uri": "Q689306", "sub_label": "Chicks on Speed", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q16555", "obj_label": "Houston", "sub_uri": "Q7718384", "sub_label": "The Black Math Experiment", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q25", "obj_label": "Wales", "sub_uri": "Q462067", "sub_label": "Amen Corner", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_uri": "Q9081459", "sub_label": "Tag Team", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q10686", "obj_label": "Belfast", "sub_uri": "Q2613366", "sub_label": "Ulster Bank", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q1575035", "sub_label": "William Control", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q16555", "obj_label": "Houston", "sub_uri": "Q7844166", "sub_label": "Tristar Productions", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q1631020", "sub_label": "Terravision", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q7721786", "sub_label": "The Cave Singers", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q18608591", "sub_label": "Years & Years", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1761", "obj_label": "Dublin", "sub_uri": "Q5221524", "sub_label": "Daon, Inc.", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1761", "obj_label": "Dublin", "sub_uri": "Q8037682", "sub_label": "Wreck of the Hesperus", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q8003365", "sub_label": "Willard", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q7737463", "sub_label": "The Grand", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1352", "obj_label": "Chennai", "sub_uri": "Q419649", "sub_label": "Bhavini", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q36312", "obj_label": "Calgary", "sub_uri": "Q7125048", "sub_label": "Painter", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1156", "obj_label": "Mumbai", "sub_uri": "Q2723181", "sub_label": "Rajshri Productions", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q39121", "obj_label": "Leeds", "sub_uri": "Q8031931", "sub_label": "Wonderswan", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q901886", "sub_label": "Yara International", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q184090", "obj_label": "Preston", "sub_uri": "Q7743907", "sub_label": "The KBC", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q12439", "obj_label": "Detroit", "sub_uri": "Q7784923", "sub_label": "Third Power", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q3748077", "sub_label": "Forgive Durden", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q152096", "sub_label": "Sainsbury's", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q771", "obj_label": "Massachusetts", "sub_uri": "Q5182605", "sub_label": "Crate Entertainment", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1757", "obj_label": "Helsinki", "sub_uri": "Q810980", "sub_label": "Battle Beast", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_uri": "Q1932886", "sub_label": "Spanx, Inc.", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q42448", "obj_label": "Sheffield", "sub_uri": "Q5877279", "sub_label": "Hoggboy", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q4043878", "sub_label": "Mechanical Poet", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q37320", "obj_label": "Cleveland", "sub_uri": "Q1179312", "sub_label": "Dazz Band", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23298", "obj_label": "Kent", "sub_uri": "Q6843312", "sub_label": "Midway Still", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1687279", "obj_label": "Watts", "sub_uri": "Q7767800", "sub_label": "The Sylvers", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18419", "obj_label": "Brooklyn", "sub_uri": "Q949697", "sub_label": "Telepathe", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q2256", "obj_label": "Birmingham", "sub_uri": "Q47670", "sub_label": "Black Sabbath", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q18345783", "sub_label": "Left to Vanish", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3820", "obj_label": "Beirut", "sub_uri": "Q2619999", "sub_label": "Mashrou' Leila", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q42448", "obj_label": "Sheffield", "sub_uri": "Q707859", "sub_label": "Artery", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_uri": "Q4454599", "sub_label": "Buried In Verona", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q183", "obj_label": "Germany", "sub_uri": "Q700020", "sub_label": "Stahlgewitter", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q15053492", "sub_label": "Demon's Claws", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_uri": "Q1546362", "sub_label": "Skizoo", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q4010298", "sub_label": "Vertigo Films", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23436", "obj_label": "Edinburgh", "sub_uri": "Q16825203", "sub_label": "Caf\u00e9 Jacques", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1342", "obj_label": "Pittsburgh", "sub_uri": "Q16998937", "sub_label": "La Prima Espresso Company", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q2096", "obj_label": "Edmonton", "sub_uri": "Q8033764", "sub_label": "Wool on Wolves", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q1053623", "sub_label": "Mother Love Bone", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q1341066", "sub_label": "ENEA AB", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3141", "obj_label": "Melbourne", "sub_uri": "Q7704008", "sub_label": "Terrorust", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q5245671", "sub_label": "Deadly circus fire", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_uri": "Q903805", "sub_label": "hema", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q5039695", "sub_label": "Carissa's Wierd", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q472675", "obj_label": "Frederick", "sub_uri": "Q15052676", "sub_label": "Silent Old Mtns", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1757", "obj_label": "Helsinki", "sub_uri": "Q1637886", "sub_label": "End of You", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q8062910", "sub_label": "Z2Live", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_uri": "Q312706", "sub_label": "Magnapop", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q368045", "obj_label": "Chester", "sub_uri": "Q7236330", "sub_label": "Power Home Remodeling Group", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_uri": "Q7754405", "sub_label": "The Nosebleeds", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q7304485", "sub_label": "Red Light Company", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q641", "obj_label": "Venice", "sub_uri": "Q3977525", "sub_label": "SuperJet International", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q14158593", "sub_label": "Let's Wrestle", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q2256", "obj_label": "Birmingham", "sub_uri": "Q7835719", "sub_label": "Trash Fashion", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q608594", "sub_label": "DYS", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q7772747", "sub_label": "The Violet Archers", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23436", "obj_label": "Edinburgh", "sub_uri": "Q533723", "sub_label": "Angelfish", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3141", "obj_label": "Melbourne", "sub_uri": "Q15052869", "sub_label": "The Paper Kites", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q7202055", "sub_label": "Plastic Little", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_uri": "Q15052785", "sub_label": "Turrentine Jones", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_uri": "Q2688212", "sub_label": "The Brains", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q3402586", "sub_label": "Presses de la Cit\u00e9", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q7737025", "sub_label": "The Golden Dogs", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_uri": "Q7076292", "sub_label": "Ocha la Rocha", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3141", "obj_label": "Melbourne", "sub_uri": "Q18162650", "sub_label": "Ne Obliviscaris", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q41262", "obj_label": "Nottingham", "sub_uri": "Q5245554", "sub_label": "Deadfall", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_uri": "Q15052813", "sub_label": "Mazes", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1439", "obj_label": "Texas", "sub_uri": "Q7622568", "sub_label": "Stray Dog", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q7402399", "sub_label": "Saints & Sinners", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_uri": "Q2242881", "sub_label": "Sad Caf\u00e9", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_uri": "Q3062076", "sub_label": "Expatriate", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q16954796", "sub_label": "The Lawsuits", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q5532643", "sub_label": "Generator X", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_uri": "Q7852904", "sub_label": "Tundra Semiconductor", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q7374385", "sub_label": "Royal LePage", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q5023029", "sub_label": "Calm Down Juanita", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q5706326", "sub_label": "Hell's Belles", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q22", "obj_label": "Scotland", "sub_uri": "Q7715514", "sub_label": "The Band from Rockall", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q641", "obj_label": "Venice", "sub_uri": "Q1586965", "sub_label": "Harry's Bar", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q8058093", "sub_label": "Young Empires", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_uri": "Q6917873", "sub_label": "Motivation", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q2931874", "sub_label": "CPC Gangbangs", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q13404085", "sub_label": "Red Thread Games", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q1746937", "sub_label": "Radio Flyer", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q16557", "obj_label": "Dallas", "sub_uri": "Q7727445", "sub_label": "The Container Store", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q49219", "obj_label": "Irvine", "sub_uri": "Q743712", "sub_label": "Black Isle Studios", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_uri": "Q2743439", "sub_label": "Aural Vampire", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q3541171", "sub_label": "TR/ST", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q5642883", "sub_label": "Hallelujah the Hills", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q1886400", "sub_label": "Old Man's Child", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1748", "obj_label": "Copenhagen", "sub_uri": "Q7978436", "sub_label": "WebCRM", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1088629", "obj_label": "Wayne", "sub_uri": "Q5305754", "sub_label": "Dramarama", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q24826", "obj_label": "Liverpool", "sub_uri": "Q1299", "sub_label": "The Beatles", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q6024788", "sub_label": "Indigo Moss", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_uri": "Q16240978", "sub_label": "Carnivores", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q822", "obj_label": "Lebanon", "sub_uri": "Q4830979", "sub_label": "Ayat", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q956", "obj_label": "Beijing", "sub_uri": "Q7497543", "sub_label": "Beijing Queer Chorus", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q365", "obj_label": "Cologne", "sub_uri": "Q650195", "sub_label": "Johann Maria Farina gegen\u00fcber dem J\u00fclichs-Platz", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q7242267", "sub_label": "Pretty Poison", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q167977", "sub_label": "Skunk Anansie", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q205905", "obj_label": "Lancaster", "sub_uri": "Q7749025", "sub_label": "The Lovely Eggs", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q1930558", "sub_label": "Pre", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q516817", "obj_label": "Albany", "sub_uri": "Q4656581", "sub_label": "A Dream Too Late", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q499401", "obj_label": "Warren", "sub_uri": "Q953083", "sub_label": "I See Stars", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q8035411", "sub_label": "World Blanket", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q41262", "obj_label": "Nottingham", "sub_uri": "Q5164620", "sub_label": "Consumed", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q4690276", "sub_label": "Afrodizz", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18419", "obj_label": "Brooklyn", "sub_uri": "Q5153450", "sub_label": "Common Prayer", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q334", "obj_label": "Singapore", "sub_uri": "Q6703853", "sub_label": "Lunarin", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q36091", "obj_label": "Minneapolis", "sub_uri": "Q5193454", "sub_label": "Culture Cry Wolf", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q17090141", "sub_label": "Tin Bird Choir", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q2256", "obj_label": "Birmingham", "sub_uri": "Q7441867", "sub_label": "Season", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q133116", "obj_label": "Hamilton", "sub_uri": "Q15053531", "sub_label": "Pantychrist", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q4406987", "sub_label": "Samotsvety", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q2256", "obj_label": "Birmingham", "sub_uri": "Q250319", "sub_label": "Benediction", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q4093", "obj_label": "Glasgow", "sub_uri": "Q16931808", "sub_label": "Remember Remember", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q3012558", "sub_label": "Dalton Maag", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q5021188", "sub_label": "California Wives", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_uri": "Q537424", "sub_label": "Angelspit", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q4356973", "sub_label": "Benea Reach", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23436", "obj_label": "Edinburgh", "sub_uri": "Q7494492", "sub_label": "Shepherd and Wedderburn", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q977526", "sub_label": "Cutting Crew", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q188304", "obj_label": "Sunderland", "sub_uri": "Q1711386", "sub_label": "The Wall", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q6050440", "sub_label": "International Federation of Inventors' Associations", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_uri": "Q5556553", "sub_label": "Ghetto Mafia", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18419", "obj_label": "Brooklyn", "sub_uri": "Q4931262", "sub_label": "Boar's Head Provision Company", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q31", "obj_label": "Belgium", "sub_uri": "Q1756181", "sub_label": "Lasgo", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23154", "obj_label": "Bristol", "sub_uri": "Q5413709", "sub_label": "Europeans", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q17111000", "sub_label": "Yamantaka // Sonic Titan", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q4052724", "sub_label": "Virtual Embrace", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_uri": "Q7227021", "sub_label": "Polytechnic", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_uri": "Q156034", "sub_label": "Pioneer Corporation", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q82545", "sub_label": "Sex Pistols", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q1045302", "sub_label": "Carrozzeria Marazzi", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q71", "obj_label": "Geneva", "sub_uri": "Q671488", "sub_label": "Soci\u00e9t\u00e9 Anonyme des Ateliers de S\u00e9cheron", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3141", "obj_label": "Melbourne", "sub_uri": "Q3541111", "sub_label": "True Live", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q2288948", "sub_label": "Seibu Kaihatsu", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q42448", "obj_label": "Sheffield", "sub_uri": "Q7517511", "sub_label": "Simcyp", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q42735", "obj_label": "Olympia", "sub_uri": "Q7278008", "sub_label": "RVIVR", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q34006", "obj_label": "Hollywood", "sub_uri": "Q726076", "sub_label": "Selena Gomez & the Scene", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23111", "obj_label": "Suffolk", "sub_uri": "Q300307", "sub_label": "A", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18419", "obj_label": "Brooklyn", "sub_uri": "Q300300", "sub_label": "AZ", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q7655572", "sub_label": "Sweet Water", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_uri": "Q1023069", "sub_label": "Takasa", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q43196", "obj_label": "Cincinnati", "sub_uri": "Q5172625", "sub_label": "Corpus Christi", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_uri": "Q736766", "sub_label": "Wolfmother", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23298", "obj_label": "Kent", "sub_uri": "Q5582398", "sub_label": "GoodBooks", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q1442133", "sub_label": "London", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q414", "obj_label": "Argentina", "sub_uri": "Q18164496", "sub_label": "Todo Mundo", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q20", "obj_label": "Norway", "sub_uri": "Q4575784", "sub_label": "My Midnight Creeps", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q2473535", "sub_label": "Interavia Airlines", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q16555", "obj_label": "Houston", "sub_uri": "Q7716224", "sub_label": "The Beck Group", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q41262", "obj_label": "Nottingham", "sub_uri": "Q16727995", "sub_label": "Childhood", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q33", "obj_label": "Finland", "sub_uri": "Q5659024", "sub_label": "Harmaja", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q6483848", "sub_label": "Land", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q8001284", "sub_label": "Wildlife", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q7435864", "sub_label": "Scott 4", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q7366259", "sub_label": "Room Nine", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q2709101", "sub_label": "Maple Leaf Foods", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3141", "obj_label": "Melbourne", "sub_uri": "Q324400", "sub_label": "Dead Can Dance", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q22905", "obj_label": "Bradford", "sub_uri": "Q6347055", "sub_label": "Kahn Design", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q133116", "obj_label": "Hamilton", "sub_uri": "Q175106", "sub_label": "Tim Hortons", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q334", "obj_label": "Singapore", "sub_uri": "Q7688600", "sub_label": "TauRx Therapeutics", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q203263", "obj_label": "Athens", "sub_uri": "Q7858309", "sub_label": "Twin Tigers", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q1002277", "sub_label": "Last Autumn's Dream", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q2647795", "sub_label": "Mobile", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_uri": "Q1362846", "sub_label": "La 5\u00aa Estaci\u00f3n", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18419", "obj_label": "Brooklyn", "sub_uri": "Q18719061", "sub_label": "Endless Boogie", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_uri": "Q491516", "sub_label": "Chick-fil-A", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q2256", "obj_label": "Birmingham", "sub_uri": "Q6146135", "sub_label": "Jameson Raid", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q7007190", "sub_label": "New England Coffee", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q37836", "obj_label": "Milwaukee", "sub_uri": "Q16156162", "sub_label": "A.B. Skhy", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q3574590", "sub_label": "Zagtoon", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q544018", "sub_label": "Basement Jaxx", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q2096", "obj_label": "Edmonton", "sub_uri": "Q165858", "sub_label": "TELUS", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q24826", "obj_label": "Liverpool", "sub_uri": "Q440572", "sub_label": "Remo Four", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q7396934", "sub_label": "Sacrament", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q41", "obj_label": "Greece", "sub_uri": "Q686320", "sub_label": "One", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_uri": "Q4656532", "sub_label": "A Dog Called Ego", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q5205658", "sub_label": "DMZ", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q83825", "sub_label": "Vy", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q34217", "obj_label": "Oxford", "sub_uri": "Q924292", "sub_label": "Swervedriver", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q34218", "obj_label": "Burlington", "sub_uri": "Q638286", "sub_label": "Silverstein", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q16967973", "sub_label": "Purson", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3141", "obj_label": "Melbourne", "sub_uri": "Q7742951", "sub_label": "The Jane Austen Argument", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q334", "obj_label": "Singapore", "sub_uri": "Q17005286", "sub_label": "Old Chang Kee", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q7248549", "sub_label": "Pyorrhoea", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q37320", "obj_label": "Cleveland", "sub_uri": "Q1282089", "sub_label": "Econometric Society", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q36091", "obj_label": "Minneapolis", "sub_uri": "Q18216924", "sub_label": "L'Assassins", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q43196", "obj_label": "Cincinnati", "sub_uri": "Q4035019", "sub_label": "Beneath the Sky", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3114", "obj_label": "Canberra", "sub_uri": "Q7376425", "sub_label": "Rubycon", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q24639", "obj_label": "Vancouver", "sub_uri": "Q4659748", "sub_label": "A Spectre Is Haunting Europe", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_uri": "Q1361074", "sub_label": "Kris Kross", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q5212922", "sub_label": "Damp", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q131491", "obj_label": "Brighton", "sub_uri": "Q5116380", "sub_label": "Chungking", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23436", "obj_label": "Edinburgh", "sub_uri": "Q18163405", "sub_label": "The Spook School", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_uri": "Q965259", "sub_label": "PZL", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q7640663", "sub_label": "Sunny Day Sets Fire", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q12439", "obj_label": "Detroit", "sub_uri": "Q1850517", "sub_label": "Rickenbacker", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q7134431", "sub_label": "Paradox", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q12260521", "sub_label": "Leo Burnett Worldwide", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1370", "obj_label": "Virginia", "sub_uri": "Q1516480", "sub_label": "Hurt", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q2135", "obj_label": "Winnipeg", "sub_uri": "Q15053628", "sub_label": "High Five Drive", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q37100", "obj_label": "Auckland", "sub_uri": "Q18348448", "sub_label": "Harmoney", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q39121", "obj_label": "Leeds", "sub_uri": "Q5533737", "sub_label": "Gentlemans Pistols", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q454897", "sub_label": "Willard Grant Conspiracy", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18419", "obj_label": "Brooklyn", "sub_uri": "Q7606860", "sub_label": "Steiner Studios", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q350", "obj_label": "Cambridge", "sub_uri": "Q16837701", "sub_label": "Fred's House", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q6918892", "sub_label": "Moufette", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q6966338", "sub_label": "Narrows", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q8684", "obj_label": "Seoul", "sub_uri": "Q626218", "sub_label": "Lyn", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_uri": "Q1382296", "sub_label": "Everything Everything", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q3605383", "sub_label": "Admiral", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_uri": "Q1970870", "sub_label": "Alamo Race Track", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1156", "obj_label": "Mumbai", "sub_uri": "Q1532872", "sub_label": "Pin Drop Violence", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23154", "obj_label": "Bristol", "sub_uri": "Q3710155", "sub_label": "Disorder", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_uri": "Q730290", "sub_label": "Shout Out Louds", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q24639", "obj_label": "Vancouver", "sub_uri": "Q7399929", "sub_label": "Said the Whale", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q8652", "obj_label": "Miami", "sub_uri": "Q7751969", "sub_label": "The Monas", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q6546515", "sub_label": "Lights Action", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q16875205", "sub_label": "Ruse of Fools", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q24826", "obj_label": "Liverpool", "sub_uri": "Q5263223", "sub_label": "Derry and the Seniors", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q365", "obj_label": "Cologne", "sub_uri": "Q170132", "sub_label": "Can", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3141", "obj_label": "Melbourne", "sub_uri": "Q2934198", "sub_label": "Calling All Cars", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q20", "obj_label": "Norway", "sub_uri": "Q4583992", "sub_label": "Elektrisk Regn", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_uri": "Q776605", "sub_label": "Correos", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q5304289", "sub_label": "Dr. Music", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q16968164", "sub_label": "Raft of Dead Monkeys", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q548278", "sub_label": "Standard Chartered", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q55", "obj_label": "Netherlands", "sub_uri": "Q1812812", "sub_label": "Legion of the Damned", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q188313", "obj_label": "Blackburn", "sub_uri": "Q4954574", "sub_label": "Bradford", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q31058", "obj_label": "Burlington", "sub_uri": "Q921267", "sub_label": "Phish", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q188508", "sub_label": "Mikoyan", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q7438290", "sub_label": "Scoundrels", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18419", "obj_label": "Brooklyn", "sub_uri": "Q1934168", "sub_label": "Milagres", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q43196", "obj_label": "Cincinnati", "sub_uri": "Q1738830", "sub_label": "Kenner Products", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q18154709", "sub_label": "Swallow", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q21", "obj_label": "England", "sub_uri": "Q5098590", "sub_label": "Children on Stun", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18419", "obj_label": "Brooklyn", "sub_uri": "Q15807955", "sub_label": "Emanuel and the Fear", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q321339", "sub_label": "Paul Oakenfold", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q1336200", "sub_label": "Penguin Books", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q6375048", "sub_label": "Katalepsy", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q55", "obj_label": "Netherlands", "sub_uri": "Q1686118", "sub_label": "Jeckyll & Hyde", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3616", "obj_label": "Tehran", "sub_uri": "Q6628966", "sub_label": "Pars Online", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q16557", "obj_label": "Dallas", "sub_uri": "Q7092438", "sub_label": "One Act Play", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q5245606", "sub_label": "Deadly Apples", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q24639", "obj_label": "Vancouver", "sub_uri": "Q5560297", "sub_label": "Gigi", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q956", "obj_label": "Beijing", "sub_uri": "Q7267707", "sub_label": "Qihoo 360", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q5683268", "sub_label": "Have Nots", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q36091", "obj_label": "Minneapolis", "sub_uri": "Q16873196", "sub_label": "No Bird Sing", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q17007499", "sub_label": "Chicago Clearing Corporation", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1002926", "obj_label": "Vienna", "sub_uri": "Q7249086", "sub_label": "Project: Failing Flesh", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q12439", "obj_label": "Detroit", "sub_uri": "Q16984061", "sub_label": "Belle Tire", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q1888500", "sub_label": "Man Raze", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q737593", "obj_label": "Battle", "sub_uri": "Q484311", "sub_label": "Keane", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q7752438", "sub_label": "The Motion Sick", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q7776805", "sub_label": "The Young Snakes", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q6553213", "sub_label": "Line Spectra", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q7600114", "sub_label": "Stannah Lifts", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1731", "obj_label": "Dresden", "sub_uri": "Q694099", "sub_label": "Contax", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q22905", "obj_label": "Bradford", "sub_uri": "Q1360948", "sub_label": "Justin Sullivan", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q507602", "sub_label": "Britny Fox", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q2717771", "sub_label": "Hell Is for Heroes", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1781", "obj_label": "Budapest", "sub_uri": "Q1098562", "sub_label": "Ivan & The Parazol", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q42448", "obj_label": "Sheffield", "sub_uri": "Q1865714", "sub_label": "Little Man Tate", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1156", "obj_label": "Mumbai", "sub_uri": "Q7459899", "sub_label": "Shaa'ir and Func", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q607108", "obj_label": "Baldwin", "sub_uri": "Q1676074", "sub_label": "Straylight Run", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q161491", "obj_label": "Reading", "sub_uri": "Q4930275", "sub_label": "Blueboy", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23240", "obj_label": "Essex", "sub_uri": "Q6731160", "sub_label": "Magistrates", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q649646", "sub_label": "Valentino SpA", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q25", "obj_label": "Wales", "sub_uri": "Q4562626", "sub_label": "Race Horses", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q1070743", "sub_label": "Sister Sledge", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q390285", "sub_label": "Corbis", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q21", "obj_label": "England", "sub_uri": "Q382566", "sub_label": "Steamhammer", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q4672981", "sub_label": "Ace Hardware", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1761", "obj_label": "Dublin", "sub_uri": "Q2412861", "sub_label": "The Minutes", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q6416497", "sub_label": "Kish Mauve", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3141", "obj_label": "Melbourne", "sub_uri": "Q5608146", "sub_label": "Grey Daturas", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q3071", "sub_label": "punk rock", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1280897", "obj_label": "Sunderland", "sub_uri": "Q728289", "sub_label": "Toy Dolls", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q5415962", "sub_label": "Evans The Death", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q7712038", "sub_label": "The A.K.A.s", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q49266", "obj_label": "Wichita", "sub_uri": "Q4663358", "sub_label": "Abandon Kansas", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_uri": "Q309996", "sub_label": "Bandai Namco Amusement", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q6321424", "sub_label": "J\u00f8KleBa", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q24639", "obj_label": "Vancouver", "sub_uri": "Q7448292", "sub_label": "Self Taught", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18419", "obj_label": "Brooklyn", "sub_uri": "Q4883183", "sub_label": "Bell Hollow", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3183", "obj_label": "Perth", "sub_uri": "Q7764515", "sub_label": "The Siren Tower", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18013", "obj_label": "Sacramento", "sub_uri": "Q908167", "sub_label": "Embrace the End", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q5206338", "sub_label": "DVAS", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q22", "obj_label": "Scotland", "sub_uri": "Q6521394", "sub_label": "Lemonescent", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q4093", "obj_label": "Glasgow", "sub_uri": "Q2036876", "sub_label": "Sons and Daughters", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q24826", "obj_label": "Liverpool", "sub_uri": "Q219811", "sub_label": "Zombina and The Skeletones", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q516817", "obj_label": "Albany", "sub_uri": "Q7763284", "sub_label": "The Send", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q37320", "obj_label": "Cleveland", "sub_uri": "Q6800887", "sub_label": "McDonald & Co.", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q696376", "sub_label": "Versace", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q16555", "obj_label": "Houston", "sub_uri": "Q633770", "sub_label": "Archie Bell & the Drells", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q7939240", "sub_label": "Voce Chamber Choir", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q150001", "sub_label": "Intelligent Systems", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q7977077", "sub_label": "We're All Gonna Die", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q1393054", "sub_label": "Fairbanks-Morse", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18419", "obj_label": "Brooklyn", "sub_uri": "Q15052890", "sub_label": "The Thorns of Life", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q456", "obj_label": "Lyon", "sub_uri": "Q2616650", "sub_label": "\u00d6dland", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q1136226", "sub_label": "United Aircraft Corporation", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q822280", "sub_label": "Vilmorin", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q16554", "obj_label": "Denver", "sub_uri": "Q5527720", "sub_label": "Gauntlet Hair", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_uri": "Q8026456", "sub_label": "Winterfylleth", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q3979605", "sub_label": "TKO", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q28", "obj_label": "Hungary", "sub_uri": "Q19359022", "sub_label": "Passed", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q42448", "obj_label": "Sheffield", "sub_uri": "Q5687796", "sub_label": "Haze", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q12439", "obj_label": "Detroit", "sub_uri": "Q1165900", "sub_label": "DeBarge", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q4035426", "sub_label": "Brite Futures", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q2096", "obj_label": "Edmonton", "sub_uri": "Q4819840", "sub_label": "Audio Playground", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q7718798", "sub_label": "The Blue Method", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18419", "obj_label": "Brooklyn", "sub_uri": "Q15053035", "sub_label": "Metermaids", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q689758", "sub_label": "Lesbians on Ecstasy", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3630", "obj_label": "Jakarta", "sub_uri": "Q4259768", "sub_label": "White Shoes & The Couples Company", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q499169", "obj_label": "Tyler", "sub_uri": "Q15809739", "sub_label": "Fit for a King", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q43196", "obj_label": "Cincinnati", "sub_uri": "Q7684029", "sub_label": "Tanya Morgan", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_uri": "Q7278152", "sub_label": "RYNA", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q189289", "sub_label": "FINA", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q2096", "obj_label": "Edmonton", "sub_uri": "Q17143122", "sub_label": "The Wet Secrets", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q1585918", "sub_label": "Harold Melvin & the Blue Notes", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q541879", "sub_label": "Chemins de fer du Nord", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q54138", "obj_label": "Beverly", "sub_uri": "Q909427", "sub_label": "Caspian", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23197", "obj_label": "Nashville", "sub_uri": "Q7718808", "sub_label": "The Blue News", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q5582742", "sub_label": "Good Luck Jane", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q16951211", "sub_label": "Versive", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q42448", "obj_label": "Sheffield", "sub_uri": "Q7093282", "sub_label": "One Thousand Violins", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q4927961", "sub_label": "Bloodlights", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_uri": "Q2579371", "sub_label": "Sascha Konietzko", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q288253", "sub_label": "ACE Aviation Holdings", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q640008", "sub_label": "Sleeper", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q7837558", "sub_label": "Tree Pit", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1218", "obj_label": "Jerusalem", "sub_uri": "Q18207580", "sub_label": "Caf\u00e9 Rimon", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3141", "obj_label": "Melbourne", "sub_uri": "Q5456141", "sub_label": "Five Star Prison Cell", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_uri": "Q5439173", "sub_label": "Faze FM", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_uri": "Q6699063", "sub_label": "Ludus", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1761", "obj_label": "Dublin", "sub_uri": "Q7314495", "sub_label": "Republic of Loose", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q3786533", "sub_label": "Honeybus", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23436", "obj_label": "Edinburgh", "sub_uri": "Q5288181", "sub_label": "Dog Faced Hermans", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q6774516", "sub_label": "Martha Production", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q16554", "obj_label": "Denver", "sub_uri": "Q7366732", "sub_label": "Roper", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1410", "obj_label": "Gibraltar", "sub_uri": "Q2326516", "sub_label": "Melon Diesel", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q2135", "obj_label": "Winnipeg", "sub_uri": "Q7132642", "sub_label": "Paper Moon", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_uri": "Q36033", "sub_label": "Mitsubishi Motors", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q3398859", "sub_label": "Holland & Holland", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q16554", "obj_label": "Denver", "sub_uri": "Q675787", "sub_label": "Flobots", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q42735", "obj_label": "Olympia", "sub_uri": "Q7735396", "sub_label": "The Frumpies", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q983543", "obj_label": "Golden", "sub_uri": "Q5168054", "sub_label": "CoorsTek", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q1115577", "sub_label": "We", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q912872", "sub_label": "Edison", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q10686", "obj_label": "Belfast", "sub_uri": "Q5564653", "sub_label": "Girls Names", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_uri": "Q6896581", "sub_label": "Molly Half Head", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q1834129", "sub_label": "Spooks", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q39121", "obj_label": "Leeds", "sub_uri": "Q6418354", "sub_label": "Kitson and Company", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q16557", "obj_label": "Dallas", "sub_uri": "Q7753605", "sub_label": "The New Frontiers", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q499847", "sub_label": "Islands", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_uri": "Q7659085", "sub_label": "Switchblade", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q819425", "sub_label": "Indian Railways", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q34006", "obj_label": "Hollywood", "sub_uri": "Q7533406", "sub_label": "Size 14", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q506586", "obj_label": "Newark", "sub_uri": "Q6179117", "sub_label": "Jenny & Tyler", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q7876548", "sub_label": "Ubiquitous Synergy Seeker", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q24861", "obj_label": "Albany", "sub_uri": "Q5152403", "sub_label": "CommerceHub", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q79688", "obj_label": "Jacksonville", "sub_uri": "Q7119807", "sub_label": "PMtoday", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q36091", "obj_label": "Minneapolis", "sub_uri": "Q94620", "sub_label": "Information Society", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_uri": "Q662979", "sub_label": "Evol Intent", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q99", "obj_label": "California", "sub_uri": "Q7937463", "sub_label": "Viva Hate", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q15053024", "sub_label": "Ideamen", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1186", "obj_label": "Kerala", "sub_uri": "Q6943861", "sub_label": "Muthoot Finance Ltd", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q37320", "obj_label": "Cleveland", "sub_uri": "Q1517635", "sub_label": "Winton Motor Carriage Company", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q33", "obj_label": "Finland", "sub_uri": "Q5260892", "sub_label": "Depressed Mode", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q42735", "obj_label": "Olympia", "sub_uri": "Q16826728", "sub_label": "Christian Mistress", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q14455902", "sub_label": "Flavel & Neto", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q27", "obj_label": "Ireland", "sub_uri": "Q7720950", "sub_label": "The Cake Sale", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5092", "obj_label": "Baltimore", "sub_uri": "Q7366328", "sub_label": "Roomrunner", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q241", "obj_label": "Cuba", "sub_uri": "Q16956179", "sub_label": "Cawy Bottling Company", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_uri": "Q15613707", "sub_label": "Yellow Claw", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q125603", "sub_label": "The Clash", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18013", "obj_label": "Sacramento", "sub_uri": "Q1668656", "sub_label": "The Revolution Smile", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q895392", "sub_label": "Bowater", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_uri": "Q5307995", "sub_label": "Driver Drive Faster", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q21", "obj_label": "England", "sub_uri": "Q3073404", "sub_label": "Invicta", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q6659064", "sub_label": "Living Daylights", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q18395600", "sub_label": "WyzAnt", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q16996371", "sub_label": "Linus", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q2256", "obj_label": "Birmingham", "sub_uri": "Q5419148", "sub_label": "Ex Cathedra", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q2669601", "sub_label": "Boi-1da", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q2348236", "sub_label": "Vanna", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q41262", "obj_label": "Nottingham", "sub_uri": "Q1320323", "sub_label": "Tindersticks", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q2256", "obj_label": "Birmingham", "sub_uri": "Q7124224", "sub_label": "Page 44", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q16554", "obj_label": "Denver", "sub_uri": "Q5417098", "sub_label": "Everfound", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_uri": "Q1182499", "sub_label": "Deerhunter", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q2135", "obj_label": "Winnipeg", "sub_uri": "Q7740301", "sub_label": "The Horribly Awfuls", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q1676897", "sub_label": "Trashcan Darlings", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q221358", "sub_label": "Shadowfax", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q34932", "obj_label": "Brisbane", "sub_uri": "Q1420529", "sub_label": "The Butterfly Effect", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q10353", "sub_label": "AlunaGeorge", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q3828114", "sub_label": "Incorporated Council of Law Reporting", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_uri": "Q170487", "sub_label": "112", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q591797", "sub_label": "Imperial Airways", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q2758411", "sub_label": "The Hit Parade", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_uri": "Q1476080", "sub_label": "Private Media Group", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q233", "obj_label": "Malta", "sub_uri": "Q4670736", "sub_label": "Abysmal Torment", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5112", "obj_label": "Adelaide", "sub_uri": "Q5680011", "sub_label": "Hassell", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q7784103", "sub_label": "Thieves Like Us", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18419", "obj_label": "Brooklyn", "sub_uri": "Q4040718", "sub_label": "Holy Ghost!", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q37320", "obj_label": "Cleveland", "sub_uri": "Q16987878", "sub_label": "BioMotiv", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q327751", "sub_label": "Kraft Foods", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_uri": "Q7735407", "sub_label": "The Fudge", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q8034560", "sub_label": "Work Drugs", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q16557", "obj_label": "Dallas", "sub_uri": "Q983933", "sub_label": "Damageplan", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q8686", "obj_label": "Shanghai", "sub_uri": "Q750131", "sub_label": "Shanghai International Port", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18419", "obj_label": "Brooklyn", "sub_uri": "Q2563698", "sub_label": "Sir Lord Baltimore", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q16557", "obj_label": "Dallas", "sub_uri": "Q300397", "sub_label": "A Dozen Furies", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q108666", "sub_label": "Uriah Heep", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q117669", "sub_label": "Street Dogs", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q763392", "sub_label": "Shining", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q146027", "sub_label": "One Direction", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q912127", "sub_label": "Tad", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_uri": "Q1141426", "sub_label": "Empire of the Sun", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q381955", "sub_label": "Azienda Trasporti Milanesi", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q117", "obj_label": "Ghana", "sub_uri": "Q2743658", "sub_label": "4x4", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q7616220", "sub_label": "Stick Men", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23436", "obj_label": "Edinburgh", "sub_uri": "Q7753354", "sub_label": "The Nectarine No. 9", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q16838001", "sub_label": "Furor Gallico", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q5223425", "sub_label": "Dark Star", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23148", "obj_label": "Cornwall", "sub_uri": "Q5432260", "sub_label": "Fallen To", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q6305311", "sub_label": "Juju Mob", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q24639", "obj_label": "Vancouver", "sub_uri": "Q7996451", "sub_label": "Whitfield", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q1672004", "sub_label": "Ion Dissonance", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q5153434", "sub_label": "Common Market", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q36091", "obj_label": "Minneapolis", "sub_uri": "Q5045223", "sub_label": "Caroline Smith and the Good Night Sleeps", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q2256", "obj_label": "Birmingham", "sub_uri": "Q16240102", "sub_label": "JAWS", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1761", "obj_label": "Dublin", "sub_uri": "Q2376374", "sub_label": "Hal", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q96", "obj_label": "Mexico", "sub_uri": "Q6424468", "sub_label": "Kobol", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q5506361", "sub_label": "Fruit Bats", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q7730277", "sub_label": "The Dirty Tricks", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q199797", "obj_label": "Tacoma", "sub_uri": "Q904921", "sub_label": "The Sonics", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q5260961", "sub_label": "Depth & Current", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q12439", "obj_label": "Detroit", "sub_uri": "Q11617", "sub_label": "Aaliyah", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q18719134", "sub_label": "Twin Peaks", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18013", "obj_label": "Sacramento", "sub_uri": "Q1050910", "sub_label": "Catherine", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q2485022", "sub_label": "\u00c9ditions Deno\u00ebl", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q3784035", "sub_label": "Heaven's Edge", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q128069", "obj_label": "Syracuse", "sub_uri": "Q16844607", "sub_label": "Honor Bright", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q4035135", "sub_label": "Biting Elbows", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q17012382", "sub_label": "New Breed", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q41", "obj_label": "Greece", "sub_uri": "Q1761780", "sub_label": "Stereo Nova", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q180057", "obj_label": "Lincoln", "sub_uri": "Q1585566", "sub_label": "The Casuals", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q16557", "obj_label": "Dallas", "sub_uri": "Q2483225", "sub_label": "A. H. Belo", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q7310506", "sub_label": "Reitmans", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_uri": "Q626440", "sub_label": "Arashi", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q8684", "obj_label": "Seoul", "sub_uri": "Q7718443", "sub_label": "The Black Skirts", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q4093", "obj_label": "Glasgow", "sub_uri": "Q4686620", "sub_label": "Adventures in Stereo", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q1345357", "sub_label": "Slapshot", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q4093", "obj_label": "Glasgow", "sub_uri": "Q4928797", "sub_label": "Blue", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q1231498", "sub_label": "The Riot Squad", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q1740665", "sub_label": "Khold", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3114", "obj_label": "Canberra", "sub_uri": "Q8058524", "sub_label": "Young and Restless", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q7049715", "sub_label": "Nookicky", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_uri": "Q485167", "sub_label": "Northside", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18419", "obj_label": "Brooklyn", "sub_uri": "Q2617421", "sub_label": "Sleigh Bells", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q1412342", "sub_label": "The King Blues", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q176430", "sub_label": "The Presidents of the United States of America", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_uri": "Q7761279", "sub_label": "The Rockerz", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23276", "obj_label": "Surrey", "sub_uri": "Q2030873", "sub_label": "Forefather", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q34804", "obj_label": "Albuquerque", "sub_uri": "Q4924308", "sub_label": "Blake's Lotaburger", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q918151", "sub_label": "Hard Rock Cafe", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q6730889", "sub_label": "Magic Weapon", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1342", "obj_label": "Pittsburgh", "sub_uri": "Q4921318", "sub_label": "Black Moth Super Rainbow", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q773853", "obj_label": "Venice", "sub_uri": "Q3986127", "sub_label": "The Brood", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q38", "obj_label": "Italy", "sub_uri": "Q17153839", "sub_label": "WeWOOD", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_uri": "Q16886554", "sub_label": "Whores", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1761", "obj_label": "Dublin", "sub_uri": "Q6208077", "sub_label": "Jody Has A Hitlist", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1492", "obj_label": "Barcelona", "sub_uri": "Q3266952", "sub_label": "Fira de Barcelona", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q3141", "obj_label": "Melbourne", "sub_uri": "Q15053738", "sub_label": "Love Outside Andromeda", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q21", "obj_label": "England", "sub_uri": "Q2517322", "sub_label": "Peach", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q39121", "obj_label": "Leeds", "sub_uri": "Q5192474", "sub_label": "Cud", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q8652", "obj_label": "Miami", "sub_uri": "Q784109", "sub_label": "Git Fresh", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q43196", "obj_label": "Cincinnati", "sub_uri": "Q627269", "sub_label": "Black Veil Brides", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q3107204", "sub_label": "Playboy Enterprises", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q18419", "obj_label": "Brooklyn", "sub_uri": "Q4740786", "sub_label": "Amazing Baby", "predicate_id": "P740"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q535701", "sub_label": "Diecast", "predicate_id": "P740"}

@@ -1,0 +1,11 @@
+EXP1: how does the choice of prompt type affect the extraction of hypernyms? 
+* p@K 
+* MRR 
+key hyparameters: 
+
+dataset: singular and plural 
+evaluation: concept evaluation (p@K, either singular or plural); MRR (the highest rank of the ground truth)
+
+add_cpt_score: True  
+filter_anchors_flag : True   
+filter_objects_flag : False  

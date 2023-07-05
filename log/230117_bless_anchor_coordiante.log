@@ -1,0 +1,10 @@
+debug: False
+Traceback (most recent call last):
+  File "anchored_prompts.py", line 1253, in <module>
+    dataset = config['dataset'] #data_dir.split('/')[1].upper()  #'CLSB' #LAMS
+KeyError: 'dataset'
+debug: False
+Traceback (most recent call last):
+  File "anchored_prompts.py", line 1253, in <module>
+    dataset = config['dataset'] #data_dir.split('/')[1].upper()  #'CLSB' #LAMS
+KeyError: 'dataset'

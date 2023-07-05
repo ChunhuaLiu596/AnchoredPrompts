@@ -1,0 +1,235 @@
+Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Debug: False
+#Test_instances: 2094
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+---------------------------------------- obj_label evaluation ----------------------------------------
+   P@K  Singular  Plural  Paired Accuracy  Paired Consistency mask_type                                   data_dir
+0    1      18.0     0.0              0.0                82.0   def_sap  data/hypernymsuite/ALL/LM/consistency_rw/
+1   10      49.3     0.6              0.2                50.6   def_sap  data/hypernymsuite/ALL/LM/consistency_rw/
+Save log/bert-large-uncased/hypernymsuite/ALL/LM/consistency_rw//IsA.def_sap.csv
+Save log/bert-large-uncased/hypernymsuite/ALL/LM/consistency_rw//IsA.def_sap.tsv
+
+#Test_instances: 2094
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+---------------------------------------- obj_label evaluation ----------------------------------------
+   P@K  Singular  Plural  Paired Accuracy  Paired Consistency mask_type                                   data_dir
+0    1      20.2     0.0              0.0                79.8   def_dap  data/hypernymsuite/ALL/LM/consistency_rw/
+1   10      52.9     0.1              0.0                46.9   def_dap  data/hypernymsuite/ALL/LM/consistency_rw/
+Save log/bert-large-uncased/hypernymsuite/ALL/LM/consistency_rw//IsA.def_dap.csv
+Save log/bert-large-uncased/hypernymsuite/ALL/LM/consistency_rw//IsA.def_dap.tsv
+
+#Test_instances: 2094
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+---------------------------------------- obj_label evaluation ----------------------------------------
+   P@K  Singular  Plural  Paired Accuracy  Paired Consistency mask_type                                   data_dir
+0    1       9.1    11.0              5.9                91.7   lsp_sap  data/hypernymsuite/ALL/LM/consistency_rw/
+1   10      44.7    43.1             34.2                80.7   lsp_sap  data/hypernymsuite/ALL/LM/consistency_rw/
+Save log/bert-large-uncased/hypernymsuite/ALL/LM/consistency_rw//IsA.lsp_sap.csv
+Save log/bert-large-uncased/hypernymsuite/ALL/LM/consistency_rw//IsA.lsp_sap.tsv
+
+#Test_instances: 2094
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+---------------------------------------- obj_label evaluation ----------------------------------------
+   P@K  Singular  Plural  Paired Accuracy  Paired Consistency mask_type                                   data_dir
+0    1      13.5    13.9             10.3                93.2   lsp_dap  data/hypernymsuite/ALL/LM/consistency_rw/
+1   10      47.9    48.3             42.5                88.9   lsp_dap  data/hypernymsuite/ALL/LM/consistency_rw/
+Save log/bert-large-uncased/hypernymsuite/ALL/LM/consistency_rw//IsA.lsp_dap.csv
+Save log/bert-large-uncased/hypernymsuite/ALL/LM/consistency_rw//IsA.lsp_dap.tsv
+
+Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Debug: False
+#Test_instances: 2094
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+---------------------------------------- obj_label evaluation ----------------------------------------
+   P@K  Singular  Plural  Paired Accuracy  Paired Consistency mask_type                                           data_dir
+0    1      18.0     0.0              0.0                82.0   def_sap  data/hypernymsuite/ALL/ShareSWOWSimilar/consis...
+1   10      49.3     0.6              0.2                50.6   def_sap  data/hypernymsuite/ALL/ShareSWOWSimilar/consis...
+Save log/bert-large-uncased/hypernymsuite/ALL/ShareSWOWSimilar/consistency_rw//IsA.def_sap.csv
+Save log/bert-large-uncased/hypernymsuite/ALL/ShareSWOWSimilar/consistency_rw//IsA.def_sap.tsv
+
+#Test_instances: 2094
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+---------------------------------------- obj_label evaluation ----------------------------------------
+   P@K  Singular  Plural  Paired Accuracy  Paired Consistency mask_type                                           data_dir
+0    1      19.7     0.0              0.0                80.3   def_dap  data/hypernymsuite/ALL/ShareSWOWSimilar/consis...
+1   10      54.3     0.1              0.0                45.7   def_dap  data/hypernymsuite/ALL/ShareSWOWSimilar/consis...
+Save log/bert-large-uncased/hypernymsuite/ALL/ShareSWOWSimilar/consistency_rw//IsA.def_dap.csv
+Save log/bert-large-uncased/hypernymsuite/ALL/ShareSWOWSimilar/consistency_rw//IsA.def_dap.tsv
+
+#Test_instances: 2094
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+---------------------------------------- obj_label evaluation ----------------------------------------
+   P@K  Singular  Plural  Paired Accuracy  Paired Consistency mask_type                                           data_dir
+0    1       9.1    11.0              5.9                91.7   lsp_sap  data/hypernymsuite/ALL/ShareSWOWSimilar/consis...
+1   10      44.7    43.1             34.2                80.7   lsp_sap  data/hypernymsuite/ALL/ShareSWOWSimilar/consis...
+Save log/bert-large-uncased/hypernymsuite/ALL/ShareSWOWSimilar/consistency_rw//IsA.lsp_sap.csv
+Save log/bert-large-uncased/hypernymsuite/ALL/ShareSWOWSimilar/consistency_rw//IsA.lsp_sap.tsv
+
+#Test_instances: 2094
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+---------------------------------------- obj_label evaluation ----------------------------------------
+   P@K  Singular  Plural  Paired Accuracy  Paired Consistency mask_type                                           data_dir
+0    1      12.9    13.8              9.8                92.9   lsp_dap  data/hypernymsuite/ALL/ShareSWOWSimilar/consis...
+1   10      49.1    49.2             43.4                88.3   lsp_dap  data/hypernymsuite/ALL/ShareSWOWSimilar/consis...
+Save log/bert-large-uncased/hypernymsuite/ALL/ShareSWOWSimilar/consistency_rw//IsA.lsp_dap.csv
+Save log/bert-large-uncased/hypernymsuite/ALL/ShareSWOWSimilar/consistency_rw//IsA.lsp_dap.tsv
+
+Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Debug: False
+#Test_instances: 2094
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+---------------------------------------- obj_label evaluation ----------------------------------------
+   P@K  Singular  Plural  Paired Accuracy  Paired Consistency mask_type                                           data_dir
+0    1      18.0     0.0              0.0                82.0   def_sap  data/hypernymsuite/ALL/ShareSWOWStrength/consi...
+1   10      49.3     0.6              0.2                50.6   def_sap  data/hypernymsuite/ALL/ShareSWOWStrength/consi...
+Save log/bert-large-uncased/hypernymsuite/ALL/ShareSWOWStrength/consistency_rw//IsA.def_sap.csv
+Save log/bert-large-uncased/hypernymsuite/ALL/ShareSWOWStrength/consistency_rw//IsA.def_sap.tsv
+
+#Test_instances: 2094
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+---------------------------------------- obj_label evaluation ----------------------------------------
+   P@K  Singular  Plural  Paired Accuracy  Paired Consistency mask_type                                           data_dir
+0    1      19.3     0.0              0.0                80.7   def_dap  data/hypernymsuite/ALL/ShareSWOWStrength/consi...
+1   10      53.9     0.1              0.0                46.1   def_dap  data/hypernymsuite/ALL/ShareSWOWStrength/consi...
+Save log/bert-large-uncased/hypernymsuite/ALL/ShareSWOWStrength/consistency_rw//IsA.def_dap.csv
+Save log/bert-large-uncased/hypernymsuite/ALL/ShareSWOWStrength/consistency_rw//IsA.def_dap.tsv
+
+#Test_instances: 2094
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+---------------------------------------- obj_label evaluation ----------------------------------------
+   P@K  Singular  Plural  Paired Accuracy  Paired Consistency mask_type                                           data_dir
+0    1       9.1    11.0              5.9                91.7   lsp_sap  data/hypernymsuite/ALL/ShareSWOWStrength/consi...
+1   10      44.7    43.1             34.2                80.7   lsp_sap  data/hypernymsuite/ALL/ShareSWOWStrength/consi...
+Save log/bert-large-uncased/hypernymsuite/ALL/ShareSWOWStrength/consistency_rw//IsA.lsp_sap.csv
+Save log/bert-large-uncased/hypernymsuite/ALL/ShareSWOWStrength/consistency_rw//IsA.lsp_sap.tsv
+
+#Test_instances: 2094
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+---------------------------------------- obj_label evaluation ----------------------------------------
+   P@K  Singular  Plural  Paired Accuracy  Paired Consistency mask_type                                           data_dir
+0    1      12.9    13.2              9.4                92.6   lsp_dap  data/hypernymsuite/ALL/ShareSWOWStrength/consi...
+1   10      48.0    48.8             42.3                87.8   lsp_dap  data/hypernymsuite/ALL/ShareSWOWStrength/consi...
+Save log/bert-large-uncased/hypernymsuite/ALL/ShareSWOWStrength/consistency_rw//IsA.lsp_dap.csv
+Save log/bert-large-uncased/hypernymsuite/ALL/ShareSWOWStrength/consistency_rw//IsA.lsp_dap.tsv
+
+Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Debug: False
+#Test_instances: 4773
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+---------------------------------------- obj_label evaluation ----------------------------------------
+   P@K  Singular  Plural  Paired Accuracy  Paired Consistency mask_type                                           data_dir
+0    1       9.9     0.0              0.0                90.1   def_sap  data/hypernymsuite/ALL/SWOWSimilar/consistency...
+1   10      28.5     0.3              0.1                71.5   def_sap  data/hypernymsuite/ALL/SWOWSimilar/consistency...
+Save log/bert-large-uncased/hypernymsuite/ALL/SWOWSimilar/consistency_rw//IsA.def_sap.csv
+Save log/bert-large-uncased/hypernymsuite/ALL/SWOWSimilar/consistency_rw//IsA.def_sap.tsv
+
+#Test_instances: 4773
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+---------------------------------------- obj_label evaluation ----------------------------------------
+   P@K  Singular  Plural  Paired Accuracy  Paired Consistency mask_type                                           data_dir
+0    1      11.5     0.0              0.0                88.5   def_dap  data/hypernymsuite/ALL/SWOWSimilar/consistency...
+1   10      31.6     0.1              0.0                68.3   def_dap  data/hypernymsuite/ALL/SWOWSimilar/consistency...
+Save log/bert-large-uncased/hypernymsuite/ALL/SWOWSimilar/consistency_rw//IsA.def_dap.csv
+Save log/bert-large-uncased/hypernymsuite/ALL/SWOWSimilar/consistency_rw//IsA.def_dap.tsv
+
+#Test_instances: 4773
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+---------------------------------------- obj_label evaluation ----------------------------------------
+   P@K  Singular  Plural  Paired Accuracy  Paired Consistency mask_type                                           data_dir
+0    1       4.5     6.5              2.9                94.9   lsp_sap  data/hypernymsuite/ALL/SWOWSimilar/consistency...
+1   10      22.6    25.1             17.1                86.5   lsp_sap  data/hypernymsuite/ALL/SWOWSimilar/consistency...
+Save log/bert-large-uncased/hypernymsuite/ALL/SWOWSimilar/consistency_rw//IsA.lsp_sap.csv
+Save log/bert-large-uncased/hypernymsuite/ALL/SWOWSimilar/consistency_rw//IsA.lsp_sap.tsv
+
+#Test_instances: 4773
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+---------------------------------------- obj_label evaluation ----------------------------------------
+   P@K  Singular  Plural  Paired Accuracy  Paired Consistency mask_type                                           data_dir
+0    1       7.0     7.6              5.4                96.2   lsp_dap  data/hypernymsuite/ALL/SWOWSimilar/consistency...
+1   10      26.7    27.0             23.6                93.5   lsp_dap  data/hypernymsuite/ALL/SWOWSimilar/consistency...
+Save log/bert-large-uncased/hypernymsuite/ALL/SWOWSimilar/consistency_rw//IsA.lsp_dap.csv
+Save log/bert-large-uncased/hypernymsuite/ALL/SWOWSimilar/consistency_rw//IsA.lsp_dap.tsv
+
+Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Debug: False
+#Test_instances: 4773
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+---------------------------------------- obj_label evaluation ----------------------------------------
+   P@K  Singular  Plural  Paired Accuracy  Paired Consistency mask_type                                           data_dir
+0    1       9.9     0.0              0.0                90.1   def_sap  data/hypernymsuite/ALL/SWOWStrength/consistenc...
+1   10      28.5     0.3              0.1                71.5   def_sap  data/hypernymsuite/ALL/SWOWStrength/consistenc...
+Save log/bert-large-uncased/hypernymsuite/ALL/SWOWStrength/consistency_rw//IsA.def_sap.csv
+Save log/bert-large-uncased/hypernymsuite/ALL/SWOWStrength/consistency_rw//IsA.def_sap.tsv
+
+#Test_instances: 4773
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+---------------------------------------- obj_label evaluation ----------------------------------------
+   P@K  Singular  Plural  Paired Accuracy  Paired Consistency mask_type                                           data_dir
+0    1      11.3     0.0              0.0                88.7   def_dap  data/hypernymsuite/ALL/SWOWStrength/consistenc...
+1   10      31.3     0.1              0.0                68.6   def_dap  data/hypernymsuite/ALL/SWOWStrength/consistenc...
+Save log/bert-large-uncased/hypernymsuite/ALL/SWOWStrength/consistency_rw//IsA.def_dap.csv
+Save log/bert-large-uncased/hypernymsuite/ALL/SWOWStrength/consistency_rw//IsA.def_dap.tsv
+
+#Test_instances: 4773
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+---------------------------------------- obj_label evaluation ----------------------------------------
+   P@K  Singular  Plural  Paired Accuracy  Paired Consistency mask_type                                           data_dir
+0    1       4.5     6.5              2.9                94.9   lsp_sap  data/hypernymsuite/ALL/SWOWStrength/consistenc...
+1   10      22.6    25.1             17.1                86.5   lsp_sap  data/hypernymsuite/ALL/SWOWStrength/consistenc...
+Save log/bert-large-uncased/hypernymsuite/ALL/SWOWStrength/consistency_rw//IsA.lsp_sap.csv
+Save log/bert-large-uncased/hypernymsuite/ALL/SWOWStrength/consistency_rw//IsA.lsp_sap.tsv
+
+#Test_instances: 4773
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+---------------------------------------- obj_label evaluation ----------------------------------------
+   P@K  Singular  Plural  Paired Accuracy  Paired Consistency mask_type                                           data_dir
+0    1       6.9     7.7              5.4                96.2   lsp_dap  data/hypernymsuite/ALL/SWOWStrength/consistenc...
+1   10      26.2    27.0             22.8                92.3   lsp_dap  data/hypernymsuite/ALL/SWOWStrength/consistenc...
+Save log/bert-large-uncased/hypernymsuite/ALL/SWOWStrength/consistency_rw//IsA.lsp_dap.csv
+Save log/bert-large-uncased/hypernymsuite/ALL/SWOWStrength/consistency_rw//IsA.lsp_dap.tsv
+

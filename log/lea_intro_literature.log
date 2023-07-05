@@ -1,0 +1,40 @@
+[1] Hearst (1992) Automatic Acquisition of Hyponyms from Large Text Corpora
+
+-> collects Hypernyms (animals such as Y)
+-> lexico syntactic patterns which are (1) frequent (2) (almost) always indicate the relation of interest and (3) intuitive and obvious
+-> WN validation metric (Sec 3). -> use more relevant WN structure (same synset; explicit hyperym relations; etc)
+-> Admits this doesn't extend to relations beyond is-a
+(-> Paper title if we stick with is-a: "Automatic Acquisition of Hypernyms from Large Language models")
+
+
+[2] Hovy et al (2008) Toward Completeness in Concept Extraction and Classification
+
+-> Animals such as dog and Z.
+-> they learn the child nodes.
+-> argument that "Presidents such as Ford and" will prevent the system from predicting Jaguar. 
+-> But it works the other way too "_ such as Ford and Trump" won't elicit 'cars' <<<-- this is their DAP^{-1}
+   * we use a more generic version of DAP (such as X and Z) perhaps call it UDAP (underspecified DAP) or GDAP (generalized DAP)
+   * and we use their DAP^{-1} and should use (or at least mention) their terminology
+-> Our "such as dog and _" without the 'animals' doesn't exist.
+
+
+[3] Kozareva and Hovy (2008) Learning Arguments and Supertypes of Semantic Relations using Recursive Patterns
+
+-> extend this across relations
+-> but their relations are very different from ours (they're events, actions, not ontoloty-style)
+-> you could seed their method with known (x,y,z) tuples and learn the patterns (Sec 4,5) but this probably goes beyond the scope of this paper. See [5] below which did this in pre-neural times; could we use theirs?
+
+
+[4] Banko and Etzioni (2008) The Tradeoffs Between Open and Traditional Relation Extraction
+
+-> Systematic analysis of patterns expressing relations in English, identifying a small number of relation-independent patterns
+-> Again, not common-sense style relations
+
+
+[5] Tandon et al (2011) Deriving a Web-Scale Common Sense Fact Database
+
+-> Hearst-style patterns for common sense
+-> Step 1: pattern induction with a gold seed set of (hyponym, hypernym) looking for ngrams containing both words
+-> Step 2: filtering. Patterns must match >1 seed and exactly 1 relation
+-> Step 3: use patterns to mine more (hypo, hyper) pairs
+-> would be nice to see their patterns, couldn't find them from a quick search.

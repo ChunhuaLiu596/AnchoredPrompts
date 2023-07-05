@@ -1,0 +1,900 @@
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q9666186", "sub_label": "Brave New World", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q2070469", "sub_label": "Enos", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q4698152", "sub_label": "Air Power", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q16994778", "sub_label": "Happy", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q6691644", "sub_label": "Love and Marriage", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q1141741", "sub_label": "Gilligan's Island", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q5948998", "sub_label": "Husbands, Wives & Lovers", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q3579304", "obj_label": "Q", "sub_uri": "Q7265276", "sub_label": "Q-Lets and Co.", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q5006434", "sub_label": "C. Everett Koop, M.D.", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7665156", "sub_label": "Szysznyk", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q6658090", "sub_label": "Live to Dance", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1565773", "sub_label": "The Bob Cummings Show", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7560202", "sub_label": "Something for Joey", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q1319610", "obj_label": "Lifetime", "sub_uri": "Q16167254", "sub_label": "Sherri", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7958810", "sub_label": "Wacko", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q10360020", "sub_label": "Return to Peyton Place", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q4942036", "sub_label": "Bonino", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q5755448", "sub_label": "High Finance", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q2054480", "sub_label": "Silent Library", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q544554", "sub_label": "Lady Gaga Presents the Monster Ball Tour: At Madison Square Garden", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q18204793", "sub_label": "A Triumph of the Heart: The Ricky Bell Story", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q8054390", "sub_label": "Yogi Bear's All Star Comedy Christmas Caper", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q3090971", "sub_label": "Funny or Die Presents", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q1198702", "sub_label": "Men Don't Tell", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q7782671", "sub_label": "There & Back", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q8002649", "sub_label": "Will: G. Gordon Liddy", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7426711", "sub_label": "Saturday Night Live Weekend Update Thursday", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q5146345", "sub_label": "College Bowl", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q4063231", "sub_label": "Real World/Road Rules Challenge: The Gauntlet 2", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3620910", "sub_label": "Apple's Way", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q48340", "obj_label": "CNN", "sub_uri": "Q5013153", "sub_label": "CNN Special Investigations Unit", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q6187389", "sub_label": "Jessica Novak", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q4738434", "sub_label": "Always Outnumbered", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q7759683", "sub_label": "The Real World: Sydney", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3209608", "sub_label": "Sins", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q5141707", "sub_label": "Coke Time with Eddie Fisher", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3965121", "sub_label": "United States", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q2233600", "sub_label": "Tales of the Texas Rangers", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q285057", "sub_label": "Cover Up", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1156746", "sub_label": "Southland", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q7197829", "sub_label": "Pirate TV", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q6954071", "sub_label": "NHL on CBS", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q1621107", "obj_label": "History", "sub_uri": "Q7776420", "sub_label": "The XY Factor", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q13211494", "sub_label": "The Michael J. Fox Show", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3962936", "sub_label": "Small & Frye", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q2402964", "sub_label": "Temple Houston", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q5504440", "sub_label": "Friendzone", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q2671562", "sub_label": "San Francisco International Airport", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q217776", "obj_label": "ESPN", "sub_uri": "Q6952708", "sub_label": "NBA on ESPN", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7444097", "sub_label": "Secret Service", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q2625600", "sub_label": "Good Morning, Miami", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q2574359", "sub_label": "The Herculoids", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q2450702", "sub_label": "You Don't Know Jack", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q2918180", "sub_label": "How to Be a Gentleman", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3611894", "sub_label": "All's Fair", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q1248669", "sub_label": "One Day at a Time", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q15072845", "sub_label": "The Night Shift", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q2576897", "sub_label": "Space Ghost", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7380053", "sub_label": "Running the Halls", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1658062", "sub_label": "Undercovers", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q5303442", "sub_label": "Downtown Girls", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q641690", "sub_label": "Mad Love", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7355335", "sub_label": "Rockin' Through the Decades", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3746574", "sub_label": "Flesh 'n' Blood", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q218035", "sub_label": "Parks and Recreation", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q4880790", "sub_label": "Behind Closed Doors", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1422237", "sub_label": "Gulliver's Travels", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q17580695", "sub_label": "The Big Bang Theory, season 8", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q285690", "sub_label": "All-New Dennis the Menace", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3807802", "sub_label": "Cool Million", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3294537", "sub_label": "Committed", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q228396", "sub_label": "Atomic Train", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q215616", "obj_label": "PBS", "sub_uri": "Q3230496", "sub_label": "Chico the Rainmaker", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1189775", "sub_label": "Viper", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7751326", "sub_label": "The Midnight Special", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q1621065", "obj_label": "History", "sub_uri": "Q5601471", "sub_label": "Greatest Tank Battles", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q1632277", "sub_label": "Jesse Stone", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q866", "obj_label": "YouTube", "sub_uri": "Q19361259", "sub_label": "Talking Marriage with Ryan Bailey", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q13359905", "sub_label": "Crisis", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1196157", "sub_label": "The Godfather Saga", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q14948318", "sub_label": "Law & Order: Special Victims Unit, season 15", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q5652937", "sub_label": "Happy New Year, America", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q4742605", "sub_label": "America's Toughest Jobs", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q5422739", "sub_label": "Eye to Eye with Connie Chung", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q7230246", "sub_label": "Pornucopia", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7713484", "sub_label": "The American Girls", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q4023045", "sub_label": "Young Dan'l Boone", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q217776", "obj_label": "ESPN", "sub_uri": "Q1109034", "sub_label": "College GameDay", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q612944", "sub_label": "NASCAR on NBC", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q490743", "sub_label": "The Voice", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q7746470", "sub_label": "The Lazarus Effect", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1216349", "sub_label": "Misfits of Science", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3227167", "sub_label": "Sword of Justice", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q17144553", "sub_label": "Legally Mad", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q238597", "sub_label": "Elvis", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q4929803", "sub_label": "Blue Rodeo", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q210505", "sub_label": "Chase", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q5006189", "sub_label": "C.P.O. Sharkey", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7739995", "sub_label": "The Hollywood Game", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7430754", "sub_label": "Scene of the Crime", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7062133", "sub_label": "Not My Kid", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q4636452", "sub_label": "3", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q594503", "sub_label": "NBC Nightly News", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q48340", "obj_label": "CNN", "sub_uri": "Q5013144", "sub_label": "CNN Live Today", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7246153", "sub_label": "Private Secretary", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q7759659", "sub_label": "The Real World: Denver", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q542716", "sub_label": "Dismissed", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q6516597", "sub_label": "Leeza", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q2843078", "sub_label": "American Gladiators", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q2045940", "sub_label": "The Castaways on Gilligan's Island", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q1621107", "obj_label": "History", "sub_uri": "Q7739807", "sub_label": "The History of Sex", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3519691", "sub_label": "The 5 Mrs. Buchanans", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q6544896", "sub_label": "Life Is a Circus, Charlie Brown", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q567750", "sub_label": "Garfield's Feline Fantasies", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q5336810", "obj_label": "Eden", "sub_uri": "Q18390530", "sub_label": "Yunnan Adventure with Nigel Marven", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q2113675", "sub_label": "Herbie, the Love Bug", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3958986", "sub_label": "Shaft", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q216919", "sub_label": "Six Feet Under", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q1091605", "sub_label": "Los 10+ Pedidos", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3689907", "sub_label": "Convoy", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q1621107", "obj_label": "History", "sub_uri": "Q7506985", "sub_label": "Siberia: How the East Was Won", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q215616", "obj_label": "PBS", "sub_uri": "Q6995966", "sub_label": "NerdTV", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3794983", "sub_label": "Father of the Bride", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q6404957", "sub_label": "Kids Say the Darndest Things", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1031083", "sub_label": "Somerset", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q4031546", "sub_label": "48 Hours", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7766557", "sub_label": "The Stockard Channing Show", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q4154175", "sub_label": "Dallas: War of the Ewings", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q2902114", "sub_label": "Big Apple", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q5165675", "sub_label": "Contract on Cherry Street", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q4927250", "sub_label": "Blockbusters", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q13584064", "sub_label": "About a Boy", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7945185", "sub_label": "W.E.B.", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q15270614", "sub_label": "If Tomorrow Comes", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7715346", "sub_label": "The Baileys of Balboa", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q215616", "obj_label": "PBS", "sub_uri": "Q4839869", "sub_label": "Backyard Farmer", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q6090042", "sub_label": "It's Flashbeagle, Charlie Brown", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q4004038", "sub_label": "One of the Boys", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q6034473", "sub_label": "Ink", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q5107908", "sub_label": "Chris Rock: Kill the Messenger", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q7764146", "sub_label": "The Sifl and Olly Show", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q581079", "sub_label": "Shirt Tales", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q2064827", "sub_label": "Our House", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7798899", "sub_label": "Thunder", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3005610", "sub_label": "Crusader", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q7759669", "sub_label": "The Real World: New Orleans, 2000 season", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q2309155", "sub_label": "Foofur", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q497513", "sub_label": "Best Friends Forever", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q688333", "obj_label": "TNT", "sub_uri": "Q1211352", "sub_label": "Moses", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3024633", "sub_label": "Pictures of Hollis Woods", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q932715", "sub_label": "The Mask: The Animated Series", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3986994", "sub_label": "The Family Tree", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q1319610", "obj_label": "Lifetime", "sub_uri": "Q5990843", "sub_label": "If You Believe", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7244918", "sub_label": "Princesses", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q1164334", "obj_label": "DR", "sub_uri": "Q15898520", "sub_label": "The Legacy", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q48340", "obj_label": "CNN", "sub_uri": "Q15995361", "sub_label": "Legal View with Ashleigh Banfield", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q215616", "obj_label": "PBS", "sub_uri": "Q7757952", "sub_label": "The Power of Myth", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q6179127", "sub_label": "Jenny", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q907311", "obj_label": "Netflix", "sub_uri": "Q19605486", "sub_label": "Flaked", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q1428750", "sub_label": "Flight of the Conchords", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q1621107", "obj_label": "History", "sub_uri": "Q17639413", "sub_label": "Sons of Liberty", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3989988", "sub_label": "The Whistler", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q217776", "obj_label": "ESPN", "sub_uri": "Q5580640", "sub_label": "Golf on ESPN", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q7759664", "sub_label": "The Real World: Las Vegas, 2002 season", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q688333", "obj_label": "TNT", "sub_uri": "Q935421", "sub_label": "Treasure Island", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q16875508", "sub_label": "Madam Secretary", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q328519", "sub_label": "Tequila and Bonetti", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7745519", "sub_label": "The Larry Storch Show", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q5698794", "sub_label": "Heidi", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q7759673", "sub_label": "The Real World: Philadelphia", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3769219", "sub_label": "Julia", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q4717117", "sub_label": "Alex Haley's Queen", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q4656194", "sub_label": "A Cry for Help: The Tracey Thurman Story", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q1165712", "sub_label": "Jersey Shore", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3831378", "sub_label": "Lewis & Clark", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q1190140", "sub_label": "Made in Jersey", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q576863", "sub_label": "Whitney", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q1319610", "obj_label": "Lifetime", "sub_uri": "Q15734034", "sub_label": "Happy Face Killer", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7688413", "sub_label": "Tattingers", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3040985", "sub_label": "The Jay Leno Show", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q1465636", "sub_label": "In Treatment", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3844149", "sub_label": "Mrs. Santa Claus", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q6659163", "sub_label": "Living Lahaina", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q208568", "sub_label": "Everybody Loves Raymond", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7733319", "sub_label": "The Family Man", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q4749954", "sub_label": "An Evening with Fred Astaire", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q4020645", "sub_label": "Wolf", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3728622", "sub_label": "Hawaii Five-O, season 1", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7734450", "sub_label": "The Flintstone Primetime Specials", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q4860941", "sub_label": "Barker Bill's Cartoon Show", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q230520", "sub_label": "Back to the Future", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q5271072", "sub_label": "Diana", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q4838141", "sub_label": "Baby, I'm Back", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q6691881", "sub_label": "Love in the Wild", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q133683", "sub_label": "Smash", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q907311", "obj_label": "Netflix", "sub_uri": "Q3330940", "sub_label": "House of Cards", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q529353", "sub_label": "The Bunker", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q2459476", "sub_label": "The Stones", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q5439310", "sub_label": "Fear", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q4786596", "sub_label": "Archie's TV Funnies", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q2068716", "sub_label": "P.S. I Luv U", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q251904", "sub_label": "Journeyman", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q872515", "sub_label": "Kidd Video", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q4017866", "sub_label": "Walter & Emily", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q5682679", "sub_label": "Haunted Lives: True Ghost Stories", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q215616", "obj_label": "PBS", "sub_uri": "Q15036317", "sub_label": "Mystery of the Senses", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q4063232", "sub_label": "Real World/Road Rules Challenge: The Gauntlet", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7547258", "sub_label": "Snap Judgment", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q1621107", "obj_label": "History", "sub_uri": "Q191930", "sub_label": "Zero Hour", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q784696", "sub_label": "Here Comes Garfield", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7753510", "sub_label": "The New Archie and Sabrina Hour", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7764188", "sub_label": "The Silence", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q1319610", "obj_label": "Lifetime", "sub_uri": "Q1451100", "sub_label": "Coco Chanel", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3814951", "sub_label": "Khan!", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q5326757", "sub_label": "Early Today", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1797741", "sub_label": "L.A. Law: The Movie", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q218567", "sub_label": "Law & Order: Special Victims Unit", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q6090959", "sub_label": "It's Your Move", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q16956350", "sub_label": "New Year's Eve with Carson Daly", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q215616", "obj_label": "PBS", "sub_uri": "Q5466912", "sub_label": "For Us the Living: The Medgar Evers Story", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q1621107", "obj_label": "History", "sub_uri": "Q7600957", "sub_label": "Star Trek: Beyond the Final Frontier", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q215616", "obj_label": "PBS", "sub_uri": "Q3235164", "sub_label": "Kratts' Creatures", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q7062139", "sub_label": "Not Necessarily the News", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1156876", "sub_label": "Harry's Law", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q702858", "sub_label": "Holocaust", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q215616", "obj_label": "PBS", "sub_uri": "Q6562326", "sub_label": "Arthur, season 4", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q1621107", "obj_label": "History", "sub_uri": "Q6770604", "sub_label": "Marked", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q730057", "sub_label": "The Class", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q6648869", "sub_label": "Little Amy", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q4672094", "sub_label": "Acapulco", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q3616536", "sub_label": "The Andy Dick Show", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3298256", "sub_label": "Run for Your Life", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7718958", "sub_label": "The Bob Newhart Show", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3492094", "sub_label": "Time Bomb", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q4947853", "sub_label": "Boston Common", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1806825", "sub_label": "Late Night", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q6796657", "sub_label": "Maya", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q215616", "obj_label": "PBS", "sub_uri": "Q2862203", "sub_label": "The Armenian Genocide", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q16166905", "sub_label": "Scrubbing In", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3676290", "sub_label": "The Debbie Reynolds Show", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3641022", "sub_label": "Blondie", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q3579304", "obj_label": "Q", "sub_uri": "Q5651616", "sub_label": "Hapinas", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q1319610", "obj_label": "Lifetime", "sub_uri": "Q11900028", "sub_label": "I Married a Princess", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q4705490", "sub_label": "Aladdin", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q3280150", "sub_label": "Tenacious D", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q215616", "obj_label": "PBS", "sub_uri": "Q4775195", "sub_label": "Antiques Roadshow", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q215616", "obj_label": "PBS", "sub_uri": "Q5599713", "sub_label": "Great Old Amusement Parks", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q1621107", "obj_label": "History", "sub_uri": "Q5176858", "sub_label": "Countdown to Ground Zero", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q215616", "obj_label": "PBS", "sub_uri": "Q6562324", "sub_label": "Arthur, season 2", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7103250", "sub_label": "Orleans", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q1488333", "sub_label": "The Real McCoys", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q2778754", "sub_label": "Love Bites", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7730926", "sub_label": "The Dream Makers", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q572415", "sub_label": "The Count of Monte Cristo", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q5288368", "sub_label": "Doggy Fizzle Televizzle", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3986248", "sub_label": "The Chevy Mystery Show", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3336186", "sub_label": "Nashville Star", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q6509937", "sub_label": "Leap of Faith", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q8056587", "sub_label": "You're Putting Me On", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7200264", "sub_label": "Place the Face", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7768034", "sub_label": "The Talk", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q5434599", "sub_label": "Far Out Space Nuts", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q5089133", "sub_label": "Checking In", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q4848377", "sub_label": "Bailey Kipper's P.O.V.", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q5597033", "sub_label": "Grapevine", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q6499109", "sub_label": "Laura Lansing Slept Here", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q8056649", "sub_label": "You're the Greatest, Charlie Brown", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3853754", "sub_label": "Medical Center", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q467561", "sub_label": "America's Got Talent", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q3005851", "sub_label": "The Wire, season 4", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1743765", "sub_label": "Kiss Meets the Phantom of the Park", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q964651", "sub_label": "Project G.e.e.K.e.R.", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7758317", "sub_label": "The Princess and the Cabbie", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q7785809", "sub_label": "This Is How I Made It", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3613965", "sub_label": "Amen", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q1319610", "obj_label": "Lifetime", "sub_uri": "Q7774119", "sub_label": "The Week the Women Went", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q688333", "obj_label": "TNT", "sub_uri": "Q18393583", "sub_label": "The Nightmare Years", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1189754", "sub_label": "Windfall", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q6064842", "sub_label": "The Real World: Cancun", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q11753903", "sub_label": "L.A. Doctors", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7045308", "sub_label": "Noah's Ark", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q6116811", "sub_label": "Jackpot", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q48340", "obj_label": "CNN", "sub_uri": "Q5028005", "sub_label": "Campbell Brown", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1524131", "sub_label": "Rainbow", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q4955912", "sub_label": "Brains & Brawn", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7720517", "sub_label": "The Bugaloos", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q17016951", "sub_label": "Peter Pan", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q7318068", "sub_label": "Reverb", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q246785", "sub_label": "Generations", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q5504273", "sub_label": "Friends of God: A Road Trip with Alexandra Pelosi", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q215616", "obj_label": "PBS", "sub_uri": "Q6770771", "sub_label": "Market Warriors", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q16248552", "sub_label": "Badge of the Assassin", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q215616", "obj_label": "PBS", "sub_uri": "Q1114543", "sub_label": "Gardens of the World with Audrey Hepburn", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q6839187", "sub_label": "Micro Ventures", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7772007", "sub_label": "The Van Dyke Show", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q7759671", "sub_label": "The Real World: New York", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7820241", "sub_label": "Tomorrow", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7730630", "sub_label": "The Don Knotts Show", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7091094", "sub_label": "On Our Own", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q618329", "sub_label": "Girls", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7714284", "sub_label": "The Armed Forces Hour", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q6655617", "sub_label": "Live Through This", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3283166", "sub_label": "Encore! Encore!", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q5537454", "sub_label": "George Burns Comedy Week", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3866801", "sub_label": "Mr. Novak", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q16169091", "sub_label": "The Challenge: Free Agents", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q777633", "sub_label": "Accidentally on Purpose", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q2529189", "sub_label": "Charles in Charge", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q6816209", "sub_label": "Men Behaving Badly", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q1247170", "sub_label": "The New Adventures of Old Christine", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3925984", "sub_label": "Pursuit", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q785741", "sub_label": "Perversions of Science", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3715951", "sub_label": "Dundee and the Culhane", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q12119389", "sub_label": "Fall to Grace", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q1621107", "obj_label": "History", "sub_uri": "Q17142462", "sub_label": "The World Wars", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7732794", "sub_label": "The Exile", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1247960", "sub_label": "The Name of the Game", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3989354", "sub_label": "The Smothers Brothers Show", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7760470", "sub_label": "The Return of the World's Greatest Detective", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3204347", "sub_label": "The Closer", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q16991928", "sub_label": "Domestic Life", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q7092404", "obj_label": "One", "sub_uri": "Q7579793", "sub_label": "Sports Tonight", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q2389865", "sub_label": "Halloween with the New Addams Family", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q953565", "sub_label": "The Kingsroad", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q4742573", "sub_label": "America's Next Great Restaurant", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7617936", "sub_label": "Stockard Channing in Just Friends", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q4951955", "sub_label": "Boxing from St. Nicholas Arena", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q289537", "sub_label": "Lassie", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q5506007", "sub_label": "Frontier Justice", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3745962", "sub_label": "Fired Up", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q467593", "sub_label": "Kings", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7992022", "sub_label": "Wheel of Fortune", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q5220074", "sub_label": "Danny", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q2111523", "sub_label": "Rehearsal for Murder", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q2056641", "sub_label": "WKRP in Cincinnati", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q5737623", "sub_label": "Here and Now", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7745969", "sub_label": "The Last Resort", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1778567", "sub_label": "Sh\u014dgun", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q215616", "obj_label": "PBS", "sub_uri": "Q6536210", "sub_label": "Lewis & Clark: The Journey of the Corps of Discovery", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1194878", "sub_label": "Lipstick Jungle", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q3323914", "obj_label": "MTV", "sub_uri": "Q7828224", "sub_label": "Totally Jodie Marsh", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q19593693", "sub_label": "The Weight of the Nation", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q864219", "sub_label": "CB Bears", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7775483", "sub_label": "The Woman Hunter", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7797961", "sub_label": "Three for the Money", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7719795", "sub_label": "The Bradys", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q1621107", "obj_label": "History", "sub_uri": "Q5639598", "sub_label": "Hairy Bikers", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q7739698", "sub_label": "The Hills, season 6", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3828526", "sub_label": "King Leonardo and His Short Subjects", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1247482", "sub_label": "The Girl from U.N.C.L.E.", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1620510", "sub_label": "Galaxy Goof-Ups", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q16269155", "sub_label": "Late Show", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1077", "sub_label": "Star Trek: The Original Series", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q5354168", "sub_label": "Real World/Road Rules Challenge: The Inferno", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q17059890", "sub_label": "You Take the Kids", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q6126572", "sub_label": "UC: Undercover", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7457185", "sub_label": "Seven Brides for Seven Brothers", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7676060", "sub_label": "Tail Gunner Joe", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7717884", "sub_label": "The Biggest Loser: Couples", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q680373", "sub_label": "High Mountain Rangers", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q2267401", "sub_label": "Peter the Great", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q650768", "sub_label": "Captain Gallant of the Foreign Legion", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3567653", "sub_label": "Wheel of Fortune", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7285153", "sub_label": "Raising Miranda", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7258864", "sub_label": "Puff the Magic Dragon", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q203837", "sub_label": "Awkward", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q2185598", "sub_label": "LAX", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q16992481", "sub_label": "Emerald City", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7763189", "sub_label": "The Secrets of Isis", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q4899549", "sub_label": "Beverly Hills Buntz", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3224660", "sub_label": "Blaster's Universe", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q6495515", "sub_label": "Later", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q7759655", "sub_label": "The Real World: Austin", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7700479", "sub_label": "Tennis on CBS", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7823949", "sub_label": "Too Rich: The Secret Life of Doris Duke", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7314133", "sub_label": "Report to Murphy", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3898407", "sub_label": "Payne", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q426718", "sub_label": "Goodnight, Beantown", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q215616", "obj_label": "PBS", "sub_uri": "Q16840784", "sub_label": "Grannies on Safari", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7775945", "sub_label": "The World Beyond", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q3841628", "sub_label": "MTV Live", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1083354", "sub_label": "Ellery Queen", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q15036515", "sub_label": "Vice", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q5067883", "sub_label": "Chain Letter", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q773513", "sub_label": "Fred and Barney Meet the Shmoo", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q5582623", "sub_label": "Good Grief, Charlie Brown: A Tribute to Charles Schulz", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q717347", "sub_label": "The Charlie Brown and Snoopy Show", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q217776", "obj_label": "ESPN", "sub_uri": "Q4941445", "sub_label": "Bonds on Bonds", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q5308871", "sub_label": "Drug Wars: The Camarena Story", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q6786212", "sub_label": "Match Game-Hollywood Squares Hour", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q6037812", "sub_label": "Inside Schwartz", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q2271049", "sub_label": "Grey Gardens", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q676544", "sub_label": "The Unit", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q17075620", "sub_label": "Poochinski", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q6747949", "sub_label": "Mandela", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q215616", "obj_label": "PBS", "sub_uri": "Q15036447", "sub_label": "Secrets of the Dead", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7755303", "sub_label": "The Ordeal of Dr. Shannon", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q6984438", "sub_label": "Nearly Departed", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q559270", "sub_label": "The Twilight Zone", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q950608", "sub_label": "The Life and Times of Grizzly Adams", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q15726616", "sub_label": "Generation Cryo", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q4596047", "sub_label": "1 vs. 100", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q17110507", "sub_label": "Work with Me", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q3468817", "sub_label": "The Sopranos, season 3", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q6806231", "sub_label": "Medic", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3602955", "sub_label": "Hot Pursuit", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7689593", "sub_label": "Taxi!!!", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3986432", "sub_label": "The Court of Last Resort", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7071810", "sub_label": "O'Hara, U.S. Treasury", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q18601923", "sub_label": "Olive Kitteridge", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7712333", "sub_label": "The Ad-Libbers", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q5319160", "sub_label": "Dynasty", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q7582351", "sub_label": "Squirt TV", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q465776", "sub_label": "Fear Itself", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7811099", "sub_label": "To Say the Least", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7752680", "sub_label": "The Murder of Mary Phagan", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q17457913", "sub_label": "Aquarius", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q12100139", "sub_label": "The 3,000 Mile Chase", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q1248499", "sub_label": "Route 66", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7797806", "sub_label": "Three Sisters", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q1621107", "obj_label": "History", "sub_uri": "Q6925118", "sub_label": "Mountain Men", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3988461", "sub_label": "The New Adventures of Perry Mason", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q5396899", "sub_label": "Escape", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q16950714", "sub_label": "Battlestars", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q660237", "sub_label": "Alice in Wonderland", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q1071958", "sub_label": "Chicago Hope", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q1621107", "obj_label": "History", "sub_uri": "Q2720116", "sub_label": "102 Minutes That Changed America", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7300675", "sub_label": "Ready for Love", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q2868436", "sub_label": "Asteroid", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7756600", "sub_label": "The People's Choice", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q220072", "obj_label": "ITV", "sub_uri": "Q1197607", "sub_label": "The Dreamstone", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q230506", "sub_label": "Quantum Leap", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q4004618", "sub_label": "The Eleventh Hour", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q16996103", "sub_label": "Hullabaloo", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7548002", "sub_label": "Snoopy!!! The Musical", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q912279", "sub_label": "Punk'd", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q196174", "sub_label": "My Own Worst Enemy", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1044593", "sub_label": "Caroline in the City", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q217776", "obj_label": "ESPN", "sub_uri": "Q7979239", "sub_label": "Wednesday Night Hoops", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q5505964", "sub_label": "Frontier Circus", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3576808", "sub_label": "Finding John Christmas", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q1284299", "sub_label": "Josie and the Pussycats", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q5537685", "sub_label": "George Carlin at USC", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q8025635", "sub_label": "Winnetka Road", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q1621107", "obj_label": "History", "sub_uri": "Q16823788", "sub_label": "20th Century with Mike Wallace", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q215616", "obj_label": "PBS", "sub_uri": "Q7753794", "sub_label": "The New Yankee Workshop", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q12060814", "sub_label": "It's News to Me", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7980732", "sub_label": "Welcome to New York", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1234680", "sub_label": "Phenomenon", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q16996766", "sub_label": "In the Beginning", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q48340", "obj_label": "CNN", "sub_uri": "Q15994894", "sub_label": "Anthony Bourdain: Parts Unknown", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q1319610", "obj_label": "Lifetime", "sub_uri": "Q71824", "sub_label": "Picker Sisters", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7729102", "sub_label": "The Dave Thomas Comedy Show", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q928149", "sub_label": "Veronica's Closet", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3987201", "sub_label": "The George Burns and Gracie Allen Show", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q2601055", "sub_label": "Swingtown", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q833", "obj_label": "Malaysia", "sub_uri": "Q6346974", "sub_label": "Kahit Isang Saglit", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q18150316", "sub_label": "Good Company", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3895807", "sub_label": "Sons and Daughters", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7731166", "sub_label": "The Duke", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q1248157", "sub_label": "Kaz", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q846752", "sub_label": "The Munsters' Revenge", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q2626454", "sub_label": "My Life as Liz", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7974066", "sub_label": "Waterfront", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q1164059", "sub_label": "Family Law", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q8034951", "sub_label": "Working Stiffs", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q5084411", "sub_label": "Charlie & Co.", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7988951", "sub_label": "Westinghouse Playhouse", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7991999", "sub_label": "Wheel 2000", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q1621107", "obj_label": "History", "sub_uri": "Q7239937", "sub_label": "Prehistoric Megastorms", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3817047", "sub_label": "Kristin", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7743453", "sub_label": "The Joker's Wild", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q5948303", "sub_label": "Hurricane Saturday", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q1621107", "obj_label": "History", "sub_uri": "Q2915967", "sub_label": "The Exodus Decoded", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1248566", "sub_label": "Movin' On", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q3884", "obj_label": "Amazon", "sub_uri": "Q17070012", "sub_label": "Mozart in the Jungle", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q1516431", "sub_label": "John Adams", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3987784", "sub_label": "The Kaiser Aluminum Hour", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q6544853", "sub_label": "Life Is But a Dream", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q8057200", "sub_label": "You Don't Look 40, Charlie Brown", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1752765", "sub_label": "Providence", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q6487089", "sub_label": "Lanigan's Rabbi", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3641021", "sub_label": "Blondie", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q251801", "sub_label": "Dr. Seuss' How the Grinch Stole Christmas!", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q1033458", "sub_label": "Cannon", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q5178036", "sub_label": "Coupling", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q17060640", "sub_label": "The Jonathan Winters Show", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q624607", "sub_label": "Law & Order: LA", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q217776", "obj_label": "ESPN", "sub_uri": "Q4788887", "sub_label": "Arena Football League on ESPN", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3964234", "sub_label": "Private Benjamin", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q1616723", "sub_label": "The Wire, season 1", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3822598", "sub_label": "The Great Adventure", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q13417213", "sub_label": "Mom", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7756385", "sub_label": "The Paul Winchell Show", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q215616", "obj_label": "PBS", "sub_uri": "Q5654782", "sub_label": "Postcards from Buster", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q1248019", "sub_label": "Alice", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7247964", "sub_label": "Professional Father", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q215616", "obj_label": "PBS", "sub_uri": "Q7542704", "sub_label": "Small Business School", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1187416", "sub_label": "Chicago Fire", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q1619982", "sub_label": "The Pebbles and Bamm-Bamm Show", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q4272173", "sub_label": "Mickey's 60th Birthday", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3207726", "sub_label": "The People Next Door", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7734502", "sub_label": "The Floppy Show", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q662341", "sub_label": "Falcon Crest", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3283089", "sub_label": "The Corn Is Green", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q319158", "sub_label": "Babes in Toyland", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q485777", "sub_label": "Fury", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q1621065", "obj_label": "History", "sub_uri": "Q6785390", "sub_label": "Masterminds", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3820053", "sub_label": "The Man and the Challenge", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q5417935", "sub_label": "Everything's Relative", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7984224", "sub_label": "West 57th", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7734460", "sub_label": "The Flintstones: Wind-Up Wilma", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q17061147", "sub_label": "The Lone Ranger", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q543273", "sub_label": "Ladies Man", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q1246416", "sub_label": "Vacation Playhouse", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q1606284", "sub_label": "Dr. Strange", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7396440", "sub_label": "Sabrina the Teenage Witch", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q5736829", "sub_label": "Here's to You, Charlie Brown: 50 Great Years", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q892438", "sub_label": "Ironside", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q1621107", "obj_label": "History", "sub_uri": "Q1197841", "sub_label": "Vietnam in HD", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1140021", "sub_label": "Crime Story", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q1427871", "sub_label": "Meatballs & Spaghetti", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q6673933", "sub_label": "Longines Chronoscope", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3859276", "sub_label": "Espionage", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q18155814", "sub_label": "Who's Whose", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q217776", "obj_label": "ESPN", "sub_uri": "Q5965526", "sub_label": "I'd Do Anything", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3887566", "sub_label": "Outlaw", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q5247585", "sub_label": "Death of a Salesman", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q907311", "obj_label": "Netflix", "sub_uri": "Q558112", "sub_label": "Black Mirror", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q215616", "obj_label": "PBS", "sub_uri": "Q672443", "sub_label": "The Civil War", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3270887", "sub_label": "Rescue 911", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q5451393", "sub_label": "Fire Me...Please", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q901565", "sub_label": "DanceLife", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q215616", "obj_label": "PBS", "sub_uri": "Q7767590", "sub_label": "The Swamp Critters of Lost Lagoon", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q215616", "obj_label": "PBS", "sub_uri": "Q7550312", "sub_label": "Soccer Made in Germany", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q5057729", "sub_label": "Celebrity Family Feud", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3936414", "sub_label": "The Flintstone Comedy Show", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q5222479", "sub_label": "Dare to Dream: The Story of the U.S. Women's Soccer Team", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q4063247", "sub_label": "Real World/Road Rules Extreme Challenge", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3790213", "sub_label": "The Fanelli Boys", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7111427", "sub_label": "Out All Night", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7366322", "sub_label": "Roomies", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q5454104", "sub_label": "First Years", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q215616", "obj_label": "PBS", "sub_uri": "Q5323040", "sub_label": "EGG, the Arts Show", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7717410", "sub_label": "The Betty White Show", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q590596", "sub_label": "TV's Bloopers & Practical Jokes", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3927732", "sub_label": "The Good Life", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q617020", "sub_label": "Michael Hayes", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3631246", "sub_label": "Riverboat", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q5247557", "sub_label": "Death of a Centerfold: The Dorothy Stratten Story", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q5003591", "sub_label": "Buzzkill", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q4507", "sub_label": "Friday Night Lights", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q5182408", "sub_label": "Crashbox", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q13218686", "sub_label": "Chicago P.D.", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q2016609", "sub_label": "Bearcats!", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q217776", "obj_label": "ESPN", "sub_uri": "Q7642885", "sub_label": "Super Tuesday", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q1186342", "sub_label": "Spin-Off", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q1319610", "obj_label": "Lifetime", "sub_uri": "Q16872572", "sub_label": "Flowers in the Attic", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q19599857", "sub_label": "Telenovela", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1631663", "sub_label": "The Misadventures of Sheriff Lobo", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1758792", "sub_label": "The Flintstones Meet Rockula and Frankenstone", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q5009252", "sub_label": "CBS News Sunday Morning", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q48340", "obj_label": "CNN", "sub_uri": "Q5161838", "sub_label": "Connie Chung Tonight", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q5701091", "sub_label": "Heist", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q264221", "sub_label": "ALF", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q7759668", "sub_label": "The Real World: Miami", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q18754919", "sub_label": "The Funtastic World of Hanna-Barbera Arena Show", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q2276400", "sub_label": "Persons Unknown", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q5321564", "sub_label": "E.A.R.T.H. Force", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7766172", "sub_label": "The Stage Door", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q1053941", "sub_label": "Central Park West", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q16168878", "sub_label": "Teen Mom 3", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7278976", "sub_label": "Race to the Altar", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q593036", "sub_label": "Titans", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q7880228", "sub_label": "Ultimate Parkour Challenge", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7734457", "sub_label": "The Flintstones: Little Big League", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q688333", "obj_label": "TNT", "sub_uri": "Q15627692", "sub_label": "The Last Ship", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7423908", "sub_label": "Sarge", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q35791", "sub_label": "Sex and the City", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7857439", "sub_label": "Twas the Night Before Christmas", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7714798", "sub_label": "The Atlanta Child Murders", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q17079089", "sub_label": "Sally", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q4740508", "sub_label": "Amateur's Guide to Love", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q217776", "obj_label": "ESPN", "sub_uri": "Q7802994", "sub_label": "Tilt", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q217776", "obj_label": "ESPN", "sub_uri": "Q5324210", "sub_label": "ESPN2 College Football Friday Primetime", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q6914806", "sub_label": "Morton & Hayes", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3761813", "sub_label": "Ghost Story", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q717769", "sub_label": "Luck", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q1426605", "sub_label": "Titanic", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3280862", "sub_label": "Super President", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q568328", "sub_label": "The Guardian", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7751401", "sub_label": "The Mike O'Malley Show", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q907311", "obj_label": "Netflix", "sub_uri": "Q5712285", "sub_label": "Hemlock Grove", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q5205237", "sub_label": "DJ & the Fro", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q1249300", "sub_label": "Gomer Pyle", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q1754224", "sub_label": "Ivanhoe", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q4872824", "sub_label": "Battle of the Ages", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q5882483", "sub_label": "Hollywood's Talking", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q590572", "sub_label": "Unforgettable", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q858094", "sub_label": "Capadocia", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q16156339", "sub_label": "Gary Larson's Tales from the Far Side", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q1229056", "sub_label": "The Sound of Jazz", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3927241", "sub_label": "Easy Street", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3694460", "sub_label": "Run, Buddy, Run", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q1260081", "sub_label": "Still Standing", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3790809", "sub_label": "Born to the Wind", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q2700749", "sub_label": "Lucky Louie", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q3792136", "sub_label": "If You Really Knew Me", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3283805", "sub_label": "The Amazing Chan and the Chan Clan", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3283375", "sub_label": "The Sonny & Cher Comedy Hour", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3779824", "sub_label": "Gunslinger", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q6753342", "sub_label": "Many Happy Returns", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q1319610", "obj_label": "Lifetime", "sub_uri": "Q974046", "sub_label": "The Client List", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q798620", "sub_label": "A Mom for Christmas", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3281733", "sub_label": "Sleepwalkers", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q1249404", "sub_label": "Mayberry R.F.D.", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q945332", "sub_label": "Centennial", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7717809", "sub_label": "The Big Story", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7720305", "sub_label": "The Bronx Zoo", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q4955764", "sub_label": "Brain Game", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q2668662", "sub_label": "Father of the Pride", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q2338149", "sub_label": "Popeye and Son", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q5009285", "sub_label": "CBS Television Workshop", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7757984", "sub_label": "The Powers That Be", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q5087082", "sub_label": "Chase", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1247268", "sub_label": "Get Smart", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3819216", "sub_label": "Glynis", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q185059", "sub_label": "Days of Our Lives", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q6012452", "sub_label": "In the Loop with iVillage", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q2480163", "sub_label": "Paradise", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q6091133", "sub_label": "It's a Great Life", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q16997375", "sub_label": "It Had to Be You", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1166230", "sub_label": "Dark Skies", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q3600480", "obj_label": "ABC", "sub_uri": "Q5051363", "sub_label": "Catalyst", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q16992061", "sub_label": "Dress Gray", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q7243227", "obj_label": "Prime", "sub_uri": "Q634040", "sub_label": "New Zealand's Top 100 History Makers", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q2898242", "sub_label": "Spy Groove", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q5016960", "sub_label": "Caesar's Hour", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q5424431", "sub_label": "FANatic", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1030989", "sub_label": "McCloud", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q4975686", "sub_label": "Brothers and Sisters", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3952734", "sub_label": "Scorch", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q82986", "sub_label": "Ace Ventura: Pet Detective", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q10339909", "sub_label": "Valley of the Dinosaurs", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3087274", "sub_label": "Free Agents", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q6213135", "sub_label": "Joe and Sons", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3751741", "sub_label": "Frank's Place", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q728443", "sub_label": "Hawaii Five-0", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q677827", "sub_label": "The Public Defender", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q215616", "obj_label": "PBS", "sub_uri": "Q7558718", "sub_label": "Solomon Northup's Odyssey", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q1621107", "obj_label": "History", "sub_uri": "Q4869977", "sub_label": "Battle 360\u00b0", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q215616", "obj_label": "PBS", "sub_uri": "Q6562325", "sub_label": "Arthur, season 3", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q1247192", "sub_label": "Judging Amy", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7737406", "sub_label": "The Governor & J.J.", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7716830", "sub_label": "The Best Times", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q2695367", "sub_label": "Garfield on the Town", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q780478", "sub_label": "Kingpin", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q217585", "sub_label": "Peter and Paul", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q6499750", "sub_label": "Laurel Avenue", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q130838", "sub_label": "Today", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q6059058", "sub_label": "Intruders", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q217776", "obj_label": "ESPN", "sub_uri": "Q7897430", "sub_label": "Unscripted with Chris Connelly", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1216045", "sub_label": "The Smurfs", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q13553860", "sub_label": "Muhammad Ali's Greatest Fight", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7720979", "sub_label": "The California Raisin Show", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q4686543", "sub_label": "Adventure Theater", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q7759680", "sub_label": "The Real World: St. Thomas", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7883126", "sub_label": "Under One Roof", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q194952", "sub_label": "I Still Dream of Jeannie", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1247212", "sub_label": "L.A. Law", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q6089928", "sub_label": "It's Arbor Day, Charlie Brown", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7992958", "sub_label": "When the Circus Came to Town", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q15072908", "sub_label": "Romance", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q5152242", "sub_label": "Commando Cody: Sky Marshal of the Universe", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q1621107", "obj_label": "History", "sub_uri": "Q2080669", "sub_label": "Cities of the Underworld", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7644222", "sub_label": "Superstars of Dance", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7717904", "sub_label": "The Biggest Loser, season 3", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q18153167", "sub_label": "Pine Canyon Is Burning", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q2277928", "sub_label": "When the Levees Broke", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q15123503", "sub_label": "The Adventures of Mark & Brian", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q2870356", "sub_label": "Under Suspicion", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q1621107", "obj_label": "History", "sub_uri": "Q15036178", "sub_label": "History's Lost & Found", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q1440955", "sub_label": "The Job", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q6778748", "sub_label": "Mary", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q5432133", "sub_label": "Fall into Darkness", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q5638705", "sub_label": "Haggis Baggis", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7715808", "sub_label": "The Batman/Tarzan Adventure Hour", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q7828186", "sub_label": "Totally Clueless", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1476466", "sub_label": "The Rogues", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7720346", "sub_label": "The Brotherhood of Poland, New Hampshire", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q168708", "sub_label": "Dallas", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q217776", "obj_label": "ESPN", "sub_uri": "Q7038462", "sub_label": "Nine for IX", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q7339396", "sub_label": "Road Rules: The Quest", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q18153350", "sub_label": "Prudential Family Playhouse", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7488805", "sub_label": "Shannon's Deal", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3230279", "sub_label": "The 100 Lives of Black Jack Savage", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q48340", "obj_label": "CNN", "sub_uri": "Q5203710", "sub_label": "D. L. Hughley Breaks the News", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q6690090", "sub_label": "Love, Mary", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q6090928", "sub_label": "It's Your 20th Television Anniversary, Charlie Brown", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q6844174", "sub_label": "Mighty Mouse: The New Adventures", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q5291501", "sub_label": "Don't Call Me Charlie", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q715013", "sub_label": "Tales from the Crypt", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3836596", "sub_label": "The Tarzan/Lone Ranger Adventure Hour", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q925137", "sub_label": "Mancuso, F.B.I.", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q4926545", "sub_label": "Blind Faith", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q48340", "obj_label": "CNN", "sub_uri": "Q5142405", "sub_label": "Cold War", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q1030663", "sub_label": "Shazam!", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7766497", "sub_label": "The Steve Allen Show", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q2545719", "sub_label": "Love of Life", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q603120", "sub_label": "Garfield Goes Hollywood", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q6015195", "sub_label": "Inconceivable", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q5506231", "sub_label": "Frosty Returns", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q5306448", "sub_label": "Dream Street", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1986984", "sub_label": "The New Adventures of Huckleberry Finn", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7797992", "sub_label": "Three on a Match", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q217776", "obj_label": "ESPN", "sub_uri": "Q7727457", "sub_label": "The Contender 2", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q48340", "obj_label": "CNN", "sub_uri": "Q15995353", "sub_label": "New Day", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q1621107", "obj_label": "History", "sub_uri": "Q7300881", "sub_label": "Real Deal", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q16952727", "sub_label": "Bonnie", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q598499", "sub_label": "The Pacific", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q215616", "obj_label": "PBS", "sub_uri": "Q5327115", "sub_label": "Earth Revealed: Introductory Geology", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q2705935", "sub_label": "Teen Wolf, season 2", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q5574652", "sub_label": "Go", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q1181270", "sub_label": "Death Valley", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7821462", "sub_label": "Tonight Starring Steve Allen", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q6801031", "sub_label": "McDuff, the Talking Dog", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1304135", "sub_label": "Go On", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q2778342", "sub_label": "Malibu Shores", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q2734750", "sub_label": "Yo Yogi!", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1195481", "sub_label": "Man from Atlantis", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1451069", "sub_label": "Law & Order, season 3", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q1621107", "obj_label": "History", "sub_uri": "Q7847373", "sub_label": "True Caribbean Pirates", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q4817226", "sub_label": "Atom Squad", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q1549361", "sub_label": "Superman", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q537116", "sub_label": "Watching Ellie", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q1319610", "obj_label": "Lifetime", "sub_uri": "Q4749756", "sub_label": "An American Daughter", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q178724", "sub_label": "T. J. Hooker", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q17074442", "sub_label": "Peeping Times", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q48340", "obj_label": "CNN", "sub_uri": "Q6495211", "sub_label": "Late Edition with Wolf Blitzer", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q215616", "obj_label": "PBS", "sub_uri": "Q7302167", "sub_label": "Rebop", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7749853", "sub_label": "The Man Behind the Badge", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q697407", "sub_label": "Hawaii Five-O", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q5965762", "sub_label": "I'll Bet", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q215616", "obj_label": "PBS", "sub_uri": "Q6562320", "sub_label": "Arthur, season 14", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q6897697", "sub_label": "Mona McCluskey", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3828486", "sub_label": "The Adventures of Champion", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q944354", "sub_label": "Friends with Benefits", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q597946", "obj_label": "Mega", "sub_uri": "Q5047989", "sub_label": "Casado con hijos", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q215616", "obj_label": "PBS", "sub_uri": "Q6986519", "sub_label": "Need to Know", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7710963", "sub_label": "That's My Boy", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7111134", "sub_label": "Our Place", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q638191", "sub_label": "Revelations", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q215616", "obj_label": "PBS", "sub_uri": "Q1385782", "sub_label": "Eyes on the Prize", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q4769384", "sub_label": "Annie McGuire", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q5233261", "sub_label": "The Apprentice: Martha Stewart", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q319817", "sub_label": "Joey", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3828605", "sub_label": "The Trials of O'Brien", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q2422238", "sub_label": "The Big Bang Theory, season 6", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q4000785", "sub_label": "Minor Adjustments", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q7759662", "sub_label": "The Real World: Key West", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7750773", "sub_label": "The McLean Stevenson Show", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q6801762", "sub_label": "McKeever and the Colonel", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7409195", "sub_label": "Same Name", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3428294", "sub_label": "Return to Green Acres", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7751363", "sub_label": "The Mighty Heroes", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7977972", "sub_label": "Weakest Link", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q17110140", "sub_label": "Scorpion", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q2381240", "sub_label": "Spencer", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q5204233", "sub_label": "DAG", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7710544", "sub_label": "Thanks", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q5476859", "sub_label": "Tommy Lee Goes to College", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q5003587", "sub_label": "Buzzin'", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q2517403", "sub_label": "The Facts of Life", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q12061901", "sub_label": "Mister Peepers", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q4354489", "sub_label": "Stone Cold", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q4063246", "sub_label": "Real World/Road Rules Challenge: The Inferno 3", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q215616", "obj_label": "PBS", "sub_uri": "Q6562322", "sub_label": "Arthur, season 16", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3521194", "sub_label": "The Hank McCune Show", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q5084610", "sub_label": "Charlie Brown and Charles Schulz", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7772698", "sub_label": "The Vincent Lopez Show", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3866812", "sub_label": "Mister Roberts", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q5654717", "sub_label": "Harbormaster", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q4906585", "sub_label": "Big Top", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q5271991", "sub_label": "Diary", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q217776", "obj_label": "ESPN", "sub_uri": "Q7953246", "sub_label": "WNBA on ESPN", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3284379", "sub_label": "Partridge Family 2200 A.D.", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7694196", "sub_label": "Teech", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q527702", "sub_label": "My Friend Flicka", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q12956598", "sub_label": "Celebrity", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q7766363", "sub_label": "The State", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7736611", "sub_label": "The Girl with Something Extra", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q12132407", "sub_label": "What the Deaf Man Heard", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q2557171", "sub_label": "Backstairs at the White House", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q7759672", "sub_label": "The Real World: Paris", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q4752070", "sub_label": "Anatole", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q5583049", "sub_label": "Good Vibes", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q1319610", "obj_label": "Lifetime", "sub_uri": "Q347881", "sub_label": "Amanda Knox: Murder on Trial in Italy", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q2708176", "sub_label": "Teen Wolf, season 1", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q7759656", "sub_label": "The Real World: Boston", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q18754921", "sub_label": "The Hanna-Barbera Hall of Fame: Yabba-Dabba-Doo 2", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q3730195", "sub_label": "The Hills, season 5", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q1247542", "sub_label": "Rawhide", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q907311", "obj_label": "Netflix", "sub_uri": "Q18643758", "sub_label": "Richie Rich", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q4691076", "sub_label": "Against the Grain", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q6091375", "sub_label": "It's an Adventure, Charlie Brown", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q217776", "obj_label": "ESPN", "sub_uri": "Q4872922", "sub_label": "Battle of the Gridiron Stars", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q279881", "sub_label": "Cane", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q2614318", "sub_label": "Kung Fu Panda Holiday", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q613334", "sub_label": "Awake", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1338655", "sub_label": "The Tonight Show", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7438306", "sub_label": "Scout's Safari", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q7722009", "sub_label": "The Challenge: Battle of the Seasons", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q4920356", "sub_label": "Black Beauty", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q215616", "obj_label": "PBS", "sub_uri": "Q4647252", "sub_label": "A.M. Weather", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q907311", "obj_label": "Netflix", "sub_uri": "Q18643684", "sub_label": "Bloodline", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q4063233", "sub_label": "The Challenge: Cutthroat", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q885643", "sub_label": "Blue Bloods", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q930951", "sub_label": "Raven", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q384454", "sub_label": "It Was a Short Summer, Charlie Brown", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q8024367", "sub_label": "Window on Main Street", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q4660855", "sub_label": "A Year at the Top", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q2887756", "sub_label": "Bat Masterson", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q1319610", "obj_label": "Lifetime", "sub_uri": "Q17113412", "sub_label": "Maggie", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q218000", "sub_label": "Parenthood", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1216258", "sub_label": "The Bionic Woman", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q5127979", "sub_label": "Class Cruise", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q2066092", "sub_label": "Kraft Television Theatre", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7717902", "sub_label": "The Biggest Loser, season 1", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q215616", "obj_label": "PBS", "sub_uri": "Q7844574", "sub_label": "Triumph of the Nerds", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7065882", "sub_label": "Now You See It", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q7715168", "sub_label": "The Baby-Sitters Club", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q754197", "sub_label": "JAG", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q3579304", "obj_label": "Q", "sub_uri": "Q7019550", "sub_label": "News on Q", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q6302667", "sub_label": "Judge for Yourself", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q23823", "sub_label": "Life's Too Short", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q1188675", "sub_label": "The New Scooby-Doo Movies", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q890343", "sub_label": "The 10th Kingdom", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7775891", "sub_label": "The World's Most Dangerous Magic", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q907311", "obj_label": "Netflix", "sub_uri": "Q16158443", "sub_label": "John Hodgman: Ragnarok", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q215616", "obj_label": "PBS", "sub_uri": "Q5890585", "sub_label": "Hometime", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q5496832", "sub_label": "Freddie the Freeloader's Christmas Dinner", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q11510", "sub_label": "$#*! My Dad Says", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3283441", "sub_label": "The Cat in the Hat", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q1319610", "obj_label": "Lifetime", "sub_uri": "Q3207900", "sub_label": "A Christmas Wedding", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q5142246", "sub_label": "Cold Feet", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q4635317", "sub_label": "33\u2153 Revolutions Per Monkee", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q16387246", "sub_label": "Nancy", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7113745", "sub_label": "Overland Trail", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q215616", "obj_label": "PBS", "sub_uri": "Q16253570", "sub_label": "New York: A Documentary Film", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7073310", "sub_label": "O Pioneers!", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7537813", "sub_label": "Skylark", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q674155", "sub_label": "The Blue and the Gray", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q4958386", "sub_label": "Brave New World", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q1091527", "sub_label": "Snooki & JWoww", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q7728513", "sub_label": "The Cut", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3037360", "sub_label": "Smith", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q16524263", "sub_label": "Bad Teacher", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q5294257", "sub_label": "Donald Duck's 50th Birthday", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q7813148", "sub_label": "Togetherness", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7734258", "sub_label": "The Fitzpatricks", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q12125197", "sub_label": "Jack Frost", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3988876", "sub_label": "The Psychiatrist", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3927767", "sub_label": "Style & Substance", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q300396", "sub_label": "A Double Shot at Love", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q8056639", "sub_label": "You're in the Super Bowl, Charlie Brown", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q1247529", "sub_label": "Mannix", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q1524155", "sub_label": "Underemployed", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q215616", "obj_label": "PBS", "sub_uri": "Q10455501", "sub_label": "Nature", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q7738308", "sub_label": "The Grind", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q215616", "obj_label": "PBS", "sub_uri": "Q7118447", "sub_label": "PBS NewsHour", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1428962", "sub_label": "Flipper", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q8034407", "sub_label": "Wordplay", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7968143", "sub_label": "Wanted", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q1319610", "obj_label": "Lifetime", "sub_uri": "Q1390591", "sub_label": "Human Trafficking", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q6208837", "sub_label": "Joe Buck Live", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3283582", "sub_label": "You're in Love, Charlie Brown", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q1163537", "sub_label": "The Head", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q449857", "sub_label": "Promised Land", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q4986244", "sub_label": "Bugs Bunny's Looney Christmas Tales", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7980754", "sub_label": "Welcome to The Captain", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q4971953", "sub_label": "Broad Street Bullies", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q23633", "obj_label": "HBO", "sub_uri": "Q1339323", "sub_label": "Empire Falls", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q1678853", "sub_label": "Jake and the Fatman", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3640791", "sub_label": "Blacke's Magic", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q5433251", "sub_label": "Family Secrets", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q13512242", "sub_label": "Monster Squad", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q4655826", "sub_label": "A Charlie Brown Thanksgiving", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q907311", "obj_label": "Netflix", "sub_uri": "Q18636803", "sub_label": "VeggieTales in the House", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q3908381", "sub_label": "Popi", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7730060", "sub_label": "The Diahann Carroll Show", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q4851196", "sub_label": "Ball Four", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q16995908", "sub_label": "Hot Potato", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43359", "obj_label": "MTV", "sub_uri": "Q7736647", "sub_label": "The Girls of Hedsor Hall", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q7743987", "sub_label": "The Karen Carpenter Story", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q1055728", "sub_label": "Law & Order: Criminal Intent", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q907311", "obj_label": "Netflix", "sub_uri": "Q15731070", "sub_label": "House of Cards, season 2", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7687942", "sub_label": "Tate", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q7729388", "sub_label": "The Dean Martin Celebrity Roast", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q13974", "obj_label": "NBC", "sub_uri": "Q3643467", "sub_label": "Bracken's World", "predicate_id": "P449"}
+{"uuid": "", "obj_uri": "Q43380", "obj_label": "CBS", "sub_uri": "Q5211392", "sub_label": "Dallas Reunion: The Return to Southfork", "predicate_id": "P449"}

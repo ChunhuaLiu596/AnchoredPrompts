@@ -1,0 +1,271 @@
+{
+    "IsA": {
+        "relation": "IsA",
+        "def_sap": [
+            "[X] are <mask>.",
+            "[X] are a type of <mask>.",
+            "[X] are a kind of <mask>."
+        ],
+        "def_dap": [
+            "[X] or [Z] are <mask>.",
+            "[X] or [Z] are a type of <mask>.",
+            "[X] or [Z] are a kind of <mask>."
+        ],
+        "lsp_sap": [
+            "<mask> such as [X] ",
+            "<mask>, such as [X] and  ",
+            "<mask>, such as [X] or ",
+            "such <mask> as [X] and ",
+            "such <mask> as [X] or ",
+            ", [X] or other <mask>",
+            ", [X] and other <mask>",
+            "<mask>, including [X] and",
+            "<mask>, including [X] or",
+            "<mask>, including [X], ",
+            "<mask>, especillay [X] and ",
+            "<mask>, especillay [X] or ",
+            "<mask>, especillay [X], ",
+            "<mask> (e.g., [X] )"
+        ],
+        "lsp_dap": [
+            "<mask> such as [X] and [Z]",
+            "such <mask> as [X] and [Z]",
+            "[X], [Z] or other <mask>",
+            "[X], [Z] and other <mask>",
+            "<mask> including [X], [Z]",
+            "<mask>, especillay [X], [Z] "
+        ],
+        "use_dap": true,
+        "anchor_target": "[X]",
+        "anchor_lsp_sap": [
+            "such as [X] and <mask>,",
+            "such as [X] or <mask>,",
+            "such as [X], <mask>,",
+            "such as [X], <mask>, and",
+            ", such as [X] and <mask>,",
+            ", such as [X] or <mask>, ",
+            "as [X] and <mask>",
+            "as [X] or <mask>",
+            "as [X], <mask>,",
+            "[X], <mask> or other",
+            "[X], <mask> and other",
+            ", including [X] and <mask>",
+            ", including [X] or <mask>",
+            ", including [X], <mask>,",
+            ", including [X], <mask>, and",
+            ", including [X], <mask>, or",
+            ", especially [X] and <mask> ,",
+            ", especially [X] or <mask> ,",
+            ", especially [X], <mask> ,",
+            ", especially [X], <mask> , and"
+        ]
+    }
+}
+Some weights of the model checkpoint at bert-base-cased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at bert-base-cased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+---------------------------------------- bert-base-cased-anchor_type: Coordinate-scorer_anchor:freqProbLogSum-op:concate_or_single ----------------------------------------
+{
+    "IsA": {
+        "relation": "IsA",
+        "def_sap": [
+            "[X] are [MASK].",
+            "[X] are a type of [MASK].",
+            "[X] are a kind of [MASK]."
+        ],
+        "def_dap": [
+            "[X] or [Z] are [MASK].",
+            "[X] or [Z] are a type of [MASK].",
+            "[X] or [Z] are a kind of [MASK]."
+        ],
+        "lsp_sap": [
+            "[MASK] such as [X] ",
+            "[MASK], such as [X] and  ",
+            "[MASK], such as [X] or ",
+            "such [MASK] as [X] and ",
+            "such [MASK] as [X] or ",
+            ", [X] or other [MASK]",
+            ", [X] and other [MASK]",
+            "[MASK], including [X] and",
+            "[MASK], including [X] or",
+            "[MASK], including [X], ",
+            "[MASK], especillay [X] and ",
+            "[MASK], especillay [X] or ",
+            "[MASK], especillay [X], ",
+            "[MASK] (e.g., [X] )"
+        ],
+        "lsp_dap": [
+            "[MASK] such as [X] and [Z]",
+            "such [MASK] as [X] and [Z]",
+            "[X], [Z] or other [MASK]",
+            "[X], [Z] and other [MASK]",
+            "[MASK] including [X], [Z]",
+            "[MASK], especillay [X], [Z] "
+        ],
+        "use_dap": true,
+        "anchor_target": "[X]",
+        "anchor_lsp_sap": [
+            "such as [X] and [MASK],",
+            "such as [X] or [MASK],",
+            "such as [X], [MASK],",
+            "such as [X], [MASK], and",
+            ", such as [X] and [MASK],",
+            ", such as [X] or [MASK], ",
+            "as [X] and [MASK]",
+            "as [X] or [MASK]",
+            "as [X], [MASK],",
+            "[X], [MASK] or other",
+            "[X], [MASK] and other",
+            ", including [X] and [MASK]",
+            ", including [X] or [MASK]",
+            ", including [X], [MASK],",
+            ", including [X], [MASK], and",
+            ", including [X], [MASK], or",
+            ", especially [X] and [MASK] ,",
+            ", especially [X] or [MASK] ,",
+            ", especially [X], [MASK] ,",
+            ", especially [X], [MASK] , and"
+        ]
+    }
+}
+Processing IsA ... data/clsb/plural//IsA.jsonl
+#Test_instances: 521
+	 step1: get anchors (fill and filter)
+--- def_sap
+--- lsp_sap
+relation: IsA 	 use_dap: True
+	 step2: insert anchors
+	 step3: fill mask in dap anchors
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:00<00:04,  4.21it/s] 10%|█         | 2/20 [00:00<00:04,  4.35it/s] 15%|█▌        | 3/20 [00:00<00:03,  4.57it/s] 20%|██        | 4/20 [00:00<00:03,  4.68it/s] 25%|██▌       | 5/20 [00:01<00:03,  4.75it/s] 30%|███       | 6/20 [00:01<00:02,  4.79it/s] 35%|███▌      | 7/20 [00:01<00:02,  4.67it/s] 40%|████      | 8/20 [00:01<00:02,  4.75it/s] 45%|████▌     | 9/20 [00:01<00:02,  4.66it/s] 50%|█████     | 10/20 [00:02<00:02,  4.70it/s] 55%|█████▌    | 11/20 [00:02<00:01,  4.61it/s] 60%|██████    | 12/20 [00:02<00:01,  4.55it/s] 65%|██████▌   | 13/20 [00:02<00:01,  4.46it/s] 70%|███████   | 14/20 [00:03<00:01,  4.45it/s] 75%|███████▌  | 15/20 [00:03<00:01,  4.43it/s] 80%|████████  | 16/20 [00:03<00:00,  4.57it/s] 85%|████████▌ | 17/20 [00:03<00:00,  4.66it/s] 90%|█████████ | 18/20 [00:03<00:00,  4.71it/s] 95%|█████████▌| 19/20 [00:04<00:00,  4.63it/s]100%|██████████| 20/20 [00:04<00:00,  4.72it/s]100%|██████████| 20/20 [00:04<00:00,  4.62it/s]
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:00<00:08,  2.37it/s] 10%|█         | 2/20 [00:00<00:07,  2.35it/s] 15%|█▌        | 3/20 [00:01<00:06,  2.46it/s] 20%|██        | 4/20 [00:01<00:06,  2.51it/s] 25%|██▌       | 5/20 [00:02<00:05,  2.55it/s] 30%|███       | 6/20 [00:02<00:05,  2.58it/s] 35%|███▌      | 7/20 [00:02<00:05,  2.47it/s] 40%|████      | 8/20 [00:03<00:04,  2.51it/s] 45%|████▌     | 9/20 [00:03<00:04,  2.46it/s] 50%|█████     | 10/20 [00:04<00:03,  2.51it/s] 55%|█████▌    | 11/20 [00:04<00:03,  2.45it/s] 60%|██████    | 12/20 [00:04<00:03,  2.39it/s] 65%|██████▌   | 13/20 [00:05<00:02,  2.36it/s] 70%|███████   | 14/20 [00:05<00:02,  2.36it/s] 75%|███████▌  | 15/20 [00:06<00:02,  2.34it/s] 80%|████████  | 16/20 [00:06<00:01,  2.42it/s] 85%|████████▌ | 17/20 [00:06<00:01,  2.46it/s] 90%|█████████ | 18/20 [00:07<00:00,  2.50it/s] 95%|█████████▌| 19/20 [00:07<00:00,  2.54it/s]100%|██████████| 20/20 [00:08<00:00,  2.57it/s]100%|██████████| 20/20 [00:08<00:00,  2.47it/s]
+   uuid   sub_label                                          obj_label                                   masked_sentences                                       feature_type relation  sub_position                                            def_sap                                            def_dap                                            lsp_sap                                            lsp_dap                                     anchor_lsp_sap                                  obj_mask_sentence                            obj_mask_sentence_score                                   obj_mask_def_sap                             obj_mask_def_sap_score                                   obj_mask_lsp_sap                             obj_mask_lsp_sap_score                      subj_anchors                                 subj_anchors_score                           def_dap_with_subj_anchor                           lsp_dap_with_subj_anchor                    subj_anchors_combined  \
+0     0  aeroplanes                                         [vehicles]  [aeroplanes are a type of [MASK]., aeroplanes ...                                        [taxonomic]      IsA             0  [aeroplanes are [MASK]., aeroplanes are a type...  [aeroplanes or [Z] are [MASK]., aeroplanes or ...  [[MASK] such as aeroplanes , [MASK], such as a...  [[MASK] such as aeroplanes and [Z], such [MASK...  [such as aeroplanes and [MASK],, such as aerop...  [aircraft, airplane, helicopter, glider, plane...  {'aircraft': 0.4696006029844284, 'airplane': 0...  [aircraft, airplane, common, helicopter, avail...  {'aircraft': 0.4696006029844284, 'airplane': 0...  [things, aircraft, technologies, industries, d...  {'things': 0.21226288618830344, 'aircraft': 0....  [helicopters, aircraft, bombers]  {'helicopters': -5.830142574741389, 'aircraft'...  [aeroplanes or helicopters are [MASK]., aeropl...  [[MASK] such as aeroplanes and helicopters, [M...  aeroplanes helicopters aircraft bombers   
+1     1  alligators  [reptiles, animals, carnivores, predators, amp...  [alligators are a type of [MASK]., alligators ...  [taxonomic, taxonomic, functional, taxonomic, ...      IsA             0  [alligators are [MASK]., alligators are a type...  [alligators or [Z] are [MASK]., alligators or ...  [[MASK] such as alligators , [MASK], such as a...  [[MASK] such as alligators and [Z], such [MASK...  [such as alligators and [MASK],, such as allig...  [fish, animal, turtle, crab, lizard, predator,...  {'fish': 0.15223179012537003, 'animal': 0.0934...  [fish, common, animal, turtle, rare, crab, abu...  {'fish': 0.15223179012537003, 'common': 0.1277...  [animals, wildlife, things, species, fish, cre...  {'animals': 0.19182250561425462, 'wildlife': 0...           [whales, bears, sharks]  {'whales': -7.35461734114786, 'bears': -7.3600...  [alligators or whales are [MASK]., alligators ...  [[MASK] such as alligators and whales, [MASK] ...           alligators whales bears sharks   
+2     2  ambulances                                   [vehicles, vans]  [ambulances are a type of [MASK]., ambulances ...                             [taxonomic, taxonomic]      IsA             0  [ambulances are [MASK]., ambulances are a type...  [ambulances or [Z] are [MASK]., ambulances or ...  [[MASK] such as ambulances , [MASK], such as a...  [[MASK] such as ambulances and [Z], such [MASK...  [such as ambulances and [MASK],, such as ambul...  [ambulance, vehicle, transport, car, hospital,...  {'ambulance': 0.4004431776702404, 'vehicle': 0...  [ambulance, available, required, provided, veh...  {'ambulance': 0.4004431776702404, 'available':...  [things, vehicles, devices, transport, service...  {'things': 0.2137676253914833, 'vehicles': 0.1...      [buses, motorcycles, trains]  {'buses': -6.541538509827184, 'motorcycles': -...  [ambulances or buses are [MASK]., ambulances o...  [[MASK] such as ambulances and buses, [MASK] s...      ambulances buses motorcycles trains   
+3     3     anchors                                          [symbols]  [anchors are a type of [MASK]., anchors are a ...                                    [encyclopaedic]      IsA             0  [anchors are [MASK]., anchors are a type of [M...  [anchors or [Z] are [MASK]., anchors or [Z] ar...  [[MASK] such as anchors , [MASK], such as anch...  [[MASK] such as anchors and [Z], such [MASK] a...  [such as anchors and [MASK],, such as anchors ...  [anchor, container, shield, cable, device, mir...  {'anchor': 0.08316300623118877, 'container': 0...  [anchor, common, container, optional, required...  {'anchor': 0.08316300623118877, 'common': 0.03...  [things, devices, items, objects, equipment, m...  {'things': 0.1521200748781363, 'devices': 0.07...        [cables, reporters, ropes]  {'cables': -7.383648255509778, 'reporters': -9...  [anchors or cables are [MASK]., anchors or rep...  [[MASK] such as anchors and cables, [MASK] suc...           anchors cables reporters ropes   
+4     4        ants              [insects, animals, pests, arthropods]  [ants are a type of [MASK]., ants are a kind o...   [taxonomic, taxonomic, encyclopaedic, taxonomic]      IsA             0  [ants are [MASK]., ants are a type of [MASK].,...  [ants or [Z] are [MASK]., ants or [Z] are a ty...  [[MASK] such as ants , [MASK], such as ants an...  [[MASK] such as ants and [Z], such [MASK] as a...  [such as ants and [MASK],, such as ants or [MA...  [ant, insect, parasite, worker, plant, animal,...  {'ant': 0.13455314375460148, 'insect': 0.03070...  [ant, absent, present, common, insect, scarce,...  {'ant': 0.13455314375460148, 'absent': 0.06267...  [things, animals, creatures, insects, species,...  {'things': 0.2347049192758277, 'animals': 0.08...          [bees, spiders, beetles]  {'bees': -6.231191009126471, 'spiders': -6.764...  [ants or bees are [MASK]., ants or spiders are...  [[MASK] such as ants and bees, [MASK] such as ...                ants bees spiders beetles   
+
+                                    obj_mask_def_dap                             obj_mask_def_dap_score                                   obj_mask_lsp_dap                             obj_mask_lsp_dap_score                               obj_mask_def_sap_dap                               obj_mask_def_lsp_sap                               obj_mask_lsp_sap_dap  
+0  [common, airplane, helicopter, available, pref...  {'common': 0.15237861375013986, 'airplane': 0....  [things, applications, systems, weapons, devic...  {'things': 0.3082632819811503, 'applications':...  [aircraft, airplane, helicopter, common, avail...  [aircraft, things, airplane, technologies, ind...  [things, technologies, aircraft, industries, d...  
+1  [common, animal, fish, bear, predator, whale, ...  {'common': 0.3543865183989207, 'animal': 0.254...  [animals, turtles, species, wildlife, things, ...  {'animals': 0.20242369095323834, 'turtles': 0....  [common, animal, fish, bear, predator, whale, ...  [animals, fish, wildlife, animal, things, turt...  [animals, wildlife, things, species, turtles, ...  
+2  [ambulance, available, vehicle, common, transp...  {'ambulance': 0.6741593430439631, 'available':...  [things, vehicles, services, equipment, transp...  {'things': 0.15986407299836478, 'vehicles': 0....  [ambulance, vehicle, available, transport, com...  [ambulance, things, vehicles, transport, devic...  [things, vehicles, services, equipment, transp...  
+3  [reporter, anchor, journalist, rope, cable, co...  {'reporter': 0.2839644253253937, 'anchor': 0.2...  [people, equipment, things, personnel, devices...  {'people': 0.14957670184473196, 'equipment': 0...  [anchor, reporter, journalist, rope, cable, co...  [things, anchor, devices, items, objects, equi...  [things, equipment, people, devices, items, pe...  
+4  [common, ant, insect, bee, present, spider, ab...  {'common': 0.24034740030765533, 'ant': 0.23675...  [things, animals, creatures, species, insects,...  {'things': 0.16306727084641656, 'animals': 0.1...  [ant, common, insect, bee, spider, present, ab...  [things, ant, animals, creatures, insects, spe...  [things, animals, creatures, species, insects,...  
+          mask_type   p@1  p@10 relation   mrr  mAP@1    mAP@10
+0     mask_sentence  0.00  0.00      IsA   0.0   0.00  0.000000
+1      mask_def_sap  0.00  0.00      IsA   0.0   0.00  0.000000
+2      mask_lsp_sap  0.10  0.40      IsA  19.5   0.15  0.321905
+3      mask_def_dap  0.00  0.05      IsA   0.5   0.00  0.005000
+4      mask_lsp_dap  0.10  0.40      IsA  17.5   0.20  0.336111
+5  mask_def_sap_dap  0.00  0.05      IsA   0.5   0.00  0.005000
+6  mask_def_lsp_sap  0.05  0.30      IsA  13.1   0.10  0.247698
+7  mask_lsp_sap_dap  0.15  0.40      IsA  21.8   0.25  0.360556
+save log/bert-base-cased/plural/df_all_use_global_dap_True_anchor_type_Coordinate_concate_or_single_max_anchor_num_3_anchor_scorer_freqProbLogSum.csv
+save log/bert-base-cased/plural/exp_data_results_anchor_type_Coordinate_concate_or_single_max_anchor_num_3_anchor_scorer_freqProbLogSum.csv
+Some weights of the model checkpoint at bert-base-cased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at bert-base-cased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+---------------------------------------- bert-base-cased-anchor_type: Coordinate-scorer_anchor:freqProbLogSum-op:concate_or_single ----------------------------------------
+{
+    "IsA": {
+        "relation": "IsA",
+        "def_sap": [
+            "[X] are [MASK].",
+            "[X] are a type of [MASK].",
+            "[X] are a kind of [MASK]."
+        ],
+        "def_dap": [
+            "[X] or [Z] are [MASK].",
+            "[X] or [Z] are a type of [MASK].",
+            "[X] or [Z] are a kind of [MASK]."
+        ],
+        "lsp_sap": [
+            "[MASK] such as [X] ",
+            "[MASK], such as [X] and  ",
+            "[MASK], such as [X] or ",
+            "such [MASK] as [X] and ",
+            "such [MASK] as [X] or ",
+            ", [X] or other [MASK]",
+            ", [X] and other [MASK]",
+            "[MASK], including [X] and",
+            "[MASK], including [X] or",
+            "[MASK], including [X], ",
+            "[MASK], especillay [X] and ",
+            "[MASK], especillay [X] or ",
+            "[MASK], especillay [X], ",
+            "[MASK] (e.g., [X] )"
+        ],
+        "lsp_dap": [
+            "[MASK] such as [X] and [Z]",
+            "such [MASK] as [X] and [Z]",
+            "[X], [Z] or other [MASK]",
+            "[X], [Z] and other [MASK]",
+            "[MASK] including [X], [Z]",
+            "[MASK], especillay [X], [Z] "
+        ],
+        "use_dap": true,
+        "anchor_target": "[X]",
+        "anchor_lsp_sap": [
+            "such as [X] and [MASK],",
+            "such as [X] or [MASK],",
+            "such as [X], [MASK],",
+            "such as [X], [MASK], and",
+            ", such as [X] and [MASK],",
+            ", such as [X] or [MASK], ",
+            "as [X] and [MASK]",
+            "as [X] or [MASK]",
+            "as [X], [MASK],",
+            "[X], [MASK] or other",
+            "[X], [MASK] and other",
+            ", including [X] and [MASK]",
+            ", including [X] or [MASK]",
+            ", including [X], [MASK],",
+            ", including [X], [MASK], and",
+            ", including [X], [MASK], or",
+            ", especially [X] and [MASK] ,",
+            ", especially [X] or [MASK] ,",
+            ", especially [X], [MASK] ,",
+            ", especially [X], [MASK] , and"
+        ]
+    }
+}
+Processing IsA ... data/clsb/plural//IsA.jsonl
+#Test_instances: 521
+	 step1: get anchors (fill and filter)
+--- def_sap
+--- lsp_sap
+relation: IsA 	 use_dap: True
+	 step2: insert anchors
+	 step3: fill mask in dap anchors
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:00<00:07,  2.68it/s] 10%|█         | 2/20 [00:00<00:06,  2.69it/s] 15%|█▌        | 3/20 [00:01<00:06,  2.77it/s] 20%|██        | 4/20 [00:01<00:05,  2.82it/s] 25%|██▌       | 5/20 [00:01<00:05,  2.87it/s] 30%|███       | 6/20 [00:02<00:04,  2.89it/s] 35%|███▌      | 7/20 [00:02<00:04,  2.81it/s] 40%|████      | 8/20 [00:02<00:04,  2.85it/s] 45%|████▌     | 9/20 [00:03<00:03,  2.77it/s] 50%|█████     | 10/20 [00:03<00:03,  2.83it/s] 55%|█████▌    | 11/20 [00:03<00:03,  2.76it/s] 60%|██████    | 12/20 [00:04<00:02,  2.72it/s] 65%|██████▌   | 13/20 [00:04<00:02,  2.69it/s] 70%|███████   | 14/20 [00:05<00:02,  2.67it/s] 75%|███████▌  | 15/20 [00:05<00:01,  2.67it/s] 80%|████████  | 16/20 [00:05<00:01,  2.75it/s] 85%|████████▌ | 17/20 [00:06<00:01,  2.80it/s] 90%|█████████ | 18/20 [00:06<00:00,  2.84it/s] 95%|█████████▌| 19/20 [00:06<00:00,  2.89it/s]100%|██████████| 20/20 [00:07<00:00,  2.91it/s]100%|██████████| 20/20 [00:07<00:00,  2.80it/s]
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:00<00:13,  1.45it/s] 10%|█         | 2/20 [00:01<00:12,  1.44it/s] 15%|█▌        | 3/20 [00:02<00:11,  1.49it/s] 20%|██        | 4/20 [00:02<00:10,  1.52it/s] 25%|██▌       | 5/20 [00:03<00:09,  1.55it/s] 30%|███       | 6/20 [00:03<00:08,  1.56it/s] 35%|███▌      | 7/20 [00:04<00:08,  1.51it/s] 40%|████      | 8/20 [00:05<00:07,  1.53it/s] 45%|████▌     | 9/20 [00:05<00:07,  1.50it/s] 50%|█████     | 10/20 [00:06<00:06,  1.53it/s] 55%|█████▌    | 11/20 [00:07<00:06,  1.49it/s] 60%|██████    | 12/20 [00:08<00:05,  1.46it/s] 65%|██████▌   | 13/20 [00:08<00:04,  1.44it/s] 70%|███████   | 14/20 [00:09<00:04,  1.44it/s] 75%|███████▌  | 15/20 [00:10<00:03,  1.43it/s] 80%|████████  | 16/20 [00:10<00:02,  1.48it/s] 85%|████████▌ | 17/20 [00:11<00:01,  1.50it/s] 90%|█████████ | 18/20 [00:12<00:01,  1.52it/s] 95%|█████████▌| 19/20 [00:12<00:00,  1.54it/s]100%|██████████| 20/20 [00:13<00:00,  1.55it/s]100%|██████████| 20/20 [00:13<00:00,  1.51it/s]
+   uuid   sub_label                                          obj_label                                   masked_sentences                                       feature_type relation  sub_position                                            def_sap                                            def_dap                                            lsp_sap                                            lsp_dap                                     anchor_lsp_sap                                  obj_mask_sentence                            obj_mask_sentence_score                                   obj_mask_def_sap                             obj_mask_def_sap_score                                   obj_mask_lsp_sap                             obj_mask_lsp_sap_score                                       subj_anchors                                 subj_anchors_score                           def_dap_with_subj_anchor                           lsp_dap_with_subj_anchor  \
+0     0  aeroplanes                                         [vehicles]  [aeroplanes are a type of [MASK]., aeroplanes ...                                        [taxonomic]      IsA             0  [aeroplanes are [MASK]., aeroplanes are a type...  [aeroplanes or [Z] are [MASK]., aeroplanes or ...  [[MASK] such as aeroplanes , [MASK], such as a...  [[MASK] such as aeroplanes and [Z], such [MASK...  [such as aeroplanes and [MASK],, such as aerop...  [aircraft, airplane, helicopter, glider, plane...  {'aircraft': 0.4696006029844284, 'airplane': 0...  [aircraft, airplane, common, helicopter, avail...  {'aircraft': 0.4696006029844284, 'airplane': 0...  [things, aircraft, technologies, industries, d...  {'things': 0.21226288618830344, 'aircraft': 0....  [helicopters, aircraft, bombers, balloons, sub...  {'helicopters': -5.830142574741389, 'aircraft'...  [aeroplanes or helicopters are [MASK]., aeropl...  [[MASK] such as aeroplanes and helicopters, [M...   
+1     1  alligators  [reptiles, animals, carnivores, predators, amp...  [alligators are a type of [MASK]., alligators ...  [taxonomic, taxonomic, functional, taxonomic, ...      IsA             0  [alligators are [MASK]., alligators are a type...  [alligators or [Z] are [MASK]., alligators or ...  [[MASK] such as alligators , [MASK], such as a...  [[MASK] such as alligators and [Z], such [MASK...  [such as alligators and [MASK],, such as allig...  [fish, animal, turtle, crab, lizard, predator,...  {'fish': 0.15223179012537003, 'animal': 0.0934...  [fish, common, animal, turtle, rare, crab, abu...  {'fish': 0.15223179012537003, 'common': 0.1277...  [animals, wildlife, things, species, fish, cre...  {'animals': 0.19182250561425462, 'wildlife': 0...           [whales, bears, sharks, turtles, snakes]  {'whales': -7.35461734114786, 'bears': -7.3600...  [alligators or whales are [MASK]., alligators ...  [[MASK] such as alligators and whales, [MASK] ...   
+2     2  ambulances                                   [vehicles, vans]  [ambulances are a type of [MASK]., ambulances ...                             [taxonomic, taxonomic]      IsA             0  [ambulances are [MASK]., ambulances are a type...  [ambulances or [Z] are [MASK]., ambulances or ...  [[MASK] such as ambulances , [MASK], such as a...  [[MASK] such as ambulances and [Z], such [MASK...  [such as ambulances and [MASK],, such as ambul...  [ambulance, vehicle, transport, car, hospital,...  {'ambulance': 0.4004431776702404, 'vehicle': 0...  [ambulance, available, required, provided, veh...  {'ambulance': 0.4004431776702404, 'available':...  [things, vehicles, devices, transport, service...  {'things': 0.2137676253914833, 'vehicles': 0.1...  [buses, motorcycles, trains, trucks, helicopters]  {'buses': -6.541538509827184, 'motorcycles': -...  [ambulances or buses are [MASK]., ambulances o...  [[MASK] such as ambulances and buses, [MASK] s...   
+3     3     anchors                                          [symbols]  [anchors are a type of [MASK]., anchors are a ...                                    [encyclopaedic]      IsA             0  [anchors are [MASK]., anchors are a type of [M...  [anchors or [Z] are [MASK]., anchors or [Z] ar...  [[MASK] such as anchors , [MASK], such as anch...  [[MASK] such as anchors and [Z], such [MASK] a...  [such as anchors and [MASK],, such as anchors ...  [anchor, container, shield, cable, device, mir...  {'anchor': 0.08316300623118877, 'container': 0...  [anchor, common, container, optional, required...  {'anchor': 0.08316300623118877, 'common': 0.03...  [things, devices, items, objects, equipment, m...  {'things': 0.1521200748781363, 'devices': 0.07...      [cables, reporters, ropes, cameras, switches]  {'cables': -7.383648255509778, 'reporters': -9...  [anchors or cables are [MASK]., anchors or rep...  [[MASK] such as anchors and cables, [MASK] suc...   
+4     4        ants              [insects, animals, pests, arthropods]  [ants are a type of [MASK]., ants are a kind o...   [taxonomic, taxonomic, encyclopaedic, taxonomic]      IsA             0  [ants are [MASK]., ants are a type of [MASK].,...  [ants or [Z] are [MASK]., ants or [Z] are a ty...  [[MASK] such as ants , [MASK], such as ants an...  [[MASK] such as ants and [Z], such [MASK] as a...  [such as ants and [MASK],, such as ants or [MA...  [ant, insect, parasite, worker, plant, animal,...  {'ant': 0.13455314375460148, 'insect': 0.03070...  [ant, absent, present, common, insect, scarce,...  {'ant': 0.13455314375460148, 'absent': 0.06267...  [things, animals, creatures, insects, species,...  {'things': 0.2347049192758277, 'animals': 0.08...             [bees, spiders, beetles, flies, moths]  {'bees': -6.231191009126471, 'spiders': -6.764...  [ants or bees are [MASK]., ants or spiders are...  [[MASK] such as ants and bees, [MASK] such as ...   
+
+                               subj_anchors_combined                                   obj_mask_def_dap                             obj_mask_def_dap_score                                   obj_mask_lsp_dap                             obj_mask_lsp_dap_score                               obj_mask_def_sap_dap                               obj_mask_def_lsp_sap                               obj_mask_lsp_sap_dap  
+0  aeroplanes helicopters aircraft bombers balloo...  [airplane, common, submarine, helicopter, avai...  {'airplane': 0.1686409067362547, 'common': 0.1...  [things, systems, weapons, devices, applicatio...  {'things': 0.3753139078617096, 'systems': 0.04...  [aircraft, airplane, common, helicopter, subma...  [aircraft, things, airplane, technologies, ind...  [things, technologies, aircraft, industries, d...  
+1      alligators whales bears sharks turtles snakes  [common, animal, bear, turtle, fish, snake, wh...  {'common': 0.36301138401031496, 'animal': 0.22...  [animals, wildlife, species, things, frogs, do...  {'animals': 0.19783768170170582, 'wildlife': 0...  [common, animal, fish, turtle, bear, predator,...  [animals, fish, wildlife, animal, things, turt...  [animals, wildlife, things, species, fish, cre...  
+2  ambulances buses motorcycles trains trucks hel...  [ambulance, available, vehicle, common, transp...  {'ambulance': 0.6413228422403335, 'available':...  [things, vehicles, equipment, services, transp...  {'things': 0.148197004199028, 'vehicles': 0.11...  [ambulance, vehicle, transport, available, com...  [ambulance, things, vehicles, transport, devic...  [things, vehicles, services, equipment, transp...  
+3    anchors cables reporters ropes cameras switches  [anchor, reporter, journalist, rope, camera, c...  {'anchor': 0.2275083228945732, 'reporter': 0.1...  [people, things, equipment, personnel, devices...  {'people': 0.1417336318641901, 'things': 0.111...  [anchor, reporter, journalist, rope, camera, c...  [things, anchor, devices, items, objects, equi...  [things, equipment, devices, people, features,...  
+4              ants bees spiders beetles flies moths  [common, ant, insect, moth, bee, present, abse...  {'common': 0.21844175457954407, 'ant': 0.21216...  [things, animals, species, creatures, insects,...  {'things': 0.16496715191751718, 'animals': 0.1...  [ant, insect, common, moth, spider, bee, prese...  [things, ant, animals, creatures, insects, spe...  [things, animals, creatures, species, insects,...  
+          mask_type   p@1  p@10 relation   mrr  mAP@1    mAP@10
+0     mask_sentence  0.00  0.00      IsA   0.0   0.00  0.000000
+1      mask_def_sap  0.00  0.00      IsA   0.0   0.00  0.000000
+2      mask_lsp_sap  0.10  0.40      IsA  19.5   0.15  0.321905
+3      mask_def_dap  0.00  0.00      IsA   0.0   0.00  0.000000
+4      mask_lsp_dap  0.10  0.30      IsA  15.8   0.20  0.297560
+5  mask_def_sap_dap  0.00  0.00      IsA   0.0   0.00  0.000000
+6  mask_def_lsp_sap  0.05  0.30      IsA  13.1   0.10  0.247698
+7  mask_lsp_sap_dap  0.10  0.35      IsA  18.0   0.20  0.324583
+save log/bert-base-cased/plural/df_all_use_global_dap_True_anchor_type_Coordinate_concate_or_single_max_anchor_num_5_anchor_scorer_freqProbLogSum.csv
+save log/bert-base-cased/plural/exp_data_results_anchor_type_Coordinate_concate_or_single_max_anchor_num_5_anchor_scorer_freqProbLogSum.csv

@@ -1,0 +1,13 @@
+	mask_type	p@1	p@5	p@10	relation	mrr	anchor_wordnet_avg_path	anchor_wordnet_coverage	label
+0	subj_anchors_sg	30.5	48.3	57.4	IsA	38.1	7.15	0.899	sub_sister
+1	anchor_col_all	30.5	48.3	57.4	IsA	38.1	7.15	0.899	sub_sister
+0	sentence	27.900000000000002	49.4	57.099999999999994	IsA	37.7	7.15	0.899	obj_label
+1	def_sap	15.5	39.4	48.4	IsA	25.7	7.15	0.899	obj_label
+2	lsp_sap	21.8	46.300000000000004	56.39999999999999	IsA	31.7	7.15	0.899	obj_label
+3	sentence_dap	23.9	46.300000000000004	54.6	IsA	34.1	7.15	0.899	obj_label
+4	def_dap	17.299999999999997	39.5	49.6	IsA	27.0	7.15	0.899	obj_label
+5	lsp_dap	19.0	43.7	51.800000000000004	IsA	28.799999999999997	7.15	0.899	obj_label
+6	def_sap_uniform	15.5	39.4	48.4	IsA	25.7	7.15	0.899	obj_label
+7	lsp_sap_uniform	21.8	46.400000000000006	56.599999999999994	IsA	31.8	7.15	0.899	obj_label
+8	def_dap_uniform	17.299999999999997	39.5	49.6	IsA	27.0	7.15	0.899	obj_label
+9	lsp_dap_uniform	19.1	43.9	51.9	IsA	28.9	7.15	0.899	obj_label

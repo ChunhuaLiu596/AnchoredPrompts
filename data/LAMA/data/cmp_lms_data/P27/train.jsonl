@@ -1,0 +1,900 @@
+{"uuid": "", "obj_uri": "Q33", "obj_label": "Finland", "sub_uri": "Q5416237", "sub_label": "Eveliina Sarap\u00e4\u00e4", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q96", "obj_label": "Mexico", "sub_uri": "Q17466704", "sub_label": "Rossana Reguillo", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q7090145", "sub_label": "Omi Gurung", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q1645006", "sub_label": "Abram Hoffer", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q2853790", "sub_label": "Antoine Chartier de Lotbini\u00e8re Harwood", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_uri": "Q119318", "sub_label": "Heinz Woester", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q7265871", "sub_label": "Qaiser Ali", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q184", "obj_label": "Belarus", "sub_uri": "Q575265", "sub_label": "Tatsiana Sheuchyk", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q1439841", "sub_label": "Sally Hunter", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q214", "obj_label": "Slovakia", "sub_uri": "Q7087689", "sub_label": "Oliver Maron", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q5614430", "sub_label": "Gubbi Veeranna", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_uri": "Q11781672", "sub_label": "Mirjam J\u00e4ger", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q155", "obj_label": "Brazil", "sub_uri": "Q6927768", "sub_label": "Moys\u00e9s Paciornik", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q8019407", "sub_label": "William Thorsell", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q1890556", "sub_label": "Sven Hamrin", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q32", "obj_label": "Luxembourg", "sub_uri": "Q2461759", "sub_label": "Michel Welter", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q7665082", "sub_label": "Szymon Kapias", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q618886", "sub_label": "Izuki Kogyoku", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q33", "obj_label": "Finland", "sub_uri": "Q941470", "sub_label": "Joonas Vihko", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q796", "obj_label": "Iraq", "sub_uri": "Q4120412", "sub_label": "Hirmis Aboona", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q7627176", "sub_label": "Stuart Turnbull", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q28", "obj_label": "Hungary", "sub_uri": "Q1107594", "sub_label": "K\u00e1lm\u00e1n Kerpely", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q2331166", "sub_label": "Chokila Iyer", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q6207882", "sub_label": "Jodi Martin", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q20", "obj_label": "Norway", "sub_uri": "Q15993213", "sub_label": "Erling L\u00f8seth", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q7521202", "sub_label": "Simranjit Singh Mann", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q29", "obj_label": "Spain", "sub_uri": "Q1363449", "sub_label": "Alemayehu Bezabeh", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q414", "obj_label": "Argentina", "sub_uri": "Q203431", "sub_label": "Guillermo Klein", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q381562", "sub_label": "Gesaffelstein", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q6759431", "sub_label": "Margaret Fulton", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q594781", "sub_label": "Francis Rattenbury", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q183", "obj_label": "Germany", "sub_uri": "Q97077", "sub_label": "Moritz Carri\u00e8re", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q681971", "sub_label": "Piotr Markiewicz", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_uri": "Q5505000", "sub_label": "Fritz Renold", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q189", "obj_label": "Iceland", "sub_uri": "Q15901106", "sub_label": "Helga Mar\u00eda Vilhj\u00e1lmsd\u00f3ttir", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q183", "obj_label": "Germany", "sub_uri": "Q72461", "sub_label": "Thomas Florsch\u00fctz", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q928", "obj_label": "Philippines", "sub_uri": "Q926560", "sub_label": "Radha Cuadrado", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q183", "obj_label": "Germany", "sub_uri": "Q7790568", "sub_label": "Thomas Helbig", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q31", "obj_label": "Belgium", "sub_uri": "Q3291687", "sub_label": "Marie-Claire Houart", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q414", "obj_label": "Argentina", "sub_uri": "Q7857541", "sub_label": "Tweety Gonz\u00e1lez", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q3535964", "sub_label": "C. S. Lakshmi", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q414", "obj_label": "Argentina", "sub_uri": "Q7666064", "sub_label": "S\u00e9rgio Comba", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q9256791", "sub_label": "Ewa Nowak", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q5233377", "sub_label": "David Emanuel Wahlberg", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q783", "obj_label": "Honduras", "sub_uri": "Q16221905", "sub_label": "Iizzwa Medina", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_uri": "Q118151", "sub_label": "Armin Schibler", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q8009821", "sub_label": "William George Weichel", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q79", "obj_label": "Egypt", "sub_uri": "Q3068738", "sub_label": "Ismail Adham", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q29", "obj_label": "Spain", "sub_uri": "Q3328784", "sub_label": "Alfonso S\u00e1nchez Izquierdo", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q35", "obj_label": "Denmark", "sub_uri": "Q12316541", "sub_label": "Herbert Sander", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q902", "obj_label": "Bangladesh", "sub_uri": "Q4666096", "sub_label": "Abdullah al Mamun", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q219", "obj_label": "Bulgaria", "sub_uri": "Q5277436", "sub_label": "Dimitar Mutafchiev", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q35", "obj_label": "Denmark", "sub_uri": "Q18082124", "sub_label": "Marianne Clausen", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q334", "obj_label": "Singapore", "sub_uri": "Q17054914", "sub_label": "Royston Wee", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q155", "obj_label": "Brazil", "sub_uri": "Q6756612", "sub_label": "Marcelo Portugal Gouv\u00eaa", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q159", "obj_label": "Russia", "sub_uri": "Q433951", "sub_label": "Yekaterina Marennikova", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q833", "obj_label": "Malaysia", "sub_uri": "Q6893973", "sub_label": "Mohd Johari Baharum", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q212", "obj_label": "Ukraine", "sub_uri": "Q452582", "sub_label": "Hanna Ryzhykova", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q953536", "sub_label": "Jamie Korab", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q1033", "obj_label": "Nigeria", "sub_uri": "Q5110437", "sub_label": "Christianah Oluwatoyin Oluwasesin", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q1681698", "sub_label": "Jan Cybis", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q43", "obj_label": "Turkey", "sub_uri": "Q5448771", "sub_label": "Filiz Din\u00e7men", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q465581", "sub_label": "Eri Yoshida", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q6383630", "sub_label": "Keiichi Sat\u014d", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q211", "obj_label": "Latvia", "sub_uri": "Q537264", "sub_label": "Vadims Vasi\u013cevskis", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q224", "obj_label": "Croatia", "sub_uri": "Q7818940", "sub_label": "Tomislav Bo\u017ei\u0107", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q5605377", "sub_label": "Greg Bury", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q467247", "sub_label": "Sugiura Asami", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q325183", "sub_label": "Adolphe Cl\u00e9ment-Bayard", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q33", "obj_label": "Finland", "sub_uri": "Q3820195", "sub_label": "Otto Karhi", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q28", "obj_label": "Hungary", "sub_uri": "Q604583", "sub_label": "M\u00e1rton Homonnai", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q5074723", "sub_label": "Charles-Borrom\u00e9e Genest", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q38", "obj_label": "Italy", "sub_uri": "Q1292986", "sub_label": "Michele Ferrari", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q155", "obj_label": "Brazil", "sub_uri": "Q1709427", "sub_label": "Jos\u00e9 Martins da Silva", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q28", "obj_label": "Hungary", "sub_uri": "Q617514", "sub_label": "G\u00e1bor Klauz\u00e1l", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q928", "obj_label": "Philippines", "sub_uri": "Q5441737", "sub_label": "Feliciano Leviste", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q31", "obj_label": "Belgium", "sub_uri": "Q1415592", "sub_label": "Filterheadz", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_uri": "Q115645", "sub_label": "Robert Grimm", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q414", "obj_label": "Argentina", "sub_uri": "Q16082256", "sub_label": "Roberto Sieburger", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q5263336", "sub_label": "Derwent Lees", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q155", "obj_label": "Brazil", "sub_uri": "Q2417923", "sub_label": "Canhoteiro", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q3110930", "sub_label": "Gordon Thiessen", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q334", "obj_label": "Singapore", "sub_uri": "Q1811876", "sub_label": "Lee Kin Tat", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q224", "obj_label": "Croatia", "sub_uri": "Q1561585", "sub_label": "Alberto Ognjen \u0160triga", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q25", "obj_label": "Wales", "sub_uri": "Q6860747", "sub_label": "Milsom Rees", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q5596382", "sub_label": "Grant Notley", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q183", "obj_label": "Germany", "sub_uri": "Q105237", "sub_label": "Giacomo Meyerbeer", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q414", "obj_label": "Argentina", "sub_uri": "Q3294495", "sub_label": "Horacio Ameli", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q43", "obj_label": "Turkey", "sub_uri": "Q4887573", "sub_label": "Mehmet Ali \u0130rtem\u00e7elik", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q27", "obj_label": "Ireland", "sub_uri": "Q6766811", "sub_label": "Mark Boyle", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q183", "obj_label": "Germany", "sub_uri": "Q72667", "sub_label": "Rainer Ortleb", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q28", "obj_label": "Hungary", "sub_uri": "Q479992", "sub_label": "Miksa Feny\u0151", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q117", "obj_label": "Ghana", "sub_uri": "Q16146343", "sub_label": "Adjetey Anang", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q539048", "sub_label": "S. N. Goenka", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q20", "obj_label": "Norway", "sub_uri": "Q3663011", "sub_label": "Wenche S\u00f8rum", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q38", "obj_label": "Italy", "sub_uri": "Q2259896", "sub_label": "Silvano Arieti", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q33", "obj_label": "Finland", "sub_uri": "Q2455623", "sub_label": "Zachary Hietala", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q3161790", "sub_label": "Jan Zaorski", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q218", "obj_label": "Romania", "sub_uri": "Q7386857", "sub_label": "R\u0103zvan Ple\u0219ca", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q744999", "sub_label": "Henryk Mazur", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q252", "obj_label": "Indonesia", "sub_uri": "Q7278408", "sub_label": "Raam Punjabi", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q31", "obj_label": "Belgium", "sub_uri": "Q2025218", "sub_label": "Stefaan Van Hecke", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q33", "obj_label": "Finland", "sub_uri": "Q4807229", "sub_label": "Asko Jussila", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q867012", "sub_label": "Kan Otake", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q414", "obj_label": "Argentina", "sub_uri": "Q371374", "sub_label": "Guillermo Leaden", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q5567417", "sub_label": "Nils Krister von Baumgarten", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q6046531", "sub_label": "Lasse Petterson", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q27", "obj_label": "Ireland", "sub_uri": "Q7308823", "sub_label": "Reginald N. Webster", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q3010436", "sub_label": "C\u00e9sar Campinchi", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q15956515", "sub_label": "Mumtaz Begum", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q7934836", "sub_label": "Virna Lindt", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q79", "obj_label": "Egypt", "sub_uri": "Q401494", "sub_label": "Ahmed el hramy", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q33", "obj_label": "Finland", "sub_uri": "Q6380178", "sub_label": "Mikko Hyyti\u00e4", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q28", "obj_label": "Hungary", "sub_uri": "Q4853187", "sub_label": "Bal\u00e1zs Gy\u0151rffy", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q5214534", "sub_label": "Dan Vyleta", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q20", "obj_label": "Norway", "sub_uri": "Q6419348", "sub_label": "Kjell Bull-Hansen", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q5732860", "sub_label": "Herb Capozzi", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q837", "obj_label": "Nepal", "sub_uri": "Q16146293", "sub_label": "Asit Rai", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q4766110", "sub_label": "Ankur Vikal", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q117", "obj_label": "Ghana", "sub_uri": "Q213129", "sub_label": "John Paintsil", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q32", "obj_label": "Luxembourg", "sub_uri": "Q4726148", "sub_label": "Alice Weiwers", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q214", "obj_label": "Slovakia", "sub_uri": "Q1731231", "sub_label": "Ladislav M\u0148a\u010dko", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q4953843", "sub_label": "Brad Clark", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q35", "obj_label": "Denmark", "sub_uri": "Q481589", "sub_label": "J\u00f8rgen Haagen Schmith", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q1740206", "sub_label": "Kevin Light", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q37", "obj_label": "Lithuania", "sub_uri": "Q59723", "sub_label": "Rimantas Sinkevi\u010dius", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q881", "obj_label": "Vietnam", "sub_uri": "Q7023103", "sub_label": "Nguy\u1ec5n Quang B\u00edch", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q414", "obj_label": "Argentina", "sub_uri": "Q923375", "sub_label": "Facundo Bertoglio", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q837", "obj_label": "Nepal", "sub_uri": "Q80732", "sub_label": "Tenzing Norgay", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q33", "obj_label": "Finland", "sub_uri": "Q6305086", "sub_label": "Juhani Jasu", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q41", "obj_label": "Greece", "sub_uri": "Q5349871", "sub_label": "Eirini Georgatou", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q1033", "obj_label": "Nigeria", "sub_uri": "Q6524226", "sub_label": "Leo Segun Ajiborisha", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q13120255", "sub_label": "Yeshwant Balkrishna Joshi", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q801", "obj_label": "Israel", "sub_uri": "Q7317653", "sub_label": "Reuven Rubinstein", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q27", "obj_label": "Ireland", "sub_uri": "Q3569069", "sub_label": "Willie Duggan", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q843", "obj_label": "Pakistan", "sub_uri": "Q6932785", "sub_label": "Muhammad Yar Khan Mandokhail", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q218", "obj_label": "Romania", "sub_uri": "Q7350634", "sub_label": "Robert V\u0103duva", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q183", "obj_label": "Germany", "sub_uri": "Q61859", "sub_label": "Henry Koster", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q12316463", "sub_label": "Henrik Szabo", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q725970", "sub_label": "David Dhawan", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_uri": "Q1081426", "sub_label": "Christian Pittex", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q462634", "sub_label": "Jean Bruller", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q16145765", "sub_label": "Wendy Smith", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q191", "obj_label": "Estonia", "sub_uri": "Q376349", "sub_label": "Andres P\u00f5der", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q31", "obj_label": "Belgium", "sub_uri": "Q15048", "sub_label": "Elio Di Rupo", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_uri": "Q455141", "sub_label": "Ariane Ehrat", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q520686", "sub_label": "Maria Semczyszak", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q843", "obj_label": "Pakistan", "sub_uri": "Q7492904", "sub_label": "Sheikh Anwarul Haq", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q27", "obj_label": "Ireland", "sub_uri": "Q4975694", "sub_label": "Eva Rothschild", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q40", "obj_label": "Austria", "sub_uri": "Q499476", "sub_label": "Andreas Matzbacher", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q948", "obj_label": "Tunisia", "sub_uri": "Q6986138", "sub_label": "Neda Bahi", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q7783314", "sub_label": "Ther\u00e8se Lundin", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q414", "obj_label": "Argentina", "sub_uri": "Q5212617", "sub_label": "Dami\u00e1n Akerman", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q183", "obj_label": "Germany", "sub_uri": "Q28328", "sub_label": "Arno Peters", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q27", "obj_label": "Ireland", "sub_uri": "Q5381677", "sub_label": "Eoghan Hickey", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q29", "obj_label": "Spain", "sub_uri": "Q2035566", "sub_label": "Seraf\u00edn Mar\u00eda de Sotto, 3rd Count of Clonard", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q7344105", "sub_label": "Robert Eriksson", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q273457", "sub_label": "Loudy Wiggins", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q31", "obj_label": "Belgium", "sub_uri": "Q3569193", "sub_label": "Willy Voet", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q398", "obj_label": "Bahrain", "sub_uri": "Q438721", "sub_label": "Yusuf Saad Kamel", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q3059569", "sub_label": "Eugene McGinley", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q155", "obj_label": "Brazil", "sub_uri": "Q2073787", "sub_label": "Julio C\u00e9sar de Andrade Moura", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q5638846", "sub_label": "Hagurohana Toji", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q7192017", "sub_label": "Pierre-Paul Saunier", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q1016", "obj_label": "Libya", "sub_uri": "Q317698", "sub_label": "Abdullah Naker", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q45", "obj_label": "Portugal", "sub_uri": "Q4760042", "sub_label": "Andr\u00e9 Rafael Tavares Fonseca", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q15138489", "sub_label": "\u00c9mile Renouf", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q40", "obj_label": "Austria", "sub_uri": "Q590157", "sub_label": "Anton Heiller", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q27", "obj_label": "Ireland", "sub_uri": "Q7803398", "sub_label": "Tim Dalton", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q252", "obj_label": "Indonesia", "sub_uri": "Q13639837", "sub_label": "Johny Asadoma", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q20", "obj_label": "Norway", "sub_uri": "Q2263671", "sub_label": "Peder Aadnes", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q55", "obj_label": "Netherlands", "sub_uri": "Q4684777", "sub_label": "Adriaan Gilles Camper", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q38", "obj_label": "Italy", "sub_uri": "Q869263", "sub_label": "Aldo Aimi", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q6145285", "sub_label": "James Weirick", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q241", "obj_label": "Cuba", "sub_uri": "Q687498", "sub_label": "Carlos V\u00e9liz", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q38", "obj_label": "Italy", "sub_uri": "Q16727891", "sub_label": "Francesco Cera", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q766", "obj_label": "Jamaica", "sub_uri": "Q443886", "sub_label": "Alton Ellis", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q17030618", "sub_label": "Kerryn Tolhurst", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_uri": "Q263511", "sub_label": "Robert H\u00fcrlimann", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q3436753", "sub_label": "Robert del Picchia", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q43", "obj_label": "Turkey", "sub_uri": "Q1536427", "sub_label": "Mustafa Ertu\u011frul Aker", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q6756047", "sub_label": "Marcel Beaubien", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q15441498", "sub_label": "Julie Crocheti\u00e8re", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q3087924", "sub_label": "Fritz Brandtner", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q20", "obj_label": "Norway", "sub_uri": "Q5648663", "sub_label": "Hanna Bergstr\u00f8m", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q1033", "obj_label": "Nigeria", "sub_uri": "Q7090615", "sub_label": "Omolade Akinremi", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q2624334", "sub_label": "Dariusz Szlachetko", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q31", "obj_label": "Belgium", "sub_uri": "Q6792897", "sub_label": "Maurice Blieck", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q16011540", "sub_label": "John Carroll", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q6237442", "sub_label": "John Hamilton", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q878187", "sub_label": "Kurt Wegner", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q414", "obj_label": "Argentina", "sub_uri": "Q5639493", "sub_label": "Lola Berthet", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q15924272", "sub_label": "Kanhaiyalal", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q28", "obj_label": "Hungary", "sub_uri": "Q4759967", "sub_label": "Andr\u00e9 Libik", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q419", "obj_label": "Peru", "sub_uri": "Q6105687", "sub_label": "Ren\u00e9 Cornejo", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q31", "obj_label": "Belgium", "sub_uri": "Q16018719", "sub_label": "Fran\u00e7ois Daneels", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q4751282", "sub_label": "Anand Sivakumaran", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q414", "obj_label": "Argentina", "sub_uri": "Q5444651", "sub_label": "Fernando Chaparro", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q2413793", "sub_label": "Jared Graves", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q18149134", "sub_label": "George Blanchard", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q931990", "sub_label": "Jens Fjellstr\u00f6m", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q27", "obj_label": "Ireland", "sub_uri": "Q5592967", "sub_label": "Graham Jones", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q224", "obj_label": "Croatia", "sub_uri": "Q5289780", "sub_label": "Domagoj Antoli\u0107", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q948", "obj_label": "Tunisia", "sub_uri": "Q708848", "sub_label": "Sahnun", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q1009", "obj_label": "Cameroon", "sub_uri": "Q4893137", "sub_label": "Bernard Fonlon", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q414", "obj_label": "Argentina", "sub_uri": "Q1334326", "sub_label": "Macedonio Fern\u00e1ndez", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q41", "obj_label": "Greece", "sub_uri": "Q371579", "sub_label": "Thomas Xenakis", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q881", "obj_label": "Vietnam", "sub_uri": "Q959607", "sub_label": "Bao Long", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q4765645", "sub_label": "Anita Stewart", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q928", "obj_label": "Philippines", "sub_uri": "Q14632975", "sub_label": "Jolico Cuadra", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q38", "obj_label": "Italy", "sub_uri": "Q1528071", "sub_label": "Giulio Scandella", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q41", "obj_label": "Greece", "sub_uri": "Q3565304", "sub_label": "Natalia Germanou", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q7237272", "sub_label": "Prabodh Chandra Goswami", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q683535", "sub_label": "Oswald Balzer", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q212", "obj_label": "Ukraine", "sub_uri": "Q7381037", "sub_label": "Ruslan Perekhoda", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q33", "obj_label": "Finland", "sub_uri": "Q6845538", "sub_label": "Mika M\u00e4kitalo", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q5101160", "sub_label": "Chinnakannan Sivasankaran", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q222", "obj_label": "Albania", "sub_uri": "Q16732011", "sub_label": "Mark Marku", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q1036", "obj_label": "Uganda", "sub_uri": "Q19281660", "sub_label": "Venansius Baryamureeba", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q833", "obj_label": "Malaysia", "sub_uri": "Q7461786", "sub_label": "Shahir", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q28", "obj_label": "Hungary", "sub_uri": "Q259085", "sub_label": "Gy\u00f6rgy K\u00e1ldy", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q252", "obj_label": "Indonesia", "sub_uri": "Q6133723", "sub_label": "James F. Sundah", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q222", "obj_label": "Albania", "sub_uri": "Q3644452", "sub_label": "Brian Filipi", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q33", "obj_label": "Finland", "sub_uri": "Q4299598", "sub_label": "Carl Fabian Langenski\u00f6ld", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_uri": "Q2083381", "sub_label": "Ernst Levy", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q794", "obj_label": "Iran", "sub_uri": "Q6023837", "sub_label": "Mohammad Esfahani", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q3119690", "sub_label": "Guillaume Beuzelin", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q35", "obj_label": "Denmark", "sub_uri": "Q2441259", "sub_label": "Henrik Kildentoft", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q33", "obj_label": "Finland", "sub_uri": "Q1612883", "sub_label": "Martti Saarinen", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q328426", "sub_label": "Grzegorz Pojma\u0144ski", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q33", "obj_label": "Finland", "sub_uri": "Q514190", "sub_label": "Outi M\u00e4enp\u00e4\u00e4", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q211", "obj_label": "Latvia", "sub_uri": "Q18057104", "sub_label": "M\u0101ris Gulbis", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q33", "obj_label": "Finland", "sub_uri": "Q7929694", "sub_label": "Viktor Hedlund", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q328414", "sub_label": "Jan Bednarek", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q822", "obj_label": "Lebanon", "sub_uri": "Q7322720", "sub_label": "Ricardo Mbarkho", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q29", "obj_label": "Spain", "sub_uri": "Q1986050", "sub_label": "Gonzalo Su\u00e1rez", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q98219", "sub_label": "Erwin Schild", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q1323347", "sub_label": "Shunji Iwai", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q31", "obj_label": "Belgium", "sub_uri": "Q1342974", "sub_label": "Raoul De Keyser", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q3101756", "sub_label": "George McLeod", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q4865315", "sub_label": "Barth\u00e9lemy Remy", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_uri": "Q7173061", "sub_label": "Peter Burger", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q1510280", "sub_label": "Jean-Baptiste Salme", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q6284352", "sub_label": "Joseph Jeannotte", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q183", "obj_label": "Germany", "sub_uri": "Q1323429", "sub_label": "Patrik Vogel", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q4685380", "sub_label": "Adrian Swan", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q778", "obj_label": "Bahamas", "sub_uri": "Q7384427", "sub_label": "Ryan Pinder", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q241", "obj_label": "Cuba", "sub_uri": "Q678411", "sub_label": "Armando Hart D\u00e1valos", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q414", "obj_label": "Argentina", "sub_uri": "Q9016447", "sub_label": "Julieta Castell\u00e1n", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q2735088", "sub_label": "Jacques Saly", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q16979851", "sub_label": "Dan Brooks", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q414", "obj_label": "Argentina", "sub_uri": "Q616023", "sub_label": "Silvio Marzolini", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q414", "obj_label": "Argentina", "sub_uri": "Q785064", "sub_label": "Iv\u00e1n Knez", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q155", "obj_label": "Brazil", "sub_uri": "Q7967141", "sub_label": "Wanda S\u00e1", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q3120329", "sub_label": "Guillaume de Fondaumi\u00e8re", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q53456", "sub_label": "Casimir II the Just", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q822", "obj_label": "Lebanon", "sub_uri": "Q715445", "sub_label": "Muhammad Fneish", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q117", "obj_label": "Ghana", "sub_uri": "Q1234869", "sub_label": "John Willie Kofi Harlley", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q29", "obj_label": "Spain", "sub_uri": "Q6291152", "sub_label": "Josu de Solaun Soto", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q2420535", "sub_label": "Tracy Cameron", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q2898101", "sub_label": "Karl Berndtsson", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q9288429", "sub_label": "Henryk Lipszyc", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q6757271", "sub_label": "Marcin Wolski", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q35", "obj_label": "Denmark", "sub_uri": "Q6321519", "sub_label": "J\u00f8rgen Kiil", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q35", "obj_label": "Denmark", "sub_uri": "Q707374", "sub_label": "Per H\u00e6kkerup", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q31", "obj_label": "Belgium", "sub_uri": "Q1974307", "sub_label": "Frank Van Passel", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q38", "obj_label": "Italy", "sub_uri": "Q3903367", "sub_label": "Piero Simondo", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q3358372", "sub_label": "Magnus Krepper", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q1395837", "sub_label": "Jeanette Lindstr\u00f6m", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q2852805", "sub_label": "Anthony Bancarel", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_uri": "Q122368", "sub_label": "\u00c9lie Ducommun", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q19059543", "sub_label": "William Walford Thorpe", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q5538915", "sub_label": "George Edwin Hills", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q1196817", "sub_label": "Maeda Toshiie", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q3246703", "sub_label": "Moomin", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_uri": "Q119689", "sub_label": "Ferdinand Sigg", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q38", "obj_label": "Italy", "sub_uri": "Q6199792", "sub_label": "Jimmy Cazzani", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q7917180", "sub_label": "Vatsu Meru", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q429263", "sub_label": "Cl\u00e9ment Bonnand", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q561486", "sub_label": "Fr\u00e9d\u00e9ric Dard", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q445645", "sub_label": "Franciszek Rogaczewski", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q3158199", "sub_label": "Jacques Bascou", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q801", "obj_label": "Israel", "sub_uri": "Q128911", "sub_label": "Ezer Weizman", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q345225", "sub_label": "Sylwester Chruszcz", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q31", "obj_label": "Belgium", "sub_uri": "Q15991766", "sub_label": "Otto Vergaerde", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q4990071", "sub_label": "Veronica Wagner", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q659880", "sub_label": "Ryuichi Kiyonari", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q414", "obj_label": "Argentina", "sub_uri": "Q5484068", "sub_label": "Francisco Yunis", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q79", "obj_label": "Egypt", "sub_uri": "Q1448096", "sub_label": "Hisham Abdel Khalek", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q16121496", "sub_label": "Roger Kimmerly", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q2777615", "sub_label": "Takashi Sekizuka", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q1595809", "sub_label": "Nagayo Yoshir\u014d", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q37", "obj_label": "Lithuania", "sub_uri": "Q19341435", "sub_label": "Monika Linkyt\u0117", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q35", "obj_label": "Denmark", "sub_uri": "Q4352568", "sub_label": "Viggo Dibbern", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q35", "obj_label": "Denmark", "sub_uri": "Q1337751", "sub_label": "Morten Karlsen", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q20", "obj_label": "Norway", "sub_uri": "Q1190263", "sub_label": "Kristoffer Joner", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_uri": "Q5115280", "sub_label": "Michelle Gisin", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q183", "obj_label": "Germany", "sub_uri": "Q60747", "sub_label": "Princess Helena of Waldeck and Pyrmont", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q6290518", "sub_label": "Josiah Hooper", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q241", "obj_label": "Cuba", "sub_uri": "Q6309386", "sub_label": "Julio Lobo", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q403", "obj_label": "Serbia", "sub_uri": "Q3110799", "sub_label": "Goran Adamovi\u0107", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q1028", "obj_label": "Morocco", "sub_uri": "Q403456", "sub_label": "Ismail Kouha", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q3568819", "sub_label": "William McDougall", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q357571", "sub_label": "Aleksander Zawisza", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q183", "obj_label": "Germany", "sub_uri": "Q453208", "sub_label": "Natascha Keller", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q96", "obj_label": "Mexico", "sub_uri": "Q19518940", "sub_label": "\u00d3scar Lara Ar\u00e9chiga", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q978063", "sub_label": "Francisque Xavier Michel", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q215", "obj_label": "Slovenia", "sub_uri": "Q6885327", "sub_label": "Mi\u0161a Molk", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q183", "obj_label": "Germany", "sub_uri": "Q6706016", "sub_label": "Lutz Aengevelt", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q443237", "sub_label": "Rodolphe Laflamme", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q38", "obj_label": "Italy", "sub_uri": "Q3993217", "sub_label": "Tony Crescitelli", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q3068661", "sub_label": "Ferdinand Trudel", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q738750", "sub_label": "Yaqub Qureishi", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q3776935", "sub_label": "Machiko Satonaka", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q1279889", "sub_label": "Luc Ferrari", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q212", "obj_label": "Ukraine", "sub_uri": "Q4302978", "sub_label": "Kostyantyn Morozov", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q28", "obj_label": "Hungary", "sub_uri": "Q377628", "sub_label": "J\u00f3zsef Kov\u00e1cs", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q3167685", "sub_label": "Jean-Marie Goasmat", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q912", "obj_label": "Mali", "sub_uri": "Q4868032", "sub_label": "Bassary Tour\u00e9", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q183", "obj_label": "Germany", "sub_uri": "Q92321", "sub_label": "Alexander von Frantzius", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q4747448", "sub_label": "Amod Kanth", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q35", "obj_label": "Denmark", "sub_uri": "Q12338535", "sub_label": "S\u00f8ren Hjorth Nielsen", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q123758", "sub_label": "Adam Lipi\u0144ski", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q265449", "sub_label": "Asami Abe", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q399", "obj_label": "Armenia", "sub_uri": "Q5516889", "sub_label": "Gaguik Oganessian", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q45", "obj_label": "Portugal", "sub_uri": "Q16235580", "sub_label": "F\u00e1bio Miguel Rico Lopes", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q16729791", "sub_label": "Jim Heron", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q5891928", "sub_label": "Per Jonsson", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q6394673", "sub_label": "Kerry Towle", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q16066831", "sub_label": "James Walker", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_uri": "Q2692494", "sub_label": "Enzo Corvi", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q801", "obj_label": "Israel", "sub_uri": "Q401710", "sub_label": "Dan Ashbel", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q29", "obj_label": "Spain", "sub_uri": "Q2461199", "sub_label": "Miguel Morayta", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q4917321", "sub_label": "Bishambhar Nath Pande", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q9296324", "sub_label": "Micha\u0142 Wojtkiewicz", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q833", "obj_label": "Malaysia", "sub_uri": "Q15989317", "sub_label": "Ahmad Ammar Ahmad Azam", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q4759604", "sub_label": "Andrzej Gronowicz", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q822", "obj_label": "Lebanon", "sub_uri": "Q509503", "sub_label": "Hussein Al Oweini", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q117", "obj_label": "Ghana", "sub_uri": "Q532895", "sub_label": "J. E. S. de Graft-Hayford", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q33", "obj_label": "Finland", "sub_uri": "Q7901100", "sub_label": "Urpo Pikkupeura", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q189", "obj_label": "Iceland", "sub_uri": "Q6155951", "sub_label": "Janus Gu\u00f0laugsson", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q869", "obj_label": "Thailand", "sub_uri": "Q5068706", "sub_label": "Chalermchai Kositpipat", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q33", "obj_label": "Finland", "sub_uri": "Q1079969", "sub_label": "Mikko H\u00e4rkin", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q20", "obj_label": "Norway", "sub_uri": "Q15726646", "sub_label": "T\u00f8nnes Stang Rolfsen", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q20", "obj_label": "Norway", "sub_uri": "Q5208505", "sub_label": "Dagfin Werenskiold", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q1738626", "sub_label": "Ken Kotyk", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q96", "obj_label": "Mexico", "sub_uri": "Q2832483", "sub_label": "Aleks Syntek", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q5367969", "sub_label": "Eluvathingal Devassy Jemmis", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q29", "obj_label": "Spain", "sub_uri": "Q5483234", "sub_label": "Francisco Cantera Burgos", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q28", "obj_label": "Hungary", "sub_uri": "Q517336", "sub_label": "Zolt\u00e1n D\u00f6m\u00f6t\u00f6r", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q1033", "obj_label": "Nigeria", "sub_uri": "Q6251277", "sub_label": "John Omoniyi Abiri", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q28", "obj_label": "Hungary", "sub_uri": "Q956885", "sub_label": "T\u00edmea T\u00f3th", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q31", "obj_label": "Belgium", "sub_uri": "Q466625", "sub_label": "Kim Gevaert", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q252", "obj_label": "Indonesia", "sub_uri": "Q7476209", "sub_label": "Mikha Tambayong", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q20", "obj_label": "Norway", "sub_uri": "Q15057274", "sub_label": "Torill Eidsheim", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q35", "obj_label": "Denmark", "sub_uri": "Q381042", "sub_label": "Sweyn III of Denmark", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q38", "obj_label": "Italy", "sub_uri": "Q12105", "sub_label": "Sergio Bonelli", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q843", "obj_label": "Pakistan", "sub_uri": "Q7461320", "sub_label": "Shah Nawaz Khan", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q20", "obj_label": "Norway", "sub_uri": "Q6419943", "sub_label": "Klaus Mysen", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q16011864", "sub_label": "Peter Clyne", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q218", "obj_label": "Romania", "sub_uri": "Q16752017", "sub_label": "Paul Muntean", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_uri": "Q121388", "sub_label": "Daniel Kandlbauer", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q1232303", "sub_label": "Jan Gunnarsson", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q241", "obj_label": "Cuba", "sub_uri": "Q5616254", "sub_label": "Guillermo Rosales", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q1045", "obj_label": "Somalia", "sub_uri": "Q7398198", "sub_label": "Saeed Abdi Farah", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q33", "obj_label": "Finland", "sub_uri": "Q6226035", "sub_label": "Paavo Virkkunen", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q2631072", "sub_label": "Byron Stroud", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q20", "obj_label": "Norway", "sub_uri": "Q4580790", "sub_label": "Ole Olsen Evenstad", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q2718078", "sub_label": "Tage Lindbom", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q252", "obj_label": "Indonesia", "sub_uri": "Q12499347", "sub_label": "Muhammad Chatib Basri", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q35", "obj_label": "Denmark", "sub_uri": "Q2616482", "sub_label": "Elizabeth of Denmark, Duchess of Brunswick-Wolfenb\u00fcttel", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q155", "obj_label": "Brazil", "sub_uri": "Q16608207", "sub_label": "Mi\u00eatta Santiago", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q1379017", "sub_label": "Joakim Persson", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q6758851", "sub_label": "Marek Kawa", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q212", "obj_label": "Ukraine", "sub_uri": "Q2094970", "sub_label": "Vladislav Druzchenko", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q79", "obj_label": "Egypt", "sub_uri": "Q186316", "sub_label": "Ayman al-Zawahiri", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q227", "obj_label": "Azerbaijan", "sub_uri": "Q12842671", "sub_label": "Maleyka Abbaszadeh", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q41", "obj_label": "Greece", "sub_uri": "Q241148", "sub_label": "Anastasia Kelesidou", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q1362200", "sub_label": "Toneri-shinn\u014d", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q594528", "sub_label": "Tadashi Sawashima", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q1033", "obj_label": "Nigeria", "sub_uri": "Q4735427", "sub_label": "Alphonsus Obi Igbeke", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q16222482", "sub_label": "Srinwanti Chakrabarti", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q215", "obj_label": "Slovenia", "sub_uri": "Q217903", "sub_label": "Zmago Jelin\u010di\u010d Plemeniti", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q20", "obj_label": "Norway", "sub_uri": "Q376350", "sub_label": "Tommy Svindal Larsen", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q79", "obj_label": "Egypt", "sub_uri": "Q6919197", "sub_label": "Mounir Sabet", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q222", "obj_label": "Albania", "sub_uri": "Q462441", "sub_label": "Jozefina Topalli", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q212", "obj_label": "Ukraine", "sub_uri": "Q3331381", "sub_label": "Mykola Prysyazhnyuk", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q7368852", "sub_label": "Roshy Augustine", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q212", "obj_label": "Ukraine", "sub_uri": "Q18635391", "sub_label": "Oleksiy Ryabchyn", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q967987", "sub_label": "L\u00e9on Teisserenc de Bort", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q27", "obj_label": "Ireland", "sub_uri": "Q132026", "sub_label": "David O'Leary", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q414", "obj_label": "Argentina", "sub_uri": "Q961151", "sub_label": "Rub\u00e9n Ju\u00e1rez", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q414", "obj_label": "Argentina", "sub_uri": "Q941296", "sub_label": "H\u00e9ctor Canteiros", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q16003717", "sub_label": "Irene Longman", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q4916289", "sub_label": "Birgitta Ahlqvist", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q7488822", "sub_label": "Shannon Aleksic", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q218", "obj_label": "Romania", "sub_uri": "Q292005", "sub_label": "Rodica Mateescu", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q419", "obj_label": "Peru", "sub_uri": "Q7299751", "sub_label": "Ra\u00fal Chappell", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q6758663", "sub_label": "Mardi McConnochie", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q6380184", "sub_label": "Kay Gardner", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_uri": "Q5581261", "sub_label": "Stefan Bolliger", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q183", "obj_label": "Germany", "sub_uri": "Q273765", "sub_label": "Kerstin Kielgass", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q114", "obj_label": "Kenya", "sub_uri": "Q1451152", "sub_label": "Solomon Busendich", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q35", "obj_label": "Denmark", "sub_uri": "Q951902", "sub_label": "Jesper Langberg", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q20", "obj_label": "Norway", "sub_uri": "Q5981426", "sub_label": "Otto Hauglin", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q40", "obj_label": "Austria", "sub_uri": "Q89532", "sub_label": "Ingrid Haebler", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q6209379", "sub_label": "Joe Darling", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q801", "obj_label": "Israel", "sub_uri": "Q587274", "sub_label": "Yona Wallach", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q183", "obj_label": "Germany", "sub_uri": "Q16241170", "sub_label": "Christian Schaller", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q222", "obj_label": "Albania", "sub_uri": "Q13045346", "sub_label": "Saimir Tahiri", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q600968", "sub_label": "Hiroki Mizumoto", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q1033", "obj_label": "Nigeria", "sub_uri": "Q5984512", "sub_label": "Ibrahim Dada", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q227", "obj_label": "Azerbaijan", "sub_uri": "Q465886", "sub_label": "Khetag Gazyumov", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q470957", "sub_label": "Andr\u00e9 Boisclair", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q3168350", "sub_label": "Jean-Paul Bacquet", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q17411234", "sub_label": "Vaibhav Kaul", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q1677014", "sub_label": "Jack Davis", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q3490894", "sub_label": "Sophie Creux", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q8080944", "sub_label": "\u0141ukasz Kowalski", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q28", "obj_label": "Hungary", "sub_uri": "Q1467012", "sub_label": "D\u00f3ra Zeller", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q38", "obj_label": "Italy", "sub_uri": "Q3763606", "sub_label": "Gianni Pettenati", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q6200249", "sub_label": "Tobias Sw\u00e4rd", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q31", "obj_label": "Belgium", "sub_uri": "Q2013179", "sub_label": "Karel Uyttersprot", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q241", "obj_label": "Cuba", "sub_uri": "Q5859158", "sub_label": "Fernando Alonso", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q29", "obj_label": "Spain", "sub_uri": "Q274966", "sub_label": "Juande Ramos", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q155", "obj_label": "Brazil", "sub_uri": "Q7322558", "sub_label": "Ricardo Berzoini", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q232", "obj_label": "Kazakhstan", "sub_uri": "Q4075468", "sub_label": "Yermek Baiduashov", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q3218980", "sub_label": "Laurent-Olivier David", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q794", "obj_label": "Iran", "sub_uri": "Q2836258", "sub_label": "Ali Javadi", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q469962", "sub_label": "Sophie Piper", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q555855", "sub_label": "Thomas Eriksson", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q3085331", "sub_label": "Fran\u00e7ois Mathias Ren\u00e9 Leprieur", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q889", "obj_label": "Afghanistan", "sub_uri": "Q2821424", "sub_label": "Abdul Salam Rocketi", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q43", "obj_label": "Turkey", "sub_uri": "Q968238", "sub_label": "Mehmet Tarhan", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q218", "obj_label": "Romania", "sub_uri": "Q7562038", "sub_label": "Sonny Flame", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q203828", "sub_label": "Gustave Moreau", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q5561802", "sub_label": "Peer \u00c5str\u00f6m", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q2830307", "sub_label": "Alain Tardif", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q784413", "sub_label": "Satoru Kobayashi", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q4767533", "sub_label": "Anna Tavano", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_uri": "Q7313678", "sub_label": "Ren\u00e9 Burkhalter", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q7143282", "sub_label": "Pat Caruso", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q7349551", "sub_label": "Robert Samuel Ross", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q35", "obj_label": "Denmark", "sub_uri": "Q3638295", "sub_label": "Benny Nielsen", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q403", "obj_label": "Serbia", "sub_uri": "Q455864", "sub_label": "Neboj\u0161a Bradi\u0107", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q736", "obj_label": "Ecuador", "sub_uri": "Q16090228", "sub_label": "Carlos Altamirano S\u00e1nchez", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q3764794", "sub_label": "Ginz\u014d Matsuo", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q399", "obj_label": "Armenia", "sub_uri": "Q380839", "sub_label": "Vladimir Akopian", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_uri": "Q118168", "sub_label": "Jean-Louis Pr\u00e9vost", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q155", "obj_label": "Brazil", "sub_uri": "Q1665304", "sub_label": "Joviano de Lima J\u00fanior", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q7117608", "sub_label": "P. Viswanathan", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q7877236", "sub_label": "Udupi Ramachandra Rao", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q28", "obj_label": "Hungary", "sub_uri": "Q516349", "sub_label": "K\u00e1roly Aggh\u00e1zy", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q96", "obj_label": "Mexico", "sub_uri": "Q4381", "sub_label": "Carlos Pellicer", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q7958888", "sub_label": "Wac\u0142aw Gajewski", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q33", "obj_label": "Finland", "sub_uri": "Q11890875", "sub_label": "Risto-Veikko Luukkonen", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q33", "obj_label": "Finland", "sub_uri": "Q5039707", "sub_label": "Carita J\u00e4rvinen", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q31", "obj_label": "Belgium", "sub_uri": "Q7184781", "sub_label": "Philippe Bouvy", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q16030554", "sub_label": "Marya Ch\u00e9liga-Loevy", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q33", "obj_label": "Finland", "sub_uri": "Q265553", "sub_label": "Mirja Hietamies", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q1827755", "sub_label": "Lisa Marangon", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q325205", "sub_label": "Rakesh Sharma", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q3121175", "sub_label": "Gustave Doyen", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q843", "obj_label": "Pakistan", "sub_uri": "Q7408545", "sub_label": "Saman Hasnain", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q214", "obj_label": "Slovakia", "sub_uri": "Q928096", "sub_label": "Jaroslav Ob\u0161ut", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q7409054", "sub_label": "Sambit Bal", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q2687704", "sub_label": "Louis Thollon", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q121957", "sub_label": "Jan Puzyna de Kosielsko", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q189", "obj_label": "Iceland", "sub_uri": "Q725193", "sub_label": "Bj\u00f6rg\u00f3lfur Thor Bj\u00f6rg\u00f3lfsson", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q1242814", "sub_label": "Mentor Zhubi", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q172232", "sub_label": "Fran\u00e7ois Hesnault", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_uri": "Q2020560", "sub_label": "Oliver Schnyder", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q3385040", "sub_label": "Pierre Forgues", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q252", "obj_label": "Indonesia", "sub_uri": "Q6892390", "sub_label": "Mohammad Said Hamid Junid", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q35", "obj_label": "Denmark", "sub_uri": "Q5349655", "sub_label": "Einar Juhl", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q33", "obj_label": "Finland", "sub_uri": "Q3801955", "sub_label": "Irina Saari", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q414", "obj_label": "Argentina", "sub_uri": "Q560501", "sub_label": "Christian D\u00edaz", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q12369855", "sub_label": "Marlon Dumas", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q736", "obj_label": "Ecuador", "sub_uri": "Q6700905", "sub_label": "Luis Morej\u00f3n", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q45", "obj_label": "Portugal", "sub_uri": "Q10320929", "sub_label": "Lula Pena", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q414", "obj_label": "Argentina", "sub_uri": "Q9012567", "sub_label": "Jonathan Ch\u00e1vez", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_uri": "Q3185051", "sub_label": "Joseph Gunzinger", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q27", "obj_label": "Ireland", "sub_uri": "Q7088326", "sub_label": "Ollie Conmy", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q19630433", "sub_label": "Grace Mahary", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q2713581", "sub_label": "Junko Noda", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q5734347", "sub_label": "Herbert Hardacre", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q419", "obj_label": "Peru", "sub_uri": "Q5202650", "sub_label": "C\u00e9sar Yauri Huanay", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q4759628", "sub_label": "Andrzej Klimaszewski", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q1036", "obj_label": "Uganda", "sub_uri": "Q1569686", "sub_label": "Nasser Sebaggala", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q414", "obj_label": "Argentina", "sub_uri": "Q703815", "sub_label": "Sergio Roitman", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q47208", "sub_label": "Louis-Claude de Saint-Martin", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q212", "obj_label": "Ukraine", "sub_uri": "Q259312", "sub_label": "Tatiana Perebiynis", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q17308816", "sub_label": "Hildred Blewett", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q640598", "sub_label": "Mark Spicoluk", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q298", "obj_label": "Chile", "sub_uri": "Q3369123", "sub_label": "Patricia Maldonado", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q29", "obj_label": "Spain", "sub_uri": "Q447776", "sub_label": "Ignacio Ramonet", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_uri": "Q390938", "sub_label": "Andres Amb\u00fchl", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q96", "obj_label": "Mexico", "sub_uri": "Q5936679", "sub_label": "Josefina Vicens", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q3083975", "sub_label": "Francesco Bigottini", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q11958330", "sub_label": "Annette Tison", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q284520", "sub_label": "Seth Gueko", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q13742374", "sub_label": "Kaylin Irvine", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q235", "obj_label": "Monaco", "sub_uri": "Q958562", "sub_label": "Prince Pierre, Duke of Valentinois", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q766", "obj_label": "Jamaica", "sub_uri": "Q16082126", "sub_label": "Hedley Jones", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q20", "obj_label": "Norway", "sub_uri": "Q972768", "sub_label": "Flamur Kastrati", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q7260760", "sub_label": "Pupul Jayakar", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q55", "obj_label": "Netherlands", "sub_uri": "Q312215", "sub_label": "William V", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q20", "obj_label": "Norway", "sub_uri": "Q4587599", "sub_label": "Torunn Janbu", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q6170886", "sub_label": "Jean-Jacques Moreau", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q159", "obj_label": "Russia", "sub_uri": "Q2107072", "sub_label": "Lyudmila Narusova", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q155", "obj_label": "Brazil", "sub_uri": "Q171507", "sub_label": "Chico Serra", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q750", "obj_label": "Bolivia", "sub_uri": "Q3436982", "sub_label": "Rigoberto Su\u00e1rez G\u00f3mez", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q31", "obj_label": "Belgium", "sub_uri": "Q1077395", "sub_label": "Chris Joris", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q35", "obj_label": "Denmark", "sub_uri": "Q868707", "sub_label": "Vilhelm Theodor Walther", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q38", "obj_label": "Italy", "sub_uri": "Q3856375", "sub_label": "Michel Altieri", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q252", "obj_label": "Indonesia", "sub_uri": "Q12515782", "sub_label": "Ario Soerjo", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q155", "obj_label": "Brazil", "sub_uri": "Q7508899", "sub_label": "Sidnei Sciola", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q7822452", "sub_label": "Tony Golab", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q218", "obj_label": "Romania", "sub_uri": "Q6873010", "sub_label": "Mircea Ilie", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q766", "obj_label": "Jamaica", "sub_uri": "Q315662", "sub_label": "Bruce Golding", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q712", "obj_label": "Fiji", "sub_uri": "Q7408759", "sub_label": "Samanunu Cakobau-Talakuli", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q3017419", "sub_label": "David Assouline", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q29", "obj_label": "Spain", "sub_uri": "Q6291459", "sub_label": "Jos\u00e9 Antonio Mart\u00ednez Soler", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q1785", "sub_label": "Charles Aznavour", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q3369202", "sub_label": "Patrick Ascione", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q783", "obj_label": "Honduras", "sub_uri": "Q3874854", "sub_label": "Nery Medina", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q739", "obj_label": "Colombia", "sub_uri": "Q1092355", "sub_label": "Maritza Rodr\u00edguez", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q215", "obj_label": "Slovenia", "sub_uri": "Q535355", "sub_label": "Matej Bor", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q5237055", "sub_label": "David Mainse", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q96", "obj_label": "Mexico", "sub_uri": "Q285866", "sub_label": "Miguel \u00c1ngel Biaggio", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q7174620", "sub_label": "Peter Helm", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q129617", "sub_label": "Jadwiga Smosarska", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q211", "obj_label": "Latvia", "sub_uri": "Q1887474", "sub_label": "Raivis H\u0161\u010danovi\u010ds", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q33", "obj_label": "Finland", "sub_uri": "Q11857852", "sub_label": "Emma Kanerva", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q16185593", "sub_label": "Ramsevak Singh", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q252", "obj_label": "Indonesia", "sub_uri": "Q195869", "sub_label": "Jonathan Mulia", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q117", "obj_label": "Ghana", "sub_uri": "Q2278444", "sub_label": "Sherry Ayitey", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q33", "obj_label": "Finland", "sub_uri": "Q18331185", "sub_label": "Aukusti M\u00e4enp\u00e4\u00e4", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q2908641", "sub_label": "Bogdan Korczowski", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q218", "obj_label": "Romania", "sub_uri": "Q1672100", "sub_label": "Ionu\u021b G\u0103li\u021beanu", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q7288535", "sub_label": "Ram Narain Agarwal", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q424", "obj_label": "Cambodia", "sub_uri": "Q379239", "sub_label": "Jayavarman II", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q7363171", "sub_label": "Romesh Chandra Mitra", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_uri": "Q116978", "sub_label": "Constant Fornerod", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q20", "obj_label": "Norway", "sub_uri": "Q1771207", "sub_label": "Ellen Einan", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q983949", "sub_label": "J\u00f3zef Che\u0142mo\u0144ski", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q38", "obj_label": "Italy", "sub_uri": "Q3701983", "sub_label": "Daniele Giorgini", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q20", "obj_label": "Norway", "sub_uri": "Q7862372", "sub_label": "T\u00f8nnes Anden\u00e6s", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q778", "obj_label": "Bahamas", "sub_uri": "Q6181607", "sub_label": "Jeremy Knowles", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q3159577", "sub_label": "Jacques Mistral", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q38", "obj_label": "Italy", "sub_uri": "Q715146", "sub_label": "Giuseppe Tucci", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q7028487", "sub_label": "Nicklas Barker", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q881", "obj_label": "Vietnam", "sub_uri": "Q1086832", "sub_label": "Cu Huy Ha Vu", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q183", "obj_label": "Germany", "sub_uri": "Q78133", "sub_label": "Harry Kurschat", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q4980218", "sub_label": "Bryan Lewis", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q1028", "obj_label": "Morocco", "sub_uri": "Q4664854", "sub_label": "Abdelkrim Motii", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q40", "obj_label": "Austria", "sub_uri": "Q112066", "sub_label": "Leopold V, Archduke of Austria", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_uri": "Q691598", "sub_label": "Christy Doran", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q441391", "sub_label": "Reika Kakiiwa", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q191", "obj_label": "Estonia", "sub_uri": "Q12124763", "sub_label": "Villem Raam", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q403", "obj_label": "Serbia", "sub_uri": "Q5210966", "sub_label": "Dalibor Pe\u0161terac", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q241", "obj_label": "Cuba", "sub_uri": "Q6299944", "sub_label": "Juan Guiteras", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q790", "obj_label": "Haiti", "sub_uri": "Q3157776", "sub_label": "Jacqueline Nesti Joseph", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q119876", "sub_label": "Garrett Festerling", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q20", "obj_label": "Norway", "sub_uri": "Q4582358", "sub_label": "Olav Stedje", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q114", "obj_label": "Kenya", "sub_uri": "Q17781149", "sub_label": "Godwin Chepkurgor", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q414", "obj_label": "Argentina", "sub_uri": "Q336226", "sub_label": "Eduardo Cama\u00f1o", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q419", "obj_label": "Peru", "sub_uri": "Q5340781", "sub_label": "Eduardo Tokeshi", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q183", "obj_label": "Germany", "sub_uri": "Q88442", "sub_label": "Sebastian Englert", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q20", "obj_label": "Norway", "sub_uri": "Q4577232", "sub_label": "Hans Gerhard Meldahl", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q218", "obj_label": "Romania", "sub_uri": "Q4790436", "sub_label": "Ariel Moscovici", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q4525778", "sub_label": "Franz Sznayde", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q31", "obj_label": "Belgium", "sub_uri": "Q16223927", "sub_label": "Ahmed Sababti", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q20", "obj_label": "Norway", "sub_uri": "Q11995152", "sub_label": "Per Arne Godejord", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q1705245", "sub_label": "Anri Katsu", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q1781872", "sub_label": "Rhys Pollock", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q15993614", "sub_label": "Vitthalbhai Patel", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q38", "obj_label": "Italy", "sub_uri": "Q1106299", "sub_label": "Domenico Maggiora", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q3052939", "sub_label": "Emmanuelle Blais", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q43", "obj_label": "Turkey", "sub_uri": "Q2524316", "sub_label": "Halil Akka\u015f", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q458978", "sub_label": "Emily Haines", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q1033", "obj_label": "Nigeria", "sub_uri": "Q5497749", "sub_label": "Frederick Fasehun", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q414", "obj_label": "Argentina", "sub_uri": "Q2939293", "sub_label": "Carlos Alonso", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q7259067", "sub_label": "Pujya Mota", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q414", "obj_label": "Argentina", "sub_uri": "Q6300332", "sub_label": "Juan Manuel Esparis", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q214", "obj_label": "Slovakia", "sub_uri": "Q6949757", "sub_label": "M\u00e1rio Zavatern\u00edk", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q819", "obj_label": "Laos", "sub_uri": "Q380421", "sub_label": "Nouhak Phoumsavanh", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q403", "obj_label": "Serbia", "sub_uri": "Q19364779", "sub_label": "Milenko Veljkovi\u0107", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q510156", "sub_label": "Marjorie Bennett", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q20", "obj_label": "Norway", "sub_uri": "Q5349666", "sub_label": "Einar M. Bull", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q38", "obj_label": "Italy", "sub_uri": "Q3619445", "sub_label": "Antonio Commisso", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q29", "obj_label": "Spain", "sub_uri": "Q2615276", "sub_label": "Jes\u00fas de la Villa", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q3383935", "sub_label": "Pierre Berbizier", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q801", "obj_label": "Israel", "sub_uri": "Q974766", "sub_label": "Yosef Sprinzak", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q419", "obj_label": "Peru", "sub_uri": "Q10751549", "sub_label": "Pastorita Huaracina", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q22", "obj_label": "Scotland", "sub_uri": "Q1361441", "sub_label": "Fraser Fyvie", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q20", "obj_label": "Norway", "sub_uri": "Q920816", "sub_label": "Torjus Hans\u00e9n", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q5982690", "sub_label": "Ian Reid", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_uri": "Q6762623", "sub_label": "Marie-Andrea Egli", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q2420908", "sub_label": "Thierry Carcenac", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q29", "obj_label": "Spain", "sub_uri": "Q4792859", "sub_label": "Armando del Moral", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q5820704", "sub_label": "Hans H\u00f6glund", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q3102097", "sub_label": "Georges H\u00e9on", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q38", "obj_label": "Italy", "sub_uri": "Q443823", "sub_label": "Antonio Sab\u00e0to", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q20", "obj_label": "Norway", "sub_uri": "Q7310008", "sub_label": "Reidar A. Berg", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q33", "obj_label": "Finland", "sub_uri": "Q18750082", "sub_label": "Heikki Taskinen", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q4946775", "sub_label": "Lina Englund", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q435674", "sub_label": "Antoine de Jussieu", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q214", "obj_label": "Slovakia", "sub_uri": "Q2132182", "sub_label": "Rastislav Dej", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q159", "obj_label": "Russia", "sub_uri": "Q1778728", "sub_label": "Anatoly Artamonov", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q5536235", "sub_label": "George Anderson", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q241", "obj_label": "Cuba", "sub_uri": "Q7319427", "sub_label": "Rey Ord\u00f3\u00f1ez", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q881", "obj_label": "Vietnam", "sub_uri": "Q7820699", "sub_label": "Ton That Thien", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q22", "obj_label": "Scotland", "sub_uri": "Q16002969", "sub_label": "Tully Craig", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q3131086", "sub_label": "Henri Fleisch", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_uri": "Q1396848", "sub_label": "Armin Kellersberger", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q33", "obj_label": "Finland", "sub_uri": "Q7413061", "sub_label": "Samuli Suhonen", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q707440", "sub_label": "Stu Hart", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q347428", "sub_label": "Jun Matsumoto", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q16193278", "sub_label": "Fran\u00e7ois Olivennes", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q6147340", "sub_label": "Jamie Paton", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q846", "obj_label": "Qatar", "sub_uri": "Q17198943", "sub_label": "Mousa Shanan Zayed", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q222", "obj_label": "Albania", "sub_uri": "Q5226580", "sub_label": "Dashamir Tahiri", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q8008537", "sub_label": "William Elliott", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q29", "obj_label": "Spain", "sub_uri": "Q3619727", "sub_label": "Antonio Jos\u00e9 Amar y Borb\u00f3n", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q191", "obj_label": "Estonia", "sub_uri": "Q2005705", "sub_label": "Oskar Luts", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q155", "obj_label": "Brazil", "sub_uri": "Q10340144", "sub_label": "Octavio Ianni", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q250828", "sub_label": "Yasuhiro Nakasone", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q1390822", "sub_label": "Jyotindra Nath Dixit", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_uri": "Q705876", "sub_label": "Jean Balissat", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q1045", "obj_label": "Somalia", "sub_uri": "Q307591", "sub_label": "Abdallah Isaaq Deerow", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q29", "obj_label": "Spain", "sub_uri": "Q3302484", "sub_label": "Victorio Macho", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q1037", "obj_label": "Rwanda", "sub_uri": "Q17417622", "sub_label": "Anastase Murekezi", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q40", "obj_label": "Austria", "sub_uri": "Q584375", "sub_label": "Johann Grugger", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q35", "obj_label": "Denmark", "sub_uri": "Q3441211", "sub_label": "Rikard Nordstr\u00f8m", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q1074061", "sub_label": "Kaori Kawamura", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q211", "obj_label": "Latvia", "sub_uri": "Q3047551", "sub_label": "Edgars Rink\u0113vi\u010ds", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q796", "obj_label": "Iraq", "sub_uri": "Q7490636", "sub_label": "Shatha Mousa Sadiq", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q5702087", "sub_label": "Helen Cross", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q214", "obj_label": "Slovakia", "sub_uri": "Q680582", "sub_label": "Ivan Uhliarik", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q27", "obj_label": "Ireland", "sub_uri": "Q571163", "sub_label": "Disibod", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q7964291", "sub_label": "Walter Bentley", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q29", "obj_label": "Spain", "sub_uri": "Q18719601", "sub_label": "Mar\u00eda Asurmendi", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q31", "obj_label": "Belgium", "sub_uri": "Q7178661", "sub_label": "Petra Santy", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q5542322", "sub_label": "George McHugh", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q4726122", "sub_label": "Alice Svensson", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q5986203", "sub_label": "Ichiko Hashimoto", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q96", "obj_label": "Mexico", "sub_uri": "Q434749", "sub_label": "Romary Rifka", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q739", "obj_label": "Colombia", "sub_uri": "Q5358720", "sub_label": "Eleider \u00c1lvarez", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q5125186", "sub_label": "Claire Drainie Taylor", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q35", "obj_label": "Denmark", "sub_uri": "Q3362077", "sub_label": "Mzungu Kichaa", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q219", "obj_label": "Bulgaria", "sub_uri": "Q1284685", "sub_label": "Eugene Bossilkov", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q3066372", "sub_label": "Ulf Sundelin", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q5269038", "sub_label": "Dhanushkodi Ramasamy", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q11720109", "sub_label": "Janusz Cisek", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q155", "obj_label": "Brazil", "sub_uri": "Q966253", "sub_label": "Marco Pereira", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q736", "obj_label": "Ecuador", "sub_uri": "Q3420189", "sub_label": "Raul Viver", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q96", "obj_label": "Mexico", "sub_uri": "Q956157", "sub_label": "Eduardo Matos Moctezuma", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q29", "obj_label": "Spain", "sub_uri": "Q7420317", "sub_label": "Santiago Masarnau Fern\u00e1ndez", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q414", "obj_label": "Argentina", "sub_uri": "Q7050412", "sub_label": "Norberto M\u00e9ndez", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q43", "obj_label": "Turkey", "sub_uri": "Q555091", "sub_label": "Engin Baytar", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q2825251", "sub_label": "Adrien Pouliot", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q28", "obj_label": "Hungary", "sub_uri": "Q218915", "sub_label": "Zolt\u00e1n Czibor", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q1033", "obj_label": "Nigeria", "sub_uri": "Q18638587", "sub_label": "Kehinde Bankole", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q3191090", "sub_label": "Prince J\u00e9r\u00f4me Napol\u00e9on", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q27", "obj_label": "Ireland", "sub_uri": "Q715930", "sub_label": "Ciar\u00e1n Power", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q16232111", "sub_label": "Hugues Fournel", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q783", "obj_label": "Honduras", "sub_uri": "Q224897", "sub_label": "Juan \u00c1ngel Arias", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q889", "obj_label": "Afghanistan", "sub_uri": "Q1709475", "sub_label": "Suhaila Seddiqi", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q7117423", "sub_label": "P. Mohan", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q214", "obj_label": "Slovakia", "sub_uri": "Q6776250", "sub_label": "Martin Nagy", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q16933355", "sub_label": "C D Subbaiah", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q191", "obj_label": "Estonia", "sub_uri": "Q927697", "sub_label": "J\u00fcri Arrak", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q3180912", "sub_label": "John Anderson", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q843", "obj_label": "Pakistan", "sub_uri": "Q11265838", "sub_label": "Mohammad Haleem", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q155", "obj_label": "Brazil", "sub_uri": "Q2756134", "sub_label": "Z\u00e9 Ramalho", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_uri": "Q692968", "sub_label": "Marius Jaccard", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q29", "obj_label": "Spain", "sub_uri": "Q427861", "sub_label": "Mart\u00edn de Aldehuela", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q219", "obj_label": "Bulgaria", "sub_uri": "Q7916559", "sub_label": "Vasil Kaloyanov", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q43", "obj_label": "Turkey", "sub_uri": "Q19578367", "sub_label": "Nusret Y\u0131ld\u0131r\u0131m", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q29", "obj_label": "Spain", "sub_uri": "Q961601", "sub_label": "Uxue Barkos", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q6429744", "sub_label": "Konrad Nowak", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q7918176", "sub_label": "Veerankutty", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q794", "obj_label": "Iran", "sub_uri": "Q165488", "sub_label": "Homa Darabi", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q5171385", "sub_label": "Cornelius Hiebert", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q304832", "sub_label": "Caesarius of Arles", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q5289438", "sub_label": "Krzysztof Kononowicz", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q7493083", "sub_label": "Sheila Kennelly", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q212", "obj_label": "Ukraine", "sub_uri": "Q6375994", "sub_label": "Kateryna Dikidzhi", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q414", "obj_label": "Argentina", "sub_uri": "Q3057275", "sub_label": "Ernesto Mastr\u00e1ngelo", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q4648300", "sub_label": "A. R. Pillai", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q7486453", "sub_label": "Toshio Hirano", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q3130016", "sub_label": "Phillip Adams", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q7638832", "sub_label": "Sunao Hari", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q473045", "sub_label": "Nicklas Carlsson", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q31", "obj_label": "Belgium", "sub_uri": "Q4679622", "sub_label": "Adam Possamai", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q222", "obj_label": "Albania", "sub_uri": "Q15043852", "sub_label": "Arbana Osmani", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q370595", "sub_label": "Hitoshi Motoshima", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q5534626", "sub_label": "Geoffrey Gates", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q811", "obj_label": "Nicaragua", "sub_uri": "Q435414", "sub_label": "Miguel Ram\u00f3n Morales", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q4955565", "sub_label": "Yohanna Idha", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q5312155", "sub_label": "Duel", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q40", "obj_label": "Austria", "sub_uri": "Q5761586", "sub_label": "Hildegard Breiner", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q77", "obj_label": "Uruguay", "sub_uri": "Q442997", "sub_label": "Francisco Domingo Barbosa Da Silveira", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q6130030", "sub_label": "James Bourque", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q6930975", "sub_label": "Anna Hagwall", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q4701107", "sub_label": "Akio Mizuta", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q18645768", "sub_label": "Jugal Kishore", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q6132527", "sub_label": "James Delamere Lafferty", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q7154679", "sub_label": "Paula Fletcher", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q1138332", "sub_label": "Ren \u014csugi", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q38", "obj_label": "Italy", "sub_uri": "Q493621", "sub_label": "Andrea Cecon", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q902", "obj_label": "Bangladesh", "sub_uri": "Q3349787", "sub_label": "Selim Al Deen", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q241", "obj_label": "Cuba", "sub_uri": "Q524855", "sub_label": "Andr\u00e9s Sim\u00f3n", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q711", "obj_label": "Mongolia", "sub_uri": "Q25255", "sub_label": "Yonten Gyatso", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q414", "obj_label": "Argentina", "sub_uri": "Q2344272", "sub_label": "Alfredo Yabr\u00e1n", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q801", "obj_label": "Israel", "sub_uri": "Q4790616", "sub_label": "Arik Lavie", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q1741217", "sub_label": "Kikuji Kawada", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q159", "obj_label": "Russia", "sub_uri": "Q3920829", "sub_label": "Alexander Dvorkin", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q414", "obj_label": "Argentina", "sub_uri": "Q722608", "sub_label": "Juan Pablo Dotti", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q334", "obj_label": "Singapore", "sub_uri": "Q11902453", "sub_label": "Wilson Raj Perumal", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q168716", "sub_label": "Masaaki Shirakawa", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q224", "obj_label": "Croatia", "sub_uri": "Q16117218", "sub_label": "Sanja Nik\u010devi\u0107", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q739", "obj_label": "Colombia", "sub_uri": "Q1843266", "sub_label": "Mauricio Neiza", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q414", "obj_label": "Argentina", "sub_uri": "Q4712250", "sub_label": "Alberto de Zaval\u00eda", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q183", "obj_label": "Germany", "sub_uri": "Q109786", "sub_label": "Timo Rose", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q33", "obj_label": "Finland", "sub_uri": "Q4349229", "sub_label": "Mikko Pes\u00e4l\u00e4", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q28", "obj_label": "Hungary", "sub_uri": "Q5388992", "sub_label": "Erika Medveczky", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q6832340", "sub_label": "Michael Luchkovich", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q155", "obj_label": "Brazil", "sub_uri": "Q15711370", "sub_label": "Gabriela C\u00e9", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q7151339", "sub_label": "Paul Holland Knowlton", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q45", "obj_label": "Portugal", "sub_uri": "Q951470", "sub_label": "Carlos Viegas Gago Coutinho", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q1526473", "sub_label": "Julien-L\u00e9opold Boilly", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q1507922", "sub_label": "George Monro", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q3808536", "sub_label": "Joakim Alexandersson", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q495666", "sub_label": "Fredrik Hynning", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q7385279", "sub_label": "Ryohei Fujiwara", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q159", "obj_label": "Russia", "sub_uri": "Q1196066", "sub_label": "Balzhinima Tsyrempilov", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q1776530", "sub_label": "Justin Warsylewicz", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q29", "obj_label": "Spain", "sub_uri": "Q12265981", "sub_label": "Pilar de Zubiaurre", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q29", "obj_label": "Spain", "sub_uri": "Q3323051", "sub_label": "Francisco Frutos", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q33", "obj_label": "Finland", "sub_uri": "Q5535679", "sub_label": "Georg Ehrnrooth", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_uri": "Q7517052", "sub_label": "Silvia Stump", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q159", "obj_label": "Russia", "sub_uri": "Q1390611", "sub_label": "Oleg Lundstrem", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q29", "obj_label": "Spain", "sub_uri": "Q6752882", "sub_label": "Manuel Silvela y Garc\u00eda de Arag\u00f3n", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q7125461", "sub_label": "Pakhal Tirumal Reddy", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q4767546", "sub_label": "Anna Terrana", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q414", "obj_label": "Argentina", "sub_uri": "Q6729857", "sub_label": "Magdalena Decilio", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q924", "obj_label": "Tanzania", "sub_uri": "Q3858838", "sub_label": "Miriam Odemba", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q843", "obj_label": "Pakistan", "sub_uri": "Q314774", "sub_label": "Salmaan Taseer", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q1193000", "sub_label": "Hiro Y\u016bki", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q717", "obj_label": "Venezuela", "sub_uri": "Q6300915", "sub_label": "Juan Rodriguez", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q5031908", "sub_label": "Candide Rochefort", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q232", "obj_label": "Kazakhstan", "sub_uri": "Q295991", "sub_label": "Alexander Vinokourov", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q214", "obj_label": "Slovakia", "sub_uri": "Q344719", "sub_label": "\u013dubom\u00edr Guldan", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q783", "obj_label": "Honduras", "sub_uri": "Q6697201", "sub_label": "Lucila Gamero de Medina", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q27", "obj_label": "Ireland", "sub_uri": "Q5219431", "sub_label": "Danielle Ryan", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q4859144", "sub_label": "Barbara McGivern", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q96", "obj_label": "Mexico", "sub_uri": "Q6782126", "sub_label": "Mar\u00eda Teresa Herrera", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q269372", "sub_label": "Bob Hawke", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q5126763", "sub_label": "Clarence Stork", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q227", "obj_label": "Azerbaijan", "sub_uri": "Q4071114", "sub_label": "Ogtay Asadov", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q2278628", "sub_label": "Tatsuhiko Shibusawa", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q38", "obj_label": "Italy", "sub_uri": "Q243037", "sub_label": "Arianna Follis", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q2341470", "sub_label": "Maurice Taieb", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q7282938", "sub_label": "Raghav Bahl", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q212", "obj_label": "Ukraine", "sub_uri": "Q434587", "sub_label": "Antonina Yefremova", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q45", "obj_label": "Portugal", "sub_uri": "Q1137630", "sub_label": "Michael Sim\u00f5es Domingues", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q766754", "sub_label": "Inky Mark", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q33", "obj_label": "Finland", "sub_uri": "Q5903411", "sub_label": "Jyrki Kasvi", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q16195912", "sub_label": "Alan Brahmst", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q650668", "sub_label": "Nils Landgren", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q403", "obj_label": "Serbia", "sub_uri": "Q1253326", "sub_label": "Vesna Pe\u0161i\u0107", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q843", "obj_label": "Pakistan", "sub_uri": "Q16018265", "sub_label": "Zari Sarfaraz", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q6789494", "sub_label": "Matt Watts", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q3297183", "sub_label": "Masashi Kudo", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q191", "obj_label": "Estonia", "sub_uri": "Q2071669", "sub_label": "Enno Penno", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q189", "obj_label": "Iceland", "sub_uri": "Q949414", "sub_label": "Sigmar Vilhj\u00e1lmsson", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q37", "obj_label": "Lithuania", "sub_uri": "Q2080450", "sub_label": "Petras Au\u0161trevi\u010dius", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q155", "obj_label": "Brazil", "sub_uri": "Q4759901", "sub_label": "Andr\u00e9 Filho", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q33", "obj_label": "Finland", "sub_uri": "Q712805", "sub_label": "Matti Salminen", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q6792924", "sub_label": "Maurice Byblow", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q1033", "obj_label": "Nigeria", "sub_uri": "Q7782290", "sub_label": "Theophilus Danjuma", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q117", "obj_label": "Ghana", "sub_uri": "Q1702568", "sub_label": "Jojo Cobbinah", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q334", "obj_label": "Singapore", "sub_uri": "Q5925567", "sub_label": "Huang Jianli", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_uri": "Q16211207", "sub_label": "Ernst Tognetti", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q541643", "sub_label": "Pierre-Gaspard Chaumette", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q7792197", "sub_label": "Thomas Martin", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q241", "obj_label": "Cuba", "sub_uri": "Q7029503", "sub_label": "Nicolas Arroyo", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q4755659", "sub_label": "Andreas Valdix", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q29", "obj_label": "Spain", "sub_uri": "Q10331431", "sub_label": "Modesto Brocos G\u00f3mez", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q796", "obj_label": "Iraq", "sub_uri": "Q5908946", "sub_label": "Hossam Mohammed Amin", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q805", "obj_label": "Yemen", "sub_uri": "Q7306912", "sub_label": "Reem Al Numery", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q9166113", "sub_label": "Bartosz Gawryszewski", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q927964", "sub_label": "Keiji Mutoh", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q5394465", "sub_label": "Ernie Epp", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q31", "obj_label": "Belgium", "sub_uri": "Q645890", "sub_label": "Louis De Lannoy", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q889", "obj_label": "Afghanistan", "sub_uri": "Q1134733", "sub_label": "Mir Akbar Khyber", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q1033", "obj_label": "Nigeria", "sub_uri": "Q4838024", "sub_label": "Babs Fafunwa", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q403", "obj_label": "Serbia", "sub_uri": "Q1375936", "sub_label": "Ivan Stevi\u0107", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q794", "obj_label": "Iran", "sub_uri": "Q6892196", "sub_label": "Mohammad Mofatteh", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q801", "obj_label": "Israel", "sub_uri": "Q12407771", "sub_label": "Yadin Dudai", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q218", "obj_label": "Romania", "sub_uri": "Q5129458", "sub_label": "Claudiu Varlam", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q442492", "sub_label": "Steven Nzonzi", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q2419256", "sub_label": "Jean-Claude Lebaube", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q345556", "sub_label": "\u0141ukasz Gikiewicz", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q719027", "sub_label": "Ren\u00e9 Riffaud", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q7815963", "sub_label": "Tom Goode", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q27", "obj_label": "Ireland", "sub_uri": "Q6396865", "sub_label": "Kevin Martin", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q15443253", "sub_label": "Swapan Kumar Chakravorty", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q5314371", "sub_label": "Duncan Graham", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q958587", "sub_label": "Frank Hurley", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q215", "obj_label": "Slovenia", "sub_uri": "Q5242096", "sub_label": "Davor Mizerit", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q736", "obj_label": "Ecuador", "sub_uri": "Q734630", "sub_label": "Eduardo Kingman", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q16243732", "sub_label": "Anita Bergman", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q1045", "obj_label": "Somalia", "sub_uri": "Q6890941", "sub_label": "Mohamed Abdi Aware", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q766", "obj_label": "Jamaica", "sub_uri": "Q4773077", "sub_label": "Anthony McNeill", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q2162753", "sub_label": "Roland Fra\u00efss\u00e9", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q35", "obj_label": "Denmark", "sub_uri": "Q1743095", "sub_label": "Poul Hansen", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q33", "obj_label": "Finland", "sub_uri": "Q15623220", "sub_label": "Musta Barbaari", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q38", "obj_label": "Italy", "sub_uri": "Q455809", "sub_label": "Bruno Cirillo", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q908632", "sub_label": "Gr\u00e9gory Gaultier", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q6774325", "sub_label": "Martha Ansara", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q4909203", "sub_label": "Bill Grayden", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q5684", "obj_label": "Babylon", "sub_uri": "Q208336", "sub_label": "Sargon II", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q350107", "sub_label": "Sol Bamba", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q6792288", "sub_label": "Maude Bonney", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q183", "obj_label": "Germany", "sub_uri": "Q434810", "sub_label": "Xu Huaiwen", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q403", "obj_label": "Serbia", "sub_uri": "Q204723", "sub_label": "Mirko Cvetkovi\u0107", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q7350183", "sub_label": "Robert Sward", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q708780", "sub_label": "Pehr Henrik Ling", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q183", "obj_label": "Germany", "sub_uri": "Q871685", "sub_label": "Gerd Gradwohl", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q38", "obj_label": "Italy", "sub_uri": "Q3748949", "sub_label": "Fosco Risorti", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q87717", "sub_label": "Thomas Szczeponik", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q55", "obj_label": "Netherlands", "sub_uri": "Q5716160", "sub_label": "Henrik Brenkman", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q212", "obj_label": "Ukraine", "sub_uri": "Q1348657", "sub_label": "Viktor Pynzenyk", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q29", "obj_label": "Spain", "sub_uri": "Q298773", "sub_label": "Mariano Jos\u00e9 de Larra", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q2059198", "sub_label": "Maude Abbott", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q928", "obj_label": "Philippines", "sub_uri": "Q7276865", "sub_label": "RJ Jazul", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q5240639", "sub_label": "David Vernon", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q2144837", "sub_label": "Arisa Komiya", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q794", "obj_label": "Iran", "sub_uri": "Q6874808", "sub_label": "Mirza Abutaleb Zanjani", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q794", "obj_label": "Iran", "sub_uri": "Q6983371", "sub_label": "Nazenin Ansari", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q6836063", "sub_label": "Micha\u0142 Sczaniecki", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q843", "obj_label": "Pakistan", "sub_uri": "Q8061972", "sub_label": "Yusuf Khattak", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q16011572", "sub_label": "James Frederick Gosnell", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q27", "obj_label": "Ireland", "sub_uri": "Q7839107", "sub_label": "Trevor Croly", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q224", "obj_label": "Croatia", "sub_uri": "Q6290882", "sub_label": "Josip Klarica", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q155", "obj_label": "Brazil", "sub_uri": "Q5561377", "sub_label": "Gilberto Meireles Ferreira", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q252", "obj_label": "Indonesia", "sub_uri": "Q4201155", "sub_label": "Tjipto Mangoenkoesoemo", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q11545823", "sub_label": "Shinichi Takeuchi", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q31", "obj_label": "Belgium", "sub_uri": "Q2291307", "sub_label": "Mark Dubrulle", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q35", "obj_label": "Denmark", "sub_uri": "Q2423043", "sub_label": "Thomas Clausen", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q224", "obj_label": "Croatia", "sub_uri": "Q18350265", "sub_label": "Dario Melnjak", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q232588", "sub_label": "Miyoshi Umeki", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q3724685", "sub_label": "Emmanuel Itier", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q96", "obj_label": "Mexico", "sub_uri": "Q5591554", "sub_label": "Graciela Beltr\u00e1n", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q5272992", "sub_label": "Dick Healey", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q6813454", "sub_label": "Melody Francis", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q7800496", "sub_label": "Tibor Paul", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q117", "obj_label": "Ghana", "sub_uri": "Q16733874", "sub_label": "Isaac Osei", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q38", "obj_label": "Italy", "sub_uri": "Q7606419", "sub_label": "Stefano Crisci", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q843", "obj_label": "Pakistan", "sub_uri": "Q17004378", "sub_label": "Azra Jehan", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q218", "obj_label": "Romania", "sub_uri": "Q7916588", "sub_label": "Vasile Av\u0103danei", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q1033", "obj_label": "Nigeria", "sub_uri": "Q532463", "sub_label": "Angela Colley", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q553180", "sub_label": "Harald Treutiger", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q211", "obj_label": "Latvia", "sub_uri": "Q449386", "sub_label": "Alvis Hermanis", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q7024331", "sub_label": "Nic Youngblud", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q3081144", "sub_label": "Ikumi Yoshimatsu", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q27", "obj_label": "Ireland", "sub_uri": "Q3183249", "sub_label": "Jonah Barrington", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q9296985", "sub_label": "Miros\u0142aw Pawlak", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q5619150", "sub_label": "Gunnar Thorvaldson", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q43", "obj_label": "Turkey", "sub_uri": "Q5422910", "sub_label": "Eylem \u015eenkal", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_uri": "Q1059690", "sub_label": "Werner Otto Leuenberger", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q887363", "sub_label": "Bo Ericson", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q3183914", "sub_label": "Joris Daudet", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q403", "obj_label": "Serbia", "sub_uri": "Q7171738", "sub_label": "Petar Perunovi\u0107", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q35", "obj_label": "Denmark", "sub_uri": "Q12303526", "sub_label": "Birgitte Nyborg", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q184", "obj_label": "Belarus", "sub_uri": "Q4720685", "sub_label": "Alexandra Maksimova", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q38", "obj_label": "Italy", "sub_uri": "Q1442528", "sub_label": "Franco Balducci", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q31", "obj_label": "Belgium", "sub_uri": "Q232785", "sub_label": "Father Damien", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q414", "obj_label": "Argentina", "sub_uri": "Q2894784", "sub_label": "Camilo Echevarr\u00eda", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q7422869", "sub_label": "Sarah Vinci", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q7052605", "sub_label": "Norman McLeod Paterson", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q414", "obj_label": "Argentina", "sub_uri": "Q5381492", "sub_label": "Enzo Bruno", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q723807", "sub_label": "Brent Sutter", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q183", "obj_label": "Germany", "sub_uri": "Q241360", "sub_label": "Franka Dietzsch", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q115", "obj_label": "Ethiopia", "sub_uri": "Q420192", "sub_label": "Aklilu Habte-Wold", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q212", "obj_label": "Ukraine", "sub_uri": "Q16235054", "sub_label": "Ruslan Stepanyuk", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q36", "obj_label": "Poland", "sub_uri": "Q6835982", "sub_label": "Micha\u0142 Bartoszak", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q29", "obj_label": "Spain", "sub_uri": "Q3390630", "sub_label": "Saturnino \u00c1lvarez Bugallal", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q668", "obj_label": "India", "sub_uri": "Q4901928", "sub_label": "Bhola Paswan Shashtri", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q38", "obj_label": "Italy", "sub_uri": "Q5241584", "sub_label": "Davide Stirpe", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q414", "obj_label": "Argentina", "sub_uri": "Q6762330", "sub_label": "Mariano Campod\u00f3nico", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q5218129", "sub_label": "Daniel McNeil", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q2830088", "sub_label": "Alain Marty", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q6243314", "sub_label": "John Knight", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q20", "obj_label": "Norway", "sub_uri": "Q1770339", "sub_label": "Inga Marte Thorkildsen", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q159", "obj_label": "Russia", "sub_uri": "Q4470894", "sub_label": "Vladimir Ulas", "predicate_id": "P27"}
+{"uuid": "", "obj_uri": "Q41", "obj_label": "Greece", "sub_uri": "Q1226035", "sub_label": "Dimitris Poulikakos", "predicate_id": "P27"}

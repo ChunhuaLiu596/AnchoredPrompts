@@ -1,0 +1,601 @@
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q7504304", "sub_label": "Shrouds of the Night", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8134", "obj_label": "economics", "sub_uri": "Q233950", "sub_label": "Daniel Kahneman", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q514", "obj_label": "anatomy", "sub_uri": "Q2499418", "sub_label": "Thomas Wharton", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q514", "obj_label": "anatomy", "sub_uri": "Q3650588", "sub_label": "Ilya Gruzinov", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q535860", "sub_label": "Edwin Hall", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q30185", "obj_label": "mayor", "sub_uri": "Q1938743", "sub_label": "Paulus Verschuur", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q53121", "obj_label": "cycling", "sub_uri": "Q377231", "sub_label": "Chris Carmichael", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q521", "obj_label": "physiology", "sub_uri": "Q4066893", "sub_label": "Victor Henri", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q521", "obj_label": "physiology", "sub_uri": "Q64262", "sub_label": "Karl Theodor Ernst von Siebold", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q11190", "obj_label": "medicine", "sub_uri": "Q86252", "sub_label": "Max Saenger", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q23404", "obj_label": "anthropology", "sub_uri": "Q4123362", "sub_label": "Fedir Vovk", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q64418", "obj_label": "artillery", "sub_uri": "Q14539987", "sub_label": "Konstantinos Smolenskis", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q9418", "obj_label": "psychology", "sub_uri": "Q62895", "sub_label": "Ulric Neisser", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q309", "obj_label": "history", "sub_uri": "Q17489551", "sub_label": "Marc Raeff", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q2975510", "sub_label": "Ibrahim ibn Sinan", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q34178", "obj_label": "theology", "sub_uri": "Q4403328", "sub_label": "Manuel de S\u00e1", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q656931", "sub_label": "Joseph W. Goodman", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q134307", "obj_label": "portrait", "sub_uri": "Q577974", "sub_label": "Johannes Cornelisz Verspronck", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q1071", "obj_label": "geography", "sub_uri": "Q1823362", "sub_label": "Carl O. Sauer", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q184592", "sub_label": "Gerard 't Hooft", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q5891", "obj_label": "philosophy", "sub_uri": "Q7577656", "sub_label": "Spinoza: Practical Philosophy", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q5891", "obj_label": "philosophy", "sub_uri": "Q76510", "sub_label": "Christian Wolff", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q514", "obj_label": "anatomy", "sub_uri": "Q89179", "sub_label": "Hermann Welcker", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q765633", "obj_label": "aviation", "sub_uri": "Q1969133", "sub_label": "Richard Pearse", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q11822753", "sub_label": "Polish Chemical Society", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q21201", "obj_label": "sociology", "sub_uri": "Q13410227", "sub_label": "Ruut Veenhoven", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q445815", "sub_label": "Th\u00e9ophile-Jules Pelouze", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q74709", "sub_label": "Christoph Rothmann", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q34178", "obj_label": "theology", "sub_uri": "Q333534", "sub_label": "Petrus Plancius", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q9134", "obj_label": "mythology", "sub_uri": "Q310590", "sub_label": "Georges Dum\u00e9zil", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q7150", "obj_label": "ecology", "sub_uri": "Q5240703", "sub_label": "David Goodall", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q3710503", "sub_label": "Marjorie Rice", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q2343498", "sub_label": "Kirstine Meyer", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q17884", "obj_label": "LGBT", "sub_uri": "Q17110475", "sub_label": "Gay and Lesbian Coalition of Kenya", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8078", "obj_label": "logic", "sub_uri": "Q922742", "sub_label": "Stanis\u0142aw Ja\u015bkowski", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q23404", "obj_label": "anthropology", "sub_uri": "Q15698786", "sub_label": "Ives Goddard", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q327185", "sub_label": "Thomas Johann Seebeck", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q376856", "sub_label": "Adrien Auzout", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q17884", "obj_label": "LGBT", "sub_uri": "Q17182150", "sub_label": "Bunnies on the Bayou", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q2996054", "sub_label": "Sabir Yunusov", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q420", "obj_label": "biology", "sub_uri": "Q353689", "sub_label": "Harry Eagle", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q39631", "obj_label": "physician", "sub_uri": "Q653165", "sub_label": "Nicolaus Mulerius", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q18602031", "sub_label": "Wilfrid Hickinbottom", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q5891", "obj_label": "philosophy", "sub_uri": "Q350239", "sub_label": "Thomas Nagel", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q10565017", "sub_label": "Henry P. H. Bromwell", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q4964182", "obj_label": "philosopher", "sub_uri": "Q520726", "sub_label": "Juli\u00e1n Mar\u00edas", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q735", "obj_label": "art", "sub_uri": "Q17198254", "sub_label": "Tomasz Kitli\u0144ski", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q5545637", "sub_label": "George W. Hart", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q521", "obj_label": "physiology", "sub_uri": "Q68146", "sub_label": "Gabriel Valentin", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8134", "obj_label": "economics", "sub_uri": "Q71853", "sub_label": "Gustav Cohn", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q5891", "obj_label": "philosophy", "sub_uri": "Q278583", "sub_label": "A. C. Grayling", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q47928", "obj_label": "circus", "sub_uri": "Q17413079", "sub_label": "Richard Risley Carlisle", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q521", "obj_label": "physiology", "sub_uri": "Q931903", "sub_label": "Edmund Jacobson", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q275604", "sub_label": "Ingrid Daubechies", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q852865", "sub_label": "Gy\u00f6rgy Haj\u00f3s", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q5442357", "sub_label": "Felix Weinberg", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q3588702", "sub_label": "Emile Plantamour", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q7446571", "sub_label": "Seibert Q. Duntley", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q21201", "obj_label": "sociology", "sub_uri": "Q778897", "sub_label": "Georges Davy", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q514", "obj_label": "anatomy", "sub_uri": "Q116261", "sub_label": "Ludwig Ruetimeyer", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q6140742", "sub_label": "James P. C. Southall", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q47928", "obj_label": "circus", "sub_uri": "Q3065157", "sub_label": "Fratellini family", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q64418", "obj_label": "artillery", "sub_uri": "Q2910938", "sub_label": "Boris Shavyrin", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q672378", "sub_label": "Valentine Telegdi", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q309", "obj_label": "history", "sub_uri": "Q1047933", "sub_label": "Mikhail Evgenievich Masson", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q246592", "sub_label": "Fritz London Memorial Prizes", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q521", "obj_label": "physiology", "sub_uri": "Q4498779", "sub_label": "Boris Khodorov", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q336", "obj_label": "science", "sub_uri": "Q7566983", "sub_label": "South Dakota School of Mines and Technology", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q5314611", "sub_label": "Duncan Sommerville", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q5219687", "sub_label": "Danish Astronomical Society", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q11169443", "sub_label": "John Harris", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q373799", "sub_label": "Giovanni Antonio Amedeo Plana", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q3709235", "sub_label": "W\u0142odzimierz Kuperberg", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q17514", "obj_label": "graffiti", "sub_uri": "Q5422597", "sub_label": "EyeWriter", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q23404", "obj_label": "anthropology", "sub_uri": "Q3514592", "sub_label": "Paul Gebhard", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q10564973", "sub_label": "Gheorghe \u021ai\u021beica", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q16105569", "sub_label": "Lev M. Bregman", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q2865351", "sub_label": "Arthur T. Benjamin", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q9465", "obj_label": "ethics", "sub_uri": "Q1386165", "sub_label": "Felix Adler", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q11169351", "sub_label": "Robert G. Greenler", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q34178", "obj_label": "theology", "sub_uri": "Q1681143", "sub_label": "James Strong", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q61090", "sub_label": "Friedrich Kohlrausch", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q34178", "obj_label": "theology", "sub_uri": "Q91449", "sub_label": "Karl Ludwig Nitzsch", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q11190", "obj_label": "medicine", "sub_uri": "Q8059648", "sub_label": "Yrj\u00f6 Jahnsson Foundation", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q468303", "sub_label": "Anders Gustaf Ekeberg", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q309", "obj_label": "history", "sub_uri": "Q66729", "sub_label": "Theodor von Sickel", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q112983", "obj_label": "memoir", "sub_uri": "Q16857297", "sub_label": "Charlotte Anne Eaton", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q66389", "sub_label": "Christoph Arnold", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q450297", "sub_label": "Marina Ratner", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q195", "obj_label": "chocolate", "sub_uri": "Q3588293", "sub_label": "\u00c9mile-Justin Menier", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q765741", "sub_label": "Chandra Wickramasinghe", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q1992801", "sub_label": "Konstantin Andreev", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q9418", "obj_label": "psychology", "sub_uri": "Q58851", "sub_label": "Karl B\u00fchler", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q7252", "obj_label": "feminism", "sub_uri": "Q8031205", "sub_label": "Women's liberation movement", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q7150", "obj_label": "ecology", "sub_uri": "Q4521662", "sub_label": "Stanislav Shwarts", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q514", "obj_label": "anatomy", "sub_uri": "Q367016", "sub_label": "Realdo Colombo", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q3242115", "obj_label": "revolutionary", "sub_uri": "Q234980", "sub_label": "Vera Zasulich", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q11059", "obj_label": "Sanskrit", "sub_uri": "Q92103", "sub_label": "Theodor Goldst\u00fccker", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q78392", "sub_label": "Wilhelm Holtz", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q63581", "sub_label": "Johann Georg Palitzsch", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q680944", "sub_label": "Jean-Augustin Barral", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q9418", "obj_label": "psychology", "sub_uri": "Q275040", "sub_label": "\u00c9mile Cou\u00e9", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q5891", "obj_label": "philosophy", "sub_uri": "Q3556231", "sub_label": "Eulogios Kourilas Lauriotis", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q309", "obj_label": "history", "sub_uri": "Q77184", "sub_label": "Leopold von Ranke", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q47928", "obj_label": "circus", "sub_uri": "Q17436683", "sub_label": "Dick Chipperfield", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q16924", "sub_label": "J\u00e1nos Bolyai", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q728434", "sub_label": "Charles Augustus Young", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q2832520", "sub_label": "Aleksandr Aleksandrovich Mikhailov", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q3900144", "sub_label": "Perseus", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q379755", "obj_label": "arrangement", "sub_uri": "Q191819", "sub_label": "George Martin", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q5543631", "sub_label": "George R. Harrison", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q8210183", "sub_label": "Avelino Corma Can\u00f3s", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q77309", "sub_label": "Friedrich Stromeyer", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q34178", "obj_label": "theology", "sub_uri": "Q5982202", "sub_label": "Ian Markham", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q7252", "obj_label": "feminism", "sub_uri": "Q17300342", "sub_label": "Catherine Lord", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q1266186", "sub_label": "Theodosius of Bithynia", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q2602204", "sub_label": "Alexei Fridman", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q1252426", "sub_label": "Reginald W. James", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q21201", "obj_label": "sociology", "sub_uri": "Q4520065", "sub_label": "Teodor Shanin", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q1397993", "sub_label": "Victor Veselago", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q15787", "obj_label": "HIV", "sub_uri": "Q17182491", "sub_label": "AIDS Foundation Houston", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q2389099", "sub_label": "Vazgen Manukyan", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q420", "obj_label": "biology", "sub_uri": "Q6804646", "sub_label": "biological mechanism", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q492476", "sub_label": "Ben Gascoigne", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q1351860", "sub_label": "Lawrence H. Aller", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q256928", "sub_label": "Felix Zandman", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q17884", "obj_label": "LGBT", "sub_uri": "Q17276119", "sub_label": "Daniel C. Tsang", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q239904", "sub_label": "Richard S. Hamilton", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q23404", "obj_label": "anthropology", "sub_uri": "Q2360643", "sub_label": "Valeri Pavlovich Alekseyev", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q1946999", "sub_label": "Patrick d'Arcy", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q893615", "sub_label": "Boris Kordemsky", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q5891", "obj_label": "philosophy", "sub_uri": "Q651337", "sub_label": "Institut Jean Nicod", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q11059", "obj_label": "Sanskrit", "sub_uri": "Q72205", "sub_label": "Albrecht Weber", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q11451", "obj_label": "agriculture", "sub_uri": "Q1364302", "sub_label": "agriculture ministry", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q15787", "obj_label": "HIV", "sub_uri": "Q3461286", "sub_label": "Safiatou Thiam", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q1063883", "sub_label": "Charles C. Steidel", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q11190", "obj_label": "medicine", "sub_uri": "Q1337870", "sub_label": "Matthaeus Silvaticus", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q1973460", "sub_label": "Leonid Sedov", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q51", "obj_label": "Antarctica", "sub_uri": "Q4958705", "sub_label": "Brazilian Antarctic Program", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q5891", "obj_label": "philosophy", "sub_uri": "Q62744", "sub_label": "yin and yan", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q110869", "sub_label": "William Lassell", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q51", "obj_label": "Antarctica", "sub_uri": "Q4789272", "sub_label": "Argentine Antarctic Program", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q309", "obj_label": "history", "sub_uri": "Q683535", "sub_label": "Oswald Balzer", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q538399", "sub_label": "Gerard K. O'Neill", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q286074", "sub_label": "\u00c9mile Lemoine", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q11190", "obj_label": "medicine", "sub_uri": "Q66976", "sub_label": "Friedrich Jolly", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q46721", "obj_label": "vampire", "sub_uri": "Q1058307", "sub_label": "vampire hunter", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q617374", "sub_label": "Frank Wilcoxon", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q81009", "obj_label": "rhetoric", "sub_uri": "Q923839", "sub_label": "Menander Rhetor", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q39631", "obj_label": "physician", "sub_uri": "Q629957", "sub_label": "Nikolaes Heinsius the Younger", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q4236412", "sub_label": "Lennox Cowie", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q1071", "obj_label": "geography", "sub_uri": "Q2068877", "sub_label": "Chauncy Harris", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q252725", "sub_label": "Pavel Shternberg", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q1071", "obj_label": "geography", "sub_uri": "Q326010", "sub_label": "Pyotr Semyonov-Tyan-Shansky", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q64188", "sub_label": "Roy J. Glauber", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q7252", "obj_label": "feminism", "sub_uri": "Q1962386", "sub_label": "Dolle Mina", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q765633", "obj_label": "aviation", "sub_uri": "Q5335826", "sub_label": "Eddie August Schneider", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q1356811", "sub_label": "Joseph Sauveur", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q3968", "obj_label": "algebra", "sub_uri": "Q77512", "sub_label": "Heinrich Martin Weber", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q420", "obj_label": "biology", "sub_uri": "Q311187", "sub_label": "Francesco Redi", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q521", "obj_label": "physiology", "sub_uri": "Q725855", "sub_label": "Charles-\u00c9douard Brown-S\u00e9quard", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8134", "obj_label": "economics", "sub_uri": "Q1555719", "sub_label": "Gustav Cassel", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q107420", "sub_label": "Sheldon Lee Glashow", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q967356", "sub_label": "Richard Swineshead", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q12131", "obj_label": "disability", "sub_uri": "Q1383056", "sub_label": "Association of Mouth and Foot Painting Artists of the World", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q514", "obj_label": "anatomy", "sub_uri": "Q92280", "sub_label": "Johannes Sobotta", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q514", "obj_label": "anatomy", "sub_uri": "Q2253880", "sub_label": "Leopoldo Marco Antonio Caldani", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q711273", "sub_label": "Isma\u00ebl Bullialdus", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q9418", "obj_label": "psychology", "sub_uri": "Q573726", "sub_label": "Neal E. Miller", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q6694502", "sub_label": "Loyd A. Jones", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q123478", "sub_label": "Simon Antoine Jean L'Huilier", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q149972", "obj_label": "calculus", "sub_uri": "Q1235148", "sub_label": "Grigorii Mikhailovich Fichtenholz", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q2721074", "sub_label": "Vasily Vladimirovich Petrov", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q12078", "obj_label": "cancer", "sub_uri": "Q4793502", "sub_label": "May Edward Chinn", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q7075", "obj_label": "library", "sub_uri": "Q18610122", "sub_label": "Municipal Library Consortium of St. Louis County", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q4531321", "sub_label": "Mervyn A. Ellison", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q4296928", "sub_label": "Ormsby M. Mitchel", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q219477", "obj_label": "missionary", "sub_uri": "Q1344575", "sub_label": "Francisco \u00c1lvares", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q311220", "sub_label": "James Craig Watson", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q4056098", "sub_label": "Australian Mathematical Sciences Institute", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q901253", "sub_label": "list of chemistry journals", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q5891", "obj_label": "philosophy", "sub_uri": "Q2337078", "sub_label": "Ioannis Theodorakopoulos", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q11059", "obj_label": "Sanskrit", "sub_uri": "Q17024750", "sub_label": "Gouri Dharmapal", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q185674", "sub_label": "field", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q21201", "obj_label": "sociology", "sub_uri": "Q465376", "sub_label": "American Journal of Sociology", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q70905", "sub_label": "Friedrich Engel", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q11059", "obj_label": "Sanskrit", "sub_uri": "Q16030506", "sub_label": "Edward Elbridge Salisbury", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q1793865", "sub_label": "Kurt Mendelssohn", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8274", "obj_label": "manga", "sub_uri": "Q9034266", "sub_label": "Ichir\u014d Sakaki", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q9418", "obj_label": "psychology", "sub_uri": "Q5407279", "sub_label": "Eugene Galanter", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q8189869", "sub_label": "Adri\u00e1n Paenza", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q5891", "obj_label": "philosophy", "sub_uri": "Q4068976", "sub_label": "Sen Arevshatyan", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q5219586", "sub_label": "Danilo Blanu\u0161a", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q514", "obj_label": "anatomy", "sub_uri": "Q68312", "sub_label": "Robert Hartmann", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q9418", "obj_label": "psychology", "sub_uri": "Q7318382", "sub_label": "Review of Philosophy and Psychology", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q4721259", "sub_label": "Alexei Borodin", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q21201", "obj_label": "sociology", "sub_uri": "Q6131319", "sub_label": "James Chowning Davies", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q6390394", "sub_label": "Kenneth M. Baird", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q11190", "obj_label": "medicine", "sub_uri": "Q72927", "sub_label": "Ottomar Rosenbach", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q7926321", "sub_label": "Victor Schlegel", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q521", "obj_label": "physiology", "sub_uri": "Q4290040", "sub_label": "Samuel James Meltzer", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q7439226", "sub_label": "Scripta Mathematica", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q9465", "obj_label": "ethics", "sub_uri": "Q6132223", "sub_label": "James D. Wallace", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q558995", "sub_label": "Elia Millosevich", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q514", "obj_label": "anatomy", "sub_uri": "Q73124", "sub_label": "Heinrich M\u00fcller", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q78427", "sub_label": "Johann Bayer", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q91655", "sub_label": "Karl Seebach", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q34178", "obj_label": "theology", "sub_uri": "Q184750", "sub_label": "Slavoj \u017di\u017eek", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q215867", "sub_label": "Carl Anton Bretschneider", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q9418", "obj_label": "psychology", "sub_uri": "Q84386", "sub_label": "Bruno Bettelheim", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q1344", "obj_label": "opera", "sub_uri": "Q875506", "sub_label": "Giovanni Andrea Bontempi", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q614304", "obj_label": "pharmacy", "sub_uri": "Q8054621", "sub_label": "Yokohama College of Pharmacy", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q40244", "obj_label": "marathon", "sub_uri": "Q1927083", "sub_label": "Michael Buchleitner", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8078", "obj_label": "logic", "sub_uri": "Q4104666", "sub_label": "Nicolai Vasiliev", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q312278", "sub_label": "James Bradley", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q8030036", "sub_label": "Wolfgang Bauer", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q735", "obj_label": "art", "sub_uri": "Q6747261", "sub_label": "Manchester Academy of Fine Arts", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q9418", "obj_label": "psychology", "sub_uri": "Q274156", "sub_label": "Marsha M. Linehan", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q121176", "obj_label": "nursing", "sub_uri": "Q4838827", "sub_label": "Bachelor of Science in Nursing", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q4156812", "sub_label": "Michel Deza", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q21201", "obj_label": "sociology", "sub_uri": "Q15948", "sub_label": "\u00c9mile Durkheim", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q309", "obj_label": "history", "sub_uri": "Q4264158", "sub_label": "Nikolay Likhachyov", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q7287136", "sub_label": "Ralph A. Sawyer", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q11190", "obj_label": "medicine", "sub_uri": "Q6806523", "sub_label": "medical education in the United States", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q521", "obj_label": "physiology", "sub_uri": "Q4194299", "sub_label": "Anatoly Zubkov", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q11190", "obj_label": "medicine", "sub_uri": "Q1959294", "sub_label": "Carl Ludwig Sigmund", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q5526135", "sub_label": "Gary Westfall", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q309", "obj_label": "history", "sub_uri": "Q61751", "sub_label": "Moritz Cantor", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q514", "obj_label": "anatomy", "sub_uri": "Q944360", "sub_label": "William Hunter", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q3968", "obj_label": "algebra", "sub_uri": "Q930645", "sub_label": "Israel Nathan Herstein", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q336", "obj_label": "science", "sub_uri": "Q7891195", "sub_label": "United States President's Council of Advisors on Science and Technology", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q1508082", "sub_label": "George Placzek", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q76948", "sub_label": "Caroline Herschel", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q521", "obj_label": "physiology", "sub_uri": "Q4294042", "sub_label": "Rinad Minvaleyev", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q355096", "sub_label": "K. C. Nicolaou", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q708011", "sub_label": "Jean-Antoine Chaptal", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q468316", "sub_label": "Carl Gustaf Mosander", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q77487", "sub_label": "Ernst Emil Alexander Back", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q2504766", "sub_label": "Humiaki Huzita", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q4180253", "sub_label": "Leon Marchlewski", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q1071", "obj_label": "geography", "sub_uri": "Q7509429", "sub_label": "Sidney William Wooldridge", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q2622950", "sub_label": "Gabriel Mouton", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q4279819", "sub_label": "Yusif Mammadaliyev", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q11190", "obj_label": "medicine", "sub_uri": "Q76425", "sub_label": "Emil Adolf von Behring", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q232856", "sub_label": "Liisi Oterma", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q521", "obj_label": "physiology", "sub_uri": "Q89429", "sub_label": "Gustav von Bunge", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q34178", "obj_label": "theology", "sub_uri": "Q1989083", "sub_label": "Alexei Osipov", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q5396005", "sub_label": "Ervand Kogbetliantz", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q57189", "sub_label": "Hans Geiger", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q309", "obj_label": "history", "sub_uri": "Q74316", "sub_label": "Heinrich Leo", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q23404", "obj_label": "anthropology", "sub_uri": "Q389731", "sub_label": "Anatoli Petrovich Bogdanov", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q72846", "sub_label": "Arthur Wehnelt", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q192296", "obj_label": "weaving", "sub_uri": "Q17421370", "sub_label": "Berta Frey", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q5239925", "sub_label": "David Snoke", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q39631", "obj_label": "physician", "sub_uri": "Q642648", "sub_label": "Job Janszoon van Meekeren", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q983385", "sub_label": "John C. Baez", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q171637", "sub_label": "Giovanni Aldini", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q5663967", "sub_label": "Harrie Massey Medal and Prize", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q1071", "obj_label": "geography", "sub_uri": "Q3651259", "sub_label": "Alexander Javakhishvili", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q1930187", "obj_label": "journalist", "sub_uri": "Q709844", "sub_label": "Finn Gustavsen", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q9418", "obj_label": "psychology", "sub_uri": "Q562048", "sub_label": "Giacomo Rizzolatti", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q9465", "obj_label": "ethics", "sub_uri": "Q1680038", "sub_label": "James Black Baillie", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q9418", "obj_label": "psychology", "sub_uri": "Q213674", "sub_label": "Max Wertheimer", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q9418", "obj_label": "psychology", "sub_uri": "Q951710", "sub_label": "Richard Lynn", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q765633", "obj_label": "aviation", "sub_uri": "Q1172477", "sub_label": "air traffic service", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q39631", "obj_label": "physician", "sub_uri": "Q726381", "sub_label": "Jacobus Bontius", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q564831", "sub_label": "L\u00e1szl\u00f3 Fejes T\u00f3th", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q487768", "sub_label": "Anatoly Larkin", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q11190", "obj_label": "medicine", "sub_uri": "Q76110", "sub_label": "Hermann Krukenberg", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q5891", "obj_label": "philosophy", "sub_uri": "Q4963278", "sub_label": "Brian Cantwell Smith", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q7174", "obj_label": "democracy", "sub_uri": "Q454970", "sub_label": "Samantha Power", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q279892", "sub_label": "Pietro Cataldi", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q900759", "sub_label": "Laurent-Guillaume de Koninck", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q1441110", "sub_label": "Francesco Manca", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q1384951", "sub_label": "Victor Zalgaller", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q521", "obj_label": "physiology", "sub_uri": "Q159542", "sub_label": "Jan Evangelista Purkyn\u011b", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q7925942", "sub_label": "Victor Goryunov", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q67850", "sub_label": "Wilhelm von Bezold", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q6171073", "sub_label": "Jean M. Bennett", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q1472237", "sub_label": "Peter Franken", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q121176", "obj_label": "nursing", "sub_uri": "Q6785254", "sub_label": "Master of Science in Nursing", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q420", "obj_label": "biology", "sub_uri": "Q1379880", "sub_label": "Frederick W. True", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q1384614", "sub_label": "Jean Paul de Gua de Malves", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q489811", "obj_label": "Spanish", "sub_uri": "Q5645966", "sub_label": "Sociedad para el Estudio del Andaluz", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q7411946", "sub_label": "Samuel L. Greitzer", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q969675", "sub_label": "Joseph Solomon Delmedigo", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q11190", "obj_label": "medicine", "sub_uri": "Q4107019", "sub_label": "Nikolai Velyaminov", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q11190", "obj_label": "medicine", "sub_uri": "Q956848", "sub_label": "Jacob Gijsbertus Samu\u00ebl van Breda", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q909884", "sub_label": "E. T. Whittaker", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q212024", "obj_label": "Spiritual", "sub_uri": "Q273233", "sub_label": "Paul Robeson", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q7356139", "sub_label": "Rod C. Alferness", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q451701", "sub_label": "Trevor Wooley", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q152074", "obj_label": "bankruptcy", "sub_uri": "Q4856465", "sub_label": "Bankruptcy risk score", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q2700546", "sub_label": "Jean Darcet", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q4431232", "sub_label": "Hyron Spinrad", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q420", "obj_label": "biology", "sub_uri": "Q6415173", "sub_label": "Kiril Bratanov", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q1037", "obj_label": "Rwanda", "sub_uri": "Q6411797", "sub_label": "King Kigeli V Foundation", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q9418", "obj_label": "psychology", "sub_uri": "Q707929", "sub_label": "J. P. Guilford", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q9418", "obj_label": "psychology", "sub_uri": "Q2517965", "sub_label": "J\u00fcri Allik", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q335313", "sub_label": "Ab\u016b Sahl al-Q\u016bh\u012b", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q202138", "sub_label": "Daniel C. Tsui", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q39631", "obj_label": "physician", "sub_uri": "Q1673762", "sub_label": "Isbrand van Diemerbroeck", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q245572", "sub_label": "Olry Terquem", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q7661084", "sub_label": "Sylwester Porowski", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q765633", "obj_label": "aviation", "sub_uri": "Q162942", "sub_label": "intersection", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q369588", "sub_label": "Maxim Kontsevich", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q41217", "obj_label": "mechanics", "sub_uri": "Q1882685", "sub_label": "machine", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q1443851", "sub_label": "Frank Nelson Cole", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q141488", "sub_label": "graph", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q5891", "obj_label": "philosophy", "sub_uri": "Q72100", "sub_label": "Georg Klaus", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q735", "obj_label": "art", "sub_uri": "Q4671475", "sub_label": "Academy of Fine Arts, Verona", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q2902906", "sub_label": "Rabbi Nehemiah", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q18763803", "sub_label": "Krishnaswami Alladi", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q4813213", "sub_label": "Athanasios Bouras", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q514", "obj_label": "anatomy", "sub_uri": "Q84970", "sub_label": "August von Froriep", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q9418", "obj_label": "psychology", "sub_uri": "Q5607055", "sub_label": "Gregory M. Herek", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q309", "obj_label": "history", "sub_uri": "Q513285", "sub_label": "Orlando Figes", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q1777741", "sub_label": "ACS Award in Pure Chemistry", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q514", "obj_label": "anatomy", "sub_uri": "Q603325", "sub_label": "Antonio Maria Valsalva", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q472118", "sub_label": "Herv\u00e9 Faye", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q1071", "obj_label": "geography", "sub_uri": "Q7502562", "sub_label": "Shotouka-Chiri", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q128758", "obj_label": "satire", "sub_uri": "Q188176", "sub_label": "William S. Burroughs", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q521", "obj_label": "physiology", "sub_uri": "Q1967689", "sub_label": "Alexei Alexeyevich Ukhtomsky", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q5891", "obj_label": "philosophy", "sub_uri": "Q441679", "sub_label": "Vadim Rogovin", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q27122", "sub_label": "Lubo\u0161 Kohoutek", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q57378", "sub_label": "Albert Marth", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q433318", "sub_label": "Aleksandr Ilyich Leypunskiy", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q254405", "sub_label": "Alain Maury", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q78670", "sub_label": "Peter Zoller", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q15633865", "sub_label": "Jumber Lominadze", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q107690", "sub_label": "Jean-Marie Lehn", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q355829", "sub_label": "Aden Meinel", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q5387671", "sub_label": "Eric Van Stryland", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q12204", "obj_label": "tuberculosis", "sub_uri": "Q2624918", "sub_label": "phthisiology", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q379755", "obj_label": "arrangement", "sub_uri": "Q5106094", "sub_label": "Chris Carmichael", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8091", "obj_label": "grammar", "sub_uri": "Q983355", "sub_label": "Sibawayh", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q1699566", "sub_label": "John Casey", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q332105", "sub_label": "Jacques Charles", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q17141489", "sub_label": "intersection", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8078", "obj_label": "logic", "sub_uri": "Q705010", "sub_label": "Walter Pitts", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q11190", "obj_label": "medicine", "sub_uri": "Q338661", "sub_label": "Antonio Musa Brassavola", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q1386175", "sub_label": "Samuel Earnshaw", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q17884", "obj_label": "LGBT", "sub_uri": "Q851221", "sub_label": "Budapest Pride", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q4396449", "sub_label": "Martin Andr\u00e9 Rosanoff", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q6170886", "sub_label": "Jean-Jacques Moreau", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q6258348", "sub_label": "John Smith", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q10294", "obj_label": "poverty", "sub_uri": "Q2101358", "sub_label": "World Population Foundation", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q5891", "obj_label": "philosophy", "sub_uri": "Q69547", "sub_label": "Friedrich Ludewig Bouterwek", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q309", "obj_label": "history", "sub_uri": "Q4444094", "sub_label": "Pavel Stroyev", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q34178", "obj_label": "theology", "sub_uri": "Q4195049", "sub_label": "Nicholas Zernov", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q39631", "obj_label": "physician", "sub_uri": "Q3282772", "sub_label": "Gerard Blasius", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q80884", "sub_label": "James Chadwick", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q184571", "sub_label": "Polykarp Kusch", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q34178", "obj_label": "theology", "sub_uri": "Q15453298", "sub_label": "Charles E. Raven", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q62336", "sub_label": "Baron Wilhelm von Biela", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q311567", "sub_label": "Johannes Rydberg", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q17884", "obj_label": "LGBT", "sub_uri": "Q6458109", "sub_label": "LGBT rights in New York", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q77551", "sub_label": "Carl Engler", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q936255", "sub_label": "Johannes Hjelmslev", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q39631", "obj_label": "physician", "sub_uri": "Q972307", "sub_label": "Willem ten Rhijne", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q5113", "obj_label": "bird", "sub_uri": "Q1849551", "sub_label": "Spanish Ornithological Society", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q434113", "sub_label": "Bengt Str\u00f6mgren", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q521", "obj_label": "physiology", "sub_uri": "Q4419464", "sub_label": "Philip Seeman", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q5891", "obj_label": "philosophy", "sub_uri": "Q2607330", "sub_label": "Zakir Mammadov", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q1412", "obj_label": "Finnish", "sub_uri": "Q3361959", "sub_label": "Institute for the Languages of Finland", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q420", "obj_label": "biology", "sub_uri": "Q84345", "sub_label": "Ludwig von Bertalanffy", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q58720", "sub_label": "Mikhail Vassilyevich Lomonosov", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q21201", "obj_label": "sociology", "sub_uri": "Q6213706", "sub_label": "Joel M. Podolny", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q5891", "obj_label": "philosophy", "sub_uri": "Q67007", "sub_label": "Thomas Metzinger", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q129133", "sub_label": "Sergey Kara-Murza", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q7150", "obj_label": "ecology", "sub_uri": "Q971382", "sub_label": "Aldo Leopold", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q1071", "obj_label": "geography", "sub_uri": "Q70286", "sub_label": "Emil von Sydow", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q3329781", "sub_label": "Thomas J. Balonek", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q735", "obj_label": "art", "sub_uri": "Q4974743", "sub_label": "Brooklyn Academy of Fine Arts", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q13376139", "sub_label": "J\u00fcrgen Kurths", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q1397496", "sub_label": "Orest Khvolson", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q420", "obj_label": "biology", "sub_uri": "Q4082454", "sub_label": "Andrey Belozersky", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q536400", "sub_label": "Jacques Philippe Marie Binet", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q65207", "sub_label": "Philipp von Jolly", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q1525965", "sub_label": "Giovanni Bianchini", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q451199", "sub_label": "Henry DeWolf Smyth", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q152074", "obj_label": "bankruptcy", "sub_uri": "Q4867224", "sub_label": "Basil Montagu", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q1972175", "sub_label": "Fiodar Fiodara\u016d", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q741940", "sub_label": "Boris Vorontsov-Velyaminov", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q36834", "obj_label": "composer", "sub_uri": "Q554775", "sub_label": "Frans Bak", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q494296", "sub_label": "Pablo Cottenot", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q5891", "obj_label": "philosophy", "sub_uri": "Q1244262", "sub_label": "David of Dinant", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q9418", "obj_label": "psychology", "sub_uri": "Q2374295", "sub_label": "Alexander Zaporozhets", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q7370098", "sub_label": "Roswell Clifton Gibbs", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q403863", "sub_label": "Yasuaki Aida", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q514", "obj_label": "anatomy", "sub_uri": "Q440526", "sub_label": "Theodor Kerckring", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q23404", "obj_label": "anthropology", "sub_uri": "Q64274", "sub_label": "Paul Kirchhoff", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q75657", "sub_label": "Georg Tannstetter", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q61201", "sub_label": "Friedrich Hund", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q4718736", "sub_label": "Alexander Dmitrievich Bruno", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q5891", "obj_label": "philosophy", "sub_uri": "Q4319569", "sub_label": "Ilkka Niiniluoto", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q801", "obj_label": "Israel", "sub_uri": "Q2897763", "sub_label": "Bauhaus Center Tel Aviv", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q106624", "sub_label": "Ahmed Zewail", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q17514", "obj_label": "graffiti", "sub_uri": "Q3434061", "sub_label": "ROA", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q68510", "sub_label": "Max Steenbeck", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q977036", "sub_label": "Frederick Charles Frank", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q309", "obj_label": "history", "sub_uri": "Q3511999", "sub_label": "Anton Antonov-Ovseyenko", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q8061464", "sub_label": "Yuri A. Barbanel", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q6265851", "sub_label": "John of Tynemouth", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q309", "obj_label": "history", "sub_uri": "Q86773", "sub_label": "Georg Weber", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q115675", "sub_label": "Rudolf Wolf", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q6900035", "sub_label": "Monica Oliphant", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8134", "obj_label": "economics", "sub_uri": "Q6696368", "sub_label": "Lucas paradox", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q514", "obj_label": "anatomy", "sub_uri": "Q78830", "sub_label": "Georg Prochaska", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q19665429", "sub_label": "Klaus Schulten", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q11190", "obj_label": "medicine", "sub_uri": "Q29403", "sub_label": "Kt/V", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q155773", "sub_label": "Masatoshi Koshiba", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q309", "obj_label": "history", "sub_uri": "Q4191274", "sub_label": "Viktor Zemskov", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q614304", "obj_label": "pharmacy", "sub_uri": "Q15708868", "sub_label": "The American Journal of Pharmaceutical Education", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q9418", "obj_label": "psychology", "sub_uri": "Q3155009", "sub_label": "Isabelle Peretz", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q774306", "obj_label": "surgeon", "sub_uri": "Q1942943", "sub_label": "Beno\u00eet Lengel\u00e9", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q902546", "sub_label": "Thomas Thomson", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q9418", "obj_label": "psychology", "sub_uri": "Q217477", "sub_label": "John B. Watson", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q544169", "sub_label": "Erasmus Reinhold", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q1071", "obj_label": "geography", "sub_uri": "Q463896", "sub_label": "Jovan Cviji\u0107", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q521", "obj_label": "physiology", "sub_uri": "Q1499435", "sub_label": "Michael Berridge", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q5891", "obj_label": "philosophy", "sub_uri": "Q1124198", "sub_label": "affection", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q521", "obj_label": "physiology", "sub_uri": "Q4074502", "sub_label": "Evgeni Babsky", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q11190", "obj_label": "medicine", "sub_uri": "Q1960501", "sub_label": "Leopold Casper", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q5375", "obj_label": "cricket", "sub_uri": "Q3805101", "sub_label": "J. Braid", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q5891", "obj_label": "philosophy", "sub_uri": "Q365628", "sub_label": "Bonifaty Kedrov", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q21201", "obj_label": "sociology", "sub_uri": "Q432784", "sub_label": "Margaret Archer", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q11190", "obj_label": "medicine", "sub_uri": "Q557382", "sub_label": "Elias Tillandz", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q735", "obj_label": "art", "sub_uri": "Q18600707", "sub_label": "Archive of New Writing", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q521", "obj_label": "physiology", "sub_uri": "Q661018", "sub_label": "Johann Nepomuk Czermak", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q58963", "sub_label": "Charles T. Kowal", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q1071", "obj_label": "geography", "sub_uri": "Q67462", "sub_label": "Wilhelm Sievers", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q11190", "obj_label": "medicine", "sub_uri": "Q1375120", "sub_label": "Joseph-Henri L\u00e9veill\u00e9", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q11190", "obj_label": "medicine", "sub_uri": "Q698925", "sub_label": "Li Shizhen", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q5969764", "sub_label": "ICTP Prize", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q3892790", "sub_label": "Raoul Bricard", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q177995", "sub_label": "Boris Numerov", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q9418", "obj_label": "psychology", "sub_uri": "Q315916", "sub_label": "Leon Festinger", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q2383120", "sub_label": "Abu Nasr Mansur", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q153219", "sub_label": "Albert Fert", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q500440", "sub_label": "Thomas Andrews", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q5367420", "sub_label": "Elsa M. Garmire", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q314267", "sub_label": "Jagadish Chandra Bose", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2920921", "obj_label": "management", "sub_uri": "Q3152644", "sub_label": "Institut technologique europ\u00e9en d'entrepreneuriat et de management", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q4175639", "sub_label": "Nikolay Yenikolopov", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q735", "obj_label": "art", "sub_uri": "Q207694", "sub_label": "art museum", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q309", "obj_label": "history", "sub_uri": "Q169929", "sub_label": "Aleksandr Zimin", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q9465", "obj_label": "ethics", "sub_uri": "Q3859951", "sub_label": "Modern Moral Philosophy", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q63061", "sub_label": "Hans-Emil Schuster", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q187822", "sub_label": "Jerome Isaac Friedman", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q9418", "obj_label": "psychology", "sub_uri": "Q1590549", "sub_label": "Paul Bloom", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q21201", "obj_label": "sociology", "sub_uri": "Q6246777", "sub_label": "John Markoff", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q11190", "obj_label": "medicine", "sub_uri": "Q7348001", "sub_label": "Robert Neubauer", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q34178", "obj_label": "theology", "sub_uri": "Q11036091", "sub_label": "Karl Christian Ulmann", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q521", "obj_label": "physiology", "sub_uri": "Q1976189", "sub_label": "Ivan Solomonovich Beritashvili", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q309", "obj_label": "history", "sub_uri": "Q1066666", "sub_label": "Charles \u00c9tienne Brasseur de Bourbourg", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q235834", "sub_label": "Ronald George Wreyford Norrish", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q331856", "sub_label": "J\u00f3zef Maria Hoene-Wro\u0144ski", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q4523835", "sub_label": "Alexander E. Shilov", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q110059", "sub_label": "Theodor Reye", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q310771", "sub_label": "Ludolph van Ceulen", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q70884", "sub_label": "Karl Wilhelm Feuerbach", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q6526566", "sub_label": "Leonidas Resvanis", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q1530613", "sub_label": "James S. Langer", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q3701311", "sub_label": "Leonid Bunimovich", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q33231", "obj_label": "photographer", "sub_uri": "Q3193754", "sub_label": "Kassian Cephas", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q15787", "obj_label": "HIV", "sub_uri": "Q7805604", "sub_label": "Timeline of HIV/AIDS", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q1344", "obj_label": "opera", "sub_uri": "Q2501899", "sub_label": "Viorica Cortez", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q11190", "obj_label": "medicine", "sub_uri": "Q213935", "sub_label": "Felix Victor Birch-Hirschfeld", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q735", "obj_label": "art", "sub_uri": "Q4502119", "sub_label": "art group", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q521", "obj_label": "physiology", "sub_uri": "Q5504753", "sub_label": "Frithiof Holmgren", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q4178491", "sub_label": "Yuri Zhdanov", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q38112", "obj_label": "forestry", "sub_uri": "Q4135469", "sub_label": "Nestor von Henko", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q1344", "obj_label": "opera", "sub_uri": "Q17029485", "sub_label": "Van Cleve Opera House", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q654482", "sub_label": "Jules Jamin", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q91509", "sub_label": "Helmut Hofer", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q85084", "sub_label": "Rudolf Falb", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q432606", "sub_label": "Evgenii Feinberg", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q11190", "obj_label": "medicine", "sub_uri": "Q112261", "sub_label": "Heinrich Johann Nepomuk von Crantz", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q420", "obj_label": "biology", "sub_uri": "Q4282005", "sub_label": "Alexander Markov", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q1349686", "sub_label": "Thomas Jefferson Jackson See", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q11633", "obj_label": "photography", "sub_uri": "Q19560870", "sub_label": "Jo Ann Callis", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8785", "obj_label": "Armenian", "sub_uri": "Q4474844", "sub_label": "Bagrat Ulubabyan", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q514", "obj_label": "anatomy", "sub_uri": "Q100707", "sub_label": "Franz Ludwig Fick", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q3768092", "sub_label": "Giovanni Sante Gaspero Santini", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q5200876", "sub_label": "Cyril Sinelnikov", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q33999", "obj_label": "actor", "sub_uri": "Q18153246", "sub_label": "Premios Tu Mundo for Favorite Lead Actor", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q66556", "sub_label": "Heinrich Wilhelm Brandes", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8134", "obj_label": "economics", "sub_uri": "Q3048444", "sub_label": "school of economic thought", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q9418", "obj_label": "psychology", "sub_uri": "Q290285", "sub_label": "Stanley Schachter", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q1043437", "sub_label": "Carlton M. Caves", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q21201", "obj_label": "sociology", "sub_uri": "Q1904881", "sub_label": "Martin S. Weinberg", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q6968857", "sub_label": "Nathan Altshiller Court", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q15848288", "sub_label": "Marie Maynard Daly", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q5891", "obj_label": "philosophy", "sub_uri": "Q4337184", "sub_label": "Zaid Orudzhev", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q309", "obj_label": "history", "sub_uri": "Q185105", "sub_label": "Fernand Braudel", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q4650822", "sub_label": "ACS Award for Encouraging Women into Careers in the Chemical Sciences", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q212415", "sub_label": "Colin Stanley Gum", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q309", "obj_label": "history", "sub_uri": "Q73090", "sub_label": "Georg Friedrich Sartorius", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q11190", "obj_label": "medicine", "sub_uri": "Q367689", "sub_label": "Adriaan van Royen", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q12796", "obj_label": "firearm", "sub_uri": "Q5402865", "sub_label": "Ethan Allen", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q419464", "sub_label": "Akiva Yaglom", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q34178", "obj_label": "theology", "sub_uri": "Q64584", "sub_label": "Reinhold Seeberg", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q9418", "obj_label": "psychology", "sub_uri": "Q328053", "sub_label": "Richard Lazarus", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q7926394", "sub_label": "Victor Th\u00e9bault", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q309", "obj_label": "history", "sub_uri": "Q1398528", "sub_label": "Yevgeny Tarle", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q9418", "obj_label": "psychology", "sub_uri": "Q71020", "sub_label": "Karen Horney", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q15899053", "sub_label": "Costas Soukoulis", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q178103", "sub_label": "C. F. Powell", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q510956", "sub_label": "Ching Wan Tang", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q705960", "sub_label": "Elis Str\u00f6mgren", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q841090", "obj_label": "classics", "sub_uri": "Q694826", "sub_label": "Tadeusz Stefan Zieli\u0144ski", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q4264086", "sub_label": "Ilya Lifshitz", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q1734", "obj_label": "volleyball", "sub_uri": "Q4467650", "sub_label": "Lyubov Tyurina", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q7476", "sub_label": "Helen Murray Free", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q47285", "sub_label": "J. J. Thomson", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q5891", "obj_label": "philosophy", "sub_uri": "Q65861", "sub_label": "Erich Adickes", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q9418", "obj_label": "psychology", "sub_uri": "Q463441", "sub_label": "Th\u00e9odule-Armand Ribot", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q9418", "obj_label": "psychology", "sub_uri": "Q1968958", "sub_label": "William Herbert Sheldon", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q5146", "obj_label": "Portuguese", "sub_uri": "Q3321252", "sub_label": "Galician Academy of the Portuguese Language", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q2897783", "sub_label": "Yoram Moses", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q29171", "obj_label": "infantry", "sub_uri": "Q7432476", "sub_label": "school of infantry", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q12156", "obj_label": "malaria", "sub_uri": "Q102034", "sub_label": "Ronald Ross", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q9418", "obj_label": "psychology", "sub_uri": "Q446115", "sub_label": "Anne Treisman", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q190766", "sub_label": "Martin Ryle", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q34178", "obj_label": "theology", "sub_uri": "Q5416903", "sub_label": "Everard Digby", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q1376193", "sub_label": "John Pendry", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q353407", "sub_label": "Isadore Singer", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q27073", "sub_label": "Karl Rohn", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q81009", "obj_label": "rhetoric", "sub_uri": "Q897523", "sub_label": "Papirius Fabianus", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q34178", "obj_label": "theology", "sub_uri": "Q103173", "sub_label": "Heinrich Dumoulin", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q521", "obj_label": "physiology", "sub_uri": "Q4140947", "sub_label": "Vladimir Govyrin", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q231250", "obj_label": "lace", "sub_uri": "Q16858155", "sub_label": "Fanny Bury Palliser", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q521", "obj_label": "physiology", "sub_uri": "Q85929", "sub_label": "Johannes von Kries", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q309", "obj_label": "history", "sub_uri": "Q731536", "sub_label": "Mikhail Pokrovsky", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q18916605", "sub_label": "Pancyprian Union of Chemists", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q701501", "sub_label": "George M. Whitesides", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q514", "obj_label": "anatomy", "sub_uri": "Q65459", "sub_label": "Ludwig Heinrich Bojanus", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q442476", "sub_label": "Auguste Andr\u00e9 Thomas Cahours", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q92957", "sub_label": "Avi Wigderson", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q309", "obj_label": "history", "sub_uri": "Q251247", "sub_label": "Mauno Jokipii", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q1420", "obj_label": "car", "sub_uri": "Q702661", "sub_label": "Autostadt", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q309", "obj_label": "history", "sub_uri": "Q71334", "sub_label": "Johann Friedrich B\u00f6hmer", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q2128461", "sub_label": "Rainer Weiss", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q991541", "sub_label": "K\u014dichir\u014d Tomita", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q7737", "obj_label": "Russian", "sub_uri": "Q2343190", "sub_label": "William Ralston Shedden-Ralston", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q4372654", "sub_label": "Vera Popova", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q9418", "obj_label": "psychology", "sub_uri": "Q82944", "sub_label": "Vasily Davydov", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q309", "obj_label": "history", "sub_uri": "Q4525837", "sub_label": "Victor Schnirelmann", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q309", "obj_label": "history", "sub_uri": "Q213966", "sub_label": "Isaak Markus Jost", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q9418", "obj_label": "psychology", "sub_uri": "Q1968932", "sub_label": "Boris Teplov", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q5891", "obj_label": "philosophy", "sub_uri": "Q2704678", "sub_label": "The Archaeology of Knowledge", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q21201", "obj_label": "sociology", "sub_uri": "Q17096503", "sub_label": "Southern Sociological Society", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q369975", "sub_label": "Harry B. Gray", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q1700799", "sub_label": "John D. Lawson", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q11190", "obj_label": "medicine", "sub_uri": "Q740096", "sub_label": "Olof Rudbeck the Younger", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q328995", "sub_label": "Vladimir Ipatieff", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q5375", "obj_label": "cricket", "sub_uri": "Q4886040", "sub_label": "Ben Laughlin", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q9418", "obj_label": "psychology", "sub_uri": "Q738789", "sub_label": "Michael Gazzaniga", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8366", "obj_label": "algorithm", "sub_uri": "Q13636890", "sub_label": "algorithmics", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q521", "obj_label": "physiology", "sub_uri": "Q2831081", "sub_label": "Albert Dastre", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q7453973", "sub_label": "Sergey Fomin", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q21201", "obj_label": "sociology", "sub_uri": "Q4525510", "sub_label": "Vladimir Shlapentokh", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q775969", "sub_label": "Dirk Coster", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q514", "obj_label": "anatomy", "sub_uri": "Q4239892", "sub_label": "Karl Friedrich Theodor Krause", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q955783", "sub_label": "Walter Ferreri", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q1097115", "sub_label": "Claude Ambrose Rogers", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q13626723", "sub_label": "Alexander Nicolaus Scherer", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q9418", "obj_label": "psychology", "sub_uri": "Q213195", "sub_label": "B. F. Skinner", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q289674", "sub_label": "\u00c9tienne Ghys", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q76474", "sub_label": "Walther Bothe", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q521", "obj_label": "physiology", "sub_uri": "Q4275781", "sub_label": "Jesse Francis McClendon", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q365463", "sub_label": "Cornelis Drebbel", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q11190", "obj_label": "medicine", "sub_uri": "Q560741", "sub_label": "Ernest Besnier", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q9418", "obj_label": "psychology", "sub_uri": "Q41532", "sub_label": "Carl Jung", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q34178", "obj_label": "theology", "sub_uri": "Q19595159", "sub_label": "Marcia Bunge", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q5314622", "sub_label": "Duncan T. Moore", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q40821", "obj_label": "surgery", "sub_uri": "Q74595", "sub_label": "Franz K\u00f6nig", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q2990289", "sub_label": "Temple Chevallier", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q705691", "sub_label": "Boris Pavlovich Belousov", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q11190", "obj_label": "medicine", "sub_uri": "Q736314", "sub_label": "John Russell Reynolds", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q901070", "sub_label": "Richard Kirwan", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q2371787", "sub_label": "Svetlana Katok", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q395", "obj_label": "mathematics", "sub_uri": "Q541571", "sub_label": "Thomas Clausen", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q6453256", "sub_label": "K\u00e1roly Bezdek", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q185150", "sub_label": "Eudoxus of Cnidus", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q2329", "obj_label": "chemistry", "sub_uri": "Q6852988", "sub_label": "Michael Zinigrad", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q1230528", "sub_label": "Giovanni Poleni", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q64464", "sub_label": "Georg Adolf Erman", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q71023", "sub_label": "Alfred Kastler", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q11190", "obj_label": "medicine", "sub_uri": "Q1160907", "sub_label": "Daniel Gottlieb Messerschmidt", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q9418", "obj_label": "psychology", "sub_uri": "Q611121", "sub_label": "Morton Deutsch", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q58962", "sub_label": "Eleanor F. Helin", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q34178", "obj_label": "theology", "sub_uri": "Q66987", "sub_label": "Johannes Andreas Quenstedt", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q413", "obj_label": "physics", "sub_uri": "Q7913790", "sub_label": "Van Zandt Williams", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q1970831", "sub_label": "Pavel Petrovich Parenago", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q39631", "obj_label": "physician", "sub_uri": "Q3237230", "sub_label": "Levinus Lemnius", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q9418", "obj_label": "psychology", "sub_uri": "Q28882", "sub_label": "Clark L. Hull", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q34178", "obj_label": "theology", "sub_uri": "Q7177913", "sub_label": "Peter of Bergamo", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q333", "obj_label": "astronomy", "sub_uri": "Q729315", "sub_label": "Christen S\u00f8rensen Longomontanus", "predicate_id": "P101"}
+{"uuid": "", "obj_uri": "Q8087", "obj_label": "geometry", "sub_uri": "Q3710014", "sub_label": "Howard Eves", "predicate_id": "P101"}

@@ -1,0 +1,9 @@
+reading cohyponyms: ../log/word_to_cohyponyms.txt
+0
+1000
+2000
+3000
+4000
+5000
+6000
+slurmstepd: error: *** JOB 45081270 ON spartan-gpgpu078 CANCELLED AT 2023-03-06T20:42:18 ***

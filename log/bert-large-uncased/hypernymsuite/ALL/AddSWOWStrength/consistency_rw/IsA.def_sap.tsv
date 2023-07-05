@@ -1,0 +1,3 @@
+,P@K,Singular,Plural,Paired Accuracy,Paired Consistency,mask_type,data_dir
+0,1,18.0,0.0,0.0,82.0,def_sap,data/hypernymsuite/ALL/AddSWOWStrength/consistency_rw/
+1,10,49.3,0.6,0.2,50.6,def_sap,data/hypernymsuite/ALL/AddSWOWStrength/consistency_rw/

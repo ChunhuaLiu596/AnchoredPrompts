@@ -1,0 +1,506 @@
+{"uuid": 0, "masked_sentences": ["An aeroplane is a [MASK]."], "obj_label": ["vehicle"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "aeroplane"}
+{"uuid": 1, "masked_sentences": ["An alligator is a [MASK]."], "obj_label": ["predator"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "alligator"}
+{"uuid": 2, "masked_sentences": ["An ambulance is a [MASK]."], "obj_label": ["vehicle", "van"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "ambulance"}
+{"uuid": 3, "masked_sentences": ["An anchor is a [MASK]."], "obj_label": ["symbol"], "relation": "is_a", "feature_type": ["encyclopaedic"], "sub_label": "anchor"}
+{"uuid": 4, "masked_sentences": ["An apple is a [MASK]."], "obj_label": ["fruit", "food"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "apple"}
+{"uuid": 5, "masked_sentences": ["An apricot is a [MASK]."], "obj_label": ["fruit"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "apricot"}
+{"uuid": 6, "masked_sentences": ["An arm is a [MASK]."], "obj_label": ["limb"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "arm"}
+{"uuid": 7, "masked_sentences": ["An armchair is a [MASK]."], "obj_label": ["chair", "seat"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "armchair"}
+{"uuid": 8, "masked_sentences": ["An arrow is a [MASK]."], "obj_label": ["weapon", "symbol", "toy"], "relation": "is_a", "feature_type": ["taxonomic", "encyclopaedic", "taxonomic"], "sub_label": "arrow"}
+{"uuid": 9, "masked_sentences": ["An artichoke is a [MASK]."], "obj_label": ["vegetable", "plant"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "artichoke"}
+{"uuid": 10, "masked_sentences": ["An asparagus is a [MASK]."], "obj_label": ["vegetable", "plant"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "asparagus"}
+{"uuid": 11, "masked_sentences": ["An aspirin is a [MASK]."], "obj_label": ["pill", "tablet", "drug", "chemical"], "relation": "is_a", "feature_type": ["visual perceptual", "visual perceptual", "taxonomic", "encyclopaedic"], "sub_label": "aspirin"}
+{"uuid": 12, "masked_sentences": ["An aubergine is a [MASK]."], "obj_label": ["vegetable", "plant"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "aubergine"}
+{"uuid": 13, "masked_sentences": ["An avocado is a [MASK]."], "obj_label": ["fruit", "vegetable"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "avocado"}
+{"uuid": 14, "masked_sentences": ["An axe is a [MASK]."], "obj_label": ["weapon", "tool"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "axe"}
+{"uuid": 15, "masked_sentences": ["A badge is a [MASK]."], "obj_label": ["pin", "symbol", "decoration"], "relation": "is_a", "feature_type": ["visual perceptual", "encyclopaedic", "functional"], "sub_label": "badge"}
+{"uuid": 16, "masked_sentences": ["A bag is a [MASK]."], "obj_label": ["container"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "bag"}
+{"uuid": 17, "masked_sentences": ["A ball is a [MASK]."], "obj_label": ["game", "sphere", "toy"], "relation": "is_a", "feature_type": ["functional", "visual perceptual", "taxonomic"], "sub_label": "ball"}
+{"uuid": 18, "masked_sentences": ["A balloon is a [MASK]."], "obj_label": ["toy"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "balloon"}
+{"uuid": 19, "masked_sentences": ["A banana is a [MASK]."], "obj_label": ["fruit"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "banana"}
+{"uuid": 20, "masked_sentences": ["A barge is a [MASK]."], "obj_label": ["boat", "home"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "barge"}
+{"uuid": 21, "masked_sentences": ["A barrel is a [MASK]."], "obj_label": ["cylinder", "container"], "relation": "is_a", "feature_type": ["visual perceptual", "taxonomic"], "sub_label": "barrel"}
+{"uuid": 22, "masked_sentences": ["A basin is a [MASK]."], "obj_label": ["sink", "bowl", "container"], "relation": "is_a", "feature_type": ["encyclopaedic", "taxonomic", "taxonomic"], "sub_label": "basin"}
+{"uuid": 23, "masked_sentences": ["A bath is a [MASK]."], "obj_label": ["container", "tub"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "bath"}
+{"uuid": 24, "masked_sentences": ["A bayonet is a [MASK]."], "obj_label": ["weapon", "gun", "knife", "blade"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "visual perceptual", "visual perceptual"], "sub_label": "bayonet"}
+{"uuid": 25, "masked_sentences": ["A bean is a [MASK]."], "obj_label": ["food", "vegetable", "seed", "runner", "pulse", "plant"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic", "taxonomic", "taxonomic", "encyclopaedic"], "sub_label": "bean"}
+{"uuid": 26, "masked_sentences": ["A bear is a [MASK]."], "obj_label": ["toy"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "bear"}
+{"uuid": 27, "masked_sentences": ["A beer is a [MASK]."], "obj_label": ["drink", "beverage", "liquid"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "visual perceptual"], "sub_label": "beer"}
+{"uuid": 28, "masked_sentences": ["A beetle is a [MASK]."], "obj_label": ["car"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "beetle"}
+{"uuid": 29, "masked_sentences": ["A bell is a [MASK]."], "obj_label": ["sound", "noise", "warning", "signal"], "relation": "is_a", "feature_type": ["other perceptual", "other perceptual", "functional", "functional"], "sub_label": "bell"}
+{"uuid": 30, "masked_sentences": ["A bellows is a [MASK]."], "obj_label": ["pump", "tool", "device"], "relation": "is_a", "feature_type": ["functional", "taxonomic", "encyclopaedic"], "sub_label": "bellows"}
+{"uuid": 31, "masked_sentences": ["A bicycle is a [MASK]."], "obj_label": ["vehicle"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "bicycle"}
+{"uuid": 32, "masked_sentences": ["A bin is a [MASK]."], "obj_label": ["cylinder", "container"], "relation": "is_a", "feature_type": ["visual perceptual", "taxonomic"], "sub_label": "bin"}
+{"uuid": 33, "masked_sentences": ["A birch is a [MASK]."], "obj_label": ["tree", "plant"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "birch"}
+{"uuid": 34, "masked_sentences": ["A biscuit is a [MASK]."], "obj_label": ["treat", "snack"], "relation": "is_a", "feature_type": ["encyclopaedic", "functional"], "sub_label": "biscuit"}
+{"uuid": 35, "masked_sentences": ["A blender is a [MASK]."], "obj_label": ["container", "tool"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "blender"}
+{"uuid": 36, "masked_sentences": ["A blouse is a [MASK]."], "obj_label": ["garment", "shirt"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "blouse"}
+{"uuid": 37, "masked_sentences": ["A blueberry is a [MASK]."], "obj_label": ["fruit", "food"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "blueberry"}
+{"uuid": 38, "masked_sentences": ["A boat is a [MASK]."], "obj_label": ["vehicle", "vessel"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "boat"}
+{"uuid": 39, "masked_sentences": ["A bolts is a [MASK]."], "obj_label": ["tool"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "bolts"}
+{"uuid": 40, "masked_sentences": ["A bomb is a [MASK]."], "obj_label": ["weapon"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "bomb"}
+{"uuid": 41, "masked_sentences": ["A boomerang is a [MASK]."], "obj_label": ["toy", "weapon", "tool"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic"], "sub_label": "boomerang"}
+{"uuid": 42, "masked_sentences": ["A bottle is a [MASK]."], "obj_label": ["container"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "bottle"}
+{"uuid": 43, "masked_sentences": ["A bouquet is a [MASK]."], "obj_label": ["gift", "present"], "relation": "is_a", "feature_type": ["functional", "functional"], "sub_label": "bouquet"}
+{"uuid": 44, "masked_sentences": ["A bowl is a [MASK]."], "obj_label": ["container", "vessel"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "bowl"}
+{"uuid": 45, "masked_sentences": ["A box is a [MASK]."], "obj_label": ["cube", "container"], "relation": "is_a", "feature_type": ["visual perceptual", "taxonomic"], "sub_label": "box"}
+{"uuid": 46, "masked_sentences": ["A bracelet is a [MASK]."], "obj_label": ["circle", "gift"], "relation": "is_a", "feature_type": ["visual perceptual", "functional"], "sub_label": "bracelet"}
+{"uuid": 47, "masked_sentences": ["A brandy is a [MASK]."], "obj_label": ["drink", "liquor", "spirit", "liquid", "beverage"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic", "visual perceptual", "taxonomic"], "sub_label": "brandy"}
+{"uuid": 48, "masked_sentences": ["A brick is a [MASK]."], "obj_label": ["material", "block"], "relation": "is_a", "feature_type": ["taxonomic", "visual perceptual"], "sub_label": "brick"}
+{"uuid": 49, "masked_sentences": ["A bridge is a [MASK]."], "obj_label": ["structure", "construction"], "relation": "is_a", "feature_type": ["taxonomic", "encyclopaedic"], "sub_label": "bridge"}
+{"uuid": 50, "masked_sentences": ["A broccoli is a [MASK]."], "obj_label": ["vegetable", "plant"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "broccoli"}
+{"uuid": 51, "masked_sentences": ["A brochure is a [MASK]."], "obj_label": ["booklet", "book", "catalogue", "document"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic", "encyclopaedic"], "sub_label": "brochure"}
+{"uuid": 52, "masked_sentences": ["A broom is a [MASK]."], "obj_label": ["tool"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "broom"}
+{"uuid": 53, "masked_sentences": ["A bucket is a [MASK]."], "obj_label": ["container", "vessel", "cylinder"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "visual perceptual"], "sub_label": "bucket"}
+{"uuid": 54, "masked_sentences": ["A buckle is a [MASK]."], "obj_label": ["device"], "relation": "is_a", "feature_type": ["encyclopaedic"], "sub_label": "buckle"}
+{"uuid": 55, "masked_sentences": ["A budgie is a [MASK]."], "obj_label": ["bird", "pet"], "relation": "is_a", "feature_type": ["taxonomic", "functional"], "sub_label": "budgie"}
+{"uuid": 56, "masked_sentences": ["A buggy is a [MASK]."], "obj_label": ["vehicle"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "buggy"}
+{"uuid": 57, "masked_sentences": ["A bullet is a [MASK]."], "obj_label": ["weapon"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "bullet"}
+{"uuid": 58, "masked_sentences": ["A bus is a [MASK]."], "obj_label": ["vehicle"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "bus"}
+{"uuid": 59, "masked_sentences": ["A butter is a [MASK]."], "obj_label": ["block", "spread"], "relation": "is_a", "feature_type": ["encyclopaedic", "taxonomic"], "sub_label": "butter"}
+{"uuid": 60, "masked_sentences": ["A buttercup is a [MASK]."], "obj_label": ["flower", "plant"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "buttercup"}
+{"uuid": 61, "masked_sentences": ["A buzzard is a [MASK]."], "obj_label": ["bird", "predator", "hunter", "hawk"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "functional", "taxonomic"], "sub_label": "buzzard"}
+{"uuid": 62, "masked_sentences": ["A cabbage is a [MASK]."], "obj_label": ["vegetable", "plant"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "cabbage"}
+{"uuid": 64, "masked_sentences": ["A cake is a [MASK]."], "obj_label": ["dessert", "treat", "gift"], "relation": "is_a", "feature_type": ["functional", "encyclopaedic", "functional"], "sub_label": "cake"}
+{"uuid": 65, "masked_sentences": ["A calf is a [MASK]."], "obj_label": ["cow", "baby"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "calf"}
+{"uuid": 66, "masked_sentences": ["A camera is a [MASK]."], "obj_label": ["machine"], "relation": "is_a", "feature_type": ["encyclopaedic"], "sub_label": "camera"}
+{"uuid": 67, "masked_sentences": ["A canary is a [MASK]."], "obj_label": ["bird", "pet"], "relation": "is_a", "feature_type": ["taxonomic", "functional"], "sub_label": "canary"}
+{"uuid": 68, "masked_sentences": ["A cannon is a [MASK]."], "obj_label": ["weapon"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "cannon"}
+{"uuid": 69, "masked_sentences": ["A canoe is a [MASK]."], "obj_label": ["boat"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "canoe"}
+{"uuid": 70, "masked_sentences": ["A cap is a [MASK]."], "obj_label": ["garment", "hat"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "cap"}
+{"uuid": 71, "masked_sentences": ["A car is a [MASK]."], "obj_label": ["vehicle"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "car"}
+{"uuid": 72, "masked_sentences": ["A caravan is a [MASK]."], "obj_label": ["home", "vehicle", "box", "shelter", "trailer"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "visual perceptual", "functional", "visual perceptual"], "sub_label": "caravan"}
+{"uuid": 73, "masked_sentences": ["A carnation is a [MASK]."], "obj_label": ["flower", "plant"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "carnation"}
+{"uuid": 74, "masked_sentences": ["A carp is a [MASK]."], "obj_label": ["fish"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "carp"}
+{"uuid": 75, "masked_sentences": ["A carrot is a [MASK]."], "obj_label": ["vegetable", "root"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "carrot"}
+{"uuid": 76, "masked_sentences": ["A cart is a [MASK]."], "obj_label": ["vehicle"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "cart"}
+{"uuid": 78, "masked_sentences": ["A cat is a [MASK]."], "obj_label": ["pet", "predator", "hunter"], "relation": "is_a", "feature_type": ["functional", "functional", "functional"], "sub_label": "cat"}
+{"uuid": 79, "masked_sentences": ["A catalogue is a [MASK]."], "obj_label": ["list", "book", "booklet"], "relation": "is_a", "feature_type": ["encyclopaedic", "taxonomic", "taxonomic"], "sub_label": "catalogue"}
+{"uuid": 80, "masked_sentences": ["A catapault is a [MASK]."], "obj_label": ["weapon", "toy", "tool"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic"], "sub_label": "catapault"}
+{"uuid": 81, "masked_sentences": ["A cauliflower is a [MASK]."], "obj_label": ["vegetable", "plant"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "cauliflower"}
+{"uuid": 82, "masked_sentences": ["A celery is a [MASK]."], "obj_label": ["vegetable", "stalk", "plant"], "relation": "is_a", "feature_type": ["taxonomic", "visual perceptual", "taxonomic"], "sub_label": "celery"}
+{"uuid": 83, "masked_sentences": ["A centipede is a [MASK]."], "obj_label": ["bug", "creature", "predator"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic"], "sub_label": "centipede"}
+{"uuid": 84, "masked_sentences": ["A certificate is a [MASK]."], "obj_label": ["document", "prize", "record", "reward"], "relation": "is_a", "feature_type": ["encyclopaedic", "functional", "functional", "functional"], "sub_label": "certificate"}
+{"uuid": 85, "masked_sentences": ["A chainsaw is a [MASK]."], "obj_label": ["tool", "saw", "weapon"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic"], "sub_label": "chainsaw"}
+{"uuid": 86, "masked_sentences": ["A champagne is a [MASK]."], "obj_label": ["drink", "wine"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "champagne"}
+{"uuid": 87, "masked_sentences": ["A chandelier is a [MASK]."], "obj_label": ["light", "decoration"], "relation": "is_a", "feature_type": ["taxonomic", "functional"], "sub_label": "chandelier"}
+{"uuid": 88, "masked_sentences": ["A cheetah is a [MASK]."], "obj_label": ["cat", "runner", "predator", "hunter"], "relation": "is_a", "feature_type": ["taxonomic", "functional", "functional", "functional"], "sub_label": "cheetah"}
+{"uuid": 89, "masked_sentences": ["A cherry is a [MASK]."], "obj_label": ["fruit"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "cherry"}
+{"uuid": 90, "masked_sentences": ["A chestnut is a [MASK]."], "obj_label": ["nut", "tree", "food", "colour", "seed"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic", "taxonomic", "taxonomic"], "sub_label": "chestnut"}
+{"uuid": 91, "masked_sentences": ["A chicken is a [MASK]."], "obj_label": ["bird"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "chicken"}
+{"uuid": 92, "masked_sentences": ["A chipmunk is a [MASK]."], "obj_label": ["squirrel", "pet"], "relation": "is_a", "feature_type": ["taxonomic", "functional"], "sub_label": "chipmunk"}
+{"uuid": 93, "masked_sentences": ["A chisel is a [MASK]."], "obj_label": ["tool"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "chisel"}
+{"uuid": 94, "masked_sentences": ["A chocolate is a [MASK]."], "obj_label": ["treat", "dessert", "gift", "sweet"], "relation": "is_a", "feature_type": ["encyclopaedic", "functional", "functional", "taxonomic"], "sub_label": "chocolate"}
+{"uuid": 95, "masked_sentences": ["A cider is a [MASK]."], "obj_label": ["drink", "liquid"], "relation": "is_a", "feature_type": ["taxonomic", "visual perceptual"], "sub_label": "cider"}
+{"uuid": 96, "masked_sentences": ["A clamp is a [MASK]."], "obj_label": ["tool"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "clamp"}
+{"uuid": 97, "masked_sentences": ["A club is a [MASK]."], "obj_label": ["weapon", "stick"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "club"}
+{"uuid": 98, "masked_sentences": ["A cockerel is a [MASK]."], "obj_label": ["bird", "male", "chicken"], "relation": "is_a", "feature_type": ["taxonomic", "encyclopaedic", "taxonomic"], "sub_label": "cockerel"}
+{"uuid": 99, "masked_sentences": ["A coconut is a [MASK]."], "obj_label": ["fruit", "nut", "food"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic"], "sub_label": "coconut"}
+{"uuid": 100, "masked_sentences": ["A cod is a [MASK]."], "obj_label": ["fish"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "cod"}
+{"uuid": 101, "masked_sentences": ["A codeine is a [MASK]."], "obj_label": ["drug", "pill", "tablet", "medicine"], "relation": "is_a", "feature_type": ["taxonomic", "visual perceptual", "visual perceptual", "taxonomic"], "sub_label": "codeine"}
+{"uuid": 102, "masked_sentences": ["A coffee is a [MASK]."], "obj_label": ["bean", "drink", "beverage", "plant"], "relation": "is_a", "feature_type": ["encyclopaedic", "taxonomic", "taxonomic", "taxonomic"], "sub_label": "coffee"}
+{"uuid": 103, "masked_sentences": ["A coffin is a [MASK]."], "obj_label": ["box", "container", "vessel"], "relation": "is_a", "feature_type": ["visual perceptual", "taxonomic", "taxonomic"], "sub_label": "coffin"}
+{"uuid": 104, "masked_sentences": ["A coin is a [MASK]."], "obj_label": ["circle", "currency", "penny", "token"], "relation": "is_a", "feature_type": ["visual perceptual", "functional", "encyclopaedic", "encyclopaedic"], "sub_label": "coin"}
+{"uuid": 105, "masked_sentences": ["A colander is a [MASK]."], "obj_label": ["tool", "bowl"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "colander"}
+{"uuid": 106, "masked_sentences": ["A comb is a [MASK]."], "obj_label": ["tool"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "comb"}
+{"uuid": 107, "masked_sentences": ["A corkscrew is a [MASK]."], "obj_label": ["tool", "spiral"], "relation": "is_a", "feature_type": ["taxonomic", "visual perceptual"], "sub_label": "corkscrew"}
+{"uuid": 108, "masked_sentences": ["A corn is a [MASK]."], "obj_label": ["vegetable", "crop", "plant", "seed", "staple", "cereal"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic", "taxonomic", "taxonomic", "taxonomic"], "sub_label": "corn"}
+{"uuid": 109, "masked_sentences": ["A courgette is a [MASK]."], "obj_label": ["vegetable", "fruit", "plant"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "encyclopaedic"], "sub_label": "courgette"}
+{"uuid": 110, "masked_sentences": ["A cradle is a [MASK]."], "obj_label": ["bed", "basket"], "relation": "is_a", "feature_type": ["taxonomic", "visual perceptual"], "sub_label": "cradle"}
+{"uuid": 111, "masked_sentences": ["A crayfish is a [MASK]."], "obj_label": ["fish", "creature"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "crayfish"}
+{"uuid": 112, "masked_sentences": ["A crayon is a [MASK]."], "obj_label": ["tool", "pencil"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "crayon"}
+{"uuid": 113, "masked_sentences": ["A crocodile is a [MASK]."], "obj_label": ["predator"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "crocodile"}
+{"uuid": 114, "masked_sentences": ["A crossbow is a [MASK]."], "obj_label": ["weapon", "bow"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "crossbow"}
+{"uuid": 115, "masked_sentences": ["A crowbar is a [MASK]."], "obj_label": ["tool", "lever", "weapon"], "relation": "is_a", "feature_type": ["taxonomic", "functional", "taxonomic"], "sub_label": "crowbar"}
+{"uuid": 116, "masked_sentences": ["A cucumber is a [MASK]."], "obj_label": ["vegetable", "fruit", "cylinder"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "visual perceptual"], "sub_label": "cucumber"}
+{"uuid": 117, "masked_sentences": ["A cup is a [MASK]."], "obj_label": ["vessel", "container", "trophy", "cylinder"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "encyclopaedic", "visual perceptual"], "sub_label": "cup"}
+{"uuid": 118, "masked_sentences": ["A currant is a [MASK]."], "obj_label": ["fruit", "grape"], "relation": "is_a", "feature_type": ["taxonomic", "encyclopaedic"], "sub_label": "currant"}
+{"uuid": 119, "masked_sentences": ["A cushion is a [MASK]."], "obj_label": ["decoration", "pillow"], "relation": "is_a", "feature_type": ["functional", "taxonomic"], "sub_label": "cushion"}
+{"uuid": 120, "masked_sentences": ["A cymbal is a [MASK]."], "obj_label": ["disc"], "relation": "is_a", "feature_type": ["visual perceptual"], "sub_label": "cymbal"}
+{"uuid": 121, "masked_sentences": ["A daffodil is a [MASK]."], "obj_label": ["flower", "bulb", "plant", "symbol", "gift"], "relation": "is_a", "feature_type": ["taxonomic", "visual perceptual", "taxonomic", "encyclopaedic", "functional"], "sub_label": "daffodil"}
+{"uuid": 122, "masked_sentences": ["A dagger is a [MASK]."], "obj_label": ["weapon"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "dagger"}
+{"uuid": 123, "masked_sentences": ["A daisy is a [MASK]."], "obj_label": ["flower", "plant", "weed"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "encyclopaedic"], "sub_label": "daisy"}
+{"uuid": 124, "masked_sentences": ["A dandelion is a [MASK]."], "obj_label": ["flower", "weed", "plant"], "relation": "is_a", "feature_type": ["taxonomic", "encyclopaedic", "taxonomic"], "sub_label": "dandelion"}
+{"uuid": 125, "masked_sentences": ["A dates is a [MASK]."], "obj_label": ["fruit", "food"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "dates"}
+{"uuid": 126, "masked_sentences": ["A deckchair is a [MASK]."], "obj_label": ["chair", "seat", "frame"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "visual perceptual"], "sub_label": "deckchair"}
+{"uuid": 127, "masked_sentences": ["A desk is a [MASK]."], "obj_label": ["table"], "relation": "is_a", "feature_type": ["encyclopaedic"], "sub_label": "desk"}
+{"uuid": 128, "masked_sentences": ["A dice is a [MASK]."], "obj_label": ["cube", "toy"], "relation": "is_a", "feature_type": ["visual perceptual", "taxonomic"], "sub_label": "dice"}
+{"uuid": 129, "masked_sentences": ["A dictionary is a [MASK]."], "obj_label": ["book", "resource"], "relation": "is_a", "feature_type": ["taxonomic", "encyclopaedic"], "sub_label": "dictionary"}
+{"uuid": 130, "masked_sentences": ["A dinghy is a [MASK]."], "obj_label": ["boat", "device"], "relation": "is_a", "feature_type": ["taxonomic", "encyclopaedic"], "sub_label": "dinghy"}
+{"uuid": 131, "masked_sentences": ["A dishwasher is a [MASK]."], "obj_label": ["utility", "device"], "relation": "is_a", "feature_type": ["taxonomic", "encyclopaedic"], "sub_label": "dishwasher"}
+{"uuid": 132, "masked_sentences": ["A dog is a [MASK]."], "obj_label": ["pet", "companion"], "relation": "is_a", "feature_type": ["functional", "encyclopaedic"], "sub_label": "dog"}
+{"uuid": 133, "masked_sentences": ["A doll is a [MASK]."], "obj_label": ["toy", "child", "baby"], "relation": "is_a", "feature_type": ["taxonomic", "encyclopaedic", "taxonomic"], "sub_label": "doll"}
+{"uuid": 134, "masked_sentences": ["A doughnut is a [MASK]."], "obj_label": ["cake", "ring", "treat", "snack"], "relation": "is_a", "feature_type": ["taxonomic", "visual perceptual", "encyclopaedic", "functional"], "sub_label": "doughnut"}
+{"uuid": 135, "masked_sentences": ["A dove is a [MASK]."], "obj_label": ["bird", "symbol"], "relation": "is_a", "feature_type": ["taxonomic", "encyclopaedic"], "sub_label": "dove"}
+{"uuid": 136, "masked_sentences": ["A dresser is a [MASK]."], "obj_label": ["table"], "relation": "is_a", "feature_type": ["encyclopaedic"], "sub_label": "dresser"}
+{"uuid": 137, "masked_sentences": ["A drill is a [MASK]."], "obj_label": ["tool"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "drill"}
+{"uuid": 138, "masked_sentences": ["A duck is a [MASK]."], "obj_label": ["bird", "meat"], "relation": "is_a", "feature_type": ["taxonomic", "functional"], "sub_label": "duck"}
+{"uuid": 140, "masked_sentences": ["An ear is a [MASK]."], "obj_label": ["feature"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "ear"}
+{"uuid": 141, "masked_sentences": ["An eel is a [MASK]."], "obj_label": ["fish"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "eel"}
+{"uuid": 142, "masked_sentences": ["An elm is a [MASK]."], "obj_label": ["tree", "wood", "plant"], "relation": "is_a", "feature_type": ["taxonomic", "visual perceptual", "taxonomic"], "sub_label": "elm"}
+{"uuid": 143, "masked_sentences": ["An emu is a [MASK]."], "obj_label": ["bird"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "emu"}
+{"uuid": 144, "masked_sentences": ["An encyclopaedia is a [MASK]."], "obj_label": ["book", "resource", "tool"], "relation": "is_a", "feature_type": ["taxonomic", "encyclopaedic", "taxonomic"], "sub_label": "encyclopaedia"}
+{"uuid": 145, "masked_sentences": ["An envelope is a [MASK]."], "obj_label": ["square", "container"], "relation": "is_a", "feature_type": ["visual perceptual", "taxonomic"], "sub_label": "envelope"}
+{"uuid": 146, "masked_sentences": ["A eucalyptus is a [MASK]."], "obj_label": ["tree", "leaf", "plant", "flower"], "relation": "is_a", "feature_type": ["taxonomic", "visual perceptual", "taxonomic", "visual perceptual"], "sub_label": "eucalyptus"}
+{"uuid": 147, "masked_sentences": ["A falcon is a [MASK]."], "obj_label": ["bird", "hunter", "predator"], "relation": "is_a", "feature_type": ["taxonomic", "functional", "taxonomic"], "sub_label": "falcon"}
+{"uuid": 148, "masked_sentences": ["A fence is a [MASK]."], "obj_label": ["boundary", "border", "perimeter", "barrier", "defence"], "relation": "is_a", "feature_type": ["functional", "functional", "functional", "functional", "functional"], "sub_label": "fence"}
+{"uuid": 149, "masked_sentences": ["A fern is a [MASK]."], "obj_label": ["plant"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "fern"}
+{"uuid": 150, "masked_sentences": ["A ferry is a [MASK]."], "obj_label": ["boat", "ship"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "ferry"}
+{"uuid": 151, "masked_sentences": ["A finger is a [MASK]."], "obj_label": ["digit"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "finger"}
+{"uuid": 152, "masked_sentences": ["A fir is a [MASK]."], "obj_label": ["tree", "plant"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "fir"}
+{"uuid": 153, "masked_sentences": ["A flamingo is a [MASK]."], "obj_label": ["bird"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "flamingo"}
+{"uuid": 154, "masked_sentences": ["A flannel is a [MASK]."], "obj_label": ["towel", "material", "cloth"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic"], "sub_label": "flannel"}
+{"uuid": 155, "masked_sentences": ["A flea is a [MASK]."], "obj_label": ["parasite", "creature"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "flea"}
+{"uuid": 156, "masked_sentences": ["A flounder is a [MASK]."], "obj_label": ["fish"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "flounder"}
+{"uuid": 157, "masked_sentences": ["A flour is a [MASK]."], "obj_label": ["powder", "grain", "food"], "relation": "is_a", "feature_type": ["visual perceptual", "encyclopaedic", "taxonomic"], "sub_label": "flour"}
+{"uuid": 158, "masked_sentences": ["A football is a [MASK]."], "obj_label": ["sphere", "ball", "toy"], "relation": "is_a", "feature_type": ["visual perceptual", "visual perceptual", "taxonomic"], "sub_label": "football"}
+{"uuid": 159, "masked_sentences": ["A frisbee is a [MASK]."], "obj_label": ["toy", "disc", "game"], "relation": "is_a", "feature_type": ["taxonomic", "visual perceptual", "taxonomic"], "sub_label": "frisbee"}
+{"uuid": 160, "masked_sentences": ["A garlic is a [MASK]."], "obj_label": ["vegetable", "bulb", "root", "herb"], "relation": "is_a", "feature_type": ["taxonomic", "visual perceptual", "taxonomic", "taxonomic"], "sub_label": "garlic"}
+{"uuid": 161, "masked_sentences": ["A geranium is a [MASK]."], "obj_label": ["flower", "plant"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "geranium"}
+{"uuid": 162, "masked_sentences": ["A gerbil is a [MASK]."], "obj_label": ["pet"], "relation": "is_a", "feature_type": ["functional"], "sub_label": "gerbil"}
+{"uuid": 163, "masked_sentences": ["A gherkin is a [MASK]."], "obj_label": ["vegetable", "fruit"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "gherkin"}
+{"uuid": 164, "masked_sentences": ["A gin is a [MASK]."], "obj_label": ["drink", "spirit", "liquid"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "visual perceptual"], "sub_label": "gin"}
+{"uuid": 165, "masked_sentences": ["A glue is a [MASK]."], "obj_label": ["stick", "paste", "solvent"], "relation": "is_a", "feature_type": ["encyclopaedic", "visual perceptual", "encyclopaedic"], "sub_label": "glue"}
+{"uuid": 166, "masked_sentences": ["A goldfish is a [MASK]."], "obj_label": ["fish", "pet"], "relation": "is_a", "feature_type": ["taxonomic", "functional"], "sub_label": "goldfish"}
+{"uuid": 167, "masked_sentences": ["A gong is a [MASK]."], "obj_label": ["disc"], "relation": "is_a", "feature_type": ["visual perceptual"], "sub_label": "gong"}
+{"uuid": 168, "masked_sentences": ["A goose is a [MASK]."], "obj_label": ["bird", "creature"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "goose"}
+{"uuid": 169, "masked_sentences": ["A gown is a [MASK]."], "obj_label": ["garment", "dress"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "gown"}
+{"uuid": 170, "masked_sentences": ["A grape is a [MASK]."], "obj_label": ["fruit", "snack"], "relation": "is_a", "feature_type": ["taxonomic", "functional"], "sub_label": "grape"}
+{"uuid": 171, "masked_sentences": ["A grapefruit is a [MASK]."], "obj_label": ["fruit", "plant"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "grapefruit"}
+{"uuid": 172, "masked_sentences": ["A grater is a [MASK]."], "obj_label": ["tool"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "grater"}
+{"uuid": 173, "masked_sentences": ["A grenade is a [MASK]."], "obj_label": ["weapon", "bomb"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "grenade"}
+{"uuid": 174, "masked_sentences": ["A gun is a [MASK]."], "obj_label": ["weapon", "firearm"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "gun"}
+{"uuid": 175, "masked_sentences": ["A ham is a [MASK]."], "obj_label": ["joint"], "relation": "is_a", "feature_type": ["encyclopaedic"], "sub_label": "ham"}
+{"uuid": 176, "masked_sentences": ["A hammer is a [MASK]."], "obj_label": ["tool"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "hammer"}
+{"uuid": 177, "masked_sentences": ["A hamster is a [MASK]."], "obj_label": ["pet"], "relation": "is_a", "feature_type": ["functional"], "sub_label": "hamster"}
+{"uuid": 178, "masked_sentences": ["A harpoon is a [MASK]."], "obj_label": ["weapon", "spear", "tool"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic"], "sub_label": "harpoon"}
+{"uuid": 179, "masked_sentences": ["A hatchet is a [MASK]."], "obj_label": ["weapon", "tool"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "hatchet"}
+{"uuid": 180, "masked_sentences": ["A hawk is a [MASK]."], "obj_label": ["bird", "predator", "hunter"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "functional"], "sub_label": "hawk"}
+{"uuid": 181, "masked_sentences": ["A helicopter is a [MASK]."], "obj_label": ["machine"], "relation": "is_a", "feature_type": ["encyclopaedic"], "sub_label": "helicopter"}
+{"uuid": 182, "masked_sentences": ["A heron is a [MASK]."], "obj_label": ["bird"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "heron"}
+{"uuid": 183, "masked_sentences": ["A herring is a [MASK]."], "obj_label": ["fish"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "herring"}
+{"uuid": 184, "masked_sentences": ["A hoe is a [MASK]."], "obj_label": ["tool"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "hoe"}
+{"uuid": 185, "masked_sentences": ["A hook is a [MASK]."], "obj_label": ["tool"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "hook"}
+{"uuid": 186, "masked_sentences": ["A horse is a [MASK]."], "obj_label": ["pet"], "relation": "is_a", "feature_type": ["functional"], "sub_label": "horse"}
+{"uuid": 187, "masked_sentences": ["A hose is a [MASK]."], "obj_label": ["tube", "pipe", "tool"], "relation": "is_a", "feature_type": ["visual perceptual", "visual perceptual", "taxonomic"], "sub_label": "hose"}
+{"uuid": 188, "masked_sentences": ["A houseboat is a [MASK]."], "obj_label": ["boat", "house", "home", "residence"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic", "taxonomic"], "sub_label": "houseboat"}
+{"uuid": 189, "masked_sentences": ["A hummingbird is a [MASK]."], "obj_label": ["bird"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "hummingbird"}
+{"uuid": 190, "masked_sentences": ["A hutch is a [MASK]."], "obj_label": ["cage", "home", "shelter"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "functional"], "sub_label": "hutch"}
+{"uuid": 191, "masked_sentences": ["A hyacinth is a [MASK]."], "obj_label": ["flower", "plant"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "hyacinth"}
+{"uuid": 192, "masked_sentences": ["A hyena is a [MASK]."], "obj_label": ["dog", "predator", "cat"], "relation": "is_a", "feature_type": ["encyclopaedic", "taxonomic", "taxonomic"], "sub_label": "hyena"}
+{"uuid": 193, "masked_sentences": ["An ibuprofen is a [MASK]."], "obj_label": ["pill", "tablet", "drug"], "relation": "is_a", "feature_type": ["visual perceptual", "visual perceptual", "taxonomic"], "sub_label": "ibuprofen"}
+{"uuid": 194, "masked_sentences": ["An iguana is a [MASK]."], "obj_label": ["lizard", "pet"], "relation": "is_a", "feature_type": ["taxonomic", "functional"], "sub_label": "iguana"}
+{"uuid": 195, "masked_sentences": ["A jam is a [MASK]."], "obj_label": ["preserve", "food", "spread"], "relation": "is_a", "feature_type": ["encyclopaedic", "taxonomic", "taxonomic"], "sub_label": "jam"}
+{"uuid": 196, "masked_sentences": ["A jar is a [MASK]."], "obj_label": ["container"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "jar"}
+{"uuid": 197, "masked_sentences": ["A jeep is a [MASK]."], "obj_label": ["car", "vehicle"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "jeep"}
+{"uuid": 198, "masked_sentences": ["A jellyfish is a [MASK]."], "obj_label": ["creature", "killer", "fish"], "relation": "is_a", "feature_type": ["taxonomic", "functional", "taxonomic"], "sub_label": "jellyfish"}
+{"uuid": 199, "masked_sentences": ["A jug is a [MASK]."], "obj_label": ["container", "vessel"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "jug"}
+{"uuid": 200, "masked_sentences": ["A kayak is a [MASK]."], "obj_label": ["boat", "canoe", "sport"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "functional"], "sub_label": "kayak"}
+{"uuid": 201, "masked_sentences": ["A ketchup is a [MASK]."], "obj_label": ["sauce", "liquid"], "relation": "is_a", "feature_type": ["encyclopaedic", "visual perceptual"], "sub_label": "ketchup"}
+{"uuid": 202, "masked_sentences": ["A kettle is a [MASK]."], "obj_label": ["device", "container", "vessel"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic"], "sub_label": "kettle"}
+{"uuid": 203, "masked_sentences": ["A kingfisher is a [MASK]."], "obj_label": ["bird"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "kingfisher"}
+{"uuid": 204, "masked_sentences": ["A kite is a [MASK]."], "obj_label": ["toy", "shape"], "relation": "is_a", "feature_type": ["taxonomic", "visual perceptual"], "sub_label": "kite"}
+{"uuid": 205, "masked_sentences": ["A knife is a [MASK]."], "obj_label": ["weapon", "blade", "tool"], "relation": "is_a", "feature_type": ["taxonomic", "visual perceptual", "taxonomic"], "sub_label": "knife"}
+{"uuid": 206, "masked_sentences": ["A ladder is a [MASK]."], "obj_label": ["tool"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "ladder"}
+{"uuid": 207, "masked_sentences": ["A ladybird is a [MASK]."], "obj_label": ["bug", "beetle"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "ladybird"}
+{"uuid": 208, "masked_sentences": ["A lamb is a [MASK]."], "obj_label": ["sheep", "baby"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "lamb"}
+{"uuid": 209, "masked_sentences": ["A lantern is a [MASK]."], "obj_label": ["light"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "lantern"}
+{"uuid": 210, "masked_sentences": ["A leek is a [MASK]."], "obj_label": ["vegetable", "cylinder", "symbol"], "relation": "is_a", "feature_type": ["taxonomic", "visual perceptual", "encyclopaedic"], "sub_label": "leek"}
+{"uuid": 211, "masked_sentences": ["A leg is a [MASK]."], "obj_label": ["limb", "pair"], "relation": "is_a", "feature_type": ["taxonomic", "visual perceptual"], "sub_label": "leg"}
+{"uuid": 212, "masked_sentences": ["A lemon is a [MASK]."], "obj_label": ["fruit"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "lemon"}
+{"uuid": 213, "masked_sentences": ["A lemonade is a [MASK]."], "obj_label": ["drink"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "lemonade"}
+{"uuid": 214, "masked_sentences": ["A leopard is a [MASK]."], "obj_label": ["cat", "hunter", "predator"], "relation": "is_a", "feature_type": ["encyclopaedic", "functional", "taxonomic"], "sub_label": "leopard"}
+{"uuid": 215, "masked_sentences": ["A lettuce is a [MASK]."], "obj_label": ["vegetable", "plant", "sphere"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "visual perceptual"], "sub_label": "lettuce"}
+{"uuid": 216, "masked_sentences": ["A lily is a [MASK]."], "obj_label": ["flower", "plant"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "lily"}
+{"uuid": 217, "masked_sentences": ["A lime is a [MASK]."], "obj_label": ["fruit"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "lime"}
+{"uuid": 218, "masked_sentences": ["A limousine is a [MASK]."], "obj_label": ["car", "luxury", "vehicle", "symbol"], "relation": "is_a", "feature_type": ["taxonomic", "encyclopaedic", "taxonomic", "encyclopaedic"], "sub_label": "limousine"}
+{"uuid": 219, "masked_sentences": ["A lion is a [MASK]."], "obj_label": ["cat", "predator", "hunter", "killer"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic", "functional"], "sub_label": "lion"}
+{"uuid": 220, "masked_sentences": ["A lizard is a [MASK]."], "obj_label": ["creature", "pet"], "relation": "is_a", "feature_type": ["taxonomic", "functional"], "sub_label": "lizard"}
+{"uuid": 221, "masked_sentences": ["A lorry is a [MASK]."], "obj_label": ["vehicle"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "lorry"}
+{"uuid": 222, "masked_sentences": ["A machete is a [MASK]."], "obj_label": ["weapon", "knife", "tool", "sword", "blade"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic", "taxonomic", "taxonomic"], "sub_label": "machete"}
+{"uuid": 223, "masked_sentences": ["A mackerel is a [MASK]."], "obj_label": ["fish", "creature"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "mackerel"}
+{"uuid": 224, "masked_sentences": ["A magpie is a [MASK]."], "obj_label": ["bird", "thief"], "relation": "is_a", "feature_type": ["taxonomic", "functional"], "sub_label": "magpie"}
+{"uuid": 225, "masked_sentences": ["A marble is a [MASK]."], "obj_label": ["toy", "sphere", "ball"], "relation": "is_a", "feature_type": ["taxonomic", "visual perceptual", "visual perceptual"], "sub_label": "marble"}
+{"uuid": 226, "masked_sentences": ["A marigold is a [MASK]."], "obj_label": ["flower", "plant"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "marigold"}
+{"uuid": 227, "masked_sentences": ["A mask is a [MASK]."], "obj_label": ["disguise", "costume"], "relation": "is_a", "feature_type": ["functional", "visual perceptual"], "sub_label": "mask"}
+{"uuid": 228, "masked_sentences": ["A mayonnaise is a [MASK]."], "obj_label": ["sauce", "spread", "liquid"], "relation": "is_a", "feature_type": ["encyclopaedic", "taxonomic", "visual perceptual"], "sub_label": "mayonnaise"}
+{"uuid": 229, "masked_sentences": ["A melon is a [MASK]."], "obj_label": ["fruit"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "melon"}
+{"uuid": 230, "masked_sentences": ["A menu is a [MASK]."], "obj_label": ["list"], "relation": "is_a", "feature_type": ["encyclopaedic"], "sub_label": "menu"}
+{"uuid": 231, "masked_sentences": ["A microscope is a [MASK]."], "obj_label": ["tool"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "microscope"}
+{"uuid": 232, "masked_sentences": ["A microwave is a [MASK]."], "obj_label": ["box", "machine"], "relation": "is_a", "feature_type": ["visual perceptual", "encyclopaedic"], "sub_label": "microwave"}
+{"uuid": 233, "masked_sentences": ["A milk is a [MASK]."], "obj_label": ["liquid", "fluid", "drink", "beverage", "suspension"], "relation": "is_a", "feature_type": ["visual perceptual", "visual perceptual", "taxonomic", "taxonomic", "encyclopaedic"], "sub_label": "milk"}
+{"uuid": 234, "masked_sentences": ["A minnow is a [MASK]."], "obj_label": ["fish"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "minnow"}
+{"uuid": 235, "masked_sentences": ["A mittens is a [MASK]."], "obj_label": ["glove", "pair", "garment"], "relation": "is_a", "feature_type": ["taxonomic", "visual perceptual", "taxonomic"], "sub_label": "mittens"}
+{"uuid": 236, "masked_sentences": ["A moose is a [MASK]."], "obj_label": ["deer"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "moose"}
+{"uuid": 237, "masked_sentences": ["A mop is a [MASK]."], "obj_label": ["tool"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "mop"}
+{"uuid": 238, "masked_sentences": ["A moped is a [MASK]."], "obj_label": ["bike", "vehicle"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "moped"}
+{"uuid": 239, "masked_sentences": ["A mosquito is a [MASK]."], "obj_label": ["fly", "parasite"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "mosquito"}
+{"uuid": 240, "masked_sentences": ["A moss is a [MASK]."], "obj_label": ["plant", "weed"], "relation": "is_a", "feature_type": ["taxonomic", "encyclopaedic"], "sub_label": "moss"}
+{"uuid": 241, "masked_sentences": ["A motorcycle is a [MASK]."], "obj_label": ["vehicle"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "motorcycle"}
+{"uuid": 242, "masked_sentences": ["A mouse is a [MASK]."], "obj_label": ["pet"], "relation": "is_a", "feature_type": ["functional"], "sub_label": "mouse"}
+{"uuid": 243, "masked_sentences": ["A mug is a [MASK]."], "obj_label": ["cylinder", "container", "vessel", "gift"], "relation": "is_a", "feature_type": ["visual perceptual", "taxonomic", "taxonomic", "functional"], "sub_label": "mug"}
+{"uuid": 244, "masked_sentences": ["A mushroom is a [MASK]."], "obj_label": ["fungus", "vegetable", "drug"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "encyclopaedic"], "sub_label": "mushroom"}
+{"uuid": 245, "masked_sentences": ["A mussel is a [MASK]."], "obj_label": ["shell", "creature", "fish"], "relation": "is_a", "feature_type": ["visual perceptual", "taxonomic", "taxonomic"], "sub_label": "mussel"}
+{"uuid": 246, "masked_sentences": ["A necklace is a [MASK]."], "obj_label": ["gift", "present"], "relation": "is_a", "feature_type": ["functional", "functional"], "sub_label": "necklace"}
+{"uuid": 247, "masked_sentences": ["A nectarine is a [MASK]."], "obj_label": ["fruit", "food"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "nectarine"}
+{"uuid": 248, "masked_sentences": ["A needle is a [MASK]."], "obj_label": ["tool"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "needle"}
+{"uuid": 249, "masked_sentences": ["A nightingale is a [MASK]."], "obj_label": ["bird", "symbol"], "relation": "is_a", "feature_type": ["taxonomic", "encyclopaedic"], "sub_label": "nightingale"}
+{"uuid": 250, "masked_sentences": ["A nose is a [MASK]."], "obj_label": ["bone", "feature"], "relation": "is_a", "feature_type": ["visual perceptual", "taxonomic"], "sub_label": "nose"}
+{"uuid": 251, "masked_sentences": ["A nut is a [MASK]."], "obj_label": ["seed", "snack"], "relation": "is_a", "feature_type": ["taxonomic", "functional"], "sub_label": "nut"}
+{"uuid": 252, "masked_sentences": ["An oak is a [MASK]."], "obj_label": ["tree", "plant"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "oak"}
+{"uuid": 253, "masked_sentences": ["An octopus is a [MASK]."], "obj_label": ["creature", "fish"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "octopus"}
+{"uuid": 254, "masked_sentences": ["An olive is a [MASK]."], "obj_label": ["tree", "fruit", "starter", "food", "plant"], "relation": "is_a", "feature_type": ["encyclopaedic", "taxonomic", "encyclopaedic", "taxonomic", "taxonomic"], "sub_label": "olive"}
+{"uuid": 255, "masked_sentences": ["An onion is a [MASK]."], "obj_label": ["vegetable", "bulb", "plant", "root"], "relation": "is_a", "feature_type": ["taxonomic", "visual perceptual", "taxonomic", "taxonomic"], "sub_label": "onion"}
+{"uuid": 256, "masked_sentences": ["An orange is a [MASK]."], "obj_label": ["fruit", "sphere"], "relation": "is_a", "feature_type": ["taxonomic", "visual perceptual"], "sub_label": "orange"}
+{"uuid": 257, "masked_sentences": ["An orchid is a [MASK]."], "obj_label": ["flower", "plant", "gift"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "functional"], "sub_label": "orchid"}
+{"uuid": 258, "masked_sentences": ["An ostrich is a [MASK]."], "obj_label": ["bird"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "ostrich"}
+{"uuid": 259, "masked_sentences": ["An owl is a [MASK]."], "obj_label": ["bird", "predator"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "owl"}
+{"uuid": 260, "masked_sentences": ["An ox is a [MASK]."], "obj_label": ["cow"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "ox"}
+{"uuid": 261, "masked_sentences": ["A pamphlet is a [MASK]."], "obj_label": ["booklet"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "pamphlet"}
+{"uuid": 262, "masked_sentences": ["A pansy is a [MASK]."], "obj_label": ["flower", "plant"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "pansy"}
+{"uuid": 263, "masked_sentences": ["A panther is a [MASK]."], "obj_label": ["cat", "creature", "predator", "hunter"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic", "taxonomic"], "sub_label": "panther"}
+{"uuid": 264, "masked_sentences": ["A parakeet is a [MASK]."], "obj_label": ["bird", "pet"], "relation": "is_a", "feature_type": ["taxonomic", "functional"], "sub_label": "parakeet"}
+{"uuid": 265, "masked_sentences": ["A parka is a [MASK]."], "obj_label": ["coat", "jacket", "garment"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic"], "sub_label": "parka"}
+{"uuid": 266, "masked_sentences": ["A parsley is a [MASK]."], "obj_label": ["herb", "plant", "vegetable"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic"], "sub_label": "parsley"}
+{"uuid": 267, "masked_sentences": ["A partridge is a [MASK]."], "obj_label": ["bird"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "partridge"}
+{"uuid": 268, "masked_sentences": ["A peach is a [MASK]."], "obj_label": ["fruit"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "peach"}
+{"uuid": 269, "masked_sentences": ["A peacock is a [MASK]."], "obj_label": ["bird"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "peacock"}
+{"uuid": 270, "masked_sentences": ["A peanut is a [MASK]."], "obj_label": ["nut", "food", "snack", "pulse"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "functional", "taxonomic"], "sub_label": "peanut"}
+{"uuid": 271, "masked_sentences": ["A pear is a [MASK]."], "obj_label": ["fruit", "shape"], "relation": "is_a", "feature_type": ["taxonomic", "visual perceptual"], "sub_label": "pear"}
+{"uuid": 272, "masked_sentences": ["A peas is a [MASK]."], "obj_label": ["vegetable", "seed"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "peas"}
+{"uuid": 273, "masked_sentences": ["A peeler is a [MASK]."], "obj_label": ["tool"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "peeler"}
+{"uuid": 274, "masked_sentences": ["A pelican is a [MASK]."], "obj_label": ["bird"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "pelican"}
+{"uuid": 275, "masked_sentences": ["A pen is a [MASK]."], "obj_label": ["tool"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "pen"}
+{"uuid": 276, "masked_sentences": ["A pencil is a [MASK]."], "obj_label": ["tool"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "pencil"}
+{"uuid": 277, "masked_sentences": ["A penguin is a [MASK]."], "obj_label": ["bird", "hunter"], "relation": "is_a", "feature_type": ["taxonomic", "functional"], "sub_label": "penguin"}
+{"uuid": 278, "masked_sentences": ["A penknife is a [MASK]."], "obj_label": ["knife", "tool", "weapon"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic"], "sub_label": "penknife"}
+{"uuid": 279, "masked_sentences": ["A pennicillin is a [MASK]."], "obj_label": ["drug", "medicine", "fungus", "pill", "cure", "tablet", "chemical"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic", "visual perceptual", "functional", "visual perceptual", "taxonomic"], "sub_label": "pennicillin"}
+{"uuid": 280, "masked_sentences": ["A perfume is a [MASK]."], "obj_label": ["smell", "scent", "spray", "gift", "present"], "relation": "is_a", "feature_type": ["other perceptual", "other perceptual", "visual perceptual", "functional", "functional"], "sub_label": "perfume"}
+{"uuid": 281, "masked_sentences": ["A pie is a [MASK]."], "obj_label": ["dessert", "dish"], "relation": "is_a", "feature_type": ["functional", "encyclopaedic"], "sub_label": "pie"}
+{"uuid": 282, "masked_sentences": ["A pigeon is a [MASK]."], "obj_label": ["bird", "creature"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "pigeon"}
+{"uuid": 283, "masked_sentences": ["A pine is a [MASK]."], "obj_label": ["tree", "wood", "plant"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic"], "sub_label": "pine"}
+{"uuid": 284, "masked_sentences": ["A pineapple is a [MASK]."], "obj_label": ["fruit"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "pineapple"}
+{"uuid": 285, "masked_sentences": ["A pistol is a [MASK]."], "obj_label": ["gun", "weapon", "toy"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic"], "sub_label": "pistol"}
+{"uuid": 286, "masked_sentences": ["A pliers is a [MASK]."], "obj_label": ["tool", "lever"], "relation": "is_a", "feature_type": ["taxonomic", "functional"], "sub_label": "pliers"}
+{"uuid": 287, "masked_sentences": ["A plough is a [MASK]."], "obj_label": ["tool", "machine"], "relation": "is_a", "feature_type": ["taxonomic", "encyclopaedic"], "sub_label": "plough"}
+{"uuid": 288, "masked_sentences": ["A plum is a [MASK]."], "obj_label": ["fruit"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "plum"}
+{"uuid": 289, "masked_sentences": ["A poison is a [MASK]."], "obj_label": ["gas", "chemical"], "relation": "is_a", "feature_type": ["taxonomic", "encyclopaedic"], "sub_label": "poison"}
+{"uuid": 290, "masked_sentences": ["A pony is a [MASK]."], "obj_label": ["horse"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "pony"}
+{"uuid": 291, "masked_sentences": ["A poppy is a [MASK]."], "obj_label": ["flower", "symbol", "plant", "drug"], "relation": "is_a", "feature_type": ["taxonomic", "encyclopaedic", "taxonomic", "taxonomic"], "sub_label": "poppy"}
+{"uuid": 292, "masked_sentences": ["A porsche is a [MASK]."], "obj_label": ["car", "vehicle"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "porsche"}
+{"uuid": 293, "masked_sentences": ["A potato is a [MASK]."], "obj_label": ["vegetable", "jacket", "plant", "staple"], "relation": "is_a", "feature_type": ["taxonomic", "functional", "taxonomic", "taxonomic"], "sub_label": "potato"}
+{"uuid": 294, "masked_sentences": ["A prawn is a [MASK]."], "obj_label": ["creature", "fish"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "prawn"}
+{"uuid": 295, "masked_sentences": ["A prune is a [MASK]."], "obj_label": ["fruit", "food"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "prune"}
+{"uuid": 296, "masked_sentences": ["A pumpkin is a [MASK]."], "obj_label": ["vegetable", "squash", "fruit", "carriage"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic", "encyclopaedic"], "sub_label": "pumpkin"}
+{"uuid": 297, "masked_sentences": ["A puppet is a [MASK]."], "obj_label": ["toy", "person", "human", "character", "figure"], "relation": "is_a", "feature_type": ["taxonomic", "encyclopaedic", "encyclopaedic", "encyclopaedic", "encyclopaedic"], "sub_label": "puppet"}
+{"uuid": 298, "masked_sentences": ["A pyramid is a [MASK]."], "obj_label": ["tomb", "shape", "triangle", "building", "structure"], "relation": "is_a", "feature_type": ["taxonomic", "visual perceptual", "visual perceptual", "taxonomic", "taxonomic"], "sub_label": "pyramid"}
+{"uuid": 299, "masked_sentences": ["A rabbit is a [MASK]."], "obj_label": ["pet"], "relation": "is_a", "feature_type": ["functional"], "sub_label": "rabbit"}
+{"uuid": 300, "masked_sentences": ["A radio is a [MASK]."], "obj_label": ["device", "receiver"], "relation": "is_a", "feature_type": ["encyclopaedic", "encyclopaedic"], "sub_label": "radio"}
+{"uuid": 301, "masked_sentences": ["A radish is a [MASK]."], "obj_label": ["vegetable", "root"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "radish"}
+{"uuid": 302, "masked_sentences": ["A raft is a [MASK]."], "obj_label": ["boat", "vehicle", "craft"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic"], "sub_label": "raft"}
+{"uuid": 303, "masked_sentences": ["A raisin is a [MASK]."], "obj_label": ["grape", "fruit", "snack"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "functional"], "sub_label": "raisin"}
+{"uuid": 304, "masked_sentences": ["A rake is a [MASK]."], "obj_label": ["tool"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "rake"}
+{"uuid": 305, "masked_sentences": ["A raspberry is a [MASK]."], "obj_label": ["fruit"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "raspberry"}
+{"uuid": 306, "masked_sentences": ["A rat is a [MASK]."], "obj_label": ["pet", "parasite"], "relation": "is_a", "feature_type": ["functional", "encyclopaedic"], "sub_label": "rat"}
+{"uuid": 307, "masked_sentences": ["A rattle is a [MASK]."], "obj_label": ["toy"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "rattle"}
+{"uuid": 308, "masked_sentences": ["A rattlesnake is a [MASK]."], "obj_label": ["snake", "predator"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "rattlesnake"}
+{"uuid": 309, "masked_sentences": ["A raven is a [MASK]."], "obj_label": ["bird"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "raven"}
+{"uuid": 310, "masked_sentences": ["A razor is a [MASK]."], "obj_label": ["tool"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "razor"}
+{"uuid": 311, "masked_sentences": ["A revolver is a [MASK]."], "obj_label": ["gun", "weapon", "firearm"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic"], "sub_label": "revolver"}
+{"uuid": 312, "masked_sentences": ["A rhubarb is a [MASK]."], "obj_label": ["fruit", "plant", "vegetable"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic"], "sub_label": "rhubarb"}
+{"uuid": 313, "masked_sentences": ["A rice is a [MASK]."], "obj_label": ["grain", "staple", "plant", "cereal"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic", "taxonomic"], "sub_label": "rice"}
+{"uuid": 314, "masked_sentences": ["A rifle is a [MASK]."], "obj_label": ["gun", "weapon", "firearm"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic"], "sub_label": "rifle"}
+{"uuid": 315, "masked_sentences": ["A robe is a [MASK]."], "obj_label": ["garment", "covering", "gown"], "relation": "is_a", "feature_type": ["taxonomic", "functional", "taxonomic"], "sub_label": "robe"}
+{"uuid": 316, "masked_sentences": ["A robin is a [MASK]."], "obj_label": ["bird"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "robin"}
+{"uuid": 317, "masked_sentences": ["A rock is a [MASK]."], "obj_label": ["mineral", "stone", "weapon"], "relation": "is_a", "feature_type": ["encyclopaedic", "visual perceptual", "taxonomic"], "sub_label": "rock"}
+{"uuid": 318, "masked_sentences": ["A rocket is a [MASK]."], "obj_label": ["missile", "toy", "vehicle", "weapon"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic", "taxonomic"], "sub_label": "rocket"}
+{"uuid": 319, "masked_sentences": ["A rollerskate is a [MASK]."], "obj_label": ["shoe", "toy"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "rollerskate"}
+{"uuid": 320, "masked_sentences": ["A rose is a [MASK]."], "obj_label": ["flower", "plant", "gift", "symbol"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "functional", "encyclopaedic"], "sub_label": "rose"}
+{"uuid": 321, "masked_sentences": ["A salmon is a [MASK]."], "obj_label": ["fish", "food"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "salmon"}
+{"uuid": 322, "masked_sentences": ["A sandpaper is a [MASK]."], "obj_label": ["paper", "tool"], "relation": "is_a", "feature_type": ["visual perceptual", "taxonomic"], "sub_label": "sandpaper"}
+{"uuid": 323, "masked_sentences": ["A sandwich is a [MASK]."], "obj_label": ["lunch", "snack"], "relation": "is_a", "feature_type": ["functional", "functional"], "sub_label": "sandwich"}
+{"uuid": 324, "masked_sentences": ["A sardine is a [MASK]."], "obj_label": ["fish", "food"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "sardine"}
+{"uuid": 325, "masked_sentences": ["A satchel is a [MASK]."], "obj_label": ["bag"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "satchel"}
+{"uuid": 326, "masked_sentences": ["A satsuma is a [MASK]."], "obj_label": ["fruit"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "satsuma"}
+{"uuid": 327, "masked_sentences": ["A saw is a [MASK]."], "obj_label": ["tool"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "saw"}
+{"uuid": 328, "masked_sentences": ["A scallop is a [MASK]."], "obj_label": ["fish", "creature", "starter"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "functional"], "sub_label": "scallop"}
+{"uuid": 329, "masked_sentences": ["A scalpel is a [MASK]."], "obj_label": ["tool"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "scalpel"}
+{"uuid": 330, "masked_sentences": ["A scissors is a [MASK]."], "obj_label": ["tool"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "scissors"}
+{"uuid": 331, "masked_sentences": ["A scorpion is a [MASK]."], "obj_label": ["killer", "predator"], "relation": "is_a", "feature_type": ["functional", "taxonomic"], "sub_label": "scorpion"}
+{"uuid": 332, "masked_sentences": ["A screw is a [MASK]."], "obj_label": ["tool"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "screw"}
+{"uuid": 333, "masked_sentences": ["A screwdriver is a [MASK]."], "obj_label": ["tool"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "screwdriver"}
+{"uuid": 334, "masked_sentences": ["A scythe is a [MASK]."], "obj_label": ["tool", "weapon"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "scythe"}
+{"uuid": 335, "masked_sentences": ["A seagull is a [MASK]."], "obj_label": ["bird"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "seagull"}
+{"uuid": 336, "masked_sentences": ["A seahorse is a [MASK]."], "obj_label": ["creature", "fish", "pet"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "functional"], "sub_label": "seahorse"}
+{"uuid": 337, "masked_sentences": ["A seaweed is a [MASK]."], "obj_label": ["plant", "food"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "seaweed"}
+{"uuid": 338, "masked_sentences": ["A sellotape is a [MASK]."], "obj_label": ["brand", "trademark"], "relation": "is_a", "feature_type": ["encyclopaedic", "encyclopaedic"], "sub_label": "sellotape"}
+{"uuid": 339, "masked_sentences": ["A shark is a [MASK]."], "obj_label": ["fish", "creature", "predator", "hunter"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic", "taxonomic"], "sub_label": "shark"}
+{"uuid": 340, "masked_sentences": ["A shield is a [MASK]."], "obj_label": ["crest", "weapon"], "relation": "is_a", "feature_type": ["visual perceptual", "taxonomic"], "sub_label": "shield"}
+{"uuid": 341, "masked_sentences": ["A ship is a [MASK]."], "obj_label": ["boat"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "ship"}
+{"uuid": 342, "masked_sentences": ["A shotgun is a [MASK]."], "obj_label": ["weapon", "gun", "firearm"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic"], "sub_label": "shotgun"}
+{"uuid": 343, "masked_sentences": ["A shovel is a [MASK]."], "obj_label": ["tool"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "shovel"}
+{"uuid": 344, "masked_sentences": ["A shrimp is a [MASK]."], "obj_label": ["creature", "fish"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "shrimp"}
+{"uuid": 345, "masked_sentences": ["A sink is a [MASK]."], "obj_label": ["basin", "bowl", "vessel", "container"], "relation": "is_a", "feature_type": ["visual perceptual", "visual perceptual", "taxonomic", "taxonomic"], "sub_label": "sink"}
+{"uuid": 346, "masked_sentences": ["A skateboard is a [MASK]."], "obj_label": ["vehicle", "toy"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "skateboard"}
+{"uuid": 347, "masked_sentences": ["A sledge is a [MASK]."], "obj_label": ["toy"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "sledge"}
+{"uuid": 348, "masked_sentences": ["A sofa is a [MASK]."], "obj_label": ["seat"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "sofa"}
+{"uuid": 349, "masked_sentences": ["A spade is a [MASK]."], "obj_label": ["tool", "lever", "toy"], "relation": "is_a", "feature_type": ["taxonomic", "functional", "taxonomic"], "sub_label": "spade"}
+{"uuid": 350, "masked_sentences": ["A spanner is a [MASK]."], "obj_label": ["tool", "lever"], "relation": "is_a", "feature_type": ["taxonomic", "functional"], "sub_label": "spanner"}
+{"uuid": 351, "masked_sentences": ["A sparrow is a [MASK]."], "obj_label": ["bird"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "sparrow"}
+{"uuid": 352, "masked_sentences": ["A spatula is a [MASK]."], "obj_label": ["tool"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "spatula"}
+{"uuid": 353, "masked_sentences": ["A spear is a [MASK]."], "obj_label": ["weapon", "pole"], "relation": "is_a", "feature_type": ["taxonomic", "encyclopaedic"], "sub_label": "spear"}
+{"uuid": 354, "masked_sentences": ["A speedboat is a [MASK]."], "obj_label": ["boat", "ship", "vehicle", "thrill"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic", "encyclopaedic"], "sub_label": "speedboat"}
+{"uuid": 355, "masked_sentences": ["A spinach is a [MASK]."], "obj_label": ["vegetable", "leaf", "plant", "salad"], "relation": "is_a", "feature_type": ["taxonomic", "visual perceptual", "taxonomic", "functional"], "sub_label": "spinach"}
+{"uuid": 356, "masked_sentences": ["A spoon is a [MASK]."], "obj_label": ["mirror", "tool"], "relation": "is_a", "feature_type": ["encyclopaedic", "taxonomic"], "sub_label": "spoon"}
+{"uuid": 357, "masked_sentences": ["A squid is a [MASK]."], "obj_label": ["creature", "fish", "food"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic"], "sub_label": "squid"}
+{"uuid": 358, "masked_sentences": ["A starling is a [MASK]."], "obj_label": ["bird"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "starling"}
+{"uuid": 359, "masked_sentences": ["A stick is a [MASK]."], "obj_label": ["branch", "cylinder", "weapon"], "relation": "is_a", "feature_type": ["encyclopaedic", "visual perceptual", "taxonomic"], "sub_label": "stick"}
+{"uuid": 360, "masked_sentences": ["A stool is a [MASK]."], "obj_label": ["chair", "seat"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "stool"}
+{"uuid": 361, "masked_sentences": ["A strainer is a [MASK]."], "obj_label": ["tool", "filter"], "relation": "is_a", "feature_type": ["taxonomic", "functional"], "sub_label": "strainer"}
+{"uuid": 362, "masked_sentences": ["A strawberry is a [MASK]."], "obj_label": ["fruit", "symbol"], "relation": "is_a", "feature_type": ["taxonomic", "encyclopaedic"], "sub_label": "strawberry"}
+{"uuid": 363, "masked_sentences": ["A submarine is a [MASK]."], "obj_label": ["boat", "vehicle", "vessel"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic"], "sub_label": "submarine"}
+{"uuid": 364, "masked_sentences": ["A sultana is a [MASK]."], "obj_label": ["grape", "fruit", "food", "snack"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic", "functional"], "sub_label": "sultana"}
+{"uuid": 365, "masked_sentences": ["A sunflower is a [MASK]."], "obj_label": ["flower", "plant"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "sunflower"}
+{"uuid": 366, "masked_sentences": ["A surfboard is a [MASK]."], "obj_label": ["sport", "board"], "relation": "is_a", "feature_type": ["functional", "encyclopaedic"], "sub_label": "surfboard"}
+{"uuid": 367, "masked_sentences": ["A swan is a [MASK]."], "obj_label": ["bird"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "swan"}
+{"uuid": 368, "masked_sentences": ["A sweater is a [MASK]."], "obj_label": ["jumper"], "relation": "is_a", "feature_type": ["encyclopaedic"], "sub_label": "sweater"}
+{"uuid": 369, "masked_sentences": ["A swing is a [MASK]."], "obj_label": ["seat", "toy"], "relation": "is_a", "feature_type": ["visual perceptual", "taxonomic"], "sub_label": "swing"}
+{"uuid": 370, "masked_sentences": ["A sword is a [MASK]."], "obj_label": ["weapon"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "sword"}
+{"uuid": 371, "masked_sentences": ["A sycamore is a [MASK]."], "obj_label": ["tree", "plant"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "sycamore"}
+{"uuid": 372, "masked_sentences": ["A syringe is a [MASK]."], "obj_label": ["tool"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "syringe"}
+{"uuid": 373, "masked_sentences": ["A tambourine is a [MASK]."], "obj_label": ["drum"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "tambourine"}
+{"uuid": 374, "masked_sentences": ["A tangerine is a [MASK]."], "obj_label": ["fruit"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "tangerine"}
+{"uuid": 375, "masked_sentences": ["A tank is a [MASK]."], "obj_label": ["vehicle", "weapon"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "tank"}
+{"uuid": 376, "masked_sentences": ["A tarantula is a [MASK]."], "obj_label": ["spider", "pet", "predator"], "relation": "is_a", "feature_type": ["taxonomic", "functional", "taxonomic"], "sub_label": "tarantula"}
+{"uuid": 377, "masked_sentences": ["A taxi is a [MASK]."], "obj_label": ["car", "vehicle"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "taxi"}
+{"uuid": 378, "masked_sentences": ["A tea is a [MASK]."], "obj_label": ["leaf", "drink", "beverage", "plant", "liquid"], "relation": "is_a", "feature_type": ["visual perceptual", "taxonomic", "taxonomic", "taxonomic", "visual perceptual"], "sub_label": "tea"}
+{"uuid": 379, "masked_sentences": ["A telephone is a [MASK]."], "obj_label": ["mobile", "device"], "relation": "is_a", "feature_type": ["functional", "encyclopaedic"], "sub_label": "telephone"}
+{"uuid": 380, "masked_sentences": ["A television is a [MASK]."], "obj_label": ["box", "device", "distraction"], "relation": "is_a", "feature_type": ["visual perceptual", "encyclopaedic", "encyclopaedic"], "sub_label": "television"}
+{"uuid": 381, "masked_sentences": ["A tent is a [MASK]."], "obj_label": ["shelter", "home", "dwelling"], "relation": "is_a", "feature_type": ["functional", "taxonomic", "taxonomic"], "sub_label": "tent"}
+{"uuid": 382, "masked_sentences": ["A textbook is a [MASK]."], "obj_label": ["book", "resource", "manual", "reference"], "relation": "is_a", "feature_type": ["taxonomic", "encyclopaedic", "taxonomic", "functional"], "sub_label": "textbook"}
+{"uuid": 383, "masked_sentences": ["A thermometer is a [MASK]."], "obj_label": ["tool", "device"], "relation": "is_a", "feature_type": ["taxonomic", "encyclopaedic"], "sub_label": "thermometer"}
+{"uuid": 384, "masked_sentences": ["A throne is a [MASK]."], "obj_label": ["chair", "seat"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "throne"}
+{"uuid": 385, "masked_sentences": ["A thumb is a [MASK]."], "obj_label": ["digit", "finger"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "thumb"}
+{"uuid": 386, "masked_sentences": ["A tiger is a [MASK]."], "obj_label": ["cat", "predator", "hunter"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic"], "sub_label": "tiger"}
+{"uuid": 387, "masked_sentences": ["A toaster is a [MASK]."], "obj_label": ["machine"], "relation": "is_a", "feature_type": ["encyclopaedic"], "sub_label": "toaster"}
+{"uuid": 388, "masked_sentences": ["A tobacco is a [MASK]."], "obj_label": ["plant", "leaf", "drug", "crop"], "relation": "is_a", "feature_type": ["taxonomic", "visual perceptual", "taxonomic", "taxonomic"], "sub_label": "tobacco"}
+{"uuid": 389, "masked_sentences": ["A toe is a [MASK]."], "obj_label": ["digit"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "toe"}
+{"uuid": 390, "masked_sentences": ["A tomato is a [MASK]."], "obj_label": ["fruit", "plant", "vegetable"], "relation": "is_a", "feature_type": ["taxonomic", "encyclopaedic", "taxonomic"], "sub_label": "tomato"}
+{"uuid": 391, "masked_sentences": ["A tortoise is a [MASK]."], "obj_label": ["creature", "pet", "turtle"], "relation": "is_a", "feature_type": ["taxonomic", "functional", "taxonomic"], "sub_label": "tortoise"}
+{"uuid": 392, "masked_sentences": ["A tractor is a [MASK]."], "obj_label": ["vehicle"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "tractor"}
+{"uuid": 393, "masked_sentences": ["A train is a [MASK]."], "obj_label": ["vehicle"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "train"}
+{"uuid": 394, "masked_sentences": ["A tricycle is a [MASK]."], "obj_label": ["bike", "cycle", "toy", "vehicle"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic", "taxonomic"], "sub_label": "tricycle"}
+{"uuid": 395, "masked_sentences": ["A trout is a [MASK]."], "obj_label": ["fish", "food"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "trout"}
+{"uuid": 396, "masked_sentences": ["A trowel is a [MASK]."], "obj_label": ["tool"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "trowel"}
+{"uuid": 397, "masked_sentences": ["A truck is a [MASK]."], "obj_label": ["carrier", "vehicle"], "relation": "is_a", "feature_type": ["functional", "taxonomic"], "sub_label": "truck"}
+{"uuid": 398, "masked_sentences": ["A tugboat is a [MASK]."], "obj_label": ["boat"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "tugboat"}
+{"uuid": 399, "masked_sentences": ["A tulip is a [MASK]."], "obj_label": ["flower", "bulb", "plant", "gift"], "relation": "is_a", "feature_type": ["taxonomic", "visual perceptual", "taxonomic", "functional"], "sub_label": "tulip"}
+{"uuid": 400, "masked_sentences": ["A tuna is a [MASK]."], "obj_label": ["fish", "predator"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "tuna"}
+{"uuid": 401, "masked_sentences": ["A turkey is a [MASK]."], "obj_label": ["bird"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "turkey"}
+{"uuid": 402, "masked_sentences": ["A turnip is a [MASK]."], "obj_label": ["vegetable", "root", "bulb"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "visual perceptual"], "sub_label": "turnip"}
+{"uuid": 403, "masked_sentences": ["A tweezers is a [MASK]."], "obj_label": ["tool"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "tweezers"}
+{"uuid": 404, "masked_sentences": ["A typewriter is a [MASK]."], "obj_label": ["machine", "device", "tool"], "relation": "is_a", "feature_type": ["encyclopaedic", "encyclopaedic", "taxonomic"], "sub_label": "typewriter"}
+{"uuid": 405, "masked_sentences": ["A tyre is a [MASK]."], "obj_label": ["spare"], "relation": "is_a", "feature_type": ["encyclopaedic"], "sub_label": "tyre"}
+{"uuid": 406, "masked_sentences": ["A unicycle is a [MASK]."], "obj_label": ["bike", "vehicle"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "unicycle"}
+{"uuid": 407, "masked_sentences": ["A valium is a [MASK]."], "obj_label": ["drug", "pill", "tablet", "chemical", "medicine", "trademark"], "relation": "is_a", "feature_type": ["taxonomic", "visual perceptual", "visual perceptual", "encyclopaedic", "taxonomic", "encyclopaedic"], "sub_label": "valium"}
+{"uuid": 408, "masked_sentences": ["A van is a [MASK]."], "obj_label": ["vehicle"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "van"}
+{"uuid": 409, "masked_sentences": ["A wand is a [MASK]."], "obj_label": ["stick", "tool"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "wand"}
+{"uuid": 410, "masked_sentences": ["A watch is a [MASK]."], "obj_label": ["device", "tool"], "relation": "is_a", "feature_type": ["encyclopaedic", "taxonomic"], "sub_label": "watch"}
+{"uuid": 411, "masked_sentences": ["A watermelon is a [MASK]."], "obj_label": ["fruit"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "watermelon"}
+{"uuid": 412, "masked_sentences": ["A wheelbarrow is a [MASK]."], "obj_label": ["bucket", "tool", "container"], "relation": "is_a", "feature_type": ["visual perceptual", "taxonomic", "taxonomic"], "sub_label": "wheelbarrow"}
+{"uuid": 413, "masked_sentences": ["A wheelchair is a [MASK]."], "obj_label": ["seat", "chair"], "relation": "is_a", "feature_type": ["visual perceptual", "taxonomic"], "sub_label": "wheelchair"}
+{"uuid": 414, "masked_sentences": ["A whip is a [MASK]."], "obj_label": ["weapon", "tool"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "whip"}
+{"uuid": 415, "masked_sentences": ["A whisk is a [MASK]."], "obj_label": ["tool"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "whisk"}
+{"uuid": 416, "masked_sentences": ["A whisky is a [MASK]."], "obj_label": ["drink", "beverage", "spirit", "liquid"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic", "taxonomic", "visual perceptual"], "sub_label": "whisky"}
+{"uuid": 417, "masked_sentences": ["A whistle is a [MASK]."], "obj_label": ["signal"], "relation": "is_a", "feature_type": ["functional"], "sub_label": "whistle"}
+{"uuid": 418, "masked_sentences": ["A willow is a [MASK]."], "obj_label": ["tree", "plant"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "willow"}
+{"uuid": 419, "masked_sentences": ["A wine is a [MASK]."], "obj_label": ["drink", "liquid"], "relation": "is_a", "feature_type": ["taxonomic", "visual perceptual"], "sub_label": "wine"}
+{"uuid": 420, "masked_sentences": ["A wolf is a [MASK]."], "obj_label": ["dog", "predator", "hunter"], "relation": "is_a", "feature_type": ["encyclopaedic", "taxonomic", "taxonomic"], "sub_label": "wolf"}
+{"uuid": 421, "masked_sentences": ["A woodpecker is a [MASK]."], "obj_label": ["bird", "creature"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "woodpecker"}
+{"uuid": 422, "masked_sentences": ["A wren is a [MASK]."], "obj_label": ["bird"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "wren"}
+{"uuid": 423, "masked_sentences": ["A yacht is a [MASK]."], "obj_label": ["boat", "luxury"], "relation": "is_a", "feature_type": ["taxonomic", "encyclopaedic"], "sub_label": "yacht"}
+{"uuid": 424, "masked_sentences": ["A yoghurt is a [MASK]."], "obj_label": ["food", "snack", "liquid", "dessert"], "relation": "is_a", "feature_type": ["taxonomic", "functional", "visual perceptual", "functional"], "sub_label": "yoghurt"}
+{"uuid": 425, "masked_sentences": ["A yoyo is a [MASK]."], "obj_label": ["toy"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "yoyo"}
+{"uuid": 426, "masked_sentences": ["An ant is a [MASK]."], "obj_label": ["bug", "worker"], "relation": "is_a", "feature_type": ["taxonomic", "functional"], "sub_label": "ant"}
+{"uuid": 427, "masked_sentences": ["An apron is a [MASK]."], "obj_label": ["garment"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "apron"}
+{"uuid": 428, "masked_sentences": ["A bacon is a [MASK]."], "obj_label": ["meat", "food", "slice"], "relation": "is_a", "feature_type": ["functional", "taxonomic", "functional"], "sub_label": "bacon"}
+{"uuid": 429, "masked_sentences": ["A banjo is a [MASK]."], "obj_label": ["guitar"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "banjo"}
+{"uuid": 430, "masked_sentences": ["A beaver is a [MASK]."], "obj_label": ["builder"], "relation": "is_a", "feature_type": ["functional"], "sub_label": "beaver"}
+{"uuid": 431, "masked_sentences": ["A bee is a [MASK]."], "obj_label": ["queen"], "relation": "is_a", "feature_type": ["encyclopaedic"], "sub_label": "bee"}
+{"uuid": 432, "masked_sentences": ["A bread is a [MASK]."], "obj_label": ["staple"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "bread"}
+{"uuid": 433, "masked_sentences": ["A candle is a [MASK]."], "obj_label": ["cylinder"], "relation": "is_a", "feature_type": ["visual perceptual"], "sub_label": "candle"}
+{"uuid": 434, "masked_sentences": ["A cape is a [MASK]."], "obj_label": ["garment"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "cape"}
+{"uuid": 435, "masked_sentences": ["A caterpillar is a [MASK]."], "obj_label": ["butterfly"], "relation": "is_a", "feature_type": ["encyclopaedic"], "sub_label": "caterpillar"}
+{"uuid": 436, "masked_sentences": ["A cigarette is a [MASK]."], "obj_label": ["killer"], "relation": "is_a", "feature_type": ["functional"], "sub_label": "cigarette"}
+{"uuid": 437, "masked_sentences": ["A clam is a [MASK]."], "obj_label": ["shell", "creature", "food"], "relation": "is_a", "feature_type": ["visual perceptual", "taxonomic", "taxonomic"], "sub_label": "clam"}
+{"uuid": 438, "masked_sentences": ["A clarinet is a [MASK]."], "obj_label": ["tube"], "relation": "is_a", "feature_type": ["visual perceptual"], "sub_label": "clarinet"}
+{"uuid": 439, "masked_sentences": ["A cloak is a [MASK]."], "obj_label": ["garment"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "cloak"}
+{"uuid": 440, "masked_sentences": ["A cork is a [MASK]."], "obj_label": ["cylinder", "wood", "plug"], "relation": "is_a", "feature_type": ["visual perceptual", "visual perceptual", "encyclopaedic"], "sub_label": "cork"}
+{"uuid": 441, "masked_sentences": ["A crab is a [MASK]."], "obj_label": ["creature"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "crab"}
+{"uuid": 442, "masked_sentences": ["A deer is a [MASK]."], "obj_label": ["creature"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "deer"}
+{"uuid": 443, "masked_sentences": ["A dolphin is a [MASK]."], "obj_label": ["creature"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "dolphin"}
+{"uuid": 444, "masked_sentences": ["A donkey is a [MASK]."], "obj_label": ["mammals"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "donkey"}
+{"uuid": 445, "masked_sentences": ["A dragonfly is a [MASK]."], "obj_label": ["bug"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "dragonfly"}
+{"uuid": 446, "masked_sentences": ["A dress is a [MASK]."], "obj_label": ["garment"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "dress"}
+{"uuid": 447, "masked_sentences": ["An earmuffs is a [MASK]."], "obj_label": ["garment"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "earmuffs"}
+{"uuid": 448, "masked_sentences": ["A flute is a [MASK]."], "obj_label": ["tube"], "relation": "is_a", "feature_type": ["visual perceptual"], "sub_label": "flute"}
+{"uuid": 449, "masked_sentences": ["A fox is a [MASK]."], "obj_label": ["predator"], "relation": "is_a", "feature_type": ["functional"], "sub_label": "fox"}
+{"uuid": 450, "masked_sentences": ["A gate is a [MASK]."], "obj_label": ["portal", "barrier", "door"], "relation": "is_a", "feature_type": ["visual perceptual", "functional", "visual perceptual"], "sub_label": "gate"}
+{"uuid": 451, "masked_sentences": ["A glider is a [MASK]."], "obj_label": ["plane"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "glider"}
+{"uuid": 452, "masked_sentences": ["A gloves is a [MASK]."], "obj_label": ["garment", "pair", "covering"], "relation": "is_a", "feature_type": ["taxonomic", "visual perceptual", "functional"], "sub_label": "gloves"}
+{"uuid": 453, "masked_sentences": ["A goggles is a [MASK]."], "obj_label": ["protector", "pair"], "relation": "is_a", "feature_type": ["functional", "visual perceptual"], "sub_label": "goggles"}
+{"uuid": 454, "masked_sentences": ["A gorilla is a [MASK]."], "obj_label": ["monkey"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "gorilla"}
+{"uuid": 455, "masked_sentences": ["A grasshopper is a [MASK]."], "obj_label": ["bug"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "grasshopper"}
+{"uuid": 456, "masked_sentences": ["A harpsichord is a [MASK]."], "obj_label": ["piano"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "harpsichord"}
+{"uuid": 457, "masked_sentences": ["A heart is a [MASK]."], "obj_label": ["muscle", "pump"], "relation": "is_a", "feature_type": ["encyclopaedic", "functional"], "sub_label": "heart"}
+{"uuid": 458, "masked_sentences": ["A hedgehog is a [MASK]."], "obj_label": ["creature"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "hedgehog"}
+{"uuid": 459, "masked_sentences": ["A hornet is a [MASK]."], "obj_label": ["bee", "creature"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "hornet"}
+{"uuid": 460, "masked_sentences": ["A jacket is a [MASK]."], "obj_label": ["garment", "coat"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "jacket"}
+{"uuid": 461, "masked_sentences": ["A jeans is a [MASK]."], "obj_label": ["garment"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "jeans"}
+{"uuid": 462, "masked_sentences": ["A jelly is a [MASK]."], "obj_label": ["dessert", "sweet", "food", "solid"], "relation": "is_a", "feature_type": ["functional", "functional", "taxonomic", "encyclopaedic"], "sub_label": "jelly"}
+{"uuid": 463, "masked_sentences": ["A knickers is a [MASK]."], "obj_label": ["garment"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "knickers"}
+{"uuid": 464, "masked_sentences": ["A ladle is a [MASK]."], "obj_label": ["spoon"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "ladle"}
+{"uuid": 465, "masked_sentences": ["A lamp is a [MASK]."], "obj_label": ["light"], "relation": "is_a", "feature_type": ["visual perceptual"], "sub_label": "lamp"}
+{"uuid": 466, "masked_sentences": ["A llama is a [MASK]."], "obj_label": ["creature"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "llama"}
+{"uuid": 467, "masked_sentences": ["A lobster is a [MASK]."], "obj_label": ["creature"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "lobster"}
+{"uuid": 468, "masked_sentences": ["A millipede is a [MASK]."], "obj_label": ["creature"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "millipede"}
+{"uuid": 469, "masked_sentences": ["A mirror is a [MASK]."], "obj_label": ["decoration"], "relation": "is_a", "feature_type": ["functional"], "sub_label": "mirror"}
+{"uuid": 470, "masked_sentences": ["A moth is a [MASK]."], "obj_label": ["bug", "butterfly"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "moth"}
+{"uuid": 471, "masked_sentences": ["A nail is a [MASK]."], "obj_label": ["point"], "relation": "is_a", "feature_type": ["visual perceptual"], "sub_label": "nail"}
+{"uuid": 472, "masked_sentences": ["A napkin is a [MASK]."], "obj_label": ["tissue"], "relation": "is_a", "feature_type": ["encyclopaedic"], "sub_label": "napkin"}
+{"uuid": 473, "masked_sentences": ["A newspaper is a [MASK]."], "obj_label": ["publication"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "newspaper"}
+{"uuid": 474, "masked_sentences": ["An otter is a [MASK]."], "obj_label": ["creature"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "otter"}
+{"uuid": 475, "masked_sentences": ["An oyster is a [MASK]."], "obj_label": ["shell", "creature"], "relation": "is_a", "feature_type": ["visual perceptual", "taxonomic"], "sub_label": "oyster"}
+{"uuid": 476, "masked_sentences": ["A pig is a [MASK]."], "obj_label": ["food"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "pig"}
+{"uuid": 477, "masked_sentences": ["A pillow is a [MASK]."], "obj_label": ["support"], "relation": "is_a", "feature_type": ["functional"], "sub_label": "pillow"}
+{"uuid": 478, "masked_sentences": ["A platypus is a [MASK]."], "obj_label": ["creature"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "platypus"}
+{"uuid": 479, "masked_sentences": ["A porcupine is a [MASK]."], "obj_label": ["creature"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "porcupine"}
+{"uuid": 480, "masked_sentences": ["A pyjamas is a [MASK]."], "obj_label": ["garment", "set"], "relation": "is_a", "feature_type": ["taxonomic", "visual perceptual"], "sub_label": "pyjamas"}
+{"uuid": 481, "masked_sentences": ["A ruler is a [MASK]."], "obj_label": ["device", "scale"], "relation": "is_a", "feature_type": ["taxonomic", "visual perceptual"], "sub_label": "ruler"}
+{"uuid": 482, "masked_sentences": ["A sandals is a [MASK]."], "obj_label": ["pair", "garment"], "relation": "is_a", "feature_type": ["visual perceptual", "taxonomic"], "sub_label": "sandals"}
+{"uuid": 483, "masked_sentences": ["A scarf is a [MASK]."], "obj_label": ["garment"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "scarf"}
+{"uuid": 484, "masked_sentences": ["A shirt is a [MASK]."], "obj_label": ["garment"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "shirt"}
+{"uuid": 485, "masked_sentences": ["A shoes is a [MASK]."], "obj_label": ["pair"], "relation": "is_a", "feature_type": ["visual perceptual"], "sub_label": "shoes"}
+{"uuid": 486, "masked_sentences": ["A skirt is a [MASK]."], "obj_label": ["garment", "length"], "relation": "is_a", "feature_type": ["taxonomic", "visual perceptual"], "sub_label": "skirt"}
+{"uuid": 487, "masked_sentences": ["A skis is a [MASK]."], "obj_label": ["pair", "sport"], "relation": "is_a", "feature_type": ["visual perceptual", "functional"], "sub_label": "skis"}
+{"uuid": 488, "masked_sentences": ["A slippers is a [MASK]."], "obj_label": ["pair"], "relation": "is_a", "feature_type": ["visual perceptual"], "sub_label": "slippers"}
+{"uuid": 489, "masked_sentences": ["A slug is a [MASK]."], "obj_label": ["snail", "creature"], "relation": "is_a", "feature_type": ["taxonomic", "taxonomic"], "sub_label": "slug"}
+{"uuid": 490, "masked_sentences": ["A sock is a [MASK]."], "obj_label": ["pair"], "relation": "is_a", "feature_type": ["visual perceptual"], "sub_label": "sock"}
+{"uuid": 491, "masked_sentences": ["A soup is a [MASK]."], "obj_label": ["liquid", "food", "starter"], "relation": "is_a", "feature_type": ["visual perceptual", "taxonomic", "functional"], "sub_label": "soup"}
+{"uuid": 492, "masked_sentences": ["A stockings is a [MASK]."], "obj_label": ["garment"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "stockings"}
+{"uuid": 493, "masked_sentences": ["A stone is a [MASK]."], "obj_label": ["rock", "mineral"], "relation": "is_a", "feature_type": ["visual perceptual", "encyclopaedic"], "sub_label": "stone"}
+{"uuid": 494, "masked_sentences": ["A sugar is a [MASK]."], "obj_label": ["food"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "sugar"}
+{"uuid": 495, "masked_sentences": ["A swimsuit is a [MASK]."], "obj_label": ["garment"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "swimsuit"}
+{"uuid": 496, "masked_sentences": ["A thimble is a [MASK]."], "obj_label": ["protector"], "relation": "is_a", "feature_type": ["functional"], "sub_label": "thimble"}
+{"uuid": 497, "masked_sentences": ["A tongs is a [MASK]."], "obj_label": ["tool"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "tongs"}
+{"uuid": 498, "masked_sentences": ["A trousers is a [MASK]."], "obj_label": ["garment"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "trousers"}
+{"uuid": 499, "masked_sentences": ["A turtle is a [MASK]."], "obj_label": ["creature"], "relation": "is_a", "feature_type": ["taxonomic"], "sub_label": "turtle"}
+{"uuid": 500, "masked_sentences": ["A veil is a [MASK]."], "obj_label": ["covering", "garment"], "relation": "is_a", "feature_type": ["functional", "taxonomic"], "sub_label": "veil"}
+{"uuid": 501, "masked_sentences": ["An ashtray is a [MASK]."], "obj_label": ["container"], "relation": "is_a", "feature_type": ["functional"], "sub_label": "ashtray"}
+{"uuid": 502, "masked_sentences": ["A basket is a [MASK]."], "obj_label": ["container"], "relation": "is_a", "feature_type": ["functional"], "sub_label": "basket"}
+{"uuid": 503, "masked_sentences": ["A bench is a [MASK]."], "obj_label": ["seat"], "relation": "is_a", "feature_type": ["visual perceptual"], "sub_label": "bench"}
+{"uuid": 504, "masked_sentences": ["A chair is a [MASK]."], "obj_label": ["seat"], "relation": "is_a", "feature_type": ["visual perceptual"], "sub_label": "chair"}
+{"uuid": 505, "masked_sentences": ["A doorknob is a [MASK]."], "obj_label": ["handle"], "relation": "is_a", "feature_type": ["visual perceptual"], "sub_label": "doorknob"}
+{"uuid": 506, "masked_sentences": ["A tray is a [MASK]."], "obj_label": ["container"], "relation": "is_a", "feature_type": ["functional"], "sub_label": "tray"}
+{"uuid": 507, "masked_sentences": ["A wallet is a [MASK]."], "obj_label": ["container"], "relation": "is_a", "feature_type": ["functional"], "sub_label": "wallet"}
+{"uuid": 508, "masked_sentences": ["A wheel is a [MASK]."], "obj_label": ["circle"], "relation": "is_a", "feature_type": ["visual perceptual"], "sub_label": "wheel"}

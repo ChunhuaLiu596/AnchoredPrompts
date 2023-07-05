@@ -1,0 +1,31 @@
+Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Debug: False
+#Test_instances: 576
+---------------------------------------- obj_label evaluation ----------------------------------------
+          Singular  Plural  Paired Singular-Plural
+Accuracy      70.8    59.0                    50.2
+Save log/bert-large-uncased/lm_diagnostic_extended/consistency/IsA.def_sap.csv
+
+#Test_instances: 576
+---------------------------------------- obj_label evaluation ----------------------------------------
+          Singular  Plural  Paired Singular-Plural
+Accuracy      69.8    66.8                    55.4
+Save log/bert-large-uncased/lm_diagnostic_extended/consistency/IsA.def_dap.csv
+
+#Test_instances: 576
+---------------------------------------- obj_label evaluation ----------------------------------------
+          Singular  Plural  Paired Singular-Plural
+Accuracy      43.6    64.6                    36.8
+Save log/bert-large-uncased/lm_diagnostic_extended/consistency/IsA.lsp_sap.csv
+
+#Test_instances: 576
+---------------------------------------- obj_label evaluation ----------------------------------------
+          Singular  Plural  Paired Singular-Plural
+Accuracy      60.1    71.0                    53.5
+Save log/bert-large-uncased/lm_diagnostic_extended/consistency/IsA.lsp_dap.csv
+

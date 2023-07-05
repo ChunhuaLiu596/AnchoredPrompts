@@ -1,0 +1,900 @@
+{"uuid": "", "obj_uri": "Q1646181", "obj_label": "Worcester", "sub_uri": "Q6099316", "sub_label": "Ivor Atkins", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1781", "obj_label": "Budapest", "sub_uri": "Q714888", "sub_label": "Ottok\u00e1r Proh\u00e1szka", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q450607", "sub_label": "Paul Tallement the Younger", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q1419337", "sub_label": "Severo Lombardoni", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q4287327", "sub_label": "Sergei Medvedev", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_uri": "Q442594", "sub_label": "John of Austria the Younger", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2044", "obj_label": "Florence", "sub_uri": "Q966655", "sub_label": "Domenico Passignano", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1748", "obj_label": "Copenhagen", "sub_uri": "Q741430", "sub_label": "Herman Wilhelm Bissen", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q12250776", "sub_label": "Waguih Ghali", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_uri": "Q11753856", "sub_label": "Lejb Rotblat", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2044", "obj_label": "Florence", "sub_uri": "Q15698073", "sub_label": "Augusto Passaglia", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q977948", "sub_label": "Luciano Emmer", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q2805655", "sub_label": "Charles Boyle, 4th Earl of Orrery", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q562158", "sub_label": "Thomas A. Dorsey", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q171834", "sub_label": "Aldo Moro", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q5534939", "sub_label": "Geoffrey Toye", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q21", "obj_label": "England", "sub_uri": "Q525835", "sub_label": "Knud Andersen", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_uri": "Q602137", "sub_label": "Antonio Garc\u00eda Guti\u00e9rrez", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q456", "obj_label": "Lyon", "sub_uri": "Q1347446", "sub_label": "Charles IV, Duke of Alen\u00e7on", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2634", "obj_label": "Naples", "sub_uri": "Q3766457", "sub_label": "Giovanni Antonio Medrano", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1352", "obj_label": "Chennai", "sub_uri": "Q3191296", "sub_label": "K. M. Adimoolam", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q406", "obj_label": "Istanbul", "sub_uri": "Q6088852", "sub_label": "Adnan Ers\u00f6z", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1530", "obj_label": "Baghdad", "sub_uri": "Q3889405", "sub_label": "Julio Anguita Parrado", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1460", "obj_label": "Sicily", "sub_uri": "Q173441", "sub_label": "Muhammad al-Idrisi", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q4453790", "sub_label": "Moisej Solomonovi\u010d Tejf", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q485176", "obj_label": "Pasadena", "sub_uri": "Q1337932", "sub_label": "Alfred Harrison Joy", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1726", "obj_label": "Munich", "sub_uri": "Q107502", "sub_label": "Thomas Dachser", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q34006", "obj_label": "Hollywood", "sub_uri": "Q1438724", "sub_label": "Joseph A. McDonough", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q1574706", "sub_label": "John Coleridge, 1st Baron Coleridge", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q801", "obj_label": "Israel", "sub_uri": "Q2906650", "sub_label": "Ya'akov Geri", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q3373217", "sub_label": "Thorstein Hiortdahl", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2044", "obj_label": "Florence", "sub_uri": "Q1379683", "sub_label": "Lorenzo di Pierfrancesco de' Medici", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q462574", "sub_label": "Diana Mitford", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2135", "obj_label": "Winnipeg", "sub_uri": "Q4723176", "sub_label": "Alfred Monnin", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q346582", "sub_label": "Paschal III", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q1288644", "sub_label": "Ernest William Hornung", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q1727346", "sub_label": "William Copeland Borlase", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1391", "obj_label": "Maryland", "sub_uri": "Q6230867", "sub_label": "John E. Osborn", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_uri": "Q96421", "sub_label": "Peter Frankenfeld", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1781", "obj_label": "Budapest", "sub_uri": "Q6950282", "sub_label": "M\u00f3r Ungerleider", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1761", "obj_label": "Dublin", "sub_uri": "Q2678158", "sub_label": "T. F. O'Rahilly", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q890936", "sub_label": "Bohumil Modr\u00fd", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q6160672", "sub_label": "Jaroslav R\u00f6ssler", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q2583268", "sub_label": "Louis Klein", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1370", "obj_label": "Virginia", "sub_uri": "Q1484229", "sub_label": "G. B. Grayson", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q5911289", "sub_label": "Florence Cook", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q436775", "sub_label": "John Burgoyne", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2887", "obj_label": "Santiago", "sub_uri": "Q5932421", "sub_label": "Joaqu\u00edn Tocornal", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q8019571", "sub_label": "William Turnbull Leach", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_uri": "Q78606", "sub_label": "Robert Fuchs", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q12439", "obj_label": "Detroit", "sub_uri": "Q1095449", "sub_label": "Clarence J. McLeod", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q548004", "sub_label": "Hugh Walpole", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q406", "obj_label": "Istanbul", "sub_uri": "Q255809", "sub_label": "H\u00fcrrem Sultan", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q334", "obj_label": "Singapore", "sub_uri": "Q3293422", "sub_label": "George Drumgoole Coleman", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_uri": "Q1337696", "sub_label": "Robert Douglas, Count of Skenninge", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2256", "obj_label": "Birmingham", "sub_uri": "Q5481898", "sub_label": "Francis McGurk", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q5137287", "sub_label": "Cl\u00e9ment Robillard", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q4521501", "sub_label": "Lazar Shatskin", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1731", "obj_label": "Dresden", "sub_uri": "Q92225", "sub_label": "Georg Ludwig Rudolf Maercker", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q3435455", "sub_label": "Rolf Maartmann", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q23156", "obj_label": "Devon", "sub_uri": "Q948033", "sub_label": "John Henry Taylor", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q3141", "obj_label": "Melbourne", "sub_uri": "Q5649950", "sub_label": "Hans Ebeling", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q49272", "obj_label": "Chandler", "sub_uri": "Q5335841", "sub_label": "Eddie Basha, Jr.", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1726", "obj_label": "Munich", "sub_uri": "Q90577", "sub_label": "Christa Reinig", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q59670", "obj_label": "Columbia", "sub_uri": "Q1681070", "sub_label": "James S. Rollins", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q472656", "sub_label": "Emilio Scanavino", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q963703", "sub_label": "Mary Seacole", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q4500527", "sub_label": "Ivan Khokhlov", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q145342", "sub_label": "George W. Murray", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q2478111", "sub_label": "Umberto Brunelleschi", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q12439", "obj_label": "Detroit", "sub_uri": "Q5075712", "sub_label": "Charles Bowles", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q5650646", "sub_label": "Hans Rasmussen", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q90339", "sub_label": "Walter Volle", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q15993207", "sub_label": "Mark Linz", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q2778793", "sub_label": "Lorenzo Mongiardino", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q1423", "sub_label": "Domitian", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2108879", "obj_label": "Fairfax", "sub_uri": "Q278366", "sub_label": "Andy Kulberg", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q929667", "obj_label": "Lexington", "sub_uri": "Q15999153", "sub_label": "Walter Lonergan", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q79875", "obj_label": "Mobile", "sub_uri": "Q6135353", "sub_label": "James Hagan", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1524", "obj_label": "Athens", "sub_uri": "Q458257", "sub_label": "Jimmy Makulis", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2135", "obj_label": "Winnipeg", "sub_uri": "Q7974839", "sub_label": "Watson Montgomery Crosby", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q877735", "sub_label": "Georg Friedrich Schmidt", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_uri": "Q3296918", "sub_label": "John Anderson", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1928578", "obj_label": "Olivia", "sub_uri": "Q4926988", "sub_label": "Blix Donnelly", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q4380666", "sub_label": "Vladimir Fyodorovich Promyslov", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q758545", "obj_label": "Auburn", "sub_uri": "Q5543337", "sub_label": "George P. Merrill", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1794", "obj_label": "Frankfurt", "sub_uri": "Q1821925", "sub_label": "Levinus Hulsius", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q18419", "obj_label": "Brooklyn", "sub_uri": "Q5250696", "sub_label": "Jim Creighton", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q67576", "sub_label": "Arnold Schering", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1524", "obj_label": "Athens", "sub_uri": "Q211350", "sub_label": "Emmanuel Rhoides", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q154240", "sub_label": "Yemelyan Pugachev", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_uri": "Q540689", "sub_label": "Johann Wilhelm Wilms", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q3265642", "sub_label": "Lucien Millevoye", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q33959", "obj_label": "Nice", "sub_uri": "Q73057", "sub_label": "\u00c9mile Brugsch", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q3166155", "sub_label": "Jacques-Marie Huv\u00e9", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2256", "obj_label": "Birmingham", "sub_uri": "Q7794440", "sub_label": "Thomas Thompson", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q928", "obj_label": "Philippines", "sub_uri": "Q4887988", "sub_label": "Benigno Ramos", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2195634", "obj_label": "Marshall", "sub_uri": "Q2544863", "sub_label": "Walter I. Hayes", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q4586586", "sub_label": "Ada Polak", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1757", "obj_label": "Helsinki", "sub_uri": "Q3359673", "sub_label": "Axel Olof Freudenthal", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q172355", "sub_label": "Jacques Pollet", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_uri": "Q3816978", "sub_label": "Gabriel de la Corte", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q23436", "obj_label": "Edinburgh", "sub_uri": "Q7964305", "sub_label": "Walter Biggar Blaikie", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_uri": "Q9352716", "sub_label": "Szymon Szurmiej", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q355600", "sub_label": "Henri-Paul Motte", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q3293423", "sub_label": "Mario Faustinelli", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q2296098", "sub_label": "Snowy Evans", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q540678", "sub_label": "Jean-Joseph Carri\u00e8s", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q31", "obj_label": "Belgium", "sub_uri": "Q2729727", "sub_label": "Ren\u00e9 Ledent", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q3309457", "sub_label": "Michel Dens", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_uri": "Q1682276", "sub_label": "Jan Sztolcman", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1757", "obj_label": "Helsinki", "sub_uri": "Q4354745", "sub_label": "Jaakko Jalas", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1731", "obj_label": "Dresden", "sub_uri": "Q1913139", "sub_label": "Max Neumeister", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q1459036", "sub_label": "Ladislav Rott", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q182625", "obj_label": "Windsor", "sub_uri": "Q1659739", "sub_label": "Alistair MacLeod", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_uri": "Q2367502", "sub_label": "Severin Nilsson", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q2114093", "sub_label": "\u00c9tienne Delaune", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q7192786", "sub_label": "Pieter Hofman", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q644483", "sub_label": "Lev Oborin", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q61047", "sub_label": "Gotthold Eisenstein", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q80513", "sub_label": "Saint Cecilia", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q1369805", "sub_label": "Girolamo Maria Gotti", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1731", "obj_label": "Dresden", "sub_uri": "Q65825", "sub_label": "Richard Mollier", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q21", "obj_label": "England", "sub_uri": "Q2331929", "sub_label": "Stanton Coit", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q2025707", "sub_label": "Pyotr Baluyev", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1492", "obj_label": "Barcelona", "sub_uri": "Q2734296", "sub_label": "Ovidi Montllor", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q1813630", "sub_label": "Harry DeBaecke", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q3666608", "sub_label": "Charles Henry Turner", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1726", "obj_label": "Munich", "sub_uri": "Q682783", "sub_label": "Duke Ludwig Wilhelm in Bavaria", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q8652", "obj_label": "Miami", "sub_uri": "Q5287127", "sub_label": "Doc Tonkin", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q3159657", "sub_label": "Jacques-Nicolas Colbert", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_uri": "Q6292611", "sub_label": "Jos\u00e9 Joaqu\u00edn \u00c1lvarez de Toledo, 18th Duke of Medina Sidonia", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_uri": "Q3266736", "sub_label": "Luis Lucia Mingarro", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q5745086", "sub_label": "Herv\u00e9 Lacelles", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q43196", "obj_label": "Cincinnati", "sub_uri": "Q2522390", "sub_label": "Victor Heintz", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q450147", "sub_label": "Nicolas M\u00e9tru", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q5092", "obj_label": "Baltimore", "sub_uri": "Q1156344", "sub_label": "John Kronmiller", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q797", "obj_label": "Alaska", "sub_uri": "Q1567156", "sub_label": "Thomas Hale Boggs, Sr.", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q1352173", "sub_label": "Eug\u00e8ne Christophe", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q55381", "sub_label": "Jacques Becker", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q78704", "sub_label": "Hanns Eisler", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q71", "obj_label": "Geneva", "sub_uri": "Q122226", "sub_label": "Jan Krugier", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_uri": "Q607808", "sub_label": "Witold Hensel", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_uri": "Q3850648", "sub_label": "Masaharu Anesaki", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q37320", "obj_label": "Cleveland", "sub_uri": "Q4704453", "sub_label": "Al Milnar", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_uri": "Q1313404", "sub_label": "Jack Reynolds", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q272184", "sub_label": "Henryk Wieniawski", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_uri": "Q5342063", "sub_label": "Edward Bullough", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1731", "obj_label": "Dresden", "sub_uri": "Q99163", "sub_label": "Karl Friedrich Ludwig von Watzdorf", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q38453", "obj_label": "Columbia", "sub_uri": "Q5046197", "sub_label": "Carrie Allen McCray", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q774872", "sub_label": "Mikhail Menzbier", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q43301", "obj_label": "Fresno", "sub_uri": "Q1347832", "sub_label": "Henry E. Barbour", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q459024", "sub_label": "Sam Chedgzoy", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q5040570", "sub_label": "Carl Mortensen", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_uri": "Q1360179", "sub_label": "John Byrom", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q986005", "obj_label": "Lancaster", "sub_uri": "Q16007778", "sub_label": "Isaac J. Collins", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1726", "obj_label": "Munich", "sub_uri": "Q590483", "sub_label": "Vali Racz", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q3141", "obj_label": "Melbourne", "sub_uri": "Q16089665", "sub_label": "Jack Harris", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q33959", "obj_label": "Nice", "sub_uri": "Q3098807", "sub_label": "Gaspard Th\u00e9odore Mollien", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q64561", "sub_label": "Gustav Rose", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q130159", "sub_label": "Macarius Bulgakov", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q5092", "obj_label": "Baltimore", "sub_uri": "Q4935752", "sub_label": "Bobby Young", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q5092", "obj_label": "Baltimore", "sub_uri": "Q5379320", "sub_label": "Enoch Pratt", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q458891", "sub_label": "Lucia Valentini Terrani", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q120111", "sub_label": "F\u00e9lix Pisani", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q1443545", "sub_label": "Frank Roberts", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q947115", "obj_label": "Monroe", "sub_uri": "Q4913073", "sub_label": "Billy Muffett", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_uri": "Q89485", "sub_label": "Anton Joseph Leeb", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q16554", "obj_label": "Denver", "sub_uri": "Q5311630", "sub_label": "Dud Lee", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_uri": "Q2541552", "sub_label": "Cornelis Ploos van Amstel", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q5559667", "sub_label": "Gideon Striker", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q48077", "sub_label": "Semyon Kurkotkin", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q512633", "sub_label": "Ji\u0159\u00ed Kroha", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q43475", "obj_label": "Derby", "sub_uri": "Q5257526", "sub_label": "Denis Smith", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q19509830", "sub_label": "Margaret Meen", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q138409", "sub_label": "Francis Walsingham", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q85", "obj_label": "Cairo", "sub_uri": "Q468432", "sub_label": "Jalal al-Din al-Suyuti", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_uri": "Q6756290", "sub_label": "Marceli Struszy\u0144ski", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q2706794", "sub_label": "Michele Greco", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q372652", "sub_label": "Claude-Emmanuel de Pastoret", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q3291044", "sub_label": "Maria Rygier", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q1065826", "sub_label": "Charles P\u00e9lissier", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q1953445", "sub_label": "Charles David Ganao", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q2124432", "sub_label": "Maureen Starkey Tigrett", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_uri": "Q706786", "sub_label": "Josef Posipal", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q2248239", "sub_label": "Antonio Amorosi", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1761", "obj_label": "Dublin", "sub_uri": "Q437952", "sub_label": "Richard de Clare, 2nd Earl of Pembroke", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q989949", "obj_label": "Kent", "sub_uri": "Q4732776", "sub_label": "Allison Krause", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q1174512", "sub_label": "David Gans", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_uri": "Q216205", "sub_label": "Fred Wander", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q435709", "sub_label": "Nikolay Zelinsky", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q2779666", "sub_label": "Bohumil Kafka", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2096", "obj_label": "Edmonton", "sub_uri": "Q2086387", "sub_label": "Philip Primrose", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2634", "obj_label": "Naples", "sub_uri": "Q1469745", "sub_label": "Pietro Summonte", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q76432", "sub_label": "Rudolf Virchow", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1856043", "obj_label": "Milan", "sub_uri": "Q7855884", "sub_label": "Turner Barber", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1781", "obj_label": "Budapest", "sub_uri": "Q854729", "sub_label": "Jen\u0151 Huszka", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q4104437", "sub_label": "Vasili Ivanovich Shemyachich", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_uri": "Q6254434", "sub_label": "John Reddish", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q485176", "obj_label": "Pasadena", "sub_uri": "Q17626827", "sub_label": "George K. Hooper", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q12025518", "sub_label": "Ji\u0159\u00ed Srnka", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q182784", "sub_label": "Arnold Lunn", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q17", "obj_label": "Japan", "sub_uri": "Q956283", "sub_label": "Mikimoto K\u014dkichi", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q456", "obj_label": "Lyon", "sub_uri": "Q3383817", "sub_label": "Pierre Autin-Grenier", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q215998", "sub_label": "Justus Christian Loder", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1726", "obj_label": "Munich", "sub_uri": "Q60739", "sub_label": "Fran\u00e7ois de Cuvilli\u00e9s", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q620765", "obj_label": "Lydia", "sub_uri": "Q739310", "sub_label": "Serenianus", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q435892", "sub_label": "Luigi Broglio", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q6730253", "sub_label": "Maggie Hemingway", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q3141", "obj_label": "Melbourne", "sub_uri": "Q13639661", "sub_label": "John Hodges", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2887", "obj_label": "Santiago", "sub_uri": "Q16494304", "sub_label": "Pedro Nolasco Cruz Vergara", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q6193743", "sub_label": "Jim Bonella", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q34006", "obj_label": "Hollywood", "sub_uri": "Q3157279", "sub_label": "Jack Mower", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q6346", "obj_label": "Indianapolis", "sub_uri": "Q6760823", "sub_label": "Marguerite Young", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1757", "obj_label": "Helsinki", "sub_uri": "Q992971", "sub_label": "Bruno Ahlberg", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q3119283", "sub_label": "Guglielmo Letteri", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q6761321", "sub_label": "Maria Korchinska", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q2530426", "sub_label": "Pierce Butler", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2135", "obj_label": "Winnipeg", "sub_uri": "Q1101113", "sub_label": "Clifford Crowley", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q1773095", "sub_label": "Giovanni Maria Morandi", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2634", "obj_label": "Naples", "sub_uri": "Q1858041", "sub_label": "Salvatore Di Giacomo", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q57202", "sub_label": "Magda Goebbels", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q48047", "sub_label": "Boris Shaposhnikov", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_uri": "Q605848", "sub_label": "Stanis\u0142aw Mokronowski", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_uri": "Q5721572", "sub_label": "Henry Franklin Bronson", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1861", "obj_label": "Bangkok", "sub_uri": "Q6581594", "sub_label": "Vimolnaka Nabisi", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1726", "obj_label": "Munich", "sub_uri": "Q85215", "sub_label": "Johann Andreas Buchner", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q169013", "sub_label": "Zden\u011bk Mat\u011bj\u010dek", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q3131449", "sub_label": "Henri Lef\u00e8vre d'Ormesson", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1218", "obj_label": "Jerusalem", "sub_uri": "Q214352", "sub_label": "Kurt Blumenfeld", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1731", "obj_label": "Dresden", "sub_uri": "Q2172534", "sub_label": "Rudolf Dellinger", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q1354660", "sub_label": "William Henry Hunt", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q3640", "obj_label": "Ankara", "sub_uri": "Q319912", "sub_label": "Abulfaz Elchibey", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_uri": "Q1514782", "sub_label": "Gerrit Mannoury", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1726", "obj_label": "Munich", "sub_uri": "Q1449812", "sub_label": "Franz Zell", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q85", "obj_label": "Cairo", "sub_uri": "Q7295701", "sub_label": "Ratiba El-Hefny", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q1458065", "sub_label": "Friedrich Albrecht Karl Herrmann, Reichsgraf von Wylich und Lottum", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q3184694", "sub_label": "Joseph Cachin", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1726", "obj_label": "Munich", "sub_uri": "Q2332225", "sub_label": "Princess Marie Melita of Hohenlohe-Langenburg", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q725733", "sub_label": "Wynkyn de Worde", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q2642209", "sub_label": "Alexander Gordon Bearn", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2428683", "obj_label": "Perth", "sub_uri": "Q7175805", "sub_label": "Peter McLaren", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_uri": "Q6264537", "sub_label": "John Wilson", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q8660", "obj_label": "Karachi", "sub_uri": "Q16009509", "sub_label": "Badruddin Ahmad", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q6346", "obj_label": "Indianapolis", "sub_uri": "Q1684090", "sub_label": "Jimmy Coe", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_uri": "Q947712", "sub_label": "Max Corput", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_uri": "Q15429895", "sub_label": "Nicolaes Hasselaer", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_uri": "Q16022896", "sub_label": "Rudolf Koechlin", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q23436", "obj_label": "Edinburgh", "sub_uri": "Q6133296", "sub_label": "James Eckford Lauder", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q171421", "sub_label": "Henry Morton Stanley", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1731", "obj_label": "Dresden", "sub_uri": "Q76145", "sub_label": "Hermann Theodor Hettner", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q745986", "sub_label": "F\u00e9lix-Julien-Jean Bigot de Pr\u00e9ameneu", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2887", "obj_label": "Santiago", "sub_uri": "Q5935793", "sub_label": "Jorge Pedreros", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q963003", "sub_label": "Robert Thurston Dart", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q330036", "sub_label": "William Heberden", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q486479", "obj_label": "Rochester", "sub_uri": "Q5232792", "sub_label": "David Dahlin", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q3564937", "sub_label": "Antal Sta\u0161ek", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1397", "obj_label": "Ohio", "sub_uri": "Q2621553", "sub_label": "Alexander Campbell", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q2037476", "sub_label": "Sergius II of Naples", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q130191", "obj_label": "Norwich", "sub_uri": "Q5941597", "sub_label": "Humphrey Prideaux", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1731", "obj_label": "Dresden", "sub_uri": "Q2958054", "sub_label": "Charles Francois Hutin", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q2143641", "sub_label": "Renato Terra", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q4725020", "sub_label": "Ali Mirza Qajar", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q3158106", "sub_label": "Jacques Alexandre Bixio", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_uri": "Q1601833", "sub_label": "Helen Douglas Mankin", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1731", "obj_label": "Dresden", "sub_uri": "Q103745", "sub_label": "Johann Georg G\u00f6delmann", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q3181518", "sub_label": "John Forbes", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q499169", "obj_label": "Tyler", "sub_uri": "Q6686801", "sub_label": "Louis Brower", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q812", "obj_label": "Florida", "sub_uri": "Q1314683", "sub_label": "Roger Clarke", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q262", "obj_label": "Algeria", "sub_uri": "Q447616", "sub_label": "H\u00e0m Nghi", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q845755", "sub_label": "Sir Henry Thompson, 1st Baronet", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q37320", "obj_label": "Cleveland", "sub_uri": "Q4910614", "sub_label": "Bill Reidy", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_uri": "Q1986270", "sub_label": "Nicolaes Visscher", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q7343940", "sub_label": "Robert Easton Burns", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q552720", "sub_label": "Albert Decaris", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_uri": "Q2833165", "sub_label": "Alexander Macleay", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q1231493", "sub_label": "Ernest Dowson", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q3048455", "sub_label": "Edward Behr", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q494264", "sub_label": "Frederick DuCane Godman", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q257830", "obj_label": "Naples", "sub_uri": "Q6118554", "sub_label": "Jacob E. Davis", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1492", "obj_label": "Barcelona", "sub_uri": "Q358061", "sub_label": "Josep Guinovart", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q207359", "sub_label": "Georges Bataille", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q286318", "sub_label": "Albert Wolff", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q4939389", "sub_label": "Inga Bj\u00f8rnson", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q19518025", "sub_label": "Clara Hagarty", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q4902427", "sub_label": "Biagio Rebecca", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q717841", "sub_label": "Aage Storstein", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q1439360", "sub_label": "Richard Cumberland", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_uri": "Q3592315", "sub_label": "\u00c9tienne Parent", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_uri": "Q7944561", "sub_label": "Jerzy Zborowski", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q3904145", "sub_label": "Pietro Pappagallo", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q727056", "sub_label": "Astolphe-Louis-L\u00e9onor de Custine, Marquis de Custine", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q4164266", "sub_label": "William Dockwra", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q217791", "sub_label": "Philip Neri", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_uri": "Q7701017", "sub_label": "Teodor Andrault de Langeron", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q5338613", "sub_label": "Edith Macefield", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_uri": "Q6205825", "sub_label": "Joanna Flatau", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q947115", "obj_label": "Monroe", "sub_uri": "Q2370905", "sub_label": "Jesse Pearson", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2044", "obj_label": "Florence", "sub_uri": "Q232913", "sub_label": "Beatrice Portinari", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q23436", "obj_label": "Edinburgh", "sub_uri": "Q159592", "sub_label": "John Napier", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q131491", "obj_label": "Brighton", "sub_uri": "Q5498552", "sub_label": "Frederick Philipse Robinson", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q597", "obj_label": "Lisbon", "sub_uri": "Q10324577", "sub_label": "Manuel da C\u00e2mara", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q19363238", "sub_label": "William Henry Bailey", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1492", "obj_label": "Barcelona", "sub_uri": "Q2354454", "sub_label": "Francesc Berenguer i Mestres", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_uri": "Q2675322", "sub_label": "Jan Wiegers", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q2544063", "sub_label": "Walter Lemcke", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q2490346", "sub_label": "Maria Francesca Rossetti", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q544284", "sub_label": "David Bruce", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_uri": "Q3504375", "sub_label": "Franz Paul Rigler", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q365", "obj_label": "Cologne", "sub_uri": "Q99337", "sub_label": "Lore Agnes", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q3387652", "sub_label": "Pierre de Nolhac", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q3173063", "sub_label": "Jean Le Bret", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q10686", "obj_label": "Belfast", "sub_uri": "Q15433189", "sub_label": "Madge Davison", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q20638", "sub_label": "Henriette Hirschfeld-Tiburtius", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q334", "obj_label": "Singapore", "sub_uri": "Q6490368", "sub_label": "Larry Gene Heien", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_uri": "Q4759693", "sub_label": "Andrzej Przeworski", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2634", "obj_label": "Naples", "sub_uri": "Q7184636", "sub_label": "Philip of the Blessed Trinity", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_uri": "Q450302", "sub_label": "Frank Patrick", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2634", "obj_label": "Naples", "sub_uri": "Q1595550", "sub_label": "Francesco Madonia", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2096", "obj_label": "Edmonton", "sub_uri": "Q1378019", "sub_label": "John W. Leedy", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q22889", "obj_label": "Bath", "sub_uri": "Q6820144", "sub_label": "Merrik Ward", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_uri": "Q2151373", "sub_label": "Peet Petersen", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_uri": "Q2445767", "sub_label": "Dirck Jacobsz.", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1731", "obj_label": "Dresden", "sub_uri": "Q109579", "sub_label": "Woldemar von Biedermann", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1524", "obj_label": "Athens", "sub_uri": "Q331108", "sub_label": "Patroklos Karantinos", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q312985", "sub_label": "Richard R\u00e9ti", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2256", "obj_label": "Birmingham", "sub_uri": "Q7964882", "sub_label": "Walter Freeman", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_uri": "Q6113821", "sub_label": "Jack Mackenzie", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q57162", "sub_label": "Otto Lilienthal", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q6134912", "sub_label": "James Green", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_uri": "Q697592", "sub_label": "Josef Kainz", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q35", "obj_label": "Denmark", "sub_uri": "Q5618948", "sub_label": "Gunnar Bigum", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1342", "obj_label": "Pittsburgh", "sub_uri": "Q8023136", "sub_label": "Wilson McCandless", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q131491", "obj_label": "Brighton", "sub_uri": "Q4484213", "sub_label": "Henry Phillips", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q7803673", "sub_label": "Tim Horshington", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q972033", "sub_label": "Nikolay Kasatkin", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q3564584", "sub_label": "Karel Janou\u0161ek", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2147849", "obj_label": "Clyde", "sub_uri": "Q5538560", "sub_label": "George Dockins", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q596925", "sub_label": "Edmund Clerihew Bentley", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_uri": "Q959104", "sub_label": "Ferdinand Boberg", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q7029495", "sub_label": "Nicolas Anselme Baptiste", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q843", "obj_label": "Pakistan", "sub_uri": "Q6966828", "sub_label": "Nashad", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q31", "obj_label": "Belgium", "sub_uri": "Q6242805", "sub_label": "John Kendrick Skinner", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q5497096", "sub_label": "Frederic Marlett Bell-Smith", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1726", "obj_label": "Munich", "sub_uri": "Q97253", "sub_label": "Ludwig Friedrich Barthel", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q5092", "obj_label": "Baltimore", "sub_uri": "Q712605", "sub_label": "James Gibbons", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q234453", "obj_label": "Hollywood", "sub_uri": "Q3504878", "sub_label": "Adam Walsh", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q608527", "obj_label": "Plains", "sub_uri": "Q6133272", "sub_label": "James Earl Carter, Sr.", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q284803", "obj_label": "Lafayette", "sub_uri": "Q601745", "sub_label": "Walter Dick", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q440465", "sub_label": "Catherine Charlotte de Gramont", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1781", "obj_label": "Budapest", "sub_uri": "Q732901", "sub_label": "Istv\u00e1n Abonyi", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q2164697", "sub_label": "Yuri Chesnokov", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q3719653", "sub_label": "Edoardo Porro", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_uri": "Q779025", "sub_label": "Cecil Purdy", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q959708", "sub_label": "Jules Ferry", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_uri": "Q111191", "sub_label": "Wilhelm Hauers", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q4895386", "sub_label": "Bert Yeabsley", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1410", "obj_label": "Gibraltar", "sub_uri": "Q532887", "sub_label": "Mair\u00e9ad Farrell", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2773", "obj_label": "Brunswick", "sub_uri": "Q86723", "sub_label": "Johann Joachim Eschenburg", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q3766731", "sub_label": "Giovanni Battista Piatti", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q2733401", "sub_label": "Emmanuel Th\u00e9aulon", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q16869", "obj_label": "Constantinople", "sub_uri": "Q321639", "sub_label": "Eusebius of Nicomedia", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q8964044", "sub_label": "Gilbert Harding", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1524", "obj_label": "Athens", "sub_uri": "Q209144", "sub_label": "Dimitrios Rallis", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q740440", "sub_label": "Giovanni Battista Maini", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1781", "obj_label": "Budapest", "sub_uri": "Q534523", "sub_label": "J\u00e1nos Kodol\u00e1nyi", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q1824890", "sub_label": "Sigismund Koelle", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q1248697", "sub_label": "Carlo Porta", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q106226", "sub_label": "Karl Ludwig Freiherr von und zu Guttenberg", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_uri": "Q350993", "sub_label": "Gustav Bickell", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q3640", "obj_label": "Ankara", "sub_uri": "Q3525340", "sub_label": "\u0130smet H\u00fcrm\u00fczl\u00fc", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q28260", "obj_label": "Lincoln", "sub_uri": "Q2170826", "sub_label": "Roy H. Thorpe", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q24639", "obj_label": "Vancouver", "sub_uri": "Q1443716", "sub_label": "Frank Mackenzie Ross", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q6299054", "sub_label": "Juan Bielovucic Cavali\u00e9", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_uri": "Q77000", "sub_label": "Naphtali Hirz Wessely", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1492", "obj_label": "Barcelona", "sub_uri": "Q536326", "sub_label": "Ramon Berenguer I, Count of Barcelona", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q49158", "obj_label": "Springfield", "sub_uri": "Q4684206", "sub_label": "Adolfo Bruno", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q713774", "sub_label": "Georges Darboy", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q16557", "obj_label": "Dallas", "sub_uri": "Q15618108", "sub_label": "Clint Grant", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1781", "obj_label": "Budapest", "sub_uri": "Q219036", "sub_label": "Zolt\u00e1n Sz\u00fcgyi", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q719814", "sub_label": "Jean II, Duke of Alen\u00e7on", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q406", "obj_label": "Istanbul", "sub_uri": "Q1397197", "sub_label": "Faruk G\u00fcrler", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q1080362", "sub_label": "Francesco Scipione Maria Borghese", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q2343729", "sub_label": "Pierre Petitot", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_uri": "Q3713322", "sub_label": "Domingo Elizondo", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1757", "obj_label": "Helsinki", "sub_uri": "Q1809867", "sub_label": "Risto Jarva", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_uri": "Q2537570", "sub_label": "Bert le Vack", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q1361174", "sub_label": "Jacques Widerkehr", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q158778", "sub_label": "Louis-Nicolas Davout", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q570992", "sub_label": "Yuli Vorontsov", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q18419", "obj_label": "Brooklyn", "sub_uri": "Q404754", "sub_label": "Francis H. Wilson", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_uri": "Q2638527", "sub_label": "Neville Thiele", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2044", "obj_label": "Florence", "sub_uri": "Q17403970", "sub_label": "Mario Fantini", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q3749608", "sub_label": "Francesco Basili", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q267177", "sub_label": "Jacob Regnart", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q85", "obj_label": "Cairo", "sub_uri": "Q1531298", "sub_label": "Dominique Martin Dupuy", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q641", "obj_label": "Venice", "sub_uri": "Q1660772", "sub_label": "Natale Monferrato", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1748", "obj_label": "Copenhagen", "sub_uri": "Q4993298", "sub_label": "Carl Edvard Marius Levy", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q820418", "sub_label": "Josef Skupa", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q7788703", "sub_label": "Thomas Cripps", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q740181", "sub_label": "Karel Sabina", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q18013", "obj_label": "Sacramento", "sub_uri": "Q6504251", "sub_label": "Lawrence K. Karlton", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2634", "obj_label": "Naples", "sub_uri": "Q2262516", "sub_label": "Michelangelo Fardella", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1342", "obj_label": "Pittsburgh", "sub_uri": "Q810040", "sub_label": "Basil Schott", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1204", "obj_label": "Illinois", "sub_uri": "Q5294691", "sub_label": "Donald Lathrap", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1218", "obj_label": "Jerusalem", "sub_uri": "Q7504907", "sub_label": "Shulamith Hareven", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_uri": "Q16014130", "sub_label": "Mildred K. Nobles", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q18094", "obj_label": "Honolulu", "sub_uri": "Q6271898", "sub_label": "Jonah Kumalae", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1781", "obj_label": "Budapest", "sub_uri": "Q713534", "sub_label": "Mih\u00e1ly T\u00e1ncsics", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q501761", "obj_label": "Lexington", "sub_uri": "Q5540022", "sub_label": "George H. Denny", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q726881", "sub_label": "Paul Guillaume", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q8652", "obj_label": "Miami", "sub_uri": "Q2467438", "sub_label": "Harold Bauer", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_uri": "Q632088", "sub_label": "Olof Swartz", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q18094", "obj_label": "Honolulu", "sub_uri": "Q16015316", "sub_label": "John Paul Thomas", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_uri": "Q6206566", "sub_label": "Joaqu\u00edn Xaudar\u00f3", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q63488", "sub_label": "Julius Oppert", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q28237", "obj_label": "Lansing", "sub_uri": "Q4766249", "sub_label": "Ann Barnes", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q35", "obj_label": "Denmark", "sub_uri": "Q5083533", "sub_label": "Charles Wilken", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q43382", "obj_label": "Plymouth", "sub_uri": "Q6097136", "sub_label": "Ivan Owen", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q170842", "sub_label": "Sergei Korolev", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_uri": "Q3184241", "sub_label": "Joseph-Bruno Guigues", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q436901", "sub_label": "Cezaria Baudouin de Courtenay Ehrenkreutz J\u0119drzejewiczowa", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1731", "obj_label": "Dresden", "sub_uri": "Q1079993", "sub_label": "Christian Gottlob Hammer", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q641", "obj_label": "Venice", "sub_uri": "Q16747675", "sub_label": "Francesco di Simone da Santacroce", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q189960", "obj_label": "Westminster", "sub_uri": "Q16065348", "sub_label": "John Pontifex", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q7807139", "sub_label": "Timothy D. Murphy", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q3158729", "sub_label": "Jacques Desrosiers", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q6076083", "sub_label": "Isaac Briot", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1087121", "obj_label": "Orange", "sub_uri": "Q1507640", "sub_label": "George James Webb", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q6203658", "sub_label": "Ji\u0159\u00ed Hol\u00fd", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q771", "obj_label": "Massachusetts", "sub_uri": "Q112176", "sub_label": "Ernst von Glasersfeld", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q77808", "sub_label": "G\u00fcnther Krupkat", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1794", "obj_label": "Frankfurt", "sub_uri": "Q71754", "sub_label": "Carl Friedrich Wilhelm Jordan", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q3847708", "sub_label": "Marianna Bulgarelli", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q3563095", "sub_label": "Petr Jake\u0161", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q2630976", "sub_label": "Buck Jones", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1524", "obj_label": "Athens", "sub_uri": "Q708300", "sub_label": "Georgios Theotokis", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q2449037", "sub_label": "Vadim Borisovsky", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q3103719", "sub_label": "Georges de la Bouglise", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q23240", "obj_label": "Essex", "sub_uri": "Q7964837", "sub_label": "Walter Fitz Robert", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1165", "obj_label": "Bihar", "sub_uri": "Q7396684", "sub_label": "Sachchidananda Sinha", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q35", "obj_label": "Denmark", "sub_uri": "Q6558738", "sub_label": "Lise Thomsen", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q2258223", "sub_label": "Vincenzo Nestler", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1781", "obj_label": "Budapest", "sub_uri": "Q239250", "sub_label": "Ern\u0151 Pattanty\u00fas-\u00c1brah\u00e1m", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2887", "obj_label": "Santiago", "sub_uri": "Q6793586", "sub_label": "Mauricio Amster Cats", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_uri": "Q685689", "sub_label": "Dominik von K\u00f6nigsegg-Rothenfels", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q597", "obj_label": "Lisbon", "sub_uri": "Q6292275", "sub_label": "Jos\u00e9 Franco", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q1059594", "sub_label": "Margherita Guarducci", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_uri": "Q1074807", "sub_label": "Akio Jissoji", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2887", "obj_label": "Santiago", "sub_uri": "Q1379000", "sub_label": "Pedro Lira Rencoret", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1861", "obj_label": "Bangkok", "sub_uri": "Q1325550", "sub_label": "Eldee Young", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q36312", "obj_label": "Calgary", "sub_uri": "Q15994926", "sub_label": "Helen Belyea", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q5478731", "sub_label": "Marie Tempest", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q165941", "obj_label": "Frederick", "sub_uri": "Q138903", "sub_label": "Newby O. Brantly", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q1686532", "sub_label": "Yegor Yakovlev", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q684928", "sub_label": "Carlo Galetti", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q4152306", "sub_label": "Liubov Gurevich", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q2140395", "sub_label": "Reiner Bredemeyer", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q199797", "obj_label": "Tacoma", "sub_uri": "Q2579036", "sub_label": "William H. Calkins", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q1354711", "sub_label": "Luigi Carpaneda", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_uri": "Q2343934", "sub_label": "Jos\u00e9 de Madrazo y Agudo", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q510779", "sub_label": "Yuri Kholopov", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q85", "obj_label": "Cairo", "sub_uri": "Q7418403", "sub_label": "Sanjar al-Jawli", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q575750", "obj_label": "Quincy", "sub_uri": "Q5352226", "sub_label": "El Tappe", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_uri": "Q110741", "sub_label": "Herbert Lichtenfeld", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2634", "obj_label": "Naples", "sub_uri": "Q979496", "sub_label": "Ferdinando Galiani", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q551783", "sub_label": "Roger Peyrefitte", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q2631035", "sub_label": "Francisco Antonio de Lorenzana", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q72980", "sub_label": "Kurt Heegner", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q72838", "sub_label": "Joseph Maria von Radowitz", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1748", "obj_label": "Copenhagen", "sub_uri": "Q4480637", "sub_label": "Sigmund Feist", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q641", "obj_label": "Venice", "sub_uri": "Q213220", "sub_label": "Aldus Manutius", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q1938407", "sub_label": "Miroslav Cik\u00e1n", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q1678035", "sub_label": "Jaime Marquet", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q917809", "obj_label": "Bristol", "sub_uri": "Q6704891", "sub_label": "Luraine Tansey", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q4758691", "sub_label": "Andrew Taylor", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1748", "obj_label": "Copenhagen", "sub_uri": "Q363823", "sub_label": "Christoffer Wilhelm Eckersberg", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q843", "obj_label": "Pakistan", "sub_uri": "Q4700824", "sub_label": "Akhter Husain", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q23436", "obj_label": "Edinburgh", "sub_uri": "Q403186", "sub_label": "William Speirs Bruce", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q301678", "sub_label": "Aaron Arrowsmith", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1726", "obj_label": "Munich", "sub_uri": "Q316824", "sub_label": "Hubert Gerhard", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q7925642", "sub_label": "Victor-Jean Nicolle", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q600301", "obj_label": "Troy", "sub_uri": "Q1282548", "sub_label": "Ed Wachter", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q597", "obj_label": "Lisbon", "sub_uri": "Q34190", "sub_label": "Henry Fielding", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1748", "obj_label": "Copenhagen", "sub_uri": "Q3426655", "sub_label": "Edvard Petersen", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1748", "obj_label": "Copenhagen", "sub_uri": "Q4405973", "sub_label": "Siegfried Salomon", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q3240871", "sub_label": "Lilla Hansen", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q7273", "sub_label": "Ellen Swallow Richards", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q79446", "obj_label": "Camden", "sub_uri": "Q7964720", "sub_label": "Walter E. Hussman, Sr.", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q2957993", "sub_label": "Charles-Claude Genest", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q40435", "obj_label": "Buffalo", "sub_uri": "Q969855", "sub_label": "James Burke", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1781", "obj_label": "Budapest", "sub_uri": "Q166952", "sub_label": "Gergely Csiky", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1794", "obj_label": "Frankfurt", "sub_uri": "Q98074", "sub_label": "Sigmund Feyerabend", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1445178", "obj_label": "Franklin", "sub_uri": "Q884551", "sub_label": "Charles W. Gates", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q4380767", "sub_label": "Vasily Pronin", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2449737", "obj_label": "Stone", "sub_uri": "Q930339", "sub_label": "Eva Morris", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1524", "obj_label": "Athens", "sub_uri": "Q171303", "sub_label": "Zeno of Citium", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q3456240", "sub_label": "Boris Arkadyev", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_uri": "Q487416", "sub_label": "Kazuhiro Yamauchi", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q23051", "obj_label": "Swansea", "sub_uri": "Q944231", "sub_label": "Ivor Allchurch", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q972619", "sub_label": "Jean-Vincent Scheil", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_uri": "Q3323266", "sub_label": "Diego de Salinas", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1761", "obj_label": "Dublin", "sub_uri": "Q2916434", "sub_label": "Deirdre O'Connell", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_uri": "Q67011", "sub_label": "Paul Dietrich Giseke", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q172157", "obj_label": "Winchester", "sub_uri": "Q3031361", "sub_label": "Ralph Milner", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q199486", "sub_label": "Severinus", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q510687", "sub_label": "Madeleine Barot", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q71", "obj_label": "Geneva", "sub_uri": "Q119711", "sub_label": "Lukas Vischer", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q1279281", "sub_label": "Karel Hoffmann", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q15997952", "sub_label": "John W. Hollister", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_uri": "Q7606372", "sub_label": "Stefania Sempo\u0142owska", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q2011506", "sub_label": "Albert Parker", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q35", "obj_label": "Denmark", "sub_uri": "Q6321748", "sub_label": "J\u00fal\u00edana Sveinsd\u00f3ttir", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q8652", "obj_label": "Miami", "sub_uri": "Q5301457", "sub_label": "Douglas Fairbairn", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q3903384", "sub_label": "Piero Vida", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q1984772", "sub_label": "Niccol\u00f2 Castiglioni", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q2066224", "sub_label": "Th\u00e9ophile Marion Dumersan", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q745363", "sub_label": "Svatopluk \u010cech", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q466810", "sub_label": "Marius Lavet", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1781", "obj_label": "Budapest", "sub_uri": "Q612103", "sub_label": "Dezs\u0151 Lemh\u00e9nyi", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q90462", "sub_label": "Viktoria von Ballasko", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q60919", "sub_label": "Princess Marie of Saxe-Weimar-Eisenach", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q365", "obj_label": "Cologne", "sub_uri": "Q85894", "sub_label": "Henry of Kalkar", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q3384407", "sub_label": "Pierre Chaumi\u00e9", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q325122", "sub_label": "Evgraf Semenovich Sorokin", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1524", "obj_label": "Athens", "sub_uri": "Q6434571", "sub_label": "Koulis Stoligkas", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q327071", "sub_label": "Paul Revere", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q451330", "sub_label": "Ivan Matveevich Vinogradov", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q23436", "obj_label": "Edinburgh", "sub_uri": "Q3657960", "sub_label": "John Erickson", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q324048", "sub_label": "Jan \u010cep", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q91496", "sub_label": "Rudolf Lorenzen", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q3141", "obj_label": "Melbourne", "sub_uri": "Q354664", "sub_label": "Luciano Catenacci", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_uri": "Q6699463", "sub_label": "Ludwika J\u0119drzejewicz", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q812", "obj_label": "Florida", "sub_uri": "Q143548", "sub_label": "Nicholas Schenck", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q16557", "obj_label": "Dallas", "sub_uri": "Q192519", "sub_label": "Jack Ruby", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q137138", "sub_label": "Hector Fabre", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q33959", "obj_label": "Nice", "sub_uri": "Q118010", "sub_label": "\u00c9douard Dapples", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q12439", "obj_label": "Detroit", "sub_uri": "Q15503404", "sub_label": "John R. Williams", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q2550824", "sub_label": "Mavis Gallant", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q189164", "sub_label": "Fyodor Ivanovich Shalyapin", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q463728", "sub_label": "Louis de Rouvroy, duc de Saint-Simon", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q1037163", "sub_label": "Carl Brewer", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q365", "obj_label": "Cologne", "sub_uri": "Q896369", "sub_label": "Sigwin von Are", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_uri": "Q6228721", "sub_label": "Peter Fredrik Wahlberg", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_uri": "Q381010", "sub_label": "Olaus Petri", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q91186", "sub_label": "Karl Schroeder", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q174224", "obj_label": "Wilmington", "sub_uri": "Q888345", "sub_label": "Richard C. McMullen", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q36091", "obj_label": "Minneapolis", "sub_uri": "Q6227385", "sub_label": "John Cowles, Sr.", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q48215", "obj_label": "Dover", "sub_uri": "Q2734279", "sub_label": "Jeremiah Smith", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1761", "obj_label": "Dublin", "sub_uri": "Q5724134", "sub_label": "Henry Joy", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q3023071", "sub_label": "Denise Morelle", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1397", "obj_label": "Ohio", "sub_uri": "Q5568945", "sub_label": "Glenn Lee Benner II", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q55", "obj_label": "Netherlands", "sub_uri": "Q1977058", "sub_label": "Nelson Williams", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q8652", "obj_label": "Miami", "sub_uri": "Q7417206", "sub_label": "Sandy Consuegra", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q3839758", "sub_label": "Luigi Infantino", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q16554", "obj_label": "Denver", "sub_uri": "Q1995456", "sub_label": "John Henry Tilden", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q334", "obj_label": "Singapore", "sub_uri": "Q6514298", "sub_label": "Lee Khoon Choy", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_uri": "Q4346031", "sub_label": "Ebba Bernadotte", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_uri": "Q1676102", "sub_label": "Izaak Kramsztyk", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q12439", "obj_label": "Detroit", "sub_uri": "Q3308917", "sub_label": "Hiram Walker", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2075675", "obj_label": "Belfast", "sub_uri": "Q1702188", "sub_label": "John Wilson", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q4673", "sub_label": "Paul Otto", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q34932", "obj_label": "Brisbane", "sub_uri": "Q287791", "sub_label": "Gary Owen", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_uri": "Q87790", "sub_label": "Edmund Blum", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q18419", "obj_label": "Brooklyn", "sub_uri": "Q5371169", "sub_label": "Emil Batch", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2773", "obj_label": "Brunswick", "sub_uri": "Q98378", "sub_label": "Rudolf Wilke", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q485176", "obj_label": "Pasadena", "sub_uri": "Q5294902", "sub_label": "Donald Morgan", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1410", "obj_label": "Gibraltar", "sub_uri": "Q3322924", "sub_label": "Charles Bruzon", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q7969772", "sub_label": "Warner Troyer", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q79875", "obj_label": "Mobile", "sub_uri": "Q1373774", "sub_label": "Michael Donald", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1218", "obj_label": "Jerusalem", "sub_uri": "Q2915120", "sub_label": "Moshe Hirsch", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q2467230", "sub_label": "Alexander Saburov", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q1360330", "sub_label": "George Wade", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q3141", "obj_label": "Melbourne", "sub_uri": "Q2580687", "sub_label": "William Sutherland", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q11299", "obj_label": "Manhattan", "sub_uri": "Q6200394", "sub_label": "Jimmy Hope", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q23436", "obj_label": "Edinburgh", "sub_uri": "Q2158075", "sub_label": "Robert Lorimer", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q257830", "obj_label": "Naples", "sub_uri": "Q5494706", "sub_label": "Fred Bruckbauer", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q2627241", "sub_label": "Antoine Laurent Apollinaire F\u00e9e", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q446955", "sub_label": "Francesco Gasparini", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q18419", "obj_label": "Brooklyn", "sub_uri": "Q7330093", "sub_label": "Richard Worsam Meade II", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q71", "obj_label": "Geneva", "sub_uri": "Q3190323", "sub_label": "Juste Olivier", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q597", "obj_label": "Lisbon", "sub_uri": "Q6455687", "sub_label": "Violante do Ceo", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_uri": "Q1840290", "sub_label": "Pieter Verhoek", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q350662", "sub_label": "Bon-Adrien Jeannot de Moncey", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_uri": "Q763488", "sub_label": "August Querfurt", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_uri": "Q2850410", "sub_label": "Ann Nixon Cooper", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2044", "obj_label": "Florence", "sub_uri": "Q3935916", "sub_label": "Rinaldo Botti", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q34932", "obj_label": "Brisbane", "sub_uri": "Q7325850", "sub_label": "Richard Gailey", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q172157", "obj_label": "Winchester", "sub_uri": "Q192925", "sub_label": "Edgar of England", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q6346", "obj_label": "Indianapolis", "sub_uri": "Q35678", "sub_label": "Benjamin Harrison", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q2377943", "sub_label": "Nicolas-Gabriel Dupuis", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_uri": "Q88210", "sub_label": "Julius Madritsch", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q15878", "obj_label": "Normandy", "sub_uri": "Q273773", "sub_label": "Rollo", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q1676617", "sub_label": "Phil Seamen", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q1391780", "sub_label": "Jacob of Mies", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1726", "obj_label": "Munich", "sub_uri": "Q109805", "sub_label": "Kaspar Bausewein", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q631884", "sub_label": "Paul Poiret", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q2157750", "sub_label": "Reinette L'Oranaise", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q3766", "obj_label": "Damascus", "sub_uri": "Q451427", "sub_label": "Usama ibn Munqidh", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q101266", "sub_label": "Innocent X", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q671288", "obj_label": "Bend", "sub_uri": "Q6490230", "sub_label": "Larry Duff", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q33959", "obj_label": "Nice", "sub_uri": "Q3159649", "sub_label": "Jacques Navadic", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1726", "obj_label": "Munich", "sub_uri": "Q1874895", "sub_label": "Ludwig Refinger", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q10686", "obj_label": "Belfast", "sub_uri": "Q1066733", "sub_label": "Jackie Wright", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1757", "obj_label": "Helsinki", "sub_uri": "Q301586", "sub_label": "Aarno Maliniemi", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q727786", "sub_label": "Raf Vallone", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q3894274", "sub_label": "Paolo Monaldi", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_uri": "Q515521", "sub_label": "Vladimir Rolovi\u0107", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1492", "obj_label": "Barcelona", "sub_uri": "Q286537", "sub_label": "Constance of Sicily", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q3180904", "sub_label": "John Allan Cameron", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q35", "obj_label": "Denmark", "sub_uri": "Q6385533", "sub_label": "Keld Markuslund", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q8818", "obj_label": "Valencia", "sub_uri": "Q18633127", "sub_label": "Francisco de Osona", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_uri": "Q281046", "sub_label": "Ignatz Kolisch", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q984022", "sub_label": "Old\u0159ich Nov\u00fd", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q3640", "obj_label": "Ankara", "sub_uri": "Q6321775", "sub_label": "J\u00fclide G\u00fclizar", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q87", "obj_label": "Alexandria", "sub_uri": "Q4119364", "sub_label": "Galal Amer", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q5092", "obj_label": "Baltimore", "sub_uri": "Q380418", "sub_label": "Johns Hopkins", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q247811", "sub_label": "Julien Le Roy", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q16859818", "sub_label": "Paulus van de Perre", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q76997", "sub_label": "Moses Mendelssohn", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q3154738", "sub_label": "Isaac Cruikshank", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q406", "obj_label": "Istanbul", "sub_uri": "Q390725", "sub_label": "\u015e\u00fckr\u00fc Saraco\u011flu", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1748", "obj_label": "Copenhagen", "sub_uri": "Q6321519", "sub_label": "J\u00f8rgen Kiil", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q1412890", "sub_label": "Raymond Bernard", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q796", "obj_label": "Iraq", "sub_uri": "Q2745237", "sub_label": "Mu'izz al-Dawla", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q334", "obj_label": "Singapore", "sub_uri": "Q6473617", "sub_label": "Lai Kew Chai", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q1227361", "sub_label": "John of Procida", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q87", "obj_label": "Alexandria", "sub_uri": "Q2358257", "sub_label": "Eulogius of Alexandria", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q353313", "sub_label": "Charles Joret", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2773", "obj_label": "Brunswick", "sub_uri": "Q99269", "sub_label": "Johann Georg Beck", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q4662921", "sub_label": "Ab Box", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_uri": "Q86534", "sub_label": "Lajos Hevesi", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_uri": "Q3274543", "sub_label": "Maciej Aleksy Dawidowski", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q456", "obj_label": "Lyon", "sub_uri": "Q3308802", "sub_label": "Michel Philibert Genod", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_uri": "Q918293", "sub_label": "Aleksander Kakowski", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q70", "obj_label": "Bern", "sub_uri": "Q116727", "sub_label": "Erwin Friedrich Baumann", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1726", "obj_label": "Munich", "sub_uri": "Q96835", "sub_label": "Franz Ignaz von Streber", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q16554", "obj_label": "Denver", "sub_uri": "Q880622", "sub_label": "John Long Routt", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1781", "obj_label": "Budapest", "sub_uri": "Q952027", "sub_label": "Hildebrand Dezs\u0151 V\u00e1rkonyi", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q6346", "obj_label": "Indianapolis", "sub_uri": "Q7171921", "sub_label": "Pete Daniels", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q2853472", "sub_label": "Antoine-Fran\u00e7ois Riccoboni", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1492", "obj_label": "Barcelona", "sub_uri": "Q602486", "sub_label": "Enric Morera i Viura", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q189960", "obj_label": "Westminster", "sub_uri": "Q76930", "sub_label": "Prince Rupert of the Rhine", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q406", "obj_label": "Istanbul", "sub_uri": "Q4819599", "sub_label": "S\u00fcnb\u00fcl Efendi", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_uri": "Q274311", "sub_label": "\u00c9douard-Gaston Deville", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q1278915", "sub_label": "Albert Sorel", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2044", "obj_label": "Florence", "sub_uri": "Q359047", "sub_label": "Bernard Berenson", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q3158193", "sub_label": "Jacques Barnaud", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q1755821", "sub_label": "Sergey Vasilyevich Gerasimov", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q812", "obj_label": "Florida", "sub_uri": "Q711519", "sub_label": "John C. Slater", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_uri": "Q85791", "sub_label": "Peter Schulz", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q70", "obj_label": "Bern", "sub_uri": "Q532343", "sub_label": "Philipp Etter", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q686640", "sub_label": "Hal Russell", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q63174", "sub_label": "Constantin Wilhelm Lambert Gloger", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q18569", "obj_label": "Douglas", "sub_uri": "Q78735", "sub_label": "Manfred Stengl", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1524", "obj_label": "Athens", "sub_uri": "Q548647", "sub_label": "Stefanos Stefanopoulos", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q5719061", "sub_label": "Henry C. Pratt", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_uri": "Q7787130", "sub_label": "Thomas Armitt", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_uri": "Q177270", "sub_label": "Johannes Kleiman", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q429915", "sub_label": "Alexander Sumarokov", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q529146", "sub_label": "Giuseppe Parini", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1731", "obj_label": "Dresden", "sub_uri": "Q3638910", "sub_label": "Bertha von Marenholtz-B\u00fclow", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_uri": "Q3848196", "sub_label": "Grzegorz Przemyk", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q166668", "sub_label": "Eug\u00e8ne Poubelle", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2634", "obj_label": "Naples", "sub_uri": "Q1772767", "sub_label": "Cesare Turco", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2044", "obj_label": "Florence", "sub_uri": "Q1631480", "sub_label": "Enrico Coveri", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q657", "obj_label": "Chad", "sub_uri": "Q3509909", "sub_label": "Djidingar Dono Ngardoum", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1218", "obj_label": "Jerusalem", "sub_uri": "Q115917", "sub_label": "Carl Adolf Otth", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q16557", "obj_label": "Dallas", "sub_uri": "Q4786826", "sub_label": "Archie Wise", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1731", "obj_label": "Dresden", "sub_uri": "Q15136916", "sub_label": "Fran\u00e7ois Coudray", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2634", "obj_label": "Naples", "sub_uri": "Q2538827", "sub_label": "Menato Boffa", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q482187", "sub_label": "Am\u00e9d\u00e9e Mannheim", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q923557", "sub_label": "Nicolas Baudeau", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q8078203", "sub_label": "\u00c9lias Robert", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_uri": "Q85488", "sub_label": "Karl Schwanzer", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_uri": "Q957993", "sub_label": "Casimiro G\u00f3mez Ortega", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q85", "obj_label": "Cairo", "sub_uri": "Q446851", "sub_label": "Ali Sabri", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q16869", "obj_label": "Constantinople", "sub_uri": "Q16148155", "sub_label": "Buh\u00fbriz\u00e2de Abd\u00fclkerim Efendi", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q92744", "sub_label": "Kristen Nygaard", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_uri": "Q1340", "sub_label": "Antonio Vivaldi", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q43", "obj_label": "Turkey", "sub_uri": "Q280199", "sub_label": "Henk van Brussel", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q466471", "sub_label": "Marco Benefial", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q7167588", "sub_label": "Percy Spence", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_uri": "Q85519", "sub_label": "Ferdinand Wolf", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q2145838", "sub_label": "Thomas d'Urfey", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q553019", "sub_label": "Nathan Appleton", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q5092", "obj_label": "Baltimore", "sub_uri": "Q16004108", "sub_label": "Jim Stevens", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q3131863", "sub_label": "Henri Quentin", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q54140", "obj_label": "Salem", "sub_uri": "Q1506916", "sub_label": "George B. Loring", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q6767080", "sub_label": "Mark Clark", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q34600", "obj_label": "Kyoto", "sub_uri": "Q1644611", "sub_label": "Nozawa Bonch\u014d", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q49158", "obj_label": "Springfield", "sub_uri": "Q1291728", "sub_label": "Edward Boland", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q641", "obj_label": "Venice", "sub_uri": "Q3080993", "sub_label": "Francesco Maggiotto", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q470225", "sub_label": "Claude Herbulot", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q18125", "obj_label": "Manchester", "sub_uri": "Q7297471", "sub_label": "Ray Ferris", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_uri": "Q979137", "sub_label": "Adam Pynacker", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q5092", "obj_label": "Baltimore", "sub_uri": "Q942019", "sub_label": "Horace Freeland Judson", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_uri": "Q1348166", "sub_label": "G\u00e9 van Dijk", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q722978", "sub_label": "Claude Buffier", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q13218118", "sub_label": "Maria Balcerkiewicz\u00f3wna", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q472024", "sub_label": "Vladimir Zeldin", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q107995", "sub_label": "Tatjana Gsovsky", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q1489306", "sub_label": "Gabriel Huquier", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q372750", "sub_label": "Claude Victor-Perrin, Duc de Belluno", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q388362", "sub_label": "Matthias of Arras", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_uri": "Q2586570", "sub_label": "Jes\u00fas Ar\u00e1mbarri", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q597", "obj_label": "Lisbon", "sub_uri": "Q6830275", "sub_label": "Michael Ferris", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q5092", "obj_label": "Baltimore", "sub_uri": "Q4976532", "sub_label": "Brownie Foreman", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q1381995", "sub_label": "Nikolai Vissarionovich Nekrasov", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q456", "obj_label": "Lyon", "sub_uri": "Q2356035", "sub_label": "Nicetius of Lyon", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q36405", "obj_label": "Aberdeen", "sub_uri": "Q1388461", "sub_label": "William MacGillivray", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q7018699", "obj_label": "Newport", "sub_uri": "Q2069305", "sub_label": "Linus Yale", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1726", "obj_label": "Munich", "sub_uri": "Q783273", "sub_label": "Ludwig von Hagn", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_uri": "Q63185", "sub_label": "Peter Zadek", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q963912", "sub_label": "Jules Germain Cloquet", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1156", "obj_label": "Mumbai", "sub_uri": "Q1508544", "sub_label": "S. Ali Raza", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_uri": "Q4570933", "sub_label": "John Fairfax", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q862464", "sub_label": "Barkin' Bill Smith", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2887", "obj_label": "Santiago", "sub_uri": "Q4985483", "sub_label": "Buenaventura Cousi\u00f1o Jorquera", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q5252896", "sub_label": "Del Howard", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_uri": "Q2214976", "sub_label": "Salomon Eberhard Henschen", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2634", "obj_label": "Naples", "sub_uri": "Q2516970", "sub_label": "Giuseppe Valeriano", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q442072", "sub_label": "Fran\u00e7ois Marcantoni", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q600301", "obj_label": "Troy", "sub_uri": "Q4908608", "sub_label": "Bill Craver", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q689302", "sub_label": "Bohum\u00edr \u0160meral", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_uri": "Q6914923", "sub_label": "Morton Moyes", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q213768", "sub_label": "Charles Ancillon", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1726", "obj_label": "Munich", "sub_uri": "Q1178686", "sub_label": "J\u00f3zsef Moln\u00e1r", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q3766", "obj_label": "Damascus", "sub_uri": "Q2314674", "sub_label": "Yosef Lishansky", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_uri": "Q16857998", "sub_label": "Daniel M\u00e9csery", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_uri": "Q977583", "sub_label": "Valent\u00edn Ferraz y Barrau", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_uri": "Q6118473", "sub_label": "Jacob Cats", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q6346", "obj_label": "Indianapolis", "sub_uri": "Q2150037", "sub_label": "Richard L. Roudebush", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q3262590", "sub_label": "Louis Maimbourg", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q23661", "obj_label": "Wellington", "sub_uri": "Q637012", "sub_label": "Keith Holyoake", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q82203", "sub_label": "Raoul I of Brienne, Count of Eu", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q5084334", "sub_label": "Charley O'Leary", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q37320", "obj_label": "Cleveland", "sub_uri": "Q202633", "sub_label": "Paul Drayton", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q34006", "obj_label": "Hollywood", "sub_uri": "Q5343938", "sub_label": "Edward Kimball", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_uri": "Q6261104", "sub_label": "John Townson", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q461464", "sub_label": "Eug\u00e8ne Carri\u00e8re", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2167", "obj_label": "Lund", "sub_uri": "Q731354", "sub_label": "Asser Thorkilsson", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q230031", "sub_label": "Joan II of Navarre", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q456", "obj_label": "Lyon", "sub_uri": "Q6284349", "sub_label": "Joseph Jean-Baptiste Xavier Fournet", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q3640", "obj_label": "Ankara", "sub_uri": "Q6055180", "sub_label": "Hulusi Say\u0131n", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q670140", "sub_label": "Rudolph Ganz", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1726", "obj_label": "Munich", "sub_uri": "Q1750618", "sub_label": "Max Zimmermann", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2634", "obj_label": "Naples", "sub_uri": "Q3750199", "sub_label": "Francesco Mancini", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q2425836", "sub_label": "Boris Porshnev", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q71", "obj_label": "Geneva", "sub_uri": "Q4172141", "sub_label": "Jean \u00c9tienne Duby", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q4693093", "sub_label": "Agnes Nestor", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q3114", "obj_label": "Canberra", "sub_uri": "Q1890752", "sub_label": "Manning Clark", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q531210", "sub_label": "Julius Ma\u0159\u00e1k", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2044", "obj_label": "Florence", "sub_uri": "Q693288", "sub_label": "Lorenzo Bartolini", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q921413", "sub_label": "John Sharp", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q79", "obj_label": "Egypt", "sub_uri": "Q1766092", "sub_label": "Asmahan", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q611821", "sub_label": "John Hughlings Jackson", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q6148510", "sub_label": "Jan Autengruber", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q4747903", "sub_label": "Amos Lawrence", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q3564857", "sub_label": "Josef Rumler", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q3439936", "sub_label": "Roland Armontel", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q16869", "obj_label": "Constantinople", "sub_uri": "Q232981", "sub_label": "Aelia Eudoxia", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q17626715", "sub_label": "Patrick Grant", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q764182", "sub_label": "Gustave Herv\u00e9", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q453100", "sub_label": "Jean-Claude Trial", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2256", "obj_label": "Birmingham", "sub_uri": "Q5488538", "sub_label": "Frank Morter", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q5836", "obj_label": "Toledo", "sub_uri": "Q1376849", "sub_label": "Jacob ben Asher", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q991443", "obj_label": "Winchester", "sub_uri": "Q1421860", "sub_label": "Scudder Klyce", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1754", "obj_label": "Stockholm", "sub_uri": "Q726010", "sub_label": "Gustaf Lindblom", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q551779", "sub_label": "Albert Cossery", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q241755", "sub_label": "Sophie Blanchard", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q37320", "obj_label": "Cleveland", "sub_uri": "Q5481229", "sub_label": "Francis Harrington Glidden", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q2984219", "sub_label": "Philippe Buache", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1726", "obj_label": "Munich", "sub_uri": "Q123479", "sub_label": "Siegmund von Pranckh", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_uri": "Q1871563", "sub_label": "Louis Bolk", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q46633", "sub_label": "Charles Babbage", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q1109770", "sub_label": "Gaetano Bisleti", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q29303", "obj_label": "Canterbury", "sub_uri": "Q3045779", "sub_label": "J\u00e6nberht", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q456", "obj_label": "Lyon", "sub_uri": "Q5074753", "sub_label": "Charles-Paul Diday", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q3182771", "sub_label": "John Wilson Bengough", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_uri": "Q1363343", "sub_label": "Erwin Puchinger", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q451154", "sub_label": "\u00c9tienne Aymonier", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q5200846", "sub_label": "Cyril Power", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q28", "obj_label": "Hungary", "sub_uri": "Q2619069", "sub_label": "Fran\u00e7ois Baron de Tott", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q23556", "obj_label": "Atlanta", "sub_uri": "Q2091894", "sub_label": "Piano Red", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q36312", "obj_label": "Calgary", "sub_uri": "Q5293947", "sub_label": "Donald Adam Hartman", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2634", "obj_label": "Naples", "sub_uri": "Q2494055", "sub_label": "Stephen III of Naples", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2096", "obj_label": "Edmonton", "sub_uri": "Q863072", "sub_label": "Billy Dawe", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q2174448", "sub_label": "Rudolf L\u00f6wenstein", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q71", "obj_label": "Geneva", "sub_uri": "Q8005211", "sub_label": "William Baume", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q6138642", "sub_label": "James MacKenzie", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q948722", "sub_label": "Alphonse Rabbe", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q3354355", "sub_label": "Arthur Hacker", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q1186231", "sub_label": "Billy Bryans", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q2262852", "sub_label": "Guy Stevens", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_uri": "Q1976542", "sub_label": "Schelto Patijn", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_uri": "Q474308", "sub_label": "Leendert Viervant the Younger", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q3338475", "sub_label": "Nestor Roqueplan", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q8010531", "sub_label": "William H. Neece", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2256", "obj_label": "Birmingham", "sub_uri": "Q1125283", "sub_label": "Walter Abbott", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q3563108", "sub_label": "Anton\u00edn Heveroch", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q49202", "obj_label": "Greenwich", "sub_uri": "Q452249", "sub_label": "Mignon G. Eberhart", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q130191", "obj_label": "Norwich", "sub_uri": "Q8012671", "sub_label": "William Humphrey", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1757", "obj_label": "Helsinki", "sub_uri": "Q11868807", "sub_label": "Kaarlo Uskela", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1726", "obj_label": "Munich", "sub_uri": "Q75284", "sub_label": "Karl Arnold", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q923834", "sub_label": "Claire D\u00e9mar", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q919173", "sub_label": "James Colosimo", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q1231633", "sub_label": "Edward Newman", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1524", "obj_label": "Athens", "sub_uri": "Q1372571", "sub_label": "Pericles the Younger", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_uri": "Q3009844", "sub_label": "Cornelis Viruly", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_uri": "Q1695715", "sub_label": "Johann Nordmann", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q2957906", "sub_label": "Charles-Albert Demoustier", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q1684923", "sub_label": "Jean-Jacques Lequeu", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q12439", "obj_label": "Detroit", "sub_uri": "Q1699214", "sub_label": "John B. Sosnowski", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q406", "obj_label": "Istanbul", "sub_uri": "Q6100012", "sub_label": "Cemal Tollu", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q718492", "sub_label": "Pete Schoening", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q7599652", "sub_label": "Stanley Henry Kunz", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q182765", "sub_label": "Sergey Urusevsky", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q3640", "obj_label": "Ankara", "sub_uri": "Q3135377", "sub_label": "Doktor N\u00e2z\u0131m", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_uri": "Q130759", "sub_label": "Christoph Willibald von Gluck", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q6369309", "sub_label": "Karel Jav\u016frek", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q40325", "obj_label": "Springfield", "sub_uri": "Q4910344", "sub_label": "Bill Niles", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_uri": "Q1756245", "sub_label": "R\u00f3za Csillag", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1794", "obj_label": "Frankfurt", "sub_uri": "Q213764", "sub_label": "Jakob Becker", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q575750", "obj_label": "Quincy", "sub_uri": "Q4786552", "sub_label": "Archibald Williams", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2132", "obj_label": "Victoria", "sub_uri": "Q1701904", "sub_label": "John Teague", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q188313", "obj_label": "Blackburn", "sub_uri": "Q6207506", "sub_label": "Jock Wightman", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q934712", "sub_label": "Francesco Bianchi", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q7397940", "sub_label": "Sadie Tanner Mossell Alexander", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_uri": "Q2660548", "sub_label": "Alfred John North", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q606553", "sub_label": "Pierre Berton", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q16557", "obj_label": "Dallas", "sub_uri": "Q3500628", "sub_label": "Orville Nix", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_uri": "Q601351", "sub_label": "Antonio Casas", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q1392515", "sub_label": "Jim Capaldi", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q232", "obj_label": "Kazakhstan", "sub_uri": "Q1076093", "sub_label": "Sahan Dosova", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q3130", "obj_label": "Sydney", "sub_uri": "Q71350", "sub_label": "Gerard Krefft", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_uri": "Q3754524", "sub_label": "Ambrosio de Funes Villalpando", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q322558", "sub_label": "Lubor B\u00e1rta", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_uri": "Q2610077", "sub_label": "Enrique Fl\u00f3rez", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q34804", "obj_label": "Albuquerque", "sub_uri": "Q13562059", "sub_label": "Maxine Feldman", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q1442654", "sub_label": "Franco Ressel", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2634", "obj_label": "Naples", "sub_uri": "Q376593", "sub_label": "Leonardo Bianchi", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q3051788", "sub_label": "Elula Perrin", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q3262363", "sub_label": "Louis Joseph Troost", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q1154290", "sub_label": "Giuseppina Grassini", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q65956", "sub_label": "Kurt Richter", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q334120", "sub_label": "Nathan Rothschild, 1st Baron Rothschild", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q59670", "obj_label": "Columbia", "sub_uri": "Q3751858", "sub_label": "Frank Luther Mott", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q4070478", "sub_label": "Mikael Arutchian", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1781", "obj_label": "Budapest", "sub_uri": "Q291158", "sub_label": "\u00c9va Ruttkai", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q3713740", "sub_label": "Donato Barcaglia", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q331856", "sub_label": "J\u00f3zef Maria Hoene-Wro\u0144ski", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q7815909", "sub_label": "Tom Gaudette", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1563", "obj_label": "Havana", "sub_uri": "Q16043765", "sub_label": "Ram\u00f3n Meza y Su\u00e1rez Incl\u00e1n", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q2330762", "sub_label": "Prince Arsen of Yugoslavia", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q6346", "obj_label": "Indianapolis", "sub_uri": "Q1373047", "sub_label": "Eugene B. Crowe", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q95533", "sub_label": "Otto von Gerlach", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q585905", "sub_label": "Antoine Court de G\u00e9belin", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2426601", "obj_label": "Warren", "sub_uri": "Q793966", "sub_label": "Nathan Cutler", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q368045", "obj_label": "Chester", "sub_uri": "Q4913293", "sub_label": "Billy Serad", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q320857", "sub_label": "Luigi Bodio", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q597", "obj_label": "Lisbon", "sub_uri": "Q345538", "sub_label": "Calouste Gulbenkian", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q875811", "sub_label": "Werner Eisbrenner", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q1451049", "sub_label": "Fran\u00e7ois Gaspard Adam", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q2579295", "sub_label": "W. W. Hiltz", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q4169150", "sub_label": "Viktor Dubinin", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2044", "obj_label": "Florence", "sub_uri": "Q7937322", "sub_label": "Vittorio Gr\u00fcnwald", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q18424", "obj_label": "Queens", "sub_uri": "Q2924402", "sub_label": "Brenda Howard", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q5092", "obj_label": "Baltimore", "sub_uri": "Q2183159", "sub_label": "John Montgomery", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q84", "obj_label": "London", "sub_uri": "Q387458", "sub_label": "Charles Bradlaugh", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2044", "obj_label": "Florence", "sub_uri": "Q2625832", "sub_label": "Jacopo da Empoli", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q12439", "obj_label": "Detroit", "sub_uri": "Q5494460", "sub_label": "Fred Andrus", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q2440366", "sub_label": "Guy des Cars", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q943337", "sub_label": "Louis Thomassin", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_uri": "Q7781564", "sub_label": "Theodoor Wilkens", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q3568562", "sub_label": "William Dow", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_uri": "Q4888937", "sub_label": "Guillermo Fern\u00e1ndez-Shaw", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1156", "obj_label": "Mumbai", "sub_uri": "Q1390803", "sub_label": "Ramanand Sagar", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q4501410", "sub_label": "Chrysanth", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q5269569", "sub_label": "Dhimit\u00ebr Beratti", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q923168", "sub_label": "Jean-Baptiste de La Curne de Sainte-Palaye", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_uri": "Q5942551", "sub_label": "Jos\u00e9 Mar\u00eda Albareda", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q23154", "obj_label": "Bristol", "sub_uri": "Q4710905", "sub_label": "Albert North", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q49169", "obj_label": "Stamford", "sub_uri": "Q16062789", "sub_label": "Oliver Hoyt", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q2634", "obj_label": "Naples", "sub_uri": "Q2846442", "sub_label": "Andrea di Leone", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_uri": "Q86481", "sub_label": "Karl Rechinger", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1781", "obj_label": "Budapest", "sub_uri": "Q950238", "sub_label": "G\u00e1bor Gabos", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q519469", "sub_label": "Pietro Marini", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q3183", "obj_label": "Perth", "sub_uri": "Q6830000", "sub_label": "Michael Durack", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q10567290", "sub_label": "Michael L. Igoe", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1342", "obj_label": "Pittsburgh", "sub_uri": "Q5497820", "sub_label": "Frederick G. Scheibler, Jr.", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q303644", "sub_label": "Aaslaug Aasland", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q3821634", "sub_label": "Mikhail Yudovich", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q1804352", "sub_label": "Franti\u0161ek Erben", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q1794", "obj_label": "Frankfurt", "sub_uri": "Q101977", "sub_label": "Karl Retzlaw", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q486479", "obj_label": "Rochester", "sub_uri": "Q6114971", "sub_label": "Jack Ryan", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q334", "obj_label": "Singapore", "sub_uri": "Q259331", "sub_label": "Yusof bin Ishak", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q3289684", "sub_label": "Marchand Ennery", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q7192198", "sub_label": "Pierre Emmanuel Damoye", "predicate_id": "P20"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q7155654", "sub_label": "Pavel Koshetz", "predicate_id": "P20"}

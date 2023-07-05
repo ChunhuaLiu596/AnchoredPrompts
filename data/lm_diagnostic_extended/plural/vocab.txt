@@ -1,0 +1,9 @@
+trees
+flowers
+tools
+vegetables
+insects
+birds
+vehicles
+fish
+buildings

@@ -1,0 +1,165 @@
+Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+#Test_instances: 957
+#Test_instances: 1337
+#Test_instances: 1385
+#Test_instances: 576
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+#Test_instances: 1310
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+#Test_instances: 12994
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+dataset    BLESS       LMDIAG        CLSB       SHWARTZ        EVAL        \
+             MRR   P@K    MRR   P@K   MRR   P@K     MRR   P@K   MRR   P@K   
+pattern_id                                                                  
+1           10.8  18.5   34.3  60.6  25.2  43.8     7.8  15.5  17.0  33.4   
+2           18.1  31.6   42.2  63.2  32.5  55.4     3.5   7.2  20.9  41.3   
+3           14.5  28.9   28.3  58.0  20.8  39.9     2.1   5.2  13.0  30.5   
+
+dataset     LEDS        
+             MRR   P@K  
+pattern_id              
+1           21.4  41.2  
+2           30.2  54.3  
+3           14.0  33.2  
+2
+14
+\begin{table*}[!h]
+\centering
+\begin{adjustbox}{width=\textwidth}
+\label{tab:def_single_pattern_ablation}
+\begin{tabular}{l|ll|ll|ll|ll|ll|ll}
+\toprule
+dataset & \multicolumn{2}{c|}{BLESS} & \multicolumn{2}{c|}{LMDIAG} & \multicolumn{2}{c|}{CLSB} & \multicolumn{2}{c|}{SHWARTZ} & \multicolumn{2}{c|}{EVAL} & \multicolumn{2}{c|}{LEDS} \\
+ & MRR & P@K & MRR & P@K & MRR & P@K & MRR & P@K & MRR & P@K & MRR & P@K \\
+pattern_id &  &  &  &  &  &  &  &  &  &  &  &  \\
+\midrule
+1 & 10.8 & 18.5 & 34.3 & 60.6 & 25.2 & 43.8 & \textbf{7.8} & \textbf{15.5} & 17.0 & 33.4 & 21.4 & 41.2 \\
+2 & \textbf{18.1} & \textbf{31.6} & \textbf{42.2} & \textbf{63.2} & \textbf{32.5} & \textbf{55.4} & 3.5 & 7.2 & \textbf{20.9} & \textbf{41.3} & \textbf{30.2} & \textbf{54.3} \\
+3 & 14.5 & 28.9 & 28.3 & 58.0 & 20.8 & 39.9 & 2.1 & 5.2 & 13.0 & 30.5 & 14.0 & 33.2 \\
+\bottomrule
+\end{tabular}
+ \end{adjustbox}
+\caption{Experimental results on definitional single patterns.}
+\end{table*}
+
+Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+#Test_instances: 957
+#Test_instances: 1337
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+#Test_instances: 1385
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+#Test_instances: 576
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+#Test_instances: 1310
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+#Test_instances: 12994
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+dataset    BLESS       LMDIAG        CLSB       SHWARTZ        EVAL        \
+             MRR   P@K    MRR   P@K   MRR   P@K     MRR   P@K   MRR   P@K   
+pattern_id                                                                  
+1           20.9  42.1   37.0  54.9  35.1  59.7    13.6  27.7  15.2  36.5   
+2           15.6  27.4   35.0  53.1  28.7  51.3     4.3  10.1  13.9  29.3   
+3           13.9  24.9   30.9  46.9  27.5  49.8     3.1   7.7  12.6  28.2   
+4           18.8  37.0   39.9  59.2  34.9  60.2     9.3  20.6  17.2  36.8   
+5           19.6  39.3   35.3  52.6  33.5  57.6     8.1  18.1  15.2  33.4   
+6           14.1  40.7   18.3  45.0  21.4  51.2     9.1  22.9   9.8  30.2   
+
+dataset     LEDS        
+             MRR   P@K  
+pattern_id              
+1           27.5  52.5  
+2           24.0  46.6  
+3           23.5  44.0  
+4           30.4  54.4  
+5           27.8  49.7  
+6           12.8  38.1  
+2
+17
+\begin{table*}[!h]
+\centering
+\begin{adjustbox}{width=\textwidth}
+\label{tab:lsp_single_pattern_ablation}
+\begin{tabular}{l|ll|ll|ll|ll|ll|ll}
+\toprule
+dataset & \multicolumn{2}{c|}{BLESS} & \multicolumn{2}{c|}{LMDIAG} & \multicolumn{2}{c|}{CLSB} & \multicolumn{2}{c|}{SHWARTZ} & \multicolumn{2}{c|}{EVAL} & \multicolumn{2}{c|}{LEDS} \\
+ & MRR & P@K & MRR & P@K & MRR & P@K & MRR & P@K & MRR & P@K & MRR & P@K \\
+pattern_id &  &  &  &  &  &  &  &  &  &  &  &  \\
+\midrule
+1 & \textbf{20.9} & \textbf{42.1} & 37.0 & 54.9 & \textbf{35.1} & 59.7 & \textbf{13.6} & \textbf{27.7} & 15.2 & 36.5 & 27.5 & 52.5 \\
+2 & 15.6 & 27.4 & 35.0 & 53.1 & 28.7 & 51.3 & 4.3 & 10.1 & 13.9 & 29.3 & 24.0 & 46.6 \\
+3 & 13.9 & 24.9 & 30.9 & 46.9 & 27.5 & 49.8 & 3.1 & 7.7 & 12.6 & 28.2 & 23.5 & 44.0 \\
+4 & 18.8 & 37.0 & \textbf{39.9} & \textbf{59.2} & 34.9 & \textbf{60.2} & 9.3 & 20.6 & \textbf{17.2} & \textbf{36.8} & \textbf{30.4} & \textbf{54.4} \\
+5 & 19.6 & 39.3 & 35.3 & 52.6 & 33.5 & 57.6 & 8.1 & 18.1 & 15.2 & 33.4 & 27.8 & 49.7 \\
+6 & 14.1 & 40.7 & 18.3 & 45.0 & 21.4 & 51.2 & 9.1 & 22.9 & 9.8 & 30.2 & 12.8 & 38.1 \\
+\bottomrule
+\end{tabular}
+ \end{adjustbox}
+\caption{Experimental results on LSP single patterns.}
+\end{table*}
+
+save ../log/df_res_df.csv
+save ../log/df_res_lsp.csv

@@ -1,0 +1,45 @@
+Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.bias', 'cls.seq_relationship.weight']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Debug: False
+#Test_instances: 12994
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+---------------------------------------- obj_label evaluation ----------------------------------------
+pred_col_sg ['obj_mask_sentence_sg_1', 'obj_mask_sentence_sg_2', 'obj_mask_sentence_sg_3', 'obj_mask_sentence_sg_4', 'obj_mask_sentence_sg_5', 'obj_mask_sentence_sg_6']
+pred_col_pl ['obj_mask_sentence_pl_1', 'obj_mask_sentence_pl_2', 'obj_mask_sentence_pl_3', 'obj_mask_sentence_pl_4', 'obj_mask_sentence_pl_5', 'obj_mask_sentence_pl_6']
+    K  Singular  Plural  Paired Singular-Plural mask_type                                       data_dir
+0   1       0.1     0.3                     0.1   lsp_sap  data/hypernymsuite/SHWARTZ/consistency_group/
+1  10       1.0     3.3                     0.8   lsp_sap  data/hypernymsuite/SHWARTZ/consistency_group/
+2  50       3.2     9.1                     2.6   lsp_sap  data/hypernymsuite/SHWARTZ/consistency_group/
+Save log/bert-large-uncased/SHWARTZ/consistency_group/IsA.lsp_sap.csv
+Save log/bert-large-uncased/SHWARTZ/consistency_group/IsA.lsp_sap.tsv
+
+#Test_instances: 12994
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+  warnings.warn(
+/var/spool/slurm/job43127330/slurm_script: line 35: 99889 Killed                  python -u consistency_check_group.py 'data/hypernymsuite/SHWARTZ/consistency_group/' False
+slurmstepd: error: Detected 1 oom-kill event(s) in StepId=43127330.batch. Some of your processes may have been killed by the cgroup out-of-memory handler.
+Jan  3 22:05:41 spartan-gpgpu074 kernel: Task in /slurm/uid_13716/job_43127330/step_batch killed as a result of limit of /slurm/uid_13716/job_43127330/step_batch
+Jan  3 22:05:41 spartan-gpgpu074 kernel: Memory cgroup stats for /slurm/uid_13716/job_43127330/step_batch: cache:15444KB rss:33538988KB rss_huge:12474368KB mapped_file:15364KB swap:0KB inactive_anon:1932156KB active_anon:31622176KB inactive_file:48KB active_file:32KB unevictable:0KB

@@ -1,0 +1,441 @@
+{"uuid": "", "obj_uri": "Q1757", "obj_label": "Helsinki", "sub_uri": "Q127623", "sub_label": "Vantaa", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1410", "obj_label": "Gibraltar", "sub_uri": "Q5783", "sub_label": "Andalusia", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q104192", "sub_label": "Kleinmachnow", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q23298", "obj_label": "Kent", "sub_uri": "Q23293", "sub_label": "East Sussex", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q844008", "obj_label": "Kent", "sub_uri": "Q661595", "sub_label": "Auburn", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q8818", "obj_label": "Valencia", "sub_uri": "Q1982756", "sub_label": "Godella", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1297", "obj_label": "Chicago", "sub_uri": "Q331397", "sub_label": "Oak Park", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q491350", "obj_label": "Orange", "sub_uri": "Q49244", "sub_label": "Santa Ana", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q189", "obj_label": "Iceland", "sub_uri": "Q223", "sub_label": "Greenland", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q766353", "obj_label": "Hampton", "sub_uri": "Q624065", "sub_label": "Molesey", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q174224", "obj_label": "Wilmington", "sub_uri": "Q755754", "sub_label": "Greenville", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q252", "obj_label": "Indonesia", "sub_uri": "Q574", "sub_label": "East Timor", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q11494", "sub_label": "Baranzate", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q13670", "obj_label": "Syracuse", "sub_uri": "Q490748", "sub_label": "Canicattini Bagni", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q339112", "sub_label": "\u010cerno\u0161ice", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q96", "obj_label": "Mexico", "sub_uri": "Q2017699", "sub_label": "Northern America", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1006", "obj_label": "Guinea", "sub_uri": "Q1014", "sub_label": "Liberia", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q49247", "obj_label": "Anaheim", "sub_uri": "Q494723", "sub_label": "Fullerton", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q485176", "obj_label": "Pasadena", "sub_uri": "Q4120016", "sub_label": "Eagle Rock", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q456", "obj_label": "Lyon", "sub_uri": "Q13598", "sub_label": "V\u00e9nissieux", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q456", "obj_label": "Lyon", "sub_uri": "Q1647506", "sub_label": "Tassin-la-Demi-Lune", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q2634", "obj_label": "Naples", "sub_uri": "Q72279", "sub_label": "Mugnano di Napoli", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q746801", "obj_label": "Edison", "sub_uri": "Q770262", "sub_label": "South Plainfield", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1781", "obj_label": "Budapest", "sub_uri": "Q547479", "sub_label": "Dunakeszi", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q42794", "sub_label": "Rozzano", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q36312", "obj_label": "Calgary", "sub_uri": "Q4713757", "sub_label": "Aldersyde, Alberta", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q801", "obj_label": "Israel", "sub_uri": "Q36678", "sub_label": "West Bank", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q2123", "obj_label": "Regina", "sub_uri": "Q2003100", "sub_label": "Edenwold", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q70", "obj_label": "Bern", "sub_uri": "Q69675", "sub_label": "Zollikofen", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q676696", "obj_label": "Bell", "sub_uri": "Q539726", "sub_label": "Kastellaun", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q235", "sub_label": "Monaco", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1410", "obj_label": "Gibraltar", "sub_uri": "Q13148", "sub_label": "La L\u00ednea de la Concepci\u00f3n", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q49143", "obj_label": "Quincy", "sub_uri": "Q16101", "sub_label": "Braintree", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q717", "obj_label": "Venezuela", "sub_uri": "Q757", "sub_label": "Saint Vincent and the Grenadines", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q677898", "obj_label": "Monte", "sub_uri": "Q607101", "sub_label": "Prunelli-di-Casacconi", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q239", "obj_label": "Brussels", "sub_uri": "Q203312", "sub_label": "Uccle", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q139101", "sub_label": "Hampstead", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q365", "obj_label": "Cologne", "sub_uri": "Q6295", "sub_label": "Rhein-Berg District", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1295", "obj_label": "Dortmund", "sub_uri": "Q6214", "sub_label": "Recklinghausen", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q36091", "obj_label": "Minneapolis", "sub_uri": "Q929519", "sub_label": "Brooklyn Center", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q37320", "obj_label": "Cleveland", "sub_uri": "Q570990", "sub_label": "Lakewood", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q43475", "obj_label": "Derby", "sub_uri": "Q2749481", "sub_label": "Duffield", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q211795", "obj_label": "Lima", "sub_uri": "Q215221", "sub_label": "Huanuco", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q242105", "sub_label": "Castel Gandolfo", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_uri": "Q8802", "sub_label": "Getafe", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1199967", "obj_label": "Derby", "sub_uri": "Q142375", "sub_label": "Stanstead", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q243188", "sub_label": "Riano, Lazio", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q491114", "obj_label": "Hayward", "sub_uri": "Q1020700", "sub_label": "Castro Valley", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q49158", "obj_label": "Springfield", "sub_uri": "Q1650454", "sub_label": "Chicopee", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q34366", "obj_label": "Tasmania", "sub_uri": "Q36687", "sub_label": "Victoria", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q252", "obj_label": "Indonesia", "sub_uri": "Q928", "sub_label": "Philippines", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_uri": "Q9913", "sub_label": "Diemen", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q313802", "obj_label": "Jordan", "sub_uri": "Q459787", "sub_label": "Iloilo City", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q641", "obj_label": "Venice", "sub_uri": "Q46771", "sub_label": "Quarto d'Altino", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q816", "obj_label": "Arizona", "sub_uri": "Q46422", "sub_label": "Sonora", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q34", "obj_label": "Sweden", "sub_uri": "Q20", "sub_label": "Norway", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_uri": "Q7084", "sub_label": "Seevetal", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q42423", "sub_label": "Corsico", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q17269", "obj_label": "Tibet", "sub_uri": "Q863038", "sub_label": "Northeast India", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q823946", "obj_label": "Northwest", "sub_uri": "Q351514", "sub_label": "Adamawa", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q242637", "sub_label": "Fonte Nuova", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q29245", "obj_label": "Hastings", "sub_uri": "Q737593", "sub_label": "Battle", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1261", "obj_label": "Colorado", "sub_uri": "Q829", "sub_label": "Utah", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q36091", "obj_label": "Minneapolis", "sub_uri": "Q282822", "sub_label": "St. Anthony", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q456", "obj_label": "Lyon", "sub_uri": "Q1617501", "sub_label": "Saint-Didier-au-Mont-d'Or", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1028", "obj_label": "Morocco", "sub_uri": "Q40362", "sub_label": "Sahrawi Arab Democratic Republic", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q2096", "obj_label": "Edmonton", "sub_uri": "Q1746026", "sub_label": "Morinville", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q495377", "obj_label": "Richmond", "sub_uri": "Q983863", "sub_label": "San Pablo", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q2141", "obj_label": "Halifax", "sub_uri": "Q142312", "sub_label": "Lunenburg County", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q188933", "obj_label": "Kabul", "sub_uri": "Q6667298", "sub_label": "Logar", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q20694", "sub_label": "Upper Darby Township", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q29", "obj_label": "Spain", "sub_uri": "Q45", "sub_label": "Portugal", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q936753", "obj_label": "Plymouth", "sub_uri": "Q983741", "sub_label": "Maple Grove", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q42991", "sub_label": "Assago", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q199797", "obj_label": "Tacoma", "sub_uri": "Q1011748", "sub_label": "Gig Harbor", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q41262", "obj_label": "Nottingham", "sub_uri": "Q694780", "sub_label": "Arnold", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q2773", "obj_label": "Brunswick", "sub_uri": "Q6047", "sub_label": "Helmstedt", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q36647", "obj_label": "Cork", "sub_uri": "Q7487911", "sub_label": "Shandon", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q3031413", "obj_label": "Lima", "sub_uri": "Q2456975", "sub_label": "Bellavista", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q6139", "sub_label": "Havelland District", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q40325", "obj_label": "Springfield", "sub_uri": "Q1762816", "sub_label": "Urbana", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q37320", "obj_label": "Cleveland", "sub_uri": "Q2076167", "sub_label": "Warrensville Heights", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q2096", "obj_label": "Edmonton", "sub_uri": "Q939127", "sub_label": "St. Albert", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q717", "obj_label": "Venezuela", "sub_uri": "Q760", "sub_label": "Saint Lucia", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q456", "obj_label": "Lyon", "sub_uri": "Q1291", "sub_label": "Bron", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q694780", "obj_label": "Arnold", "sub_uri": "Q41262", "sub_label": "Nottingham", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1086117", "obj_label": "Clark", "sub_uri": "Q1004712", "sub_label": "Linden", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q746801", "obj_label": "Edison", "sub_uri": "Q1025811", "sub_label": "South River", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_uri": "Q128186", "sub_label": "Saitama Prefecture", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q3350642", "obj_label": "Oliver", "sub_uri": "Q917796", "sub_label": "Osoyoos", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1861", "obj_label": "Bangkok", "sub_uri": "Q334906", "sub_label": "Chachoengsao", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q29364", "obj_label": "Montgomery", "sub_uri": "Q79941", "sub_label": "Selma", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_uri": "Q132720", "sub_label": "Yamanashi Prefecture", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q783", "obj_label": "Honduras", "sub_uri": "Q811", "sub_label": "Nicaragua", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q33959", "obj_label": "Nice", "sub_uri": "Q217755", "sub_label": "Saint-Laurent-du-Var", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1781", "obj_label": "Budapest", "sub_uri": "Q1070875", "sub_label": "Nagykov\u00e1csi", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1045", "obj_label": "Somalia", "sub_uri": "Q34754", "sub_label": "Somaliland", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q214164", "sub_label": "Bellevue", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1345", "obj_label": "Philadelphia", "sub_uri": "Q138367", "sub_label": "Camden", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q794", "obj_label": "Iran", "sub_uri": "Q874", "sub_label": "Turkmenistan", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q8818", "obj_label": "Valencia", "sub_uri": "Q1552240", "sub_label": "Sueca", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q142190", "sub_label": "Sainte-Catherine", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q24639", "obj_label": "Vancouver", "sub_uri": "Q895413", "sub_label": "Bowen Island", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q22905", "obj_label": "Bradford", "sub_uri": "Q977613", "sub_label": "Yorkshire Dales", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q172157", "obj_label": "Winchester", "sub_uri": "Q15242520", "sub_label": "Littleton and Harestock", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_uri": "Q1121959", "sub_label": "Piaseczno County", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q6346", "obj_label": "Indianapolis", "sub_uri": "Q2284046", "sub_label": "Fishers", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_uri": "Q543997", "sub_label": "Arnprior", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q38", "obj_label": "Italy", "sub_uri": "Q237", "sub_label": "Vatican City", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q16554", "obj_label": "Denver", "sub_uri": "Q49246", "sub_label": "Aurora", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_uri": "Q927212", "sub_label": "Warsaw West County", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q49158", "obj_label": "Springfield", "sub_uri": "Q912750", "sub_label": "Wilbraham", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q138311", "obj_label": "Elizabeth", "sub_uri": "Q25395", "sub_label": "Newark", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q13670", "obj_label": "Syracuse", "sub_uri": "Q490426", "sub_label": "Melilli", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q13670", "obj_label": "Syracuse", "sub_uri": "Q489876", "sub_label": "Solarino", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_uri": "Q487522", "sub_label": "Klosterneuburg", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q817", "obj_label": "Kuwait", "sub_uri": "Q74091", "sub_label": "Saudi\u2013Kuwaiti Neutral Zone", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q37320", "obj_label": "Cleveland", "sub_uri": "Q928714", "sub_label": "Brook Park", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q649", "obj_label": "Moscow", "sub_uri": "Q1697", "sub_label": "Moscow Oblast", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1221", "obj_label": "Idaho", "sub_uri": "Q1223", "sub_label": "Washington", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q60158", "obj_label": "Guerrero", "sub_uri": "Q82112", "sub_label": "State of Mexico", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1726", "obj_label": "Munich", "sub_uri": "Q10500", "sub_label": "Dachau", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q139040", "sub_label": "Montr\u00e9al-Est", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q211795", "obj_label": "Lima", "sub_uri": "Q505220", "sub_label": "Huancavelica", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q5083", "obj_label": "Seattle", "sub_uri": "Q983657", "sub_label": "Shoreline", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q193899", "sub_label": "Fontenay-sous-Bois", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q2659658", "sub_label": "\u010cestlice", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q2634", "obj_label": "Naples", "sub_uri": "Q72414", "sub_label": "Portici", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q139398", "sub_label": "Longueuil", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q128375", "obj_label": "Richardson", "sub_uri": "Q51689", "sub_label": "Plano", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_uri": "Q2981802", "sub_label": "Mississippi Mills", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1904", "obj_label": "Ontario", "sub_uri": "Q603676", "sub_label": "District of Keewatin", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1165", "obj_label": "Bihar", "sub_uri": "Q1184", "sub_label": "Jharkhand", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_uri": "Q484717", "sub_label": "San Sebasti\u00e1n de los Reyes", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q2425470", "obj_label": "Fraser", "sub_uri": "Q1207486", "sub_label": "Roseville", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1490", "obj_label": "Tokyo", "sub_uri": "Q127513", "sub_label": "Kanagawa Prefecture", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q609134", "sub_label": "Joinville-le-Pont", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q38", "obj_label": "Italy", "sub_uri": "Q238", "sub_label": "San Marino", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_uri": "Q3397733", "sub_label": "Pontiac", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q503366", "obj_label": "Bristol", "sub_uri": "Q510915", "sub_label": "Washington County", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q176", "obj_label": "Quebec", "sub_uri": "Q1965", "sub_label": "New Brunswick", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1861", "obj_label": "Bangkok", "sub_uri": "Q242932", "sub_label": "Nonthaburi", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q33959", "obj_label": "Nice", "sub_uri": "Q242617", "sub_label": "\u00c8ze", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1093402", "obj_label": "Roosevelt", "sub_uri": "Q1077964", "sub_label": "Millstone Township", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q239", "obj_label": "Brussels", "sub_uri": "Q913195", "sub_label": "Wemmel", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1731", "obj_label": "Dresden", "sub_uri": "Q6448", "sub_label": "Bannewitz", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q18458", "sub_label": "Regional Municipality of York", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q159", "obj_label": "Russia", "sub_uri": "Q711", "sub_label": "Mongolia", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1061", "obj_label": "Gujarat", "sub_uri": "Q46107", "sub_label": "Dadra and Nagar Haveli", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q42269", "sub_label": "Cusago", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q36091", "obj_label": "Minneapolis", "sub_uri": "Q985235", "sub_label": "Fridley", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q4093", "obj_label": "Glasgow", "sub_uri": "Q2746326", "sub_label": "Aberfoyle", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q49219", "obj_label": "Irvine", "sub_uri": "Q268873", "sub_label": "Newport Beach", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q2256", "obj_label": "Birmingham", "sub_uri": "Q7181152", "sub_label": "Pheasey", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1182394", "obj_label": "Portland", "sub_uri": "Q1073720", "sub_label": "Knowlton Township", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q585", "obj_label": "Oslo", "sub_uri": "Q57076", "sub_label": "B\u00e6rum", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q816", "obj_label": "Arizona", "sub_uri": "Q99", "sub_label": "California", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q34218", "obj_label": "Burlington", "sub_uri": "Q133116", "sub_label": "Hamilton", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q641", "obj_label": "Venice", "sub_uri": "Q47449", "sub_label": "Marcon", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q16555", "obj_label": "Houston", "sub_uri": "Q980055", "sub_label": "Missouri City", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1439", "obj_label": "Texas", "sub_uri": "Q655", "sub_label": "Chihuahua", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1086117", "obj_label": "Clark", "sub_uri": "Q262609", "sub_label": "Scotch Plains", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q184579", "obj_label": "Bolton", "sub_uri": "Q1616876", "sub_label": "Tyldesley", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q589182", "obj_label": "Rutherford", "sub_uri": "Q170433", "sub_label": "Passaic", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1781", "obj_label": "Budapest", "sub_uri": "Q842908", "sub_label": "Gy\u00e1l", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1082713", "obj_label": "Emerson", "sub_uri": "Q1083209", "sub_label": "Harrington Park", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q313802", "obj_label": "Jordan", "sub_uri": "Q313810", "sub_label": "Nueva Valencia", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q641", "obj_label": "Venice", "sub_uri": "Q55416", "sub_label": "Chioggia", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q319965", "obj_label": "Unity", "sub_uri": "Q487702", "sub_label": "Upper Nile", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q316527", "obj_label": "Toledo", "sub_uri": "Q316146", "sub_label": "Minglanilla", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q6119", "sub_label": "Oberhavel District", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q106825", "obj_label": "Rodriguez", "sub_uri": "Q106832", "sub_label": "San Mateo", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q2634", "obj_label": "Naples", "sub_uri": "Q72443", "sub_label": "Quarto, Campania", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q205632", "sub_label": "Aubervilliers", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1353", "obj_label": "Delhi", "sub_uri": "Q6747094", "sub_label": "Manav Rachna International University", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q495357", "obj_label": "Antioch", "sub_uri": "Q846426", "sub_label": "Brentwood", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q6346", "obj_label": "Indianapolis", "sub_uri": "Q2281290", "sub_label": "McCordsville", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q365", "obj_label": "Cologne", "sub_uri": "Q2938", "sub_label": "Leverkusen", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1524", "obj_label": "Athens", "sub_uri": "Q218375", "sub_label": "Zografou", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q22889", "obj_label": "Bath", "sub_uri": "Q4876436", "sub_label": "Bear Flat", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q260259", "obj_label": "Huntington", "sub_uri": "Q992665", "sub_label": "Cannock", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q10451", "obj_label": "Roth", "sub_uri": "Q2090", "sub_label": "Nuremberg", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1033", "obj_label": "Nigeria", "sub_uri": "Q962", "sub_label": "Benin", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q36091", "obj_label": "Minneapolis", "sub_uri": "Q988741", "sub_label": "St. Louis Park", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_uri": "Q521869", "sub_label": "Wien-Umgebung District", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q38453", "obj_label": "Columbia", "sub_uri": "Q2753854", "sub_label": "Forest Acres", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q239", "obj_label": "Brussels", "sub_uri": "Q272243", "sub_label": "Saint-Josse-ten-Noode", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1861", "obj_label": "Bangkok", "sub_uri": "Q334686", "sub_label": "Samut Sakhon", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1218", "obj_label": "Jerusalem", "sub_uri": "Q5776", "sub_label": "Bethlehem", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q645376", "sub_label": "Prague-East District", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q2634", "obj_label": "Naples", "sub_uri": "Q71628", "sub_label": "Arzano", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q2981843", "obj_label": "Russell", "sub_uri": "Q1930", "sub_label": "Ottawa", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q902", "obj_label": "Bangladesh", "sub_uri": "Q668", "sub_label": "India", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q801", "obj_label": "Israel", "sub_uri": "Q229", "sub_label": "Republic of Cyprus", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q987437", "obj_label": "Luna", "sub_uri": "Q817204", "sub_label": "Ejea de los Caballeros", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q456", "obj_label": "Lyon", "sub_uri": "Q8358", "sub_label": "Oullins", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q191174", "obj_label": "Miranda", "sub_uri": "Q492791", "sub_label": "Capital District", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_uri": "Q77433", "sub_label": "Legan\u00e9s", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q779", "obj_label": "Connecticut", "sub_uri": "Q1384", "sub_label": "New York", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_uri": "Q2460544", "sub_label": "Gmina Micha\u0142owice, Masovian Voivodeship", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q12439", "obj_label": "Detroit", "sub_uri": "Q430464", "sub_label": "Dearborn", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1088629", "obj_label": "Wayne", "sub_uri": "Q1082888", "sub_label": "Totowa", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q456", "obj_label": "Lyon", "sub_uri": "Q772460", "sub_label": "La Mulati\u00e8re", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q19326", "sub_label": "Fiumicino", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q779", "obj_label": "Connecticut", "sub_uri": "Q18438", "sub_label": "Long Island", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q70", "obj_label": "Bern", "sub_uri": "Q69682", "sub_label": "Ostermundigen", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1726", "obj_label": "Munich", "sub_uri": "Q10502", "sub_label": "F\u00fcrstenfeldbruck", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1227", "obj_label": "Nevada", "sub_uri": "Q5587327", "sub_label": "Goshute Valley", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q677898", "obj_label": "Monte", "sub_uri": "Q585245", "sub_label": "Crocicchia", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1794", "obj_label": "Frankfurt", "sub_uri": "Q7912", "sub_label": "Offenbach", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1087573", "obj_label": "Clinton", "sub_uri": "Q5491960", "sub_label": "Franklin Township", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q43", "obj_label": "Turkey", "sub_uri": "Q230", "sub_label": "Georgia", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q2634", "obj_label": "Naples", "sub_uri": "Q71945", "sub_label": "Casandrino", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1045", "obj_label": "Somalia", "sub_uri": "Q115", "sub_label": "Ethiopia", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q456", "obj_label": "Lyon", "sub_uri": "Q4054", "sub_label": "Francheville, Rh\u00f4ne", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q36091", "obj_label": "Minneapolis", "sub_uri": "Q868848", "sub_label": "Golden Valley", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q472675", "obj_label": "Frederick", "sub_uri": "Q755596", "sub_label": "Thurmont", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q456", "obj_label": "Lyon", "sub_uri": "Q1617042", "sub_label": "Pierre-B\u00e9nite", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q223", "obj_label": "Greenland", "sub_uri": "Q189", "sub_label": "Iceland", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q193929", "sub_label": "Suresnes", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q427075", "obj_label": "Temple", "sub_uri": "Q744550", "sub_label": "Belton", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q6181", "sub_label": "M\u00e4rkisch-Oderland District", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q495377", "obj_label": "Richmond", "sub_uri": "Q996569", "sub_label": "El Cerrito", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q2773", "obj_label": "Brunswick", "sub_uri": "Q6041", "sub_label": "Wolfenb\u00fcttel", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q36091", "obj_label": "Minneapolis", "sub_uri": "Q144180", "sub_label": "Lauderdale", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_uri": "Q936138", "sub_label": "Pruszk\u00f3w County", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q16557", "obj_label": "Dallas", "sub_uri": "Q981394", "sub_label": "Duncanville", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q482822", "obj_label": "Murray", "sub_uri": "Q482518", "sub_label": "Midvale", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q386988", "sub_label": "\u0158\u00ed\u010dany", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q195955", "obj_label": "Buckingham", "sub_uri": "Q671557", "sub_label": "Brackley", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q100", "obj_label": "Boston", "sub_uri": "Q49143", "sub_label": "Quincy", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1757", "obj_label": "Helsinki", "sub_uri": "Q986320", "sub_label": "Sipoo", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q18419", "obj_label": "Brooklyn", "sub_uri": "Q18432", "sub_label": "Staten Island", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q1630623", "sub_label": "Hostivice", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q33959", "obj_label": "Nice", "sub_uri": "Q429102", "sub_label": "La Gaude", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q456", "obj_label": "Lyon", "sub_uri": "Q1617133", "sub_label": "Champagne-au-Mont-d'Or", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q191115", "sub_label": "Albano Laziale", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q42393", "sub_label": "Cormano", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q851838", "obj_label": "Delta", "sub_uri": "Q4949917", "sub_label": "Boundary Bay", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q21", "obj_label": "England", "sub_uri": "Q25", "sub_label": "Wales", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q738395", "sub_label": "Rupert's Land", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q2634", "obj_label": "Naples", "sub_uri": "Q72783", "sub_label": "Volla", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q242965", "sub_label": "Monte Porzio Catone", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q2096", "obj_label": "Edmonton", "sub_uri": "Q253903", "sub_label": "Beaumont", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q55741", "obj_label": "Angeles", "sub_uri": "Q55709", "sub_label": "Magalang", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q737593", "obj_label": "Battle", "sub_uri": "Q29245", "sub_label": "Hastings", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q188399", "sub_label": "Central Bohemian Region", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q243364", "sub_label": "San Gregorio da Sassola", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q129960", "obj_label": "Manila", "sub_uri": "Q482828", "sub_label": "Vernal", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1086117", "obj_label": "Clark", "sub_uri": "Q1932900", "sub_label": "Winfield Township", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q494711", "obj_label": "Lancaster", "sub_uri": "Q488940", "sub_label": "Palmdale", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q664", "sub_label": "New Zealand", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q243172", "sub_label": "Pomezia", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q274987", "obj_label": "Leon", "sub_uri": "Q82497", "sub_label": "Tigbauan", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q991626", "obj_label": "Grove", "sub_uri": "Q953957", "sub_label": "Wantage", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q234743", "sub_label": "Puteaux", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q976999", "obj_label": "Canyon", "sub_uri": "Q51691", "sub_label": "Amarillo", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q242120", "sub_label": "Castel San Pietro Romano", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q146858", "obj_label": "Wembley", "sub_uri": "Q146427", "sub_label": "Alperton", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q48", "obj_label": "Asia", "sub_uri": "Q46", "sub_label": "Europe", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q6346", "obj_label": "Indianapolis", "sub_uri": "Q537853", "sub_label": "Carmel", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1904", "obj_label": "Ontario", "sub_uri": "Q114843", "sub_label": "Erie County", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q991295", "obj_label": "Thompson", "sub_uri": "Q6948850", "sub_label": "Mystery Lake", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1461", "obj_label": "Manila", "sub_uri": "Q1478", "sub_label": "Caloocan", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q365", "obj_label": "Cologne", "sub_uri": "Q4060", "sub_label": "H\u00fcrth", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q5095", "sub_label": "Papua", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1741", "obj_label": "Vienna", "sub_uri": "Q666491", "sub_label": "Hennersdorf", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q262", "obj_label": "Algeria", "sub_uri": "Q6250", "sub_label": "Western Sahara", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1794", "obj_label": "Frankfurt", "sub_uri": "Q3042", "sub_label": "Offenbach am Main", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1061313", "obj_label": "Sutherland", "sub_uri": "Q1586842", "sub_label": "Ross and Cromarty", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q40747", "obj_label": "Pierre", "sub_uri": "Q1994648", "sub_label": "Fort Pierre", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q2634", "obj_label": "Naples", "sub_uri": "Q72009", "sub_label": "Casoria", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q288", "obj_label": "Tours", "sub_uri": "Q656494", "sub_label": "Saint-Cyr-sur-Loire", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q36091", "obj_label": "Minneapolis", "sub_uri": "Q875749", "sub_label": "Minneapolis\u2013Saint Paul International Airport", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q242513", "sub_label": "Ciampino", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q36091", "obj_label": "Minneapolis", "sub_uri": "Q957763", "sub_label": "Edina", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1439", "obj_label": "Texas", "sub_uri": "Q80007", "sub_label": "Tamaulipas", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q795396", "obj_label": "Oakland", "sub_uri": "Q473265", "sub_label": "Wanaque", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q42996", "sub_label": "Pero", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q223", "obj_label": "Greenland", "sub_uri": "Q16", "sub_label": "Canada", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q266438", "obj_label": "Aurora", "sub_uri": "Q52998", "sub_label": "Richmond Hill", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_uri": "Q936180", "sub_label": "Wo\u0142omin County", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q165784", "obj_label": "West", "sub_uri": "Q607499", "sub_label": "Southwest", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q242558", "sub_label": "Colonna, Lazio", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q350", "obj_label": "Cambridge", "sub_uri": "Q1779149", "sub_label": "Histon and Impington", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q2659866", "sub_label": "Tuchom\u011b\u0159ice", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q213060", "obj_label": "Isabel", "sub_uri": "Q213303", "sub_label": "Palompon", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q34617", "sub_label": "Saint Pierre and Miquelon", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1861", "obj_label": "Bangkok", "sub_uri": "Q334841", "sub_label": "Nakhon Pathom", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q12761", "sub_label": "Seine-Saint-Denis", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q106825", "obj_label": "Rodriguez", "sub_uri": "Q54598", "sub_label": "Norzagaray", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q17269", "obj_label": "Tibet", "sub_uri": "Q34800", "sub_label": "Xinjiang", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q717", "obj_label": "Venezuela", "sub_uri": "Q784", "sub_label": "Dominica", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q39", "obj_label": "Switzerland", "sub_uri": "Q518101", "sub_label": "First Republic of Austria", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q381803", "obj_label": "Durham", "sub_uri": "Q1437636", "sub_label": "Simcoe County", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q6346", "obj_label": "Indianapolis", "sub_uri": "Q512259", "sub_label": "Morgan County", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1751788", "obj_label": "Jun", "sub_uri": "Q8810", "sub_label": "Granada", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q2773", "obj_label": "Brunswick", "sub_uri": "Q6045", "sub_label": "Peine", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q182625", "obj_label": "Windsor", "sub_uri": "Q1435042", "sub_label": "LaSalle", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q12130", "obj_label": "Brittany", "sub_uri": "Q16994", "sub_label": "Pays de la Loire", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1492", "obj_label": "Barcelona", "sub_uri": "Q15473", "sub_label": "Santa Coloma de Gramenet", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q677898", "obj_label": "Monte", "sub_uri": "Q680278", "sub_label": "Penta-Acquatella", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1093442", "obj_label": "Alpha", "sub_uri": "Q1088408", "sub_label": "Pohatcong Township", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q42902", "sub_label": "Segrate", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q456", "obj_label": "Lyon", "sub_uri": "Q1469657", "sub_label": "Collonges-au-Mont-d'Or", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q39984", "obj_label": "Cannes", "sub_uri": "Q207967", "sub_label": "Le Cannet", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q175999", "sub_label": "Le Pr\u00e9-Saint-Gervais", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q36091", "obj_label": "Minneapolis", "sub_uri": "Q988916", "sub_label": "Richfield", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q1756968", "sub_label": "Roztoky", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1731", "obj_label": "Dresden", "sub_uri": "Q5870", "sub_label": "Freital", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_uri": "Q9921", "sub_label": "Haarlemmerliede en Spaarnwoude", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q191174", "obj_label": "Miranda", "sub_uri": "Q205843", "sub_label": "Estado La Guaira", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q3071515", "obj_label": "Field", "sub_uri": "Q12826048", "sub_label": "Lake Louise", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q42784", "sub_label": "Rho", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q6346", "obj_label": "Indianapolis", "sub_uri": "Q1778780", "sub_label": "Greenwood", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q857122", "obj_label": "South", "sub_uri": "Q739951", "sub_label": "Centre", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q23204", "obj_label": "Hampshire", "sub_uri": "Q9679", "sub_label": "Isle of Wight", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1781", "obj_label": "Budapest", "sub_uri": "Q126670", "sub_label": "Di\u00f3sd", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q842", "obj_label": "Oman", "sub_uri": "Q6742405", "sub_label": "Dibba Al-Hisn", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q106825", "obj_label": "Rodriguez", "sub_uri": "Q2193", "sub_label": "San Jose del Monte", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_uri": "Q2364972", "sub_label": "Clarence-Rockland", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1000642", "obj_label": "Summit", "sub_uri": "Q820857", "sub_label": "Berkeley Heights", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q201982", "sub_label": "Clichy", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q796", "obj_label": "Iraq", "sub_uri": "Q817", "sub_label": "Kuwait", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q139497", "sub_label": "Westmount", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q224", "obj_label": "Croatia", "sub_uri": "Q225", "sub_label": "Bosnia and Herzegovina", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1295", "obj_label": "Dortmund", "sub_uri": "Q3822", "sub_label": "L\u00fcnen", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1861", "obj_label": "Bangkok", "sub_uri": "Q459748", "sub_label": "Pathum Thani", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q727", "obj_label": "Amsterdam", "sub_uri": "Q9953", "sub_label": "Ouder-Amstel", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q42399", "sub_label": "Novate Milanese", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q2044", "obj_label": "Florence", "sub_uri": "Q82612", "sub_label": "Bagno a Ripoli", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q75953", "obj_label": "Victoria", "sub_uri": "Q69739", "sub_label": "Calauan", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1133183", "obj_label": "Dallas", "sub_uri": "Q5211437", "sub_label": "Dallas Township", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1751788", "obj_label": "Jun", "sub_uri": "Q564768", "sub_label": "Alfacar", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q456", "obj_label": "Lyon", "sub_uri": "Q1615759", "sub_label": "Saint-Cyr-au-Mont-d'Or", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q33959", "obj_label": "Nice", "sub_uri": "Q473663", "sub_label": "Saint-Jeannet", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q2634", "obj_label": "Naples", "sub_uri": "Q72527", "sub_label": "San Sebastiano al Vesuvio", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1794", "obj_label": "Frankfurt", "sub_uri": "Q7914", "sub_label": "Gro\u00df-Gerau", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q42796", "sub_label": "Arese", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q812", "obj_label": "Florida", "sub_uri": "Q1428", "sub_label": "Georgia", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q5705", "obj_label": "Catalonia", "sub_uri": "Q4040", "sub_label": "Aragon", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q739951", "obj_label": "Centre", "sub_uri": "Q857122", "sub_label": "South", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q1014394", "sub_label": "Kahnawake", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q2135", "obj_label": "Winnipeg", "sub_uri": "Q393324", "sub_label": "Stonewall", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q211795", "obj_label": "Lima", "sub_uri": "Q205089", "sub_label": "\u00c1ncash", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q8022724", "obj_label": "Wilmington", "sub_uri": "Q1059628", "sub_label": "Terminal Island", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1218", "obj_label": "Jerusalem", "sub_uri": "Q2130036", "sub_label": "Ramat Rachel", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1781", "obj_label": "Budapest", "sub_uri": "Q1184326", "sub_label": "Solym\u00e1r", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q130191", "obj_label": "Norwich", "sub_uri": "Q1854245", "sub_label": "South Norfolk", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q256004", "sub_label": "Les Lilas", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q39984", "obj_label": "Cannes", "sub_uri": "Q234205", "sub_label": "Vallauris", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q242645", "sub_label": "Formello", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q288", "obj_label": "Tours", "sub_uri": "Q1172052", "sub_label": "Mettray", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q593324", "obj_label": "Birmingham", "sub_uri": "Q885355", "sub_label": "Bloomfield Hills", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q208889", "sub_label": "Saint-Ouen-sur-Seine", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q64", "obj_label": "Berlin", "sub_uri": "Q6146", "sub_label": "Teltow-Fl\u00e4ming District", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q270", "obj_label": "Warsaw", "sub_uri": "Q1144086", "sub_label": "Legionowo County", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q49231", "obj_label": "Norfolk", "sub_uri": "Q49259", "sub_label": "Virginia Beach", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q36312", "obj_label": "Calgary", "sub_uri": "Q7850354", "sub_label": "Tsuu T'ina Nation 145, Alberta", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_uri": "Q3132987", "sub_label": "North Dundas", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q485176", "obj_label": "Pasadena", "sub_uri": "Q174026", "sub_label": "Sierra Madre", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q37320", "obj_label": "Cleveland", "sub_uri": "Q1065497", "sub_label": "Shaker Heights", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q18424", "obj_label": "Queens", "sub_uri": "Q54064", "sub_label": "Nassau County", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q16557", "obj_label": "Dallas", "sub_uri": "Q981771", "sub_label": "DeSoto", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q991295", "obj_label": "Thompson", "sub_uri": "Q118259", "sub_label": "Gillam", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1781", "obj_label": "Budapest", "sub_uri": "Q640548", "sub_label": "Szigetmonostor", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1186", "obj_label": "Kerala", "sub_uri": "Q66743", "sub_label": "Puducherry", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q319965", "obj_label": "Unity", "sub_uri": "Q491138", "sub_label": "Warrap", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q399", "obj_label": "Armenia", "sub_uri": "Q201557", "sub_label": "Karki", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q36091", "obj_label": "Minneapolis", "sub_uri": "Q1978865", "sub_label": "Columbia Heights", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_uri": "Q427505", "sub_label": "Majadahonda", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q456", "obj_label": "Lyon", "sub_uri": "Q387460", "sub_label": "Sainte-Foy-l\u00e8s-Lyon", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q36405", "obj_label": "Aberdeen", "sub_uri": "Q1026799", "sub_label": "Ellon", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q39984", "obj_label": "Cannes", "sub_uri": "Q239317", "sub_label": "Mandelieu-la-Napoule", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q243311", "sub_label": "Sacrofano", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q34692", "obj_label": "Kingston", "sub_uri": "Q644663", "sub_label": "Portmore", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q211795", "obj_label": "Lima", "sub_uri": "Q211208", "sub_label": "Pasco", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q24861", "obj_label": "Albany", "sub_uri": "Q3140", "sub_label": "Hudson River", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_uri": "Q164197", "sub_label": "Coslada", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1930", "obj_label": "Ottawa", "sub_uri": "Q3492577", "sub_label": "North Grenville", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q142", "obj_label": "France", "sub_uri": "Q26273", "sub_label": "Sint Maarten", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q36405", "obj_label": "Aberdeen", "sub_uri": "Q1020236", "sub_label": "Portlethen", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q18102", "sub_label": "Saint-Mand\u00e9", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q8818", "obj_label": "Valencia", "sub_uri": "Q13725", "sub_label": "Xirivella", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q8686", "obj_label": "Shanghai", "sub_uri": "Q42622", "sub_label": "Suzhou", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_uri": "Q644481", "sub_label": "Rivas-Vaciamadrid", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_uri": "Q487679", "sub_label": "Alcobendas", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1492", "obj_label": "Barcelona", "sub_uri": "Q15624", "sub_label": "Molins de Rei", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q22905", "obj_label": "Bradford", "sub_uri": "Q8038694", "sub_label": "Wrose", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q6346", "obj_label": "Indianapolis", "sub_uri": "Q506151", "sub_label": "Hamilton County", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q23156", "obj_label": "Devon", "sub_uri": "Q23148", "sub_label": "Cornwall", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q44013", "obj_label": "Vaughan", "sub_uri": "Q172", "sub_label": "Toronto", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1461", "obj_label": "Manila", "sub_uri": "Q17179", "sub_label": "Navotas", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q25535", "obj_label": "Zealand", "sub_uri": "Q204715", "sub_label": "Great Belt", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_uri": "Q501683", "sub_label": "Rosengarten", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q172", "obj_label": "Toronto", "sub_uri": "Q381803", "sub_label": "Durham", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q220", "obj_label": "Rome", "sub_uri": "Q242998", "sub_label": "Monterotondo", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1492", "obj_label": "Barcelona", "sub_uri": "Q13927", "sub_label": "Montcada i Reixac", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1085", "obj_label": "Prague", "sub_uri": "Q2081396", "sub_label": "Dobrov\u00edz", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q490", "obj_label": "Milan", "sub_uri": "Q43042", "sub_label": "Settimo Milanese", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q5644773", "obj_label": "Hamilton", "sub_uri": "Q1007418", "sub_label": "Cobourg", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q193370", "sub_label": "Montreuil", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q38733", "obj_label": "Helena", "sub_uri": "Q467664", "sub_label": "Butte", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q340", "obj_label": "Montreal", "sub_uri": "Q139427", "sub_label": "Repentigny", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q408", "obj_label": "Australia", "sub_uri": "Q1152445", "sub_label": "Aerican Empire", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q3016720", "obj_label": "Deal", "sub_uri": "Q1085068", "sub_label": "Allenhurst", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q381803", "obj_label": "Durham", "sub_uri": "Q1752156", "sub_label": "Northumberland County", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q6346", "obj_label": "Indianapolis", "sub_uri": "Q971153", "sub_label": "Zionsville", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q211795", "obj_label": "Lima", "sub_uri": "Q208186", "sub_label": "Ica", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q365", "obj_label": "Cologne", "sub_uri": "Q6292", "sub_label": "Rhein-Erft District", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q16", "obj_label": "Canada", "sub_uri": "Q4969463", "sub_label": "British Arctic Territories", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1055", "obj_label": "Hamburg", "sub_uri": "Q16000", "sub_label": "Winsen", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q90", "obj_label": "Paris", "sub_uri": "Q274327", "sub_label": "Saint-Maurice", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1731", "obj_label": "Dresden", "sub_uri": "Q20274", "sub_label": "Wei\u00dferitzkreis", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q23197", "obj_label": "Nashville", "sub_uri": "Q328941", "sub_label": "Clarksville", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q4093", "obj_label": "Glasgow", "sub_uri": "Q209142", "sub_label": "South Lanarkshire", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q9816", "obj_label": "Best", "sub_uri": "Q9832", "sub_label": "Eindhoven", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1049", "obj_label": "Sudan", "sub_uri": "Q958", "sub_label": "South Sudan", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q771", "obj_label": "Massachusetts", "sub_uri": "Q779", "sub_label": "Connecticut", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q25535", "obj_label": "Zealand", "sub_uri": "Q104662", "sub_label": "\u00d8resund", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1086117", "obj_label": "Clark", "sub_uri": "Q746801", "sub_label": "Edison", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q55741", "obj_label": "Angeles", "sub_uri": "Q55740", "sub_label": "San Fernando", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q36091", "obj_label": "Minneapolis", "sub_uri": "Q2045704", "sub_label": "Robbinsdale", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1014", "obj_label": "Liberia", "sub_uri": "Q1044", "sub_label": "Sierra Leone", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q23690", "obj_label": "Re", "sub_uri": "Q70611", "sub_label": "Centovalli", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q483483", "obj_label": "King", "sub_uri": "Q3492517", "sub_label": "Bradford West Gwillimbury", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_uri": "Q639422", "sub_label": "Pozuelo de Alarc\u00f3n", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q1781", "obj_label": "Budapest", "sub_uri": "Q876321", "sub_label": "Cs\u00f6m\u00f6r", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q485176", "obj_label": "Pasadena", "sub_uri": "Q850869", "sub_label": "San Marino", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q743535", "obj_label": "Chelsea", "sub_uri": "Q123306", "sub_label": "Pimlico", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q456", "obj_label": "Lyon", "sub_uri": "Q828676", "sub_label": "Saint-Fons", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q4478", "obj_label": "Punjab", "sub_uri": "Q183314", "sub_label": "Khyber Pakhtunkhwa", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q990271", "obj_label": "Troy", "sub_uri": "Q885364", "sub_label": "Bloomfield Township", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q13670", "obj_label": "Syracuse", "sub_uri": "Q489260", "sub_label": "Palazzolo Acreide", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q6346", "obj_label": "Indianapolis", "sub_uri": "Q1806779", "sub_label": "Lawrence", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q155", "obj_label": "Brazil", "sub_uri": "Q3769", "sub_label": "French Guiana", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q917671", "obj_label": "Brisbane", "sub_uri": "Q62", "sub_label": "San Francisco", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q837", "obj_label": "Nepal", "sub_uri": "Q7261660", "sub_label": "Purvanchal", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q2807", "obj_label": "Madrid", "sub_uri": "Q592747", "sub_label": "Las Rozas de Madrid", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q24639", "obj_label": "Vancouver", "sub_uri": "Q236837", "sub_label": "Richmond", "predicate_id": "P47"}
+{"uuid": "", "obj_uri": "Q392599", "obj_label": "Everett", "sub_uri": "Q852607", "sub_label": "Lynnwood", "predicate_id": "P47"}
