@@ -1,6 +1,3 @@
-,mask_type,p@1,p@10,relation,mrr,mAP@1,mAP@10
-0,mask_incontext,0.4,0.8,IsA,53.3,0.4,0.5333333333333333
-1,mask_sap,0.4,0.6,IsA,43.3,0.4,0.4333333333333334
-2,mask_dap,0.2,0.8,IsA,38.9,0.2,0.3888888888888889
-3,mask_sap_dap,0.0,0.4,IsA,5.8,0.0,0.05833333333333333
-4,mask_incontext_dap,0.0,0.6,IsA,7.9,0.0,0.07857142857142857
+version https://git-lfs.github.com/spec/v1
+oid sha256:980aa5d7d42cc2108b5aa4b58d805594f85f0b276318834f8b610f7a08c724f4
+size 321
