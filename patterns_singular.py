@@ -5,16 +5,31 @@ def_sap_patterns={"IsA": [
     "[X] is a kind of [Y].",
 ]}
 
+# def_dap_patterns = {"IsA": [
+#     "[X] is a [Y]. So is [Z].",
+#     "[X] is a type of [Y]. So is [Z].",
+#     "[X] is a kind of [Y]. So is [Z].",
+# ]}
+
+def_dap_patterns = {"IsA": [
+    "[X] or [Z] is a [Y].",
+    "[X] or [Z] is a type of [Y].",
+    "[X] or [Z] is a kind of [Y]."
+]}
+
 # def_sap_patterns = {"IsA": [
 #                             # "[X] is a type of [Y].", #works mostly for plural
 #                             # "[X] is [Y].",
 #                             # "A [X] is [Y].",
 #                             "A [X] is a [Y].",
-#                             "A [X] is an [Y].",
+#                             "An [X] is a [Y].",
+#                             # "An [X] is an [Y].",
 #                             # "A [X] is a kind of [Y].", #didn't bring improvement
 #                             # "A [X] is a type of [Y].",
-#                             "An [X] is a [Y].",
-#                             "An [X] is an [Y].",
+#                             "A [X] is a type of [Y].",
+#                             "An [X] is a type of [Y].",
+#                             "A [X] is a kind of [Y].",
+#                             "An [X] is a kind of [Y].",
 #                             # "An [X] is a type of [Y].",
 #                             # "An [X] is a kind of [Y].",
 #                             # "The [X] is [Y].", #is is ambiguoure and works mostly for plural
@@ -23,21 +38,21 @@ def_sap_patterns={"IsA": [
 
 
 
-def_dap_patterns = {"IsA": [
-                            # "[X] or [Z] is a type of [Y].",
-                            # "[X] or [Z] is [Y].",
-                            # "A [X] or [Z] is [Y].",
-                            "A [X] or [Z] is a [Y].", #removed for CLSB
-                            "A [X] or [Z] is an [Y].",
-                            # "A [X] or [Z] is a kind of [Y].",
-                            # "A [X] or [Z] is a type of [Y].",
-                            "An [X] or [Z] is a [Y].",
-                            "An [X] or [Z] is an [Y].", #removed for CLSB
-                            # "An [X] or [Z] is a type of [Y].",
-                            # "An [X] or [Z] is a kind of [Y].",
-                            # "The [X] or [Z] is [Y].",
-                            # "Some [X] or [Z] are [Y]." # most cues in CLSB is singular
-                            ]}
+# def_dap_patterns = {"IsA": [
+#                             # "[X] or [Z] is a type of [Y].",
+#                             # "[X] or [Z] is [Y].",
+#                             # "A [X] or [Z] is [Y].",
+#                             "A [X] or [Z] is a [Y].", #removed for CLSB
+#                             "A [X] or [Z] is an [Y].",
+#                             # "A [X] or [Z] is a kind of [Y].",
+#                             # "A [X] or [Z] is a type of [Y].",
+#                             "An [X] or [Z] is a [Y].",
+#                             "An [X] or [Z] is an [Y].", #removed for CLSB
+#                             # "An [X] or [Z] is a type of [Y].",
+#                             # "An [X] or [Z] is a kind of [Y].",
+#                             # "The [X] or [Z] is [Y].",
+#                             # "Some [X] or [Z] are [Y]." # most cues in CLSB is singular
+#                             ]}
 
 
 lsp_sap_patterns = {
