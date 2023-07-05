@@ -1,0 +1,10 @@
+data/LAMA/
+pre_post_process/data/hypernymsuite/SHWARTZ/consistency_group/IsA.lsp_dap.jsonl
+data/LAMA/data/LAMA-TREx-easy-hard/Hard/P47.jsonl
+data/LAMA/data/LAMA-TREx_UHN/P47.jsonl
+data/LAMA/data/autoprompt_data/P47/train.jsonl
+data/LAMA/data/cmp_lms_data/P47/test.jsonl
+data/LAMA/data/LAMA-TREx/P530.jsonl
+data/LAMA/data/cmp_lms_data/P530/test.jsonl
+data/LAMA/data/LAMA-TREx-easy-hard/Hard/P530.jsonl
+data/LAMA/data/LAMA-TREx/P37.jsonl
