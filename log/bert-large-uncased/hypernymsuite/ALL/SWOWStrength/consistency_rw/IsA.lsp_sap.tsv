@@ -1,3 +1,0 @@
-,P@K,Singular,Plural,Paired Accuracy,Paired Consistency,mask_type,data_dir
-0,1,4.5,6.5,2.9000000000000004,94.89999999999999,lsp_sap,data/hypernymsuite/ALL/SWOWStrength/consistency_rw/
-1,10,22.6,25.1,17.1,86.5,lsp_sap,data/hypernymsuite/ALL/SWOWStrength/consistency_rw/

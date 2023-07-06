@@ -1,3 +1,0 @@
-,P@K,Singular,Plural,Paired Accuracy,Paired Consistency,mask_type,data_dir
-0,1,25.900000000000002,0.0,0.0,74.1,def_sap,data/lm_diagnostic_extended/singular/consistency/
-1,10,54.2,0.0,0.0,45.800000000000004,def_sap,data/lm_diagnostic_extended/singular/consistency/

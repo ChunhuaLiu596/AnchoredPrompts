@@ -1,8 +1,0 @@
-	mask_type	p@1	p@5	p@10	relation	mrr	label
-0	subj_anchors_wordnet_sg	39.800000000000004	61.9	61.9	IsA	48.3	sub_sister
-1	subj_anchors_wordnet_all	39.800000000000004	61.9	67.5	IsA	49.1	sub_sister
-0	sentence	34.0	60.099999999999994	69.5	IsA	45.800000000000004	obj_label
-1	def_sap	27.400000000000002	56.8	67.5	IsA	39.800000000000004	obj_label
-2	lsp_sap	26.1	52.5	63.9	IsA	37.5	obj_label
-3	def_dap	29.599999999999998	58.699999999999996	70.1	IsA	42.4	obj_label
-4	lsp_dap	27.700000000000003	56.699999999999996	67.5	IsA	40.1	obj_label

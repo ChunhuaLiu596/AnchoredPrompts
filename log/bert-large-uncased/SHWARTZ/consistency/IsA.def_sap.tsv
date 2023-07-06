@@ -1,3 +1,0 @@
-,P@K,Singular,Plural,Paired Accuracy,Paired Consistency,mask_type,data_dir
-0,1,5.7,0.1,0.0,94.3,def_sap,data/hypernymsuite/SHWARTZ/consistency/
-1,10,18.0,0.5,0.4,82.39999999999999,def_sap,data/hypernymsuite/SHWARTZ/consistency/

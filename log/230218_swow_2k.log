@@ -1,573 +1,0 @@
-debug: False
----------------------------------------- config ----------------------------------------
-{'debug': False, 'test_relations': ['IsA'], 'save_all_data': True, 'top_k': 10, 'data_dir': 'data/hypernymsuite/ALL/swow_rw/', 'mask_string_mapping': {'bert-large-uncased': '[MASK]'}, 'use_dap_global': True, 'return_probs': True, 'anchor_scorer_list': ['probAvg'], 'scorer_target_1_prompt': 'probSum', 'scorer_target_N_prompts': 'freqProbLogSum', 'use_original_prompt': True, 'original_prompt_source': 'masked_sentence', 'incorporate_operations': ['concate_or_single'], 'filter_anchors_flag': True, 'filter_objects_flag': True, 'cpt_only': False, 'anchor_types': ['Coordinate_remove_Y_PUNC_FULL'], 'add_cpt_score': False, 'constrain_targets': False, 'add_wordnet_path_score': False, 'anchor_probe': 'plural_probe', 'anchor_col_prefix': 'subj_anchors', 'anchor_col': 'subj_anchors_swow', 'anchor_col_sg': 'subj_anchors_swow_sg', 'anchor_col_pl': 'subj_anchors_swow_pl', 'anchor_col_all': 'anchor_col_all', 'filter_objects_with_input': True, 'sub_col': 'sub_label', 'sub_col_sg': 'sub_label_sg', 'sub_col_pl': 'sub_label_pl', 'top_k_anchors': 5, 'max_anchor_num_list': [10], 'max_anchor_num': 10, 'sub_col_sgpl': 'sub_label_sgpl', 'filter_objects_with_anchors': False, 'oracle_anchor_inserted': False, 'use_oracle_anchor': False, 'anchor_source': 'LM', 'add_swow_score': False, 'swow_score_source': 'None', 'add_swow_filter': False}
----------------------------------------- config ----------------------------------------
-reading cohyponyms: pre_post_process/log/word_to_cohyponyms.txt
-Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.bias', 'cls.seq_relationship.weight']
-- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
-- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
-Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.bias', 'cls.seq_relationship.weight']
-- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
-- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
----------------------------------------- bert-large-uncased-anchor_type: Coordinate_remove_Y_PUNC_FULL-scorer_anchor:probAvg-op:concate_or_single ----------------------------------------
-{
-    "IsA": {
-        "relation": "IsA",
-        "def_sap": [
-            "[X] is a [MASK].",
-            "[X] is a type of [MASK].",
-            "[X] is a kind of [MASK]."
-        ],
-        "def_dap": [
-            "[X] or [Z] is a [MASK].",
-            "[X] or [Z] is a type of [MASK].",
-            "[X] or [Z] is a kind of [MASK]."
-        ],
-        "lsp_sap": [
-            "[MASK] such as [X].",
-            "[MASK], including [X].",
-            "[MASK], especially [X].",
-            "[X] or other [MASK].",
-            "[X] and other [MASK].",
-            "such [MASK] as [X]."
-        ],
-        "lsp_dap": [
-            "[MASK] such as [X] and [Z].",
-            "[MASK], including [X] and [Z].",
-            "[MASK], especially [X] and [Z].",
-            "[X], [Z] and other [MASK].",
-            "[X], [Z] or other [MASK].",
-            "such [MASK] as [X] and [Z]."
-        ],
-        "use_dap": true,
-        "anchor_target": "[X]",
-        "anchor_lsp_sap": [
-            "such as [X] and [MASK].",
-            "such as [X] or [MASK].",
-            "such as [X], [MASK],",
-            "including [X] and [MASK].",
-            "including [X] or [MASK].",
-            "including [X], [MASK],",
-            "especially [X] and [MASK].",
-            "especially [X] or [MASK].",
-            "especially [X], [MASK],",
-            "[X], [MASK] or other",
-            "[X], [MASK] and other"
-        ]
-    }
-}
-Processing IsA ... data/hypernymsuite/ALL/swow_rw//IsA.jsonl
-#All Instances: 2094
-#Valid Instances: 2094 in HYPERNYMSUITE (hyper in BERT)
-	 step1: get anchors (fill and filter)
-/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
-  warnings.warn(
---- def_sap
---- lsp_sap
-/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
-  warnings.warn(
-relation: IsA 	 use_dap: True
-	 step2: insert anchors
-sub_col sub_label
-                                                def_dap                          subj_anchors_sg
-0     [a catfish or [Z] is a [MASK]., a catfish or [...   [bass, carp, shrimp, perch, alligator]
-1     [a lemon or [Z] is a [MASK]., a lemon or [Z] i...       [lime, orange, apple, yes, cherry]
-2     [a turtle or [Z] is a [MASK]., a turtle or [Z]...        [snake, bird, fish, lizard, frog]
-3     [a bag or [Z] is a [MASK]., a bag or [Z] is a ...        [box, yes, shoe, case, obviously]
-4     [a rabbit or [Z] is a [MASK]., a rabbit or [Z]...    [fox, deer, squirrels, mouse, rodent]
-...                                                 ...                                      ...
-2089  [a world or [Z] is a [MASK]., a world or [Z] i...   [human, dimension, people, maybe, yes]
-2090  [a world or [Z] is a [MASK]., a world or [Z] i...   [human, dimension, people, maybe, yes]
-2091  [a world or [Z] is a [MASK]., a world or [Z] i...   [human, dimension, people, maybe, yes]
-2092  [a writer or [Z] is a [MASK]., a writer or [Z]...  [artist, poet, editor, actor, musician]
-2093  [a yard or [Z] is a [MASK]., a yard or [Z] is ...      [house, shed, barn, garden, street]
-
-[2094 rows x 2 columns]
-                                                lsp_dap                               subj_anchors_pl
-0     [[MASK] such as catfish and [Z]., [MASK], incl...  [basses, carp, shrimps, perches, alligators]
-1     [[MASK] such as lemon and [Z]., [MASK], includ...        [limes, orange, apples, yes, cherries]
-2     [[MASK] such as turtles and [Z]., [MASK], incl...       [snakes, birds, fishes, lizards, frogs]
-3     [[MASK] such as bags and [Z]., [MASK], includi...         [boxes, yes, shoes, cases, obviously]
-4     [[MASK] such as rabbits and [Z]., [MASK], incl...       [foxes, deer, squirrels, mice, rodents]
-...                                                 ...                                           ...
-2089  [[MASK] such as worlds and [Z]., [MASK], inclu...       [human, dimensions, people, maybe, yes]
-2090  [[MASK] such as worlds and [Z]., [MASK], inclu...       [human, dimensions, people, maybe, yes]
-2091  [[MASK] such as worlds and [Z]., [MASK], inclu...       [human, dimensions, people, maybe, yes]
-2092  [[MASK] such as writers and [Z]., [MASK], incl...  [artists, poets, editors, actors, musicians]
-2093  [[MASK] such as yard and [Z]., [MASK], includi...        [houses, shed, barn, gardens, streets]
-
-[2094 rows x 2 columns]
-	 step3: fill mask in dap anchors
-  0%|          | 0/2094 [00:00<?, ?it/s]/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
-  warnings.warn(
- 14%|█▎        | 285/2094 [01:00<06:20,  4.75it/s] 14%|█▎        | 285/2094 [01:20<06:20,  4.75it/s] 27%|██▋       | 570/2094 [02:00<05:21,  4.74it/s] 27%|██▋       | 570/2094 [02:20<05:21,  4.74it/s] 41%|████      | 855/2094 [03:00<04:21,  4.74it/s] 41%|████      | 855/2094 [03:20<04:21,  4.74it/s] 54%|█████▍    | 1140/2094 [04:00<03:21,  4.74it/s] 54%|█████▍    | 1140/2094 [04:20<03:21,  4.74it/s] 68%|██████▊   | 1425/2094 [05:00<02:21,  4.74it/s] 68%|██████▊   | 1425/2094 [05:20<02:21,  4.74it/s] 82%|████████▏ | 1710/2094 [06:00<01:20,  4.74it/s] 82%|████████▏ | 1710/2094 [06:20<01:20,  4.74it/s] 95%|█████████▌| 1995/2094 [07:00<00:20,  4.74it/s] 95%|█████████▌| 1995/2094 [07:20<00:20,  4.74it/s]100%|██████████| 2094/2094 [07:21<00:00,  4.74it/s]
-  0%|          | 0/2094 [00:00<?, ?it/s]  7%|▋         | 144/2094 [01:00<13:33,  2.40it/s]  7%|▋         | 144/2094 [01:18<13:33,  2.40it/s] 14%|█▍        | 288/2094 [02:00<12:33,  2.40it/s] 14%|█▍        | 288/2094 [02:18<12:33,  2.40it/s] 21%|██        | 432/2094 [03:00<11:33,  2.40it/s] 21%|██        | 432/2094 [03:18<11:33,  2.40it/s] 28%|██▊       | 576/2094 [04:00<10:33,  2.40it/s] 28%|██▊       | 576/2094 [04:18<10:33,  2.40it/s] 34%|███▍      | 720/2094 [05:00<09:33,  2.39it/s] 34%|███▍      | 720/2094 [05:18<09:33,  2.39it/s] 41%|████      | 863/2094 [06:00<08:35,  2.39it/s] 41%|████      | 863/2094 [06:18<08:35,  2.39it/s] 48%|████▊     | 1007/2094 [07:01<07:35,  2.39it/s] 48%|████▊     | 1007/2094 [07:18<07:35,  2.39it/s] 55%|█████▍    | 1151/2094 [08:01<06:34,  2.39it/s] 55%|█████▍    | 1151/2094 [08:18<06:34,  2.39it/s] 62%|██████▏   | 1295/2094 [09:01<05:34,  2.39it/s] 62%|██████▏   | 1295/2094 [09:18<05:34,  2.39it/s] 69%|██████▊   | 1439/2094 [10:01<04:33,  2.39it/s] 69%|██████▊   | 1439/2094 [10:18<04:33,  2.39it/s] 75%|███████▌  | 1577/2094 [11:01<03:38,  2.36it/s] 75%|███████▌  | 1577/2094 [11:18<03:38,  2.36it/s] 82%|████████▏ | 1721/2094 [12:01<02:37,  2.37it/s] 82%|████████▏ | 1721/2094 [12:18<02:37,  2.37it/s] 89%|████████▉ | 1864/2094 [13:01<01:36,  2.38it/s] 89%|████████▉ | 1864/2094 [13:18<01:36,  2.38it/s] 96%|█████████▌| 2009/2094 [14:02<00:35,  2.38it/s] 96%|█████████▌| 2009/2094 [14:18<00:35,  2.38it/s]100%|██████████| 2094/2094 [14:37<00:00,  2.39it/s]
-  sub_label   obj_label relation  obj_in_BERT         masked_sentences  uuid  sub_position sub_label_sg sub_label_pl                                            def_sap                                            def_dap                                            lsp_sap                                            lsp_dap                                     anchor_lsp_sap           sub_label_sgpl                                  obj_mask_sentence                            obj_mask_sentence_score                                   obj_mask_def_sap                             obj_mask_def_sap_score                                   obj_mask_lsp_sap                             obj_mask_lsp_sap_score                                       subj_anchors                                 subj_anchors_score                         subj_anchors_sg                               subj_anchors_pl                                   subj_anchors_all    subj_anchors_combined  \
-0   catfish      [fish]      IsA            1  [A catfish is a [MASK]]     1             2      catfish      catfish  [a catfish is a [MASK]., a catfish is a type o...  [a catfish or [Z] is a [MASK]., a catfish or [...  [[MASK] such as catfish., [MASK], including ca...  [[MASK] such as catfish and [Z]., [MASK], incl...  [such as catfish and [MASK]., such as catfish ...  catfish catfish catfish  [fish, boat, river, genus, gastropod, lizard, ...  {'fish': -17.492517940945792, 'boat': -19.0523...  [fish, shrimp, mollusk, swimmer, salmon, bird,...  {'fish': -4.442973047064299, 'shrimp': -12.345...  [fish, species, animal, seafood, reptile, inve...  {'fish': -4.942579534624883, 'species': -9.299...  [bass, carp, shrimp, perch, alligator, trout, ...  {'bass': 0.39879070899703284, 'carp': 0.181602...  [bass, carp, shrimp, perch, alligator]  [basses, carp, shrimps, perches, alligators]  [bass, carp, shrimp, perch, alligator, trout, ...  catfish catfish catfish   
-1     lemon   [produce]      IsA            1    [A lemon is a [MASK]]     2             2        lemon        lemon  [a lemon is a [MASK]., a lemon is a type of [M...  [a lemon or [Z] is a [MASK]., a lemon or [Z] i...  [[MASK] such as lemon., [MASK], including lemo...  [[MASK] such as lemon and [Z]., [MASK], includ...  [such as lemon and [MASK]., such as lemon or [...        lemon lemon lemon  [fruit, tree, person, bottle, key, seed, twist...  {'fruit': -15.145185477808239, 'tree': -15.459...  [fruit, drink, lime, candy, apple, orange, ber...  {'fruit': -7.934486012665629, 'drink': -10.454...  [fruit, citrus, apple, thing, orange, lime, wa...  {'fruit': -7.175187479938773, 'fruits': -7.897...  [lime, orange, apple, yes, cherry, water, pepp...  {'lime': 0.5027932287617163, 'orange': 0.15136...      [lime, orange, apple, yes, cherry]        [limes, orange, apples, yes, cherries]  [lime, orange, apple, yes, cherry, water, pepp...        lemon lemon lemon   
-2   turtles     [beast]      IsA            1   [A turtle is a [MASK]]     3             2       turtle      turtles  [a turtle is a [MASK]., a turtle is a type of ...  [a turtle or [Z] is a [MASK]., a turtle or [Z]...  [[MASK] such as turtles., [MASK], including tu...  [[MASK] such as turtles and [Z]., [MASK], incl...  [such as turtles and [MASK]., such as turtles ...   turtles turtle turtles   [lizard, person, shell, boat, human, fish, tree]  {'lizard': -16.036533980021577, 'person': -16....  [bird, animal, fish, mammal, creature, lizard,...  {'bird': -6.983079495727402, 'animal': -7.2181...  [reptile, animal, bird, creature, wildlife, in...  {'reptiles': -6.12624919356388, 'animals': -6....  [snakes, birds, fish, lizards, frogs, dragons,...  {'snakes': 0.3146660774946213, 'birds': 0.1580...       [snake, bird, fish, lizard, frog]       [snakes, birds, fishes, lizards, frogs]  [snake, bird, fish, lizard, frog, dragon, shar...   turtles turtle turtles   
-3      bags   [luggage]      IsA            1      [A bag is a [MASK]]     4             2          bag         bags  [a bag is a [MASK]., a bag is a type of [MASK]...  [a bag or [Z] is a [MASK]., a bag or [Z] is a ...  [[MASK] such as bags., [MASK], including bags....  [[MASK] such as bags and [Z]., [MASK], includi...  [such as bags and [MASK]., such as bags or [MA...            bags bag bags  [person, box, pouch, pack, container, suitcase...  {'person': -15.800401335816666, 'box': -16.478...  [container, luggage, backpack, suitcase, sack,...  {'container': -8.861242617076943, 'luggage': -...  [thing, item, object, luggage, belongings, acc...  {'things': -7.206912668513597, 'items': -8.137...  [boxes, yes, shoes, cases, obviously, yeah, cl...  {'boxes': 0.1638453546911478, 'yes': 0.0626923...       [box, yes, shoe, case, obviously]         [boxes, yes, shoes, cases, obviously]  [box, yes, shoe, case, obviously, yeah, clothe...            bags bag bags   
-4   rabbits  [creature]      IsA            1   [A rabbit is a [MASK]]     5             2       rabbit      rabbits  [a rabbit is a [MASK]., a rabbit is a type of ...  [a rabbit or [Z] is a [MASK]., a rabbit or [Z]...  [[MASK] such as rabbits., [MASK], including ra...  [[MASK] such as rabbits and [Z]., [MASK], incl...  [such as rabbits and [MASK]., such as rabbits ...   rabbits rabbit rabbits  [person, horse, human, dog, man, child, pig, k...  {'person': -15.755672171378398, 'horse': -15.9...  [animal, mammal, dog, bird, cat, fox, pig, har...  {'animal': -6.5751558948461675, 'mammal': -8.9...  [animal, rodent, mammal, wildlife, livestock, ...  {'animals': -5.903334231711103, 'rodents': -7....  [foxes, deer, squirrels, mice, rodents, rats, ...  {'foxes': 0.21225315535610373, 'deer': 0.16438...   [fox, deer, squirrels, mouse, rodent]       [foxes, deer, squirrels, mice, rodents]  [fox, deer, squirrels, mouse, rodent, rat, dog...   rabbits rabbit rabbits   
-
-                            def_dap_with_subj_anchor                           lsp_dap_with_subj_anchor                                   obj_mask_def_dap                             obj_mask_def_dap_score                                   obj_mask_lsp_dap                             obj_mask_lsp_dap_score  
-0  [a catfish or a bass is a [MASK]., a catfish o...  [[MASK] such as catfish and basses., [MASK] su...  [fish, species, turtle, shrimp, crocodile, pre...  {'fish': -4.49076650378941, 'species': -12.787...  [fish, species, animal, seafood, invertebrates...  {'fish': -5.132430900941943, 'species': -9.238...  
-1  [a lemon or a lime is a [MASK]., a lemon or an...  [[MASK] such as lemon and limes., [MASK] such ...  [fruit, drink, apple, lime, candy, yes, berry,...  {'fruit': -6.215222270411444, 'drink': -9.5472...  [fruit, thing, citrus, lime, yes, apple, flavo...  {'fruits': -6.38605876173733, 'fruit': -6.9349...  
-2  [a turtle or a snake is a [MASK]., a turtle or...  [[MASK] such as turtles and snakes., [MASK] su...  [animal, bird, fish, mammal, creature, lizard,...  {'animal': -7.5255446660385035, 'bird': -7.676...  [reptile, animal, wildlife, invertebrates, bir...  {'reptiles': -6.164623090730166, 'animals': -6...  
-3  [a bag or a box is a [MASK]., a bag or a yes i...  [[MASK] such as bags and boxes., [MASK] such a...  [container, luggage, backpack, suitcase, yes, ...  {'container': -7.19792714910603, 'luggage': -8...  [thing, item, stuff, luggage, object, yes, goo...  {'things': -7.003505253732369, 'items': -8.343...  
-4  [a rabbit or a fox is a [MASK]., a rabbit or a...  [[MASK] such as rabbits and foxes., [MASK] suc...  [mammal, animal, dog, mouse, creature, bird, c...  {'mammal': -6.555871063773531, 'animal': -6.69...  [animal, rodent, mammal, wildlife, livestock, ...  {'animals': -5.978859688699233, 'rodents': -7....  
----------------------------------------- anchor evaluation ----------------------------------------
-begin{tabular}{rlrrrrrr}
-hline
-    	 mask_type        	   p@1 	   p@5 	   p@10 	   mrr 	   anchor_wordnet_avg_path 	   anchor_wordnet_coverage 
-hline
-  0 	 subj_anchors_sg  	  44.6 	    64 	   64   	  52   	                      6.83 	                     0.889 
-  1 	 subj_anchors_all 	  44.6 	    64 	   68.9 	  52.7 	                      6.83 	                     0.889 
-hline
-end{tabular}
----------------------------------------- obj_label evaluation ----------------------------------------
-begin{tabular}{rlrrrrrrr}
-hline
-    	 mask_type   	   p@1 	   p@5 	   p@10 	   mrr 	   anchor_wordnet_avg_path 	   anchor_wordnet_coverage 	   mask_type_id 
-hline
-  1 	 def_sap     	  13.3 	  36.7 	   46.8 	  23.2 	                      6.83 	                     0.889 	              1 
-  2 	 lsp_sap     	  12.3 	  33.1 	   44.4 	  21.2 	                      6.83 	                     0.889 	              3 
-  3 	 def_dap     	  14.8 	  37.6 	   49.1 	  24.5 	                      6.83 	                     0.889 	              2 
-  4 	 lsp_dap     	  13.1 	  33.6 	   44.9 	  22.1 	                      6.83 	                     0.889 	              4 
-hline
-end{tabular}
-save log/bert-large-uncased/ALL/swow_rw/df_all_use_global_dap_True_max_anchor_num_5_anchor_scorer_probAvg_filter_obj_True_filter_objects_with_input_True_wnp_False_cpt_False_anchor_source_LM_swow_score_source_None.HYPERNYMSUITE.tsv
-save log/bert-large-uncased/ALL/swow_rw/exp_data_results_max_anchor_num_5_anchor_scorer_probAvg_filter_obj_True_filter_objects_with_input_True_wnp_False_cpt_False_anchor_source_LM_swow_score_source_None.HYPERNYMSUITE.csv
-debug: False
----------------------------------------- config ----------------------------------------
-{'debug': False, 'test_relations': ['IsA'], 'save_all_data': True, 'top_k': 10, 'data_dir': 'data/hypernymsuite/ALL/swow_rw/', 'mask_string_mapping': {'bert-large-uncased': '[MASK]'}, 'use_dap_global': True, 'return_probs': True, 'anchor_scorer_list': ['probAvg'], 'scorer_target_1_prompt': 'probSum', 'scorer_target_N_prompts': 'freqProbLogSum', 'use_original_prompt': True, 'original_prompt_source': 'masked_sentence', 'incorporate_operations': ['concate_or_single'], 'filter_anchors_flag': True, 'filter_objects_flag': True, 'cpt_only': False, 'anchor_types': ['Coordinate_remove_Y_PUNC_FULL'], 'add_cpt_score': False, 'constrain_targets': False, 'add_wordnet_path_score': False, 'anchor_probe': 'plural_probe', 'anchor_col_prefix': 'subj_anchors', 'anchor_col': 'subj_anchors_swow', 'anchor_col_sg': 'subj_anchors_swow_sg', 'anchor_col_pl': 'subj_anchors_swow_pl', 'anchor_col_all': 'anchor_col_all', 'filter_objects_with_input': True, 'sub_col': 'sub_label', 'sub_col_sg': 'sub_label_sg', 'sub_col_pl': 'sub_label_pl', 'top_k_anchors': 5, 'max_anchor_num_list': [10], 'max_anchor_num': 10, 'sub_col_sgpl': 'sub_label_sgpl', 'filter_objects_with_anchors': False, 'oracle_anchor_inserted': False, 'use_oracle_anchor': False, 'anchor_source': 'LM', 'add_swow_score': False, 'swow_score_source': 'ShareSWOWStrength', 'add_swow_filter': True}
----------------------------------------- config ----------------------------------------
-reading cohyponyms: pre_post_process/log/word_to_cohyponyms.txt
-Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
-- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
-- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
-Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
-- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
-- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
----------------------------------------- bert-large-uncased-anchor_type: Coordinate_remove_Y_PUNC_FULL-scorer_anchor:probAvg-op:concate_or_single ----------------------------------------
-{
-    "IsA": {
-        "relation": "IsA",
-        "def_sap": [
-            "[X] is a [MASK].",
-            "[X] is a type of [MASK].",
-            "[X] is a kind of [MASK]."
-        ],
-        "def_dap": [
-            "[X] or [Z] is a [MASK].",
-            "[X] or [Z] is a type of [MASK].",
-            "[X] or [Z] is a kind of [MASK]."
-        ],
-        "lsp_sap": [
-            "[MASK] such as [X].",
-            "[MASK], including [X].",
-            "[MASK], especially [X].",
-            "[X] or other [MASK].",
-            "[X] and other [MASK].",
-            "such [MASK] as [X]."
-        ],
-        "lsp_dap": [
-            "[MASK] such as [X] and [Z].",
-            "[MASK], including [X] and [Z].",
-            "[MASK], especially [X] and [Z].",
-            "[X], [Z] and other [MASK].",
-            "[X], [Z] or other [MASK].",
-            "such [MASK] as [X] and [Z]."
-        ],
-        "use_dap": true,
-        "anchor_target": "[X]",
-        "anchor_lsp_sap": [
-            "such as [X] and [MASK].",
-            "such as [X] or [MASK].",
-            "such as [X], [MASK],",
-            "including [X] and [MASK].",
-            "including [X] or [MASK].",
-            "including [X], [MASK],",
-            "especially [X] and [MASK].",
-            "especially [X] or [MASK].",
-            "especially [X], [MASK],",
-            "[X], [MASK] or other",
-            "[X], [MASK] and other"
-        ]
-    }
-}
-Processing IsA ... data/hypernymsuite/ALL/swow_rw//IsA.jsonl
-#All Instances: 2094
-#Valid Instances: 2094 in HYPERNYMSUITE (hyper in BERT)
-	 step1: get anchors (fill and filter)
-/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
-  warnings.warn(
---- def_sap
---- lsp_sap
-/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
-  warnings.warn(
-relation: IsA 	 use_dap: True
-	 step2: insert anchors
-sub_col sub_label
-                                                def_dap                         subj_anchors_sg
-0     [a catfish or [Z] is a [MASK]., a catfish or [...  [bass, carp, shrimp, perch, alligator]
-1     [a lemon or [Z] is a [MASK]., a lemon or [Z] i...                        [orange, yellow]
-2     [a turtle or [Z] is a [MASK]., a turtle or [Z]...       [snake, bird, fish, lizard, frog]
-3     [a bag or [Z] is a [MASK]., a bag or [Z] is a ...                            [shoe, case]
-4     [a rabbit or [Z] is a [MASK]., a rabbit or [Z]...   [fox, deer, squirrels, mouse, rodent]
-...                                                 ...                                     ...
-2089  [a world or [Z] is a [MASK]., a world or [Z] i...                      [universe, people]
-2090  [a world or [Z] is a [MASK]., a world or [Z] i...                      [universe, people]
-2091  [a world or [Z] is a [MASK]., a world or [Z] i...                      [universe, people]
-2092  [a writer or [Z] is a [MASK]., a writer or [Z]...      [poet, journalist, artist, author]
-2093  [a yard or [Z] is a [MASK]., a yard or [Z] is ...                                  [barn]
-
-[2094 rows x 2 columns]
-                                                lsp_dap                               subj_anchors_pl
-0     [[MASK] such as catfish and [Z]., [MASK], incl...  [basses, carp, shrimps, perches, alligators]
-1     [[MASK] such as lemon and [Z]., [MASK], includ...                              [orange, yellow]
-2     [[MASK] such as turtles and [Z]., [MASK], incl...       [snakes, birds, fishes, lizards, frogs]
-3     [[MASK] such as bags and [Z]., [MASK], includi...                                [shoes, cases]
-4     [[MASK] such as rabbits and [Z]., [MASK], incl...       [foxes, deer, squirrels, mice, rodents]
-...                                                 ...                                           ...
-2089  [[MASK] such as worlds and [Z]., [MASK], inclu...                            [universe, people]
-2090  [[MASK] such as worlds and [Z]., [MASK], inclu...                            [universe, people]
-2091  [[MASK] such as worlds and [Z]., [MASK], inclu...                            [universe, people]
-2092  [[MASK] such as writers and [Z]., [MASK], incl...        [poets, journalists, artists, authors]
-2093  [[MASK] such as yard and [Z]., [MASK], includi...                                        [barn]
-
-[2094 rows x 2 columns]
-	 step3: fill mask in dap anchors
-  0%|          | 0/2094 [00:00<?, ?it/s]/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
-  warnings.warn(
- 23%|██▎       | 487/2094 [01:00<03:18,  8.10it/s] 23%|██▎       | 487/2094 [01:20<03:18,  8.10it/s] 45%|████▍     | 937/2094 [02:00<02:29,  7.73it/s] 45%|████▍     | 937/2094 [02:20<02:29,  7.73it/s] 65%|██████▌   | 1368/2094 [03:00<01:37,  7.47it/s] 65%|██████▌   | 1368/2094 [03:20<01:37,  7.47it/s] 88%|████████▊ | 1840/2094 [04:00<00:33,  7.63it/s] 88%|████████▊ | 1840/2094 [04:20<00:33,  7.63it/s]100%|██████████| 2094/2094 [04:29<00:00,  7.78it/s]
-  0%|          | 0/2094 [00:00<?, ?it/s] 12%|█▏        | 244/2094 [01:00<07:35,  4.06it/s] 12%|█▏        | 244/2094 [01:10<07:35,  4.06it/s] 23%|██▎       | 489/2094 [02:00<06:34,  4.07it/s] 23%|██▎       | 489/2094 [02:10<06:34,  4.07it/s] 35%|███▍      | 723/2094 [03:00<05:43,  3.99it/s] 35%|███▍      | 723/2094 [03:10<05:43,  3.99it/s] 45%|████▍     | 942/2094 [04:00<04:59,  3.85it/s] 45%|████▍     | 942/2094 [04:10<04:59,  3.85it/s] 54%|█████▍    | 1128/2094 [05:00<04:29,  3.58it/s] 54%|█████▍    | 1128/2094 [05:10<04:29,  3.58it/s] 62%|██████▏   | 1305/2094 [06:00<03:54,  3.36it/s] 62%|██████▏   | 1305/2094 [06:11<03:54,  3.36it/s] 71%|███████   | 1486/2094 [07:00<03:07,  3.25it/s] 71%|███████   | 1486/2094 [07:11<03:07,  3.25it/s] 81%|████████  | 1694/2094 [08:01<02:00,  3.31it/s] 81%|████████  | 1694/2094 [08:21<02:00,  3.31it/s] 90%|█████████ | 1886/2094 [09:01<01:03,  3.27it/s] 90%|█████████ | 1886/2094 [09:21<01:03,  3.27it/s]100%|██████████| 2094/2094 [09:59<00:00,  3.50it/s]
-  sub_label   obj_label relation  obj_in_BERT         masked_sentences  uuid  sub_position sub_label_sg sub_label_pl                                            def_sap                                            def_dap                                            lsp_sap                                            lsp_dap                                     anchor_lsp_sap           sub_label_sgpl                                  obj_mask_sentence                            obj_mask_sentence_score                                   obj_mask_def_sap                             obj_mask_def_sap_score                                   obj_mask_lsp_sap                             obj_mask_lsp_sap_score                                       subj_anchors                                 subj_anchors_score                         subj_anchors_sg                               subj_anchors_pl                                   subj_anchors_all    subj_anchors_combined  \
-0   catfish      [fish]      IsA            1  [A catfish is a [MASK]]     1             2      catfish      catfish  [a catfish is a [MASK]., a catfish is a type o...  [a catfish or [Z] is a [MASK]., a catfish or [...  [[MASK] such as catfish., [MASK], including ca...  [[MASK] such as catfish and [Z]., [MASK], incl...  [such as catfish and [MASK]., such as catfish ...  catfish catfish catfish  [fish, boat, river, genus, gastropod, lizard, ...  {'fish': -17.492517940945792, 'boat': -19.0523...  [fish, shrimp, mollusk, swimmer, salmon, bird,...  {'fish': -4.442973047064299, 'shrimp': -12.345...  [fish, species, animal, seafood, reptile, inve...  {'fish': -4.942579534624883, 'species': -9.299...  [bass, carp, shrimp, perch, alligator, trout, ...  {'bass': 0.39879070899703284, 'carp': 0.181602...  [bass, carp, shrimp, perch, alligator]  [basses, carp, shrimps, perches, alligators]  [bass, carp, shrimp, perch, alligator, trout, ...  catfish catfish catfish   
-1     lemon   [produce]      IsA            1    [A lemon is a [MASK]]     2             2        lemon        lemon  [a lemon is a [MASK]., a lemon is a type of [M...  [a lemon or [Z] is a [MASK]., a lemon or [Z] i...  [[MASK] such as lemon., [MASK], including lemo...  [[MASK] such as lemon and [Z]., [MASK], includ...  [such as lemon and [MASK]., such as lemon or [...        lemon lemon lemon  [fruit, tree, person, bottle, key, seed, twist...  {'fruit': -15.145185477808239, 'tree': -15.459...  [fruit, drink, lime, candy, apple, orange, ber...  {'fruit': -7.934486012665629, 'drink': -10.454...  [fruit, citrus, apple, thing, orange, lime, wa...  {'fruit': -7.175187479938773, 'fruits': -7.897...                                   [orange, yellow]  {'lime': 0.5027932287617163, 'orange': 0.15136...                        [orange, yellow]                              [orange, yellow]                                   [orange, yellow]        lemon lemon lemon   
-2   turtles     [beast]      IsA            1   [A turtle is a [MASK]]     3             2       turtle      turtles  [a turtle is a [MASK]., a turtle is a type of ...  [a turtle or [Z] is a [MASK]., a turtle or [Z]...  [[MASK] such as turtles., [MASK], including tu...  [[MASK] such as turtles and [Z]., [MASK], incl...  [such as turtles and [MASK]., such as turtles ...   turtles turtle turtles   [lizard, person, shell, boat, human, fish, tree]  {'lizard': -16.036533980021577, 'person': -16....  [bird, animal, fish, mammal, creature, lizard,...  {'bird': -6.983079495727402, 'animal': -7.2181...  [reptile, animal, bird, creature, wildlife, in...  {'reptiles': -6.12624919356388, 'animals': -6....  [snakes, birds, fish, lizards, frogs, dragons,...  {'snakes': 0.3146660774946213, 'birds': 0.1580...       [snake, bird, fish, lizard, frog]       [snakes, birds, fishes, lizards, frogs]  [snake, bird, fish, lizard, frog, dragon, shar...   turtles turtle turtles   
-3      bags   [luggage]      IsA            1      [A bag is a [MASK]]     4             2          bag         bags  [a bag is a [MASK]., a bag is a type of [MASK]...  [a bag or [Z] is a [MASK]., a bag or [Z] is a ...  [[MASK] such as bags., [MASK], including bags....  [[MASK] such as bags and [Z]., [MASK], includi...  [such as bags and [MASK]., such as bags or [MA...            bags bag bags  [person, box, pouch, pack, container, suitcase...  {'person': -15.800401335816666, 'box': -16.478...  [container, luggage, backpack, suitcase, sack,...  {'container': -8.861242617076943, 'luggage': -...  [thing, item, object, luggage, belongings, acc...  {'things': -7.206912668513597, 'items': -8.137...                                     [shoes, cases]  {'boxes': 0.1638453546911478, 'yes': 0.0626923...                            [shoe, case]                                [shoes, cases]                                       [shoe, case]            bags bag bags   
-4   rabbits  [creature]      IsA            1   [A rabbit is a [MASK]]     5             2       rabbit      rabbits  [a rabbit is a [MASK]., a rabbit is a type of ...  [a rabbit or [Z] is a [MASK]., a rabbit or [Z]...  [[MASK] such as rabbits., [MASK], including ra...  [[MASK] such as rabbits and [Z]., [MASK], incl...  [such as rabbits and [MASK]., such as rabbits ...   rabbits rabbit rabbits  [person, horse, human, dog, man, child, pig, k...  {'person': -15.755672171378398, 'horse': -15.9...  [animal, mammal, dog, bird, cat, fox, pig, har...  {'animal': -6.5751558948461675, 'mammal': -8.9...  [animal, rodent, mammal, wildlife, livestock, ...  {'animals': -5.903334231711103, 'rodents': -7....  [foxes, deer, squirrels, mice, rodents, rats, ...  {'foxes': 0.21225315535610373, 'deer': 0.16438...   [fox, deer, squirrels, mouse, rodent]       [foxes, deer, squirrels, mice, rodents]  [fox, deer, squirrels, mouse, rodent, rat, dog...   rabbits rabbit rabbits   
-
-                            def_dap_with_subj_anchor                           lsp_dap_with_subj_anchor                                   obj_mask_def_dap                             obj_mask_def_dap_score                                   obj_mask_lsp_dap                             obj_mask_lsp_dap_score  
-0  [a catfish or a bass is a [MASK]., a catfish o...  [[MASK] such as catfish and basses., [MASK] su...  [fish, species, turtle, shrimp, crocodile, pre...  {'fish': -4.49076650378941, 'species': -12.787...  [fish, species, animal, seafood, invertebrates...  {'fish': -5.132430900941943, 'species': -9.238...  
-1  [a lemon or an orange is a [MASK]., a lemon or...  [[MASK] such as lemon and orange., [MASK] such...  [fruit, orange, apple, drink, vegetable, flowe...  {'fruit': -6.5065366113085785, 'orange': -9.51...  [color, fruit, colour, citrus, orange, thing, ...  {'colors': -7.510048377139142, 'fruits': -8.33...  
-2  [a turtle or a snake is a [MASK]., a turtle or...  [[MASK] such as turtles and snakes., [MASK] su...  [animal, bird, fish, mammal, creature, lizard,...  {'animal': -7.5255446660385035, 'bird': -7.676...  [reptile, animal, wildlife, invertebrates, bir...  {'reptiles': -6.164623090730166, 'animals': -6...  
-3  [a bag or a shoe is a [MASK]., a bag or a case...  [[MASK] such as bags and shoes., [MASK] such a...  [luggage, container, shoe, clothing, backpack,...  {'luggage': -7.433512193122445, 'container': -...  [item, thing, luggage, object, good, clothing,...  {'items': -7.71317658247203, 'things': -7.7782...  
-4  [a rabbit or a fox is a [MASK]., a rabbit or a...  [[MASK] such as rabbits and foxes., [MASK] suc...  [mammal, animal, dog, mouse, creature, bird, c...  {'mammal': -6.555871063773531, 'animal': -6.69...  [animal, rodent, mammal, wildlife, livestock, ...  {'animals': -5.978859688699233, 'rodents': -7....  
----------------------------------------- anchor evaluation ----------------------------------------
-begin{tabular}{rlrrrrrr}
-hline
-    	 mask_type        	   p@1 	   p@5 	   p@10 	   mrr 	   anchor_wordnet_avg_path 	   anchor_wordnet_coverage 
-hline
-  0 	 subj_anchors_sg  	  41.1 	  53.1 	   53.1 	  46   	                      6.87 	                     0.902 
-  1 	 subj_anchors_all 	  41.1 	  53.1 	   55.2 	  46.3 	                      6.87 	                     0.902 
-hline
-end{tabular}
----------------------------------------- obj_label evaluation ----------------------------------------
-begin{tabular}{rlrrrrrrr}
-hline
-    	 mask_type   	   p@1 	   p@5 	   p@10 	   mrr 	   anchor_wordnet_avg_path 	   anchor_wordnet_coverage 	   mask_type_id 
-hline
-  1 	 def_sap     	  13.3 	  36.7 	   46.8 	  23.2 	                      6.87 	                     0.902 	              1 
-  2 	 lsp_sap     	  12.3 	  33.1 	   44.4 	  21.2 	                      6.87 	                     0.902 	              3 
-  3 	 def_dap     	  14.1 	  37.2 	   49.8 	  24.3 	                      6.87 	                     0.902 	              2 
-  4 	 lsp_dap     	  12.9 	  33.9 	   45.2 	  22   	                      6.87 	                     0.902 	              4 
-hline
-end{tabular}
-save log/bert-large-uncased/ALL/swow_rw/df_all_use_global_dap_True_max_anchor_num_5_anchor_scorer_probAvg_filter_obj_True_filter_objects_with_input_True_wnp_False_cpt_False_anchor_source_LM_swow_score_source_ShareSWOWStrength.HYPERNYMSUITE.tsv
-save log/bert-large-uncased/ALL/swow_rw/exp_data_results_max_anchor_num_5_anchor_scorer_probAvg_filter_obj_True_filter_objects_with_input_True_wnp_False_cpt_False_anchor_source_LM_swow_score_source_ShareSWOWStrength.HYPERNYMSUITE.csv
-debug: False
----------------------------------------- config ----------------------------------------
-{'debug': False, 'test_relations': ['IsA'], 'save_all_data': True, 'top_k': 10, 'data_dir': 'data/hypernymsuite/ALL/swow_rw/', 'mask_string_mapping': {'bert-large-uncased': '[MASK]'}, 'use_dap_global': True, 'return_probs': True, 'anchor_scorer_list': ['probAvg'], 'scorer_target_1_prompt': 'probSum', 'scorer_target_N_prompts': 'freqProbLogSum', 'use_original_prompt': True, 'original_prompt_source': 'masked_sentence', 'incorporate_operations': ['concate_or_single'], 'filter_anchors_flag': True, 'filter_objects_flag': True, 'cpt_only': False, 'anchor_types': ['Coordinate_remove_Y_PUNC_FULL'], 'add_cpt_score': False, 'constrain_targets': False, 'add_wordnet_path_score': False, 'anchor_probe': 'plural_probe', 'anchor_col_prefix': 'subj_anchors', 'anchor_col': 'subj_anchors_swow', 'anchor_col_sg': 'subj_anchors_swow_sg', 'anchor_col_pl': 'subj_anchors_swow_pl', 'anchor_col_all': 'anchor_col_all', 'filter_objects_with_input': True, 'sub_col': 'sub_label', 'sub_col_sg': 'sub_label_sg', 'sub_col_pl': 'sub_label_pl', 'top_k_anchors': 5, 'max_anchor_num_list': [10], 'max_anchor_num': 10, 'sub_col_sgpl': 'sub_label_sgpl', 'filter_objects_with_anchors': False, 'oracle_anchor_inserted': False, 'use_oracle_anchor': False, 'anchor_source': 'LM', 'add_swow_score': False, 'swow_score_source': 'ShareSWOWSimilar', 'add_swow_filter': True}
----------------------------------------- config ----------------------------------------
-reading cohyponyms: pre_post_process/log/word_to_cohyponyms.txt
-Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.bias', 'cls.seq_relationship.weight']
-- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
-- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
-Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.bias', 'cls.seq_relationship.weight']
-- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
-- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
----------------------------------------- bert-large-uncased-anchor_type: Coordinate_remove_Y_PUNC_FULL-scorer_anchor:probAvg-op:concate_or_single ----------------------------------------
-{
-    "IsA": {
-        "relation": "IsA",
-        "def_sap": [
-            "[X] is a [MASK].",
-            "[X] is a type of [MASK].",
-            "[X] is a kind of [MASK]."
-        ],
-        "def_dap": [
-            "[X] or [Z] is a [MASK].",
-            "[X] or [Z] is a type of [MASK].",
-            "[X] or [Z] is a kind of [MASK]."
-        ],
-        "lsp_sap": [
-            "[MASK] such as [X].",
-            "[MASK], including [X].",
-            "[MASK], especially [X].",
-            "[X] or other [MASK].",
-            "[X] and other [MASK].",
-            "such [MASK] as [X]."
-        ],
-        "lsp_dap": [
-            "[MASK] such as [X] and [Z].",
-            "[MASK], including [X] and [Z].",
-            "[MASK], especially [X] and [Z].",
-            "[X], [Z] and other [MASK].",
-            "[X], [Z] or other [MASK].",
-            "such [MASK] as [X] and [Z]."
-        ],
-        "use_dap": true,
-        "anchor_target": "[X]",
-        "anchor_lsp_sap": [
-            "such as [X] and [MASK].",
-            "such as [X] or [MASK].",
-            "such as [X], [MASK],",
-            "including [X] and [MASK].",
-            "including [X] or [MASK].",
-            "including [X], [MASK],",
-            "especially [X] and [MASK].",
-            "especially [X] or [MASK].",
-            "especially [X], [MASK],",
-            "[X], [MASK] or other",
-            "[X], [MASK] and other"
-        ]
-    }
-}
-Processing IsA ... data/hypernymsuite/ALL/swow_rw//IsA.jsonl
-#All Instances: 2094
-#Valid Instances: 2094 in HYPERNYMSUITE (hyper in BERT)
-	 step1: get anchors (fill and filter)
-/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
-  warnings.warn(
---- def_sap
---- lsp_sap
-/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
-  warnings.warn(
-relation: IsA 	 use_dap: True
-	 step2: insert anchors
-sub_col sub_label
-                                                def_dap                         subj_anchors_sg
-0     [a catfish or [Z] is a [MASK]., a catfish or [...                                 [trout]
-1     [a lemon or [Z] is a [MASK]., a lemon or [Z] i...      [lime, orange, apple, yes, cherry]
-2     [a turtle or [Z] is a [MASK]., a turtle or [Z]...       [snake, bird, fish, lizard, frog]
-3     [a bag or [Z] is a [MASK]., a bag or [Z] is a ...       [box, yes, shoe, case, obviously]
-4     [a rabbit or [Z] is a [MASK]., a rabbit or [Z]...                                [rodent]
-...                                                 ...                                     ...
-2089  [a world or [Z] is a [MASK]., a world or [Z] i...  [human, dimension, people, maybe, yes]
-2090  [a world or [Z] is a [MASK]., a world or [Z] i...  [human, dimension, people, maybe, yes]
-2091  [a world or [Z] is a [MASK]., a world or [Z] i...  [human, dimension, people, maybe, yes]
-2092  [a writer or [Z] is a [MASK]., a writer or [Z]...                     [publisher, editor]
-2093  [a yard or [Z] is a [MASK]., a yard or [Z] is ...     [house, shed, barn, garden, street]
-
-[2094 rows x 2 columns]
-                                                lsp_dap                          subj_anchors_pl
-0     [[MASK] such as catfish and [Z]., [MASK], incl...                                  [trout]
-1     [[MASK] such as lemon and [Z]., [MASK], includ...   [limes, orange, apples, yes, cherries]
-2     [[MASK] such as turtles and [Z]., [MASK], incl...  [snakes, birds, fishes, lizards, frogs]
-3     [[MASK] such as bags and [Z]., [MASK], includi...    [boxes, yes, shoes, cases, obviously]
-4     [[MASK] such as rabbits and [Z]., [MASK], incl...                                [rodents]
-...                                                 ...                                      ...
-2089  [[MASK] such as worlds and [Z]., [MASK], inclu...  [human, dimensions, people, maybe, yes]
-2090  [[MASK] such as worlds and [Z]., [MASK], inclu...  [human, dimensions, people, maybe, yes]
-2091  [[MASK] such as worlds and [Z]., [MASK], inclu...  [human, dimensions, people, maybe, yes]
-2092  [[MASK] such as writers and [Z]., [MASK], incl...                    [publishers, editors]
-2093  [[MASK] such as yard and [Z]., [MASK], includi...   [houses, shed, barn, gardens, streets]
-
-[2094 rows x 2 columns]
-	 step3: fill mask in dap anchors
-  0%|          | 0/2094 [00:00<?, ?it/s]/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
-  warnings.warn(
- 25%|██▌       | 525/2094 [01:00<02:59,  8.74it/s] 25%|██▌       | 525/2094 [01:20<02:59,  8.74it/s] 48%|████▊     | 1008/2094 [02:00<02:10,  8.33it/s] 48%|████▊     | 1008/2094 [02:20<02:10,  8.33it/s] 70%|███████   | 1471/2094 [03:00<01:17,  8.05it/s] 70%|███████   | 1471/2094 [03:20<01:17,  8.05it/s] 90%|█████████ | 1893/2094 [04:00<00:26,  7.65it/s] 90%|█████████ | 1893/2094 [04:20<00:26,  7.65it/s]100%|██████████| 2094/2094 [04:28<00:00,  7.81it/s]
-  0%|          | 0/2094 [00:00<?, ?it/s] 13%|█▎        | 277/2094 [01:00<06:34,  4.61it/s] 13%|█▎        | 277/2094 [01:11<06:34,  4.61it/s] 25%|██▌       | 528/2094 [02:00<06:00,  4.34it/s] 25%|██▌       | 528/2094 [02:11<06:00,  4.34it/s] 38%|███▊      | 795/2094 [03:00<04:56,  4.38it/s] 38%|███▊      | 795/2094 [03:11<04:56,  4.38it/s] 48%|████▊     | 1010/2094 [04:01<04:27,  4.06it/s] 48%|████▊     | 1010/2094 [04:11<04:27,  4.06it/s] 59%|█████▉    | 1234/2094 [05:01<03:38,  3.94it/s] 59%|█████▉    | 1234/2094 [05:11<03:38,  3.94it/s] 71%|███████   | 1478/2094 [06:01<02:34,  3.98it/s] 71%|███████   | 1478/2094 [06:11<02:34,  3.98it/s] 81%|████████  | 1694/2094 [07:01<01:43,  3.86it/s] 81%|████████  | 1694/2094 [07:11<01:43,  3.86it/s] 91%|█████████ | 1902/2094 [08:01<00:51,  3.73it/s] 91%|█████████ | 1902/2094 [08:11<00:51,  3.73it/s]100%|██████████| 2094/2094 [08:54<00:00,  3.92it/s]
-  sub_label   obj_label relation  obj_in_BERT         masked_sentences  uuid  sub_position sub_label_sg sub_label_pl                                            def_sap                                            def_dap                                            lsp_sap                                            lsp_dap                                     anchor_lsp_sap           sub_label_sgpl                                  obj_mask_sentence                            obj_mask_sentence_score                                   obj_mask_def_sap                             obj_mask_def_sap_score                                   obj_mask_lsp_sap                             obj_mask_lsp_sap_score                                       subj_anchors                                 subj_anchors_score                     subj_anchors_sg                          subj_anchors_pl                                   subj_anchors_all    subj_anchors_combined  \
-0   catfish      [fish]      IsA            1  [A catfish is a [MASK]]     1             2      catfish      catfish  [a catfish is a [MASK]., a catfish is a type o...  [a catfish or [Z] is a [MASK]., a catfish or [...  [[MASK] such as catfish., [MASK], including ca...  [[MASK] such as catfish and [Z]., [MASK], incl...  [such as catfish and [MASK]., such as catfish ...  catfish catfish catfish  [fish, boat, river, genus, gastropod, lizard, ...  {'fish': -17.492517940945792, 'boat': -19.0523...  [fish, shrimp, mollusk, swimmer, salmon, bird,...  {'fish': -4.442973047064299, 'shrimp': -12.345...  [fish, species, animal, seafood, reptile, inve...  {'fish': -4.942579534624883, 'species': -9.299...                                            [trout]  {'bass': 0.39879070899703284, 'carp': 0.181602...                             [trout]                                  [trout]                                            [trout]  catfish catfish catfish   
-1     lemon   [produce]      IsA            1    [A lemon is a [MASK]]     2             2        lemon        lemon  [a lemon is a [MASK]., a lemon is a type of [M...  [a lemon or [Z] is a [MASK]., a lemon or [Z] i...  [[MASK] such as lemon., [MASK], including lemo...  [[MASK] such as lemon and [Z]., [MASK], includ...  [such as lemon and [MASK]., such as lemon or [...        lemon lemon lemon  [fruit, tree, person, bottle, key, seed, twist...  {'fruit': -15.145185477808239, 'tree': -15.459...  [fruit, drink, lime, candy, apple, orange, ber...  {'fruit': -7.934486012665629, 'drink': -10.454...  [fruit, citrus, apple, thing, orange, lime, wa...  {'fruit': -7.175187479938773, 'fruits': -7.897...  [lime, orange, apple, yes, cherry, water, pepp...  {'lime': 0.5027932287617163, 'orange': 0.15136...  [lime, orange, apple, yes, cherry]   [limes, orange, apples, yes, cherries]  [lime, orange, apple, yes, cherry, water, pepp...        lemon lemon lemon   
-2   turtles     [beast]      IsA            1   [A turtle is a [MASK]]     3             2       turtle      turtles  [a turtle is a [MASK]., a turtle is a type of ...  [a turtle or [Z] is a [MASK]., a turtle or [Z]...  [[MASK] such as turtles., [MASK], including tu...  [[MASK] such as turtles and [Z]., [MASK], incl...  [such as turtles and [MASK]., such as turtles ...   turtles turtle turtles   [lizard, person, shell, boat, human, fish, tree]  {'lizard': -16.036533980021577, 'person': -16....  [bird, animal, fish, mammal, creature, lizard,...  {'bird': -6.983079495727402, 'animal': -7.2181...  [reptile, animal, bird, creature, wildlife, in...  {'reptiles': -6.12624919356388, 'animals': -6....  [snakes, birds, fish, lizards, frogs, dragons,...  {'snakes': 0.3146660774946213, 'birds': 0.1580...   [snake, bird, fish, lizard, frog]  [snakes, birds, fishes, lizards, frogs]  [snake, bird, fish, lizard, frog, dragon, shar...   turtles turtle turtles   
-3      bags   [luggage]      IsA            1      [A bag is a [MASK]]     4             2          bag         bags  [a bag is a [MASK]., a bag is a type of [MASK]...  [a bag or [Z] is a [MASK]., a bag or [Z] is a ...  [[MASK] such as bags., [MASK], including bags....  [[MASK] such as bags and [Z]., [MASK], includi...  [such as bags and [MASK]., such as bags or [MA...            bags bag bags  [person, box, pouch, pack, container, suitcase...  {'person': -15.800401335816666, 'box': -16.478...  [container, luggage, backpack, suitcase, sack,...  {'container': -8.861242617076943, 'luggage': -...  [thing, item, object, luggage, belongings, acc...  {'things': -7.206912668513597, 'items': -8.137...  [boxes, yes, shoes, cases, obviously, yeah, cl...  {'boxes': 0.1638453546911478, 'yes': 0.0626923...   [box, yes, shoe, case, obviously]    [boxes, yes, shoes, cases, obviously]  [box, yes, shoe, case, obviously, yeah, clothe...            bags bag bags   
-4   rabbits  [creature]      IsA            1   [A rabbit is a [MASK]]     5             2       rabbit      rabbits  [a rabbit is a [MASK]., a rabbit is a type of ...  [a rabbit or [Z] is a [MASK]., a rabbit or [Z]...  [[MASK] such as rabbits., [MASK], including ra...  [[MASK] such as rabbits and [Z]., [MASK], incl...  [such as rabbits and [MASK]., such as rabbits ...   rabbits rabbit rabbits  [person, horse, human, dog, man, child, pig, k...  {'person': -15.755672171378398, 'horse': -15.9...  [animal, mammal, dog, bird, cat, fox, pig, har...  {'animal': -6.5751558948461675, 'mammal': -8.9...  [animal, rodent, mammal, wildlife, livestock, ...  {'animals': -5.903334231711103, 'rodents': -7....                                          [rodents]  {'foxes': 0.21225315535610373, 'deer': 0.16438...                            [rodent]                                [rodents]                                           [rodent]   rabbits rabbit rabbits   
-
-                            def_dap_with_subj_anchor                           lsp_dap_with_subj_anchor                                   obj_mask_def_dap                             obj_mask_def_dap_score                                   obj_mask_lsp_dap                             obj_mask_lsp_dap_score  
-0  [a catfish or a trout is a [MASK]., a catfish ...  [[MASK] such as catfish and trout., [MASK], in...  [fish, species, salmon, trout, freshwater, pre...  {'fish': -4.253217245046752, 'species': -12.24...  [fish, species, fishing, fishery, animal, seaf...  {'fish': -5.0773572713633035, 'species': -7.86...  
-1  [a lemon or a lime is a [MASK]., a lemon or an...  [[MASK] such as lemon and limes., [MASK] such ...  [fruit, drink, apple, lime, candy, yes, berry,...  {'fruit': -6.215222270411444, 'drink': -9.5472...  [fruit, thing, citrus, lime, yes, apple, flavo...  {'fruits': -6.38605876173733, 'fruit': -6.9349...  
-2  [a turtle or a snake is a [MASK]., a turtle or...  [[MASK] such as turtles and snakes., [MASK] su...  [animal, bird, fish, mammal, creature, lizard,...  {'animal': -7.5255446660385035, 'bird': -7.676...  [reptile, animal, wildlife, invertebrates, bir...  {'reptiles': -6.164623090730166, 'animals': -6...  
-3  [a bag or a box is a [MASK]., a bag or a yes i...  [[MASK] such as bags and boxes., [MASK] such a...  [container, luggage, backpack, suitcase, yes, ...  {'container': -7.19792714910603, 'luggage': -8...  [thing, item, stuff, luggage, object, yes, goo...  {'things': -7.003505253732369, 'items': -8.343...  
-4  [a rabbit or a rodent is a [MASK]., a rabbit o...  [[MASK] such as rabbits and rodents., [MASK], ...  [mammal, animal, species, creature, predator, ...  {'mammal': -5.311165544519599, 'animal': -6.29...  [animal, rodent, mammal, wildlife, livestock, ...  {'animals': -5.68861383113838, 'rodents': -6.7...  
----------------------------------------- anchor evaluation ----------------------------------------
-begin{tabular}{rlrrrrrr}
-hline
-    	 mask_type        	   p@1 	   p@5 	   p@10 	   mrr 	   anchor_wordnet_avg_path 	   anchor_wordnet_coverage 
-hline
-  0 	 subj_anchors_sg  	  42.3 	  55.6 	   55.6 	  47.9 	                      6.73 	                     0.888 
-  1 	 subj_anchors_all 	  42.3 	  55.6 	   58.6 	  48.3 	                      6.73 	                     0.888 
-hline
-end{tabular}
----------------------------------------- obj_label evaluation ----------------------------------------
-begin{tabular}{rlrrrrrrr}
-hline
-    	 mask_type   	   p@1 	   p@5 	   p@10 	   mrr 	   anchor_wordnet_avg_path 	   anchor_wordnet_coverage 	   mask_type_id 
-hline
-  1 	 def_sap     	  13.3 	  36.7 	   46.8 	  23.2 	                      6.73 	                     0.888 	              1 
-  2 	 lsp_sap     	  12.3 	  33.1 	   44.4 	  21.2 	                      6.73 	                     0.888 	              3 
-  3 	 def_dap     	  14.3 	  38.2 	   50.1 	  24.5 	                      6.73 	                     0.888 	              2 
-  4 	 lsp_dap     	  12.9 	  33.8 	   45.7 	  22.1 	                      6.73 	                     0.888 	              4 
-hline
-end{tabular}
-save log/bert-large-uncased/ALL/swow_rw/df_all_use_global_dap_True_max_anchor_num_5_anchor_scorer_probAvg_filter_obj_True_filter_objects_with_input_True_wnp_False_cpt_False_anchor_source_LM_swow_score_source_ShareSWOWSimilar.HYPERNYMSUITE.tsv
-save log/bert-large-uncased/ALL/swow_rw/exp_data_results_max_anchor_num_5_anchor_scorer_probAvg_filter_obj_True_filter_objects_with_input_True_wnp_False_cpt_False_anchor_source_LM_swow_score_source_ShareSWOWSimilar.HYPERNYMSUITE.csv
-debug: False
----------------------------------------- config ----------------------------------------
-{'debug': False, 'test_relations': ['IsA'], 'save_all_data': True, 'top_k': 10, 'data_dir': 'data/hypernymsuite/ALL/swow_rw/', 'mask_string_mapping': {'bert-large-uncased': '[MASK]'}, 'use_dap_global': True, 'return_probs': True, 'anchor_scorer_list': ['probAvg'], 'scorer_target_1_prompt': 'probSum', 'scorer_target_N_prompts': 'freqProbLogSum', 'use_original_prompt': True, 'original_prompt_source': 'masked_sentence', 'incorporate_operations': ['concate_or_single'], 'filter_anchors_flag': True, 'filter_objects_flag': True, 'cpt_only': False, 'anchor_types': ['Coordinate_remove_Y_PUNC_FULL'], 'add_cpt_score': False, 'constrain_targets': False, 'add_wordnet_path_score': False, 'anchor_probe': 'plural_probe', 'anchor_col_prefix': 'subj_anchors', 'anchor_col': 'subj_anchors_swow', 'anchor_col_sg': 'subj_anchors_swow_sg', 'anchor_col_pl': 'subj_anchors_swow_pl', 'anchor_col_all': 'anchor_col_all', 'filter_objects_with_input': True, 'sub_col': 'sub_label', 'sub_col_sg': 'sub_label_sg', 'sub_col_pl': 'sub_label_pl', 'top_k_anchors': 5, 'max_anchor_num_list': [10], 'max_anchor_num': 10, 'sub_col_sgpl': 'sub_label_sgpl', 'filter_objects_with_anchors': False, 'oracle_anchor_inserted': False, 'use_oracle_anchor': False, 'anchor_source': 'LM', 'add_swow_score': True, 'swow_score_source': 'SWOWStrength', 'add_swow_filter': False}
----------------------------------------- config ----------------------------------------
-reading cohyponyms: pre_post_process/log/word_to_cohyponyms.txt
-Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
-- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
-- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
-Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
-- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
-- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
----------------------------------------- bert-large-uncased-anchor_type: Coordinate_remove_Y_PUNC_FULL-scorer_anchor:probAvg-op:concate_or_single ----------------------------------------
-{
-    "IsA": {
-        "relation": "IsA",
-        "def_sap": [
-            "[X] is a [MASK].",
-            "[X] is a type of [MASK].",
-            "[X] is a kind of [MASK]."
-        ],
-        "def_dap": [
-            "[X] or [Z] is a [MASK].",
-            "[X] or [Z] is a type of [MASK].",
-            "[X] or [Z] is a kind of [MASK]."
-        ],
-        "lsp_sap": [
-            "[MASK] such as [X].",
-            "[MASK], including [X].",
-            "[MASK], especially [X].",
-            "[X] or other [MASK].",
-            "[X] and other [MASK].",
-            "such [MASK] as [X]."
-        ],
-        "lsp_dap": [
-            "[MASK] such as [X] and [Z].",
-            "[MASK], including [X] and [Z].",
-            "[MASK], especially [X] and [Z].",
-            "[X], [Z] and other [MASK].",
-            "[X], [Z] or other [MASK].",
-            "such [MASK] as [X] and [Z]."
-        ],
-        "use_dap": true,
-        "anchor_target": "[X]",
-        "anchor_lsp_sap": [
-            "such as [X] and [MASK].",
-            "such as [X] or [MASK].",
-            "such as [X], [MASK],",
-            "including [X] and [MASK].",
-            "including [X] or [MASK].",
-            "including [X], [MASK],",
-            "especially [X] and [MASK].",
-            "especially [X] or [MASK].",
-            "especially [X], [MASK],",
-            "[X], [MASK] or other",
-            "[X], [MASK] and other"
-        ]
-    }
-}
-Processing IsA ... data/hypernymsuite/ALL/swow_rw//IsA.jsonl
-#All Instances: 2094
-#Valid Instances: 2094 in HYPERNYMSUITE (hyper in BERT)
-	 step1: get anchors (fill and filter)
-/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
-  warnings.warn(
---- def_sap
---- lsp_sap
-/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
-  warnings.warn(
-Traceback (most recent call last):
-  File "anchored_prompts.py", line 1387, in <module>
-    df = filter_anchors_with_probs(df, outputs,
-  File "anchored_prompts.py", line 611, in filter_anchors_with_probs
-    df[['subj_anchors', 'subj_anchors_score']] = filter_outputs_with_probs(inputs=df[sub_col].to_list(), 
-  File "anchored_prompts.py", line 574, in filter_outputs_with_probs
-    token2probs = aggregate_token_scores(input_word, token2probs=filled_scores, scorer=scorer, top_k=top_k,  add_wordnet_path_score=add_wordnet_path_score, sort_flag=True, add_swow_score=add_swow_score, query_swow_score=query_swow_score)
-  File "anchored_prompts.py", line 491, in aggregate_token_scores
-    swow_score  = query_swow_score(input_word, token, swow_score_tuple)
-TypeError: 'NoneType' object is not callable
-debug: False
----------------------------------------- config ----------------------------------------
-{'debug': False, 'test_relations': ['IsA'], 'save_all_data': True, 'top_k': 10, 'data_dir': 'data/hypernymsuite/ALL/swow_rw/', 'mask_string_mapping': {'bert-large-uncased': '[MASK]'}, 'use_dap_global': True, 'return_probs': True, 'anchor_scorer_list': ['probAvg'], 'scorer_target_1_prompt': 'probSum', 'scorer_target_N_prompts': 'freqProbLogSum', 'use_original_prompt': True, 'original_prompt_source': 'masked_sentence', 'incorporate_operations': ['concate_or_single'], 'filter_anchors_flag': True, 'filter_objects_flag': True, 'cpt_only': False, 'anchor_types': ['Coordinate_remove_Y_PUNC_FULL'], 'add_cpt_score': False, 'constrain_targets': False, 'add_wordnet_path_score': False, 'anchor_probe': 'plural_probe', 'anchor_col_prefix': 'subj_anchors', 'anchor_col': 'subj_anchors_swow', 'anchor_col_sg': 'subj_anchors_swow_sg', 'anchor_col_pl': 'subj_anchors_swow_pl', 'anchor_col_all': 'anchor_col_all', 'filter_objects_with_input': True, 'sub_col': 'sub_label', 'sub_col_sg': 'sub_label_sg', 'sub_col_pl': 'sub_label_pl', 'top_k_anchors': 5, 'max_anchor_num_list': [10], 'max_anchor_num': 10, 'sub_col_sgpl': 'sub_label_sgpl', 'filter_objects_with_anchors': False, 'oracle_anchor_inserted': False, 'use_oracle_anchor': False, 'anchor_source': 'LM', 'add_swow_score': True, 'swow_score_source': 'SWOWSimilar', 'add_swow_filter': False}
----------------------------------------- config ----------------------------------------
-reading cohyponyms: pre_post_process/log/word_to_cohyponyms.txt
-Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
-- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
-- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
-Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
-- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
-- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
----------------------------------------- bert-large-uncased-anchor_type: Coordinate_remove_Y_PUNC_FULL-scorer_anchor:probAvg-op:concate_or_single ----------------------------------------
-{
-    "IsA": {
-        "relation": "IsA",
-        "def_sap": [
-            "[X] is a [MASK].",
-            "[X] is a type of [MASK].",
-            "[X] is a kind of [MASK]."
-        ],
-        "def_dap": [
-            "[X] or [Z] is a [MASK].",
-            "[X] or [Z] is a type of [MASK].",
-            "[X] or [Z] is a kind of [MASK]."
-        ],
-        "lsp_sap": [
-            "[MASK] such as [X].",
-            "[MASK], including [X].",
-            "[MASK], especially [X].",
-            "[X] or other [MASK].",
-            "[X] and other [MASK].",
-            "such [MASK] as [X]."
-        ],
-        "lsp_dap": [
-            "[MASK] such as [X] and [Z].",
-            "[MASK], including [X] and [Z].",
-            "[MASK], especially [X] and [Z].",
-            "[X], [Z] and other [MASK].",
-            "[X], [Z] or other [MASK].",
-            "such [MASK] as [X] and [Z]."
-        ],
-        "use_dap": true,
-        "anchor_target": "[X]",
-        "anchor_lsp_sap": [
-            "such as [X] and [MASK].",
-            "such as [X] or [MASK].",
-            "such as [X], [MASK],",
-            "including [X] and [MASK].",
-            "including [X] or [MASK].",
-            "including [X], [MASK],",
-            "especially [X] and [MASK].",
-            "especially [X] or [MASK].",
-            "especially [X], [MASK],",
-            "[X], [MASK] or other",
-            "[X], [MASK] and other"
-        ]
-    }
-}
-Processing IsA ... data/hypernymsuite/ALL/swow_rw//IsA.jsonl
-#All Instances: 2094
-#Valid Instances: 2094 in HYPERNYMSUITE (hyper in BERT)
-	 step1: get anchors (fill and filter)
-/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
-  warnings.warn(
---- def_sap
---- lsp_sap
-/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
-  warnings.warn(
-Traceback (most recent call last):
-  File "anchored_prompts.py", line 1387, in <module>
-    df = filter_anchors_with_probs(df, outputs,
-  File "anchored_prompts.py", line 611, in filter_anchors_with_probs
-    df[['subj_anchors', 'subj_anchors_score']] = filter_outputs_with_probs(inputs=df[sub_col].to_list(), 
-  File "anchored_prompts.py", line 574, in filter_outputs_with_probs
-    token2probs = aggregate_token_scores(input_word, token2probs=filled_scores, scorer=scorer, top_k=top_k,  add_wordnet_path_score=add_wordnet_path_score, sort_flag=True, add_swow_score=add_swow_score, query_swow_score=query_swow_score)
-  File "anchored_prompts.py", line 491, in aggregate_token_scores
-    swow_score  = query_swow_score(input_word, token, swow_score_tuple)
-TypeError: 'NoneType' object is not callable

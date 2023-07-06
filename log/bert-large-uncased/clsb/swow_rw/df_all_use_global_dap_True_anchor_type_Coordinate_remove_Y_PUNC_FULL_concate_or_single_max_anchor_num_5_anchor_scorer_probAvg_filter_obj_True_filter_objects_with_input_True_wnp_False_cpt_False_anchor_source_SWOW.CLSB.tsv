@@ -1,8 +1,0 @@
-	mask_type	p@1	p@5	p@10	relation	mrr	anchor_wordnet_avg_path	anchor_wordnet_coverage	label
-0	subj_anchors_swow_sg	20.0	20.0	20.0	IsA	0.0	9.9	0.9	sub_sister
-1	subj_anchors_swow_all	20.0	20.0	40.0	IsA	0.0	9.9	0.9	sub_sister
-0	sentence	20.0	60.0	70.0	IsA	37.3	9.9	0.9	obj_label
-1	def_sap	30.0	50.0	60.0	IsA	41.4	9.9	0.9	obj_label
-2	lsp_sap	30.0	50.0	70.0	IsA	42.5	9.9	0.9	obj_label
-3	def_dap	30.0	60.0	60.0	IsA	43.3	9.9	0.9	obj_label
-4	lsp_dap	20.0	50.0	70.0	IsA	37.2	9.9	0.9	obj_label

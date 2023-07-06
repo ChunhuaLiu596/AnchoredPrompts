@@ -1,220 +1,0 @@
-debug: True
----------------------------------------- config ----------------------------------------
-{'debug': True, 'test_relations': ['IsA'], 'save_all_data': True, 'top_k': 10, 'data_dir': 'data/LAMA/', 'mask_string_mapping': {'bert-large-uncased': '[MASK]'}, 'use_dap_global': True, 'return_probs': True, 'anchor_scorer_list': ['probAvg'], 'scorer_target_1_prompt': 'probSum', 'scorer_target_N_prompts': 'probAvg', 'use_original_prompt': True, 'original_prompt_source': 'masked_sentence', 'incorporate_operations': ['concate_or_single'], 'filter_anchors_flag': True, 'filter_objects_flag': True, 'cpt_only': False, 'anchor_types': ['Coordinate_remove_Y_PUNC_FULL'], 'add_cpt_score': False, 'constrain_targets': False, 'add_wordnet_path_score': False, 'anchor_probe': 'plural_probe', 'anchor_col': 'subj_anchors', 'anchor_col_sg': 'subj_anchors_sg', 'anchor_col_pl': 'subj_anchors_pl', 'filter_objects_with_input': True, 'sub_col': 'sub_label', 'sub_col_sg': 'sub_label_sg', 'sub_col_pl': 'sub_label_pl', 'top_k_anchors': 5, 'max_anchor_num_list': [10], 'max_anchor_num': 10, 'sub_col_sgpl': 'sub_label_sgpl', 'filter_objects_with_anchors': False, 'anchor_col_all': 'anchor_col_all', 'oracle_anchor_inserted': False}
----------------------------------------- config ----------------------------------------
-Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.bias', 'cls.seq_relationship.weight']
-- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
-- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
-Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.bias', 'cls.seq_relationship.weight']
-- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
-- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
----------------------------------------- bert-large-uncased-anchor_type: Coordinate_remove_Y_PUNC_FULL-scorer_anchor:probAvg-op:concate_or_single ----------------------------------------
-{
-    "IsA": {
-        "relation": "IsA",
-        "def_sap": [
-            "A [X] is a [MASK].",
-            "A [X] is an [MASK].",
-            "An [X] is a [MASK].",
-            "An [X] is an [MASK]."
-        ],
-        "def_dap": [
-            "A [X] or [Z] is a [MASK].",
-            "A [X] or [Z] is an [MASK].",
-            "An [X] or [Z] is a [MASK].",
-            "An [X] or [Z] is an [MASK]."
-        ],
-        "lsp_sap": [
-            "[MASK] such as [X].",
-            "[MASK], including [X].",
-            "[MASK], especially [X].",
-            "[X] or other [MASK].",
-            "[X] and other [MASK].",
-            "such [MASK] as [X]."
-        ],
-        "lsp_dap": [
-            "[MASK] such as [X] and [Z].",
-            "[MASK], including [X] and [Z].",
-            "[MASK], especially [X] and [Z].",
-            "[X], [Z] and other [MASK].",
-            "[X], [Z] or other [MASK].",
-            "such [MASK] as [X] and [Z]."
-        ],
-        "use_dap": true,
-        "anchor_target": "[X]",
-        "anchor_lsp_sap": [
-            "such as [X] and [MASK].",
-            "such as [X] or [MASK].",
-            "such as [X], [MASK],",
-            "including [X] and [MASK].",
-            "including [X] or [MASK].",
-            "including [X], [MASK],",
-            "especially [X] and [MASK].",
-            "especially [X] or [MASK].",
-            "especially [X], [MASK],",
-            "[X], [MASK] or other",
-            "[X], [MASK] and other"
-        ]
-    }
-}
-Processing IsA ... data/LAMA//IsA.jsonl
-#Test_instances: 1575
-	 step1: get anchors (fill and filter)
-/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
-  warnings.warn(
---- def_sap
---- lsp_sap
-relation: IsA 	 use_dap: True
-	 step2: insert anchors
-sub_col sub_label
-	 step3: fill mask in dap anchors
-  0%|          | 0/5 [00:00<?, ?it/s]/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
-  warnings.warn(
- 20%|██        | 1/5 [00:00<00:00,  7.33it/s] 40%|████      | 2/5 [00:00<00:00,  7.33it/s] 60%|██████    | 3/5 [00:00<00:00,  7.35it/s] 80%|████████  | 4/5 [00:00<00:00,  7.40it/s]100%|██████████| 5/5 [00:00<00:00,  7.39it/s]100%|██████████| 5/5 [00:00<00:00,  7.38it/s]
-  0%|          | 0/5 [00:00<?, ?it/s] 20%|██        | 1/5 [00:00<00:00,  8.14it/s] 40%|████      | 2/5 [00:00<00:00,  8.17it/s] 60%|██████    | 3/5 [00:00<00:00,  8.18it/s] 80%|████████  | 4/5 [00:00<00:00,  8.18it/s]100%|██████████| 5/5 [00:00<00:00,  8.17it/s]100%|██████████| 5/5 [00:00<00:00,  8.17it/s]
-  0%|          | 0/5 [00:00<?, ?it/s] 20%|██        | 1/5 [00:00<00:01,  2.72it/s] 40%|████      | 2/5 [00:00<00:01,  2.72it/s] 60%|██████    | 3/5 [00:01<00:00,  2.73it/s] 80%|████████  | 4/5 [00:01<00:00,  2.73it/s]100%|██████████| 5/5 [00:01<00:00,  2.72it/s]100%|██████████| 5/5 [00:01<00:00,  2.72it/s]
-    sub_label    obj_label                                   masked_sentences  uuid                                         sub_sister  sub_position sub_label_sg sub_label_pl                                            def_sap                                            def_dap                                            lsp_sap                                            lsp_dap                                     anchor_lsp_sap                    sub_label_sgpl                                  obj_mask_sentence                            obj_mask_sentence_score                                   obj_mask_def_sap                             obj_mask_def_sap_score                                   obj_mask_lsp_sap                             obj_mask_lsp_sap_score                                       subj_anchors                                 subj_anchors_score                                  subj_anchors_sg                                    subj_anchors_pl  \
-0  buildiings  [factories]                      [Some buildiings are [MASK].]     0                                                 []             5   buildiings   buildiings  [A buildiings is a [MASK]., A buildiings is an...  [A buildiings or [Z] is a [MASK]., A buildiing...  [[MASK] such as buildiings., [MASK], including...  [[MASK] such as buildiings and [Z]., [MASK], i...  [such as buildiings and [MASK]., such as build...  buildiings buildiings buildiings  [rare, common, unique, known, available, illeg...  {'rare': 0.051921211183071136, 'common': 0.029...  [example, acronym, asteroid, robot, object, au...  {'example': 0.11447945982217789, 'acronym': 0....  [thing, example, software, structure, website,...  {'things': 0.0783012683968991, 'examples': 0.0...  [llc, inc, bridges, houses, churches, extensio...  {'llc': 0.027545787394046783, 'inc': 0.0212087...                [llc, inc, bridge, house, church]            [llcs, incs, bridges, houses, churches]   
-1      lasers     [device]  [A laser is a [MASK] which creates coherent li...     1  [collimator, diffuser, finder, lense, polarime...             2        laser       lasers      [A laser is a [MASK]., A laser is an [MASK].]  [A laser or [Z] is a [MASK]., A laser or [Z] i...  [[MASK] such as lasers., [MASK], including las...  [[MASK] such as lasers and [Z]., [MASK], inclu...  [such as lasers and [MASK]., such as lasers or...               lasers laser lasers  [device, material, weapon, machine, system, so...  {'device': 0.8145284056663513, 'material': 0.0...  [object, instrument, weapon, electron, beam, i...  {'object': 0.2686357796192169, 'instrument': 0...  [thing, device, electricity, physics, optic, e...  {'things': 0.5328976511955261, 'devices': 0.20...  [telescopes, yes, uh, explosives, bombs, mirro...  {'telescopes': 0.06945273578166962, 'yes': 0.0...            [telescope, yes, uh, explosive, bomb]        [telescopes, yeses, uhs, explosives, bombs]   
-2       urges     [desire]       [An urge is the strong [MASK] of something.]     2  [life, yearning, temptation, impulse, hungrine...             3         urge        urges      [An urge is a [MASK]., An urge is an [MASK].]  [An urge or [Z] is a [MASK]., An urge or [Z] i...  [[MASK] such as urges., [MASK], including urge...  [[MASK] such as urges and [Z]., [MASK], includ...  [such as urges and [MASK]., such as urges or [...                  urges urge urges  [emotion, pull, attraction, feeling, desire, s...  {'emotion': 0.13824515044689178, 'pull': 0.094...  [need, impulse, desire, compulsion, instinct, ...  {'need': 0.22990073263645172, 'impulse': 0.118...  [thing, yes, feeling, desire, emotion, need, p...  {'things': 0.26708676777780055, 'yes': 0.18379...  [sexual, yes, desires, physical, needs, feelin...  {'sexual': 0.5725235342979431, 'yes': 0.202463...            [sexual, yes, desire, physical, need]        [sexuals, yeses, desires, physicals, needs]   
-3      truths     [virtue]                               [Truth is a [MASK].]     3  [aridity, regularity, positivity, finitude, ex...             0        truth       truths      [A truth is a [MASK]., A truth is an [MASK].]  [A truth or [Z] is a [MASK]., A truth or [Z] i...  [[MASK] such as truths., [MASK], including tru...  [[MASK] such as truths and [Z]., [MASK], inclu...  [such as truths and [MASK]., such as truths or...               truths truth truths  [lie, bitch, weapon, gift, myth, liar, mystery...  {'lie': 0.4612651765346527, 'bitch': 0.1416235...  [lie, illusion, answer, excuse, explanation, o...  {'lie': 0.44846532214432955, 'illusion': 0.412...  [thing, lie, yes, interpretation, concept, wor...  {'things': 0.28265632027760146, 'lies': 0.1063...  [lies, actually, true, moral, political, yes, ...  {'lies': 0.36377224867994135, 'actually': 0.05...          [lie, actually, true, moral, political]      [lies, actuallies, trues, morals, politicals]   
-4  geometries    [subject]          [Geometry is a [MASK] studied in school.]     4  [metamathematics, trigonometry, arithmetic, to...             0     geometry   geometries  [A geometry is a [MASK]., A geometry is an [MA...  [A geometry or [Z] is a [MASK]., A geometry or...  [[MASK] such as geometries., [MASK], including...  [[MASK] such as geometries and [Z]., [MASK], i...  [such as geometries and [MASK]., such as geome...    geometries geometry geometries  [subject, discipline, topic, science, skill, l...  {'subject': 0.8335549831390381, 'discipline': ...  [algebra, object, architecture, alphabet, plan...  {'algebra': 0.3306463360786438, 'object': 0.14...  [thing, mathematics, property, topic, applicat...  {'things': 0.25811206083744764, 'mathematics':...  [surfaces, structures, shapes, arrangements, c...  {'surfaces': 0.06569532796063206, 'structures'...  [surface, structure, shape, arrangement, curve]  [surfaces, structures, shapes, arrangements, c...   
-
-                                      anchor_col_all             subj_anchors_combined                  masked_sentences_with_subj_anchor                           def_dap_with_subj_anchor                           lsp_dap_with_subj_anchor                              obj_mask_sentence_dap                        obj_mask_sentence_dap_score                                   obj_mask_def_dap                             obj_mask_def_dap_score                                   obj_mask_lsp_dap                             obj_mask_lsp_dap_score  
-0  [llc, inc, bridge, house, church, extension, r...  buildiings buildiings buildiings  [Some buildiings are [MASK]., Some buildiings ...  [A buildiings or llc is a [MASK]., A buildiing...  [[MASK] such as buildiings and llcs., [MASK] s...  [available, required, built, mentioned, common...  {'available': 0.11414496265351773, 'required':...  [church, corporation, bridge, company, llc, ac...  {'church': 0.7603676915168762, 'corporation': ...  [structure, company, entity, building, thing, ...  {'structures': 0.2113411942762988, 'companies'...  
-1  [telescope, yes, uh, explosive, bomb, mirror, ...               lasers laser lasers  [A laser is a [MASK] which creates coherent li...  [A laser or telescope is a [MASK]., A laser or...  [[MASK] such as lasers and telescopes., [MASK]...  [device, weapon, wavelength, process, material...  {'device': 0.6155345114794645, 'weapon': 0.049...  [explosive, weapon, telescope, instrument, yes...  {'explosive': 0.6169215738773346, 'weapon': 0....  [thing, weapon, telescope, explosive, astronom...  {'things': 0.38741729259490965, 'weapons': 0.2...  
-2  [sexual, yes, desire, physical, need, feeling,...                  urges urge urges  [An urge is the strong [MASK] of something., A...  [An urge or sexual is a [MASK]., An urge or ye...  [[MASK] such as urges and sexuals., [MASK] suc...  [desire, feeling, emotion, attraction, pull, d...  {'desire': 0.19059881500222467, 'feeling': 0.1...  [desire, emotion, order, lie, answer, impulse,...  {'desire': 0.32833070680499077, 'emotion': 0.2...  [thing, emotion, feeling, desire, disorder, pa...  {'things': 0.2649222946561435, 'emotions': 0.1...  
-3  [lie, actually, true, moral, political, yes, g...               truths truth truths  [Truth is a [MASK]., Truth  or lies is a [MASK...  [A truth or lie is a [MASK]., A truth or actua...  [[MASK] such as truths and lies., [MASK] such ...  [lie, bitch, religion, choice, game, decision,...  {'lie': 0.23517097600481726, 'bitch': 0.141623...  [lie, illusion, idea, opinion, action, answer,...  {'lie': 0.20545248985290526, 'illusion': 0.088...  [thing, lie, concept, morality, writings, essa...  {'things': 0.2336454308591783, 'lies': 0.14942...  
-4  [surface, structure, shape, arrangement, curve...    geometries geometry geometries  [Geometry is a [MASK] studied in school., Geom...  [A geometry or surface is a [MASK]., A geometr...  [[MASK] such as geometries and surfaces., [MAS...  [subject, material, surface, subjects, course,...  {'subject': 0.3430656750093807, 'material': 0....  [object, surface, arrangement, curve, plane, s...  {'object': 0.6163259208202362, 'surface': 0.23...  [thing, mathematics, concept, application, str...  {'things': 0.38061854280531404, 'mathematics':...  
----------------------------------------- anchor evaluation ----------------------------------------
-begin{tabular}{rlrrrrrr}
-hline
-    	 mask_type       	   p@1 	   p@5 	   p@10 	   mrr 	   anchor_wordnet_avg_path 	   anchor_wordnet_coverage 
-hline
-  0 	 subj_anchors_sg 	     0 	     0 	      0 	   0   	                       8.2 	                       0.7 
-  1 	 anchor_col_all  	     0 	     0 	     40 	   5.1 	                       8.2 	                       0.7 
-hline
-end{tabular}
----------------------------------------- obj_label evaluation ----------------------------------------
-begin{tabular}{rlrrrrrrr}
-hline
-    	 mask_type   	   p@1 	   p@5 	   p@10 	   mrr 	   anchor_wordnet_avg_path 	   anchor_wordnet_coverage 	   mask_type_id 
-hline
-  1 	 def_sap     	     0 	    20 	     40 	   9.2 	                       8.2 	                       0.7 	              1 
-  2 	 lsp_sap     	     0 	    40 	     40 	  15   	                       8.2 	                       0.7 	              3 
-  4 	 def_dap     	    20 	    20 	     40 	  22   	                       8.2 	                       0.7 	              2 
-  5 	 lsp_dap     	     0 	    20 	     40 	   8.3 	                       8.2 	                       0.7 	              4 
-hline
-end{tabular}
-save log/bert-large-uncased/data/LAMA/df_all_use_global_dap_True_anchor_type_Coordinate_remove_Y_PUNC_FULL_concate_or_single_max_anchor_num_10_anchor_scorer_probAvg_filter_obj_True_filter_objects_with_input_True_wnp_False_cpt_False.LAMA.tsv
-save log/bert-large-uncased/data/LAMA/exp_data_results_anchor_type_Coordinate_remove_Y_PUNC_FULL_concate_or_single_max_anchor_num_10_anchor_scorer_probAvg_filter_obj_True_filter_objects_with_input_True_wnp_False_cpt_False.LAMA.csv
-debug: True
----------------------------------------- config ----------------------------------------
-{'debug': True, 'test_relations': ['IsA'], 'save_all_data': True, 'top_k': 10, 'data_dir': 'data/clsb/singular/', 'mask_string_mapping': {'bert-large-uncased': '[MASK]'}, 'use_dap_global': True, 'return_probs': True, 'anchor_scorer_list': ['probAvg'], 'scorer_target_1_prompt': 'probSum', 'scorer_target_N_prompts': 'probAvg', 'use_original_prompt': True, 'original_prompt_source': 'masked_sentence', 'incorporate_operations': ['concate_or_single'], 'filter_anchors_flag': True, 'filter_objects_flag': True, 'cpt_only': False, 'anchor_types': ['Coordinate_remove_Y_PUNC_FULL'], 'add_cpt_score': False, 'constrain_targets': False, 'add_wordnet_path_score': False, 'anchor_probe': 'plural_probe', 'anchor_col': 'subj_anchors', 'anchor_col_sg': 'subj_anchors_sg', 'anchor_col_pl': 'subj_anchors_pl', 'filter_objects_with_input': True, 'sub_col': 'sub_label', 'sub_col_sg': 'sub_label_sg', 'sub_col_pl': 'sub_label_pl', 'top_k_anchors': 5, 'max_anchor_num_list': [10], 'max_anchor_num': 10, 'sub_col_sgpl': 'sub_label_sgpl', 'filter_objects_with_anchors': False, 'anchor_col_all': 'anchor_col_all', 'oracle_anchor_inserted': False}
----------------------------------------- config ----------------------------------------
-Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
-- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
-- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
-Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
-- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
-- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
----------------------------------------- bert-large-uncased-anchor_type: Coordinate_remove_Y_PUNC_FULL-scorer_anchor:probAvg-op:concate_or_single ----------------------------------------
-{
-    "IsA": {
-        "relation": "IsA",
-        "def_sap": [
-            "A [X] is a [MASK].",
-            "A [X] is an [MASK].",
-            "An [X] is a [MASK].",
-            "An [X] is an [MASK]."
-        ],
-        "def_dap": [
-            "A [X] or [Z] is a [MASK].",
-            "A [X] or [Z] is an [MASK].",
-            "An [X] or [Z] is a [MASK].",
-            "An [X] or [Z] is an [MASK]."
-        ],
-        "lsp_sap": [
-            "[MASK] such as [X].",
-            "[MASK], including [X].",
-            "[MASK], especially [X].",
-            "[X] or other [MASK].",
-            "[X] and other [MASK].",
-            "such [MASK] as [X]."
-        ],
-        "lsp_dap": [
-            "[MASK] such as [X] and [Z].",
-            "[MASK], including [X] and [Z].",
-            "[MASK], especially [X] and [Z].",
-            "[X], [Z] and other [MASK].",
-            "[X], [Z] or other [MASK].",
-            "such [MASK] as [X] and [Z]."
-        ],
-        "use_dap": true,
-        "anchor_target": "[X]",
-        "anchor_lsp_sap": [
-            "such as [X] and [MASK].",
-            "such as [X] or [MASK].",
-            "such as [X], [MASK],",
-            "including [X] and [MASK].",
-            "including [X] or [MASK].",
-            "including [X], [MASK],",
-            "especially [X] and [MASK].",
-            "especially [X] or [MASK].",
-            "especially [X], [MASK],",
-            "[X], [MASK] or other",
-            "[X], [MASK] and other"
-        ]
-    }
-}
-Processing IsA ... data/clsb/singular//IsA.jsonl
-#Test_instances: 1310
-	 step1: get anchors (fill and filter)
-/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
-  warnings.warn(
---- def_sap
---- lsp_sap
-relation: IsA 	 use_dap: True
-	 step2: insert anchors
-sub_col sub_label
-	 step3: fill mask in dap anchors
-  0%|          | 0/5 [00:00<?, ?it/s]/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
-  warnings.warn(
- 20%|██        | 1/5 [00:00<00:00,  7.44it/s] 40%|████      | 2/5 [00:00<00:00,  7.55it/s] 60%|██████    | 3/5 [00:00<00:00,  7.58it/s] 80%|████████  | 4/5 [00:00<00:00,  7.60it/s]100%|██████████| 5/5 [00:00<00:00,  7.60it/s]100%|██████████| 5/5 [00:00<00:00,  7.58it/s]
-  0%|          | 0/5 [00:00<?, ?it/s] 20%|██        | 1/5 [00:00<00:00,  8.32it/s] 40%|████      | 2/5 [00:00<00:00,  8.37it/s] 60%|██████    | 3/5 [00:00<00:00,  8.40it/s] 80%|████████  | 4/5 [00:00<00:00,  8.41it/s]100%|██████████| 5/5 [00:00<00:00,  8.42it/s]100%|██████████| 5/5 [00:00<00:00,  8.40it/s]
-  0%|          | 0/5 [00:00<?, ?it/s] 20%|██        | 1/5 [00:00<00:01,  2.78it/s] 40%|████      | 2/5 [00:00<00:01,  2.80it/s] 60%|██████    | 3/5 [00:01<00:00,  2.80it/s] 80%|████████  | 4/5 [00:01<00:00,  2.80it/s]100%|██████████| 5/5 [00:01<00:00,  2.80it/s]100%|██████████| 5/5 [00:01<00:00,  2.80it/s]
-    sub_label                obj_label              masked_sentences relation  weight feature_type obj_label_single                                         sub_sister  uuid  sub_position sub_label_sg sub_label_pl                                            def_sap                                            def_dap                                            lsp_sap                                            lsp_dap                                     anchor_lsp_sap                   sub_label_sgpl                                  obj_mask_sentence                            obj_mask_sentence_score                                   obj_mask_def_sap                             obj_mask_def_sap_score                                   obj_mask_lsp_sap                             obj_mask_lsp_sap_score                                       subj_anchors                                 subj_anchors_score                                    subj_anchors_sg  \
-0  aeroplanes      [vehicle, vehicles]   [An aeroplane is a [MASK].]      IsA       2    taxonomic          vehicle  [drone, orthopter, glider, gyroplane, autogiro...     0             3    aeroplane   aeroplanes  [An aeroplane is a [MASK]., An aeroplane is an...  [An aeroplane or [Z] is a [MASK]., An aeroplan...  [[MASK] such as aeroplanes., [MASK], including...  [[MASK] such as aeroplanes and [Z]., [MASK], i...  [such as aeroplanes and [MASK]., such as aerop...  aeroplanes aeroplane aeroplanes  [plane, biplane, glider, aircraft, helicopter,...  {'plane': 0.46381837129592896, 'biplane': 0.10...  [plane, aircraft, biplane, airplane, glider, h...  {'plane': 0.46381837129592896, 'aircraft': 0.4...  [aircraft, thing, aviation, airplane, vehicle,...  {'aircraft': 0.49033164232969284, 'things': 0....  [aircraft, helicopters, automobiles, airplanes...  {'aircraft': 0.11055449159307913, 'helicopters...  [aircraft, helicopter, automobile, airplane, b...   
-1  alligators      [reptile, reptiles]   [An alligator is a [MASK].]      IsA      16    taxonomic          reptile  [cowhide, doeskin, kidskin, fleece, pigskin, c...     1             3    alligator   alligators  [An alligator is a [MASK]., An alligator is an...  [An alligator or [Z] is a [MASK]., An alligato...  [[MASK] such as alligators., [MASK], including...  [[MASK] such as alligators and [Z]., [MASK], i...  [such as alligators and [MASK]., such as allig...  alligators alligator alligators  [fish, monster, snake, crocodile, turtle, huma...  {'fish': 0.12116950005292892, 'monster': 0.052...  [animal, fish, monster, snake, crocodile, turt...  {'animal': 0.35219907760620117, 'fish': 0.1211...  [reptile, thing, animal, snake, creature, wild...  {'reptiles': 0.45938984490931034, 'things': 0....  [snakes, turtles, frogs, lizards, sharks, tige...  {'snakes': 0.33330246941609815, 'turtles': 0.1...               [snake, turtle, frog, lizard, shark]   
-2  alligators        [animal, animals]  [An alligator is an [MASK].]      IsA      11    taxonomic           animal  [cowhide, doeskin, kidskin, fleece, pigskin, c...     2             3    alligator   alligators  [An alligator is a [MASK]., An alligator is an...  [An alligator or [Z] is a [MASK]., An alligato...  [[MASK] such as alligators., [MASK], including...  [[MASK] such as alligators and [Z]., [MASK], i...  [such as alligators and [MASK]., such as allig...  alligators alligator alligators  [animal, insect, eel, alien, idiot, elephant, ...  {'animal': 0.35219907760620117, 'insect': 0.01...  [animal, fish, monster, snake, crocodile, turt...  {'animal': 0.35219907760620117, 'fish': 0.1211...  [reptile, thing, animal, snake, creature, wild...  {'reptiles': 0.45938984490931034, 'things': 0....  [snakes, turtles, frogs, lizards, sharks, tige...  {'snakes': 0.33330246941609815, 'turtles': 0.1...               [snake, turtle, frog, lizard, shark]   
-3  alligators  [carnivore, carnivores]   [An alligator is a [MASK].]      IsA       8   functional        carnivore  [cowhide, doeskin, kidskin, fleece, pigskin, c...     3             3    alligator   alligators  [An alligator is a [MASK]., An alligator is an...  [An alligator or [Z] is a [MASK]., An alligato...  [[MASK] such as alligators., [MASK], including...  [[MASK] such as alligators and [Z]., [MASK], i...  [such as alligators and [MASK]., such as allig...  alligators alligator alligators  [fish, monster, snake, crocodile, turtle, huma...  {'fish': 0.12116950005292892, 'monster': 0.052...  [animal, fish, monster, snake, crocodile, turt...  {'animal': 0.35219907760620117, 'fish': 0.1211...  [reptile, thing, animal, snake, creature, wild...  {'reptiles': 0.45938984490931034, 'things': 0....  [snakes, turtles, frogs, lizards, sharks, tige...  {'snakes': 0.33330246941609815, 'turtles': 0.1...               [snake, turtle, frog, lizard, shark]   
-4  alligators    [predator, predators]   [An alligator is a [MASK].]      IsA       6    taxonomic         predator  [cowhide, doeskin, kidskin, fleece, pigskin, c...     4             3    alligator   alligators  [An alligator is a [MASK]., An alligator is an...  [An alligator or [Z] is a [MASK]., An alligato...  [[MASK] such as alligators., [MASK], including...  [[MASK] such as alligators and [Z]., [MASK], i...  [such as alligators and [MASK]., such as allig...  alligators alligator alligators  [fish, monster, snake, crocodile, turtle, huma...  {'fish': 0.12116950005292892, 'monster': 0.052...  [animal, fish, monster, snake, crocodile, turt...  {'animal': 0.35219907760620117, 'fish': 0.1211...  [reptile, thing, animal, snake, creature, wild...  {'reptiles': 0.45938984490931034, 'things': 0....  [snakes, turtles, frogs, lizards, sharks, tige...  {'snakes': 0.33330246941609815, 'turtles': 0.1...               [snake, turtle, frog, lizard, shark]   
-
-                                     subj_anchors_pl                                     anchor_col_all            subj_anchors_combined                  masked_sentences_with_subj_anchor                           def_dap_with_subj_anchor                           lsp_dap_with_subj_anchor                              obj_mask_sentence_dap                        obj_mask_sentence_dap_score                                   obj_mask_def_dap                             obj_mask_def_dap_score                                   obj_mask_lsp_dap                             obj_mask_lsp_dap_score  
-0  [aircrafts, helicopters, automobiles, airplane...  [aircraft, helicopter, automobile, airplane, b...  aeroplanes aeroplane aeroplanes  [An aeroplane is a [MASK]., An aeroplane  or a...  [An aeroplane or aircraft is a [MASK]., An aer...  [[MASK] such as aeroplanes and aircrafts., [MA...  [balloon, plane, submarine, ship, helicopter, ...  {'balloon': 0.46172359585762024, 'plane': 0.26...  [aircraft, balloon, plane, helicopter, vehicle...  {'aircraft': 0.39349465360865, 'balloon': 0.38...  [aircraft, thing, aviation, vehicle, aeronauti...  {'aircraft': 0.4336615025065839, 'things': 0.2...  
-1          [snakes, turtles, frogs, lizards, sharks]  [snake, turtle, frog, lizard, shark, tiger, fi...  alligators alligator alligators  [An alligator is a [MASK]., An alligator  or s...  [An alligator or snake is a [MASK]., An alliga...  [[MASK] such as alligators and snakes., [MASK]...  [frog, fish, bird, predator, tiger, snake, yes...  {'frog': 0.1586445445815722, 'fish': 0.1569566...  [animal, predator, frog, fish, shark, mammal, ...  {'animal': 0.7910960793495179, 'predator': 0.2...  [reptile, animal, snake, thing, shark, creatur...  {'reptiles': 0.5529055991520484, 'animals': 0....  
-2          [snakes, turtles, frogs, lizards, sharks]  [snake, turtle, frog, lizard, shark, tiger, fi...  alligators alligator alligators  [An alligator is an [MASK]., An alligator  or ...  [An alligator or snake is a [MASK]., An alliga...  [[MASK] such as alligators and snakes., [MASK]...  [animal, example, answer, exception, ass, idio...  {'animal': 0.4649753025309606, 'example': 0.30...  [animal, predator, frog, fish, shark, mammal, ...  {'animal': 0.7910960793495179, 'predator': 0.2...  [reptile, animal, snake, thing, shark, creatur...  {'reptiles': 0.5529055991520484, 'animals': 0....  
-3          [snakes, turtles, frogs, lizards, sharks]  [snake, turtle, frog, lizard, shark, tiger, fi...  alligators alligator alligators  [An alligator is a [MASK]., An alligator  or s...  [An alligator or snake is a [MASK]., An alliga...  [[MASK] such as alligators and snakes., [MASK]...  [frog, fish, bird, predator, tiger, snake, yes...  {'frog': 0.1586445445815722, 'fish': 0.1569566...  [animal, predator, frog, fish, shark, mammal, ...  {'animal': 0.7910960793495179, 'predator': 0.2...  [reptile, animal, snake, thing, shark, creatur...  {'reptiles': 0.5529055991520484, 'animals': 0....  
-4          [snakes, turtles, frogs, lizards, sharks]  [snake, turtle, frog, lizard, shark, tiger, fi...  alligators alligator alligators  [An alligator is a [MASK]., An alligator  or s...  [An alligator or snake is a [MASK]., An alliga...  [[MASK] such as alligators and snakes., [MASK]...  [frog, fish, bird, predator, tiger, snake, yes...  {'frog': 0.1586445445815722, 'fish': 0.1569566...  [animal, predator, frog, fish, shark, mammal, ...  {'animal': 0.7910960793495179, 'predator': 0.2...  [reptile, animal, snake, thing, shark, creatur...  {'reptiles': 0.5529055991520484, 'animals': 0....  
----------------------------------------- anchor evaluation ----------------------------------------
-begin{tabular}{rlrrrrrr}
-hline
-    	 mask_type       	   p@1 	   p@5 	   p@10 	   mrr 	   anchor_wordnet_avg_path 	   anchor_wordnet_coverage 
-hline
-  0 	 subj_anchors_sg 	     0 	    20 	     20 	    10 	                      7.92 	                      0.98 
-  1 	 anchor_col_all  	     0 	    20 	     20 	    10 	                      7.92 	                      0.98 
-hline
-end{tabular}
----------------------------------------- obj_label evaluation ----------------------------------------
-begin{tabular}{rlrrrrrrr}
-hline
-    	 mask_type   	   p@1 	   p@5 	   p@10 	   mrr 	   anchor_wordnet_avg_path 	   anchor_wordnet_coverage 	   mask_type_id 
-hline
-  1 	 def_sap     	    20 	    20 	     60 	  24.5 	                      7.92 	                      0.98 	              1 
-  2 	 lsp_sap     	    20 	    60 	     80 	  33.5 	                      7.92 	                      0.98 	              3 
-  4 	 def_dap     	    20 	    60 	     60 	  34   	                      7.92 	                      0.98 	              2 
-  5 	 lsp_dap     	    20 	    60 	     80 	  37.9 	                      7.92 	                      0.98 	              4 
-hline
-end{tabular}
-save log/bert-large-uncased/clsb/singular/df_all_use_global_dap_True_anchor_type_Coordinate_remove_Y_PUNC_FULL_concate_or_single_max_anchor_num_10_anchor_scorer_probAvg_filter_obj_True_filter_objects_with_input_True_wnp_False_cpt_False.CLSB.tsv
-save log/bert-large-uncased/clsb/singular/exp_data_results_anchor_type_Coordinate_remove_Y_PUNC_FULL_concate_or_single_max_anchor_num_10_anchor_scorer_probAvg_filter_obj_True_filter_objects_with_input_True_wnp_False_cpt_False.CLSB.csv

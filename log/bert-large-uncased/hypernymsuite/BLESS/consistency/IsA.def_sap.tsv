@@ -1,3 +1,0 @@
-,P@K,Singular,Plural,Paired Accuracy,Paired Consistency,mask_type,data_dir
-0,1,20.3,0.0,0.0,79.7,def_sap,data/hypernymsuite/BLESS/consistency/
-1,10,43.5,0.3,0.0,56.10000000000001,def_sap,data/hypernymsuite/BLESS/consistency/

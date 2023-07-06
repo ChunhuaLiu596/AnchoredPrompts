@@ -1,3 +1,0 @@
-,P@K,Singular,Plural,Paired Accuracy,Paired Consistency,mask_type,data_dir
-0,1,15.5,0.0,0.0,84.5,def_dap,data/hypernymsuite/EVAL/consistency/
-1,10,45.1,0.1,0.0,54.800000000000004,def_dap,data/hypernymsuite/EVAL/consistency/

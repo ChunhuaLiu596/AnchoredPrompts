@@ -1,3 +1,0 @@
-,P@K,Singular,Plural,Paired Accuracy,Paired Consistency,mask_type,data_dir
-0,1,19.3,0.0,0.0,80.7,def_dap,data/hypernymsuite/ALL/ShareSWOWStrength/consistency_rw/
-1,10,53.900000000000006,0.1,0.0,46.1,def_dap,data/hypernymsuite/ALL/ShareSWOWStrength/consistency_rw/

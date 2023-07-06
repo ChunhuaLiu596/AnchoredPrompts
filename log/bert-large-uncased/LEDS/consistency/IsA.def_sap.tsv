@@ -1,3 +1,0 @@
-,P@K,Singular,Plural,Paired Accuracy,Paired Consistency,mask_type,data_dir
-0,1,24.5,0.6,0.4,75.7,def_sap,data/hypernymsuite/LEDS/consistency/
-1,10,60.9,4.5,4.2,43.0,def_sap,data/hypernymsuite/LEDS/consistency/

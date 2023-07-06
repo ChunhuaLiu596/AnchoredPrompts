@@ -1,102 +1,0 @@
-debug: True
----------------------------------------- config ----------------------------------------
-{'debug': True, 'test_relations': ['IsA'], 'save_all_data': True, 'top_k': 10, 'data_dir': 'data/lm_diagnostic_extended/plural/', 'mask_string_mapping': {'bert-large-uncased': '[MASK]'}, 'use_dap_global': True, 'max_anchor_num': 3, 'return_probs': True, 'anchor_scorer_list': ['probAvg'], 'scorer_target_1_prompt': 'probSum', 'scorer_target_N_prompts': 'probAvg', 'use_original_prompt': True, 'original_prompt_source': 'masked_sentence', 'incorporate_operations': ['concate_or_single'], 'filter_anchors_flag': True, 'filter_objects_flag': False, 'cpt_only': False, 'max_anchor_num_list': [5], 'anchor_types': ['Coordinate_remove_Y_PUNC_FULL'], 'add_cpt_score': False, 'constrain_targets': False, 'add_wordnet_path_score': True}
----------------------------------------- config ----------------------------------------
-Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
-- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
-- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
-Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
-- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
-- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
----------------------------------------- bert-large-uncased-anchor_type: Coordinate_remove_Y_PUNC_FULL-scorer_anchor:probAvg-op:concate_or_single ----------------------------------------
-{
-    "IsA": {
-        "relation": "IsA",
-        "def_sap": [
-            "A [X] is a [MASK].",
-            "A [X] is an [MASK].",
-            "An [X] is a [MASK].",
-            "An [X] is an [MASK]."
-        ],
-        "def_dap": [
-            "A [X] or [Z] is a [MASK].",
-            "A [X] or [Z] is an [MASK].",
-            "An [X] or [Z] is a [MASK].",
-            "An [X] or [Z] is an [MASK]."
-        ],
-        "lsp_sap": [
-            "[MASK] such as [X].",
-            "[MASK], including [X].",
-            "[MASK], especially [X].",
-            "[X] or other [MASK].",
-            "[X] and other [MASK].",
-            "such [MASK] as [X]."
-        ],
-        "lsp_dap": [
-            "[MASK] such as [X] and [Z].",
-            "[MASK], including [X] and [Z].",
-            "[MASK], especially [X] and [Z].",
-            "[X], [Z] and other [MASK].",
-            "[X], [Z] or other [MASK].",
-            "such [MASK] as [X] and [Z]."
-        ],
-        "use_dap": true,
-        "anchor_target": "[X]",
-        "anchor_lsp_sap": [
-            "such as [X] and [MASK].",
-            "such as [X] or [MASK].",
-            "such as [X], [MASK],",
-            "including [X] and [MASK].",
-            "including [X] or [MASK].",
-            "including [X], [MASK],",
-            "especially [X] and [MASK].",
-            "especially [X] or [MASK].",
-            "especially [X], [MASK],",
-            "[X], [MASK] or other",
-            "[X], [MASK] and other"
-        ]
-    }
-}
-Processing IsA ... data/lm_diagnostic_extended/plural//IsA.jsonl
-#Test_instances: 576
-	 step1: get anchors (fill and filter)
-/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
-  warnings.warn(
---- def_sap
---- lsp_sap
-relation: IsA 	 use_dap: True
-	 step2: insert anchors
-	 step3: fill mask in dap anchors
-  0%|          | 0/5 [00:00<?, ?it/s]/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
-  warnings.warn(
- 20%|██        | 1/5 [00:00<00:00,  9.31it/s] 40%|████      | 2/5 [00:00<00:00,  9.31it/s] 60%|██████    | 3/5 [00:00<00:00,  9.29it/s] 80%|████████  | 4/5 [00:00<00:00,  9.25it/s]100%|██████████| 5/5 [00:00<00:00,  9.27it/s]100%|██████████| 5/5 [00:00<00:00,  9.27it/s]
-  0%|          | 0/5 [00:00<?, ?it/s] 20%|██        | 1/5 [00:00<00:01,  2.77it/s] 40%|████      | 2/5 [00:00<00:01,  2.78it/s] 60%|██████    | 3/5 [00:01<00:00,  2.78it/s] 80%|████████  | 4/5 [00:01<00:00,  2.78it/s]100%|██████████| 5/5 [00:01<00:00,  2.78it/s]100%|██████████| 5/5 [00:01<00:00,  2.78it/s]
-  0%|          | 0/5 [00:00<?, ?it/s] 20%|██        | 1/5 [00:00<00:02,  1.86it/s] 40%|████      | 2/5 [00:01<00:01,  1.85it/s] 60%|██████    | 3/5 [00:01<00:01,  1.85it/s] 80%|████████  | 4/5 [00:02<00:00,  1.85it/s]100%|██████████| 5/5 [00:02<00:00,  1.85it/s]100%|██████████| 5/5 [00:02<00:00,  1.85it/s]
-            masked_sentences obj_label    sub_label relation  uuid  sub_position                                            def_sap                                            def_dap                                            lsp_sap                                            lsp_dap                                     anchor_lsp_sap                                  obj_mask_sentence                            obj_mask_sentence_score                                   obj_mask_def_sap                             obj_mask_def_sap_score                                   obj_mask_lsp_sap                             obj_mask_lsp_sap_score                                  subj_anchors                                 subj_anchors_score                  masked_sentences_with_subj_anchor                           def_dap_with_subj_anchor                           lsp_dap_with_subj_anchor                             subj_anchors_combined                              obj_mask_sentence_dap  \
-0      [gravers are [MASK].]   [tools]      gravers      IsA     1             0  [A gravers is a [MASK]., A gravers is an [MASK...  [A gravers or [Z] is a [MASK]., A gravers or [...  [[MASK] such as gravers., [MASK], including gr...  [[MASK] such as gravers and [Z]., [MASK], incl...  [such as gravers and [MASK]., such as gravers ...  [rare, scarce, common, prohibited, illegal, we...  {'rare': 0.0826444998383522, 'scarce': 0.02455...  [oven, example, instrument, archer, anchor, ax...  {'oven': 0.07315377704799175, 'example': 0.041...  [people, graves, dead, workers, burials, decea...  {'people': 0.12487430833280086, 'graves': 0.12...  [markers, tombs, graves, bodies, collectors]  {'markers': 0.17831640566388765, 'tombs': 0.16...  [gravers are [MASK]., gravers or markers are [...  [A gravers or markers is a [MASK]., A gravers ...  [[MASK] such as gravers and markers., [MASK] s...    gravers markers tombs graves bodies collectors  [rare, burned, buried, cremated, removed, unma...   
-1  [smallmouths are [MASK].]    [fish]  smallmouths      IsA     2             0  [A smallmouths is a [MASK]., A smallmouths is ...  [A smallmouths or [Z] is a [MASK]., A smallmou...  [[MASK] such as smallmouths., [MASK], includin...  [[MASK] such as smallmouths and [Z]., [MASK], ...  [such as smallmouths and [MASK]., such as smal...  [rare, common, present, widespread, uncommon, ...  {'rare': 0.6668936014175415, 'common': 0.09009...  [catfish, fish, eel, otter, example, exception...  {'catfish': 0.383459576095144, 'fish': 0.20555...  [fish, catfish, species, things, animals, fish...  {'fish': 0.3825688896079858, 'catfish': 0.3376...            [catfish, carp, bass, pike, perch]  {'catfish': 0.8201920868772449, 'carp': 0.2299...  [smallmouths are [MASK]., smallmouths or catfi...  [A smallmouths or catfish is a [MASK]., A smal...  [[MASK] such as smallmouths and catfish., [MAS...          smallmouths catfish carp bass pike perch  [common, rare, present, welcome, uncommon, pre...   
-2     [pelicans are [MASK].]   [birds]     pelicans      IsA     3             0  [A pelicans is a [MASK]., A pelicans is an [MA...  [A pelicans or [Z] is a [MASK]., A pelicans or...  [[MASK] such as pelicans., [MASK], including p...  [[MASK] such as pelicans and [Z]., [MASK], inc...  [such as pelicans and [MASK]., such as pelican...  [common, rare, abundant, migratory, absent, pr...  {'common': 0.33950281143188477, 'rare': 0.1600...  [animal, otter, bird, aircraft, example, fish,...  {'animal': 0.15432512760162354, 'otter': 0.133...  [birds, animals, things, dolphins, species, sh...  {'birds': 0.45262210816144943, 'animals': 0.20...    [dolphins, penguins, ducks, swans, cranes]  {'dolphins': 0.2766755797437854, 'penguins': 0...  [pelicans are [MASK]., pelicans or dolphins ar...  [A pelicans or dolphins is a [MASK]., A pelica...  [[MASK] such as pelicans and dolphins., [MASK]...     pelicans dolphins penguins ducks swans cranes  [common, rare, migratory, abundant, welcome, u...   
-3   [sapsuckers are [MASK].]   [birds]   sapsuckers      IsA     4             0  [A sapsuckers is a [MASK]., A sapsuckers is an...  [A sapsuckers or [Z] is a [MASK]., A sapsucker...  [[MASK] such as sapsuckers., [MASK], including...  [[MASK] such as sapsuckers and [Z]., [MASK], i...  [such as sapsuckers and [MASK]., such as sapsu...  [rare, nocturnal, common, edible, predators, p...  {'rare': 0.14696939289569855, 'nocturnal': 0.0...  [insect, animal, spider, bug, fish, snake, liz...  {'insect': 0.337383933365345, 'animal': 0.1576...  [snakes, things, reptiles, animals, insects, p...  {'snakes': 0.2790814429521561, 'things': 0.163...   [snakes, spiders, monsters, frogs, lizards]  {'snakes': 0.36424588378180156, 'spiders': 0.1...  [sapsuckers are [MASK]., sapsuckers or snakes ...  [A sapsuckers or snakes is a [MASK]., A sapsuc...  [[MASK] such as sapsuckers and snakes., [MASK]...  sapsuckers snakes spiders monsters frogs lizards  [rare, common, uncommon, nocturnal, absent, we...   
-4       [makoes are [MASK].]    [fish]       makoes      IsA     5             0  [A makoes is a [MASK]., A makoes is an [MASK]....  [A makoes or [Z] is a [MASK]., A makoes or [Z]...  [[MASK] such as makoes., [MASK], including mak...  [[MASK] such as makoes and [Z]., [MASK], inclu...  [such as makoes and [MASK]., such as makoes or...  [rare, common, nocturnal, absent, endangered, ...  {'rare': 0.13355126976966858, 'common': 0.0411...  [animal, artist, asteroid, elephant, actress, ...  {'animal': 0.06026852875947952, 'artist': 0.06...  [stories, poems, artists, animals, things, fis...  {'stories': 0.3009219169616699, 'poems': 0.219...            [human, tribe, slaves, man, peter]  {'human': 0.13746631145477295, 'tribe': 0.0411...  [makoes are [MASK]., makoes or human are [MASK...  [A makoes or human is a [MASK]., A makoes or t...  [[MASK] such as makoes and human., [MASK] such...               makoes human tribe slaves man peter  [forbidden, rare, common, men, introduced, exc...   
-
-                         obj_mask_sentence_dap_score                                   obj_mask_def_dap                             obj_mask_def_dap_score                                   obj_mask_lsp_dap                             obj_mask_lsp_dap_score  
-0  {'rare': 0.1990444228053093, 'burned': 0.11534...  [marker, object, example, enclosure, tomb, art...  {'marker': 0.19679973274469376, 'object': 0.13...  [things, burials, cemeteries, objects, structu...  {'things': 0.21988790271182854, 'burials': 0.1...  
-1  {'common': 0.32690564667185146, 'rare': 0.3241...  [example, fish, exception, eel, intermediate, ...  {'example': 0.7165898889303207, 'fish': 0.4741...  [fish, species, fishing, fishes, fisheries, an...  {'fish': 0.4821478396654129, 'species': 0.2978...  
-2  {'common': 0.4070061445236206, 'rare': 0.17851...  [example, bird, dolphin, penguin, animal, duck...  {'example': 0.7847167372703552, 'bird': 0.3306...  [birds, animals, species, things, whales, wild...  {'birds': 0.6400286891808112, 'animals': 0.155...  
-3  {'rare': 0.2790925254424413, 'common': 0.14325...  [example, frog, spider, snake, animal, insect,...  {'example': 0.5728513211011886, 'frog': 0.3421...  [reptiles, things, animals, insects, creatures...  {'reptiles': 0.26613424707204103, 'things': 0....  
-4  {'forbidden': 0.05122878775000572, 'rare': 0.0...  [animal, ethnicity, slave, clan, person, allia...  {'animal': 0.3699195229758819, 'ethnicity': 0....  [beings, group, stories, animal, animals, peop...  {'beings': 0.3029553145170212, 'group': 0.2688...  
----------------------------------------- obj_label evaluation ----------------------------------------
-begin{tabular}{rlrrrrlrrr}
-hline
-   masked_sentences 	 obj_label    	   sub_label 	   relation 	   uuid 	   sub_position 	 def_sap   	   def_dap 	   lsp_sap 	   lsp_dap 
-hline
-                  0 	 sentence     	           0 	          0 	      0 	            0   	 IsA       	       7.8 	       0.8 	         1 
-                  1 	 def_sap      	           0 	         20 	     20 	           10   	 IsA       	       7.8 	       0.8 	         3 
-                  2 	 lsp_sap      	          40 	         40 	     80 	           45.3 	 IsA       	       7.8 	       0.8 	         5 
-                  3 	 sentence_dap 	           0 	          0 	      0 	            0   	 IsA       	       7.8 	       0.8 	         2 
-                  4 	 def_dap      	           0 	         20 	     20 	           10   	 IsA       	       7.8 	       0.8 	         4 
-                  5 	 lsp_dap      	          40 	         40 	     60 	           42.5 	 IsA       	       7.8 	       0.8 	         6 
-hline
-end{tabular}
-save log/bert-large-uncased/lm_diagnostic_extended/plural/df_all_use_global_dap_True_anchor_type_Coordinate_remove_Y_PUNC_FULL_concate_or_single_max_anchor_num_5_anchor_scorer_probAvg_filter_obj_False_wnp_True_cpt_False.LM_DIAGNOSTIC_EXTENDED.tsv
-save log/bert-large-uncased/lm_diagnostic_extended/plural/exp_data_results_anchor_type_Coordinate_remove_Y_PUNC_FULL_concate_or_single_max_anchor_num_5_anchor_scorer_probAvg_filter_obj_False_wnp_True_cpt_False.LM_DIAGNOSTIC_EXTENDED.csv

@@ -1,6 +1,0 @@
-Traceback (most recent call last):
-  File "anchored_prompts.py", line 148, in <module>
-    relation_to_template  = get_relation_templates(relations, model, anchor_type)
-  File "anchored_prompts.py", line 118, in get_relation_templates
-    relation_to_template = defaultdict() 
-NameError: name 'defaultdict' is not defined

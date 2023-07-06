@@ -1,99 +1,0 @@
-debug: True
----------------------------------------- config ----------------------------------------
-{'debug': False, 'test_relations': ['IsA'], 'save_all_data': True, 'top_k': 10, 'data_dir': 'data/hypernymsuite/SHWARTZ/', 'mask_string_mapping': {'bert-large-uncased': '[MASK]'}, 'use_dap_global': True, 'max_anchor_num': 3, 'return_probs': True, 'anchor_scorer_list': ['probAvg'], 'scorer_target_1_prompt': 'probSum', 'scorer_target_N_prompts': 'probAvg', 'use_original_prompt': True, 'original_prompt_source': 'masked_sentence', 'incorporate_operations': ['concate_or_single'], 'filter_anchors_flag': True, 'filter_objects_flag': False, 'cpt_only': False, 'max_anchor_num_list': [5], 'anchor_types': ['Coordinate_remove_Y_PUNC_FULL'], 'add_cpt_score': True, 'constrain_targets': False, 'add_wordnet_path_score': False}
----------------------------------------- config ----------------------------------------
-Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
-- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
-- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
-Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
-- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
-- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
----------------------------------------- bert-large-uncased-anchor_type: Coordinate_remove_Y_PUNC_FULL-scorer_anchor:probAvg-op:concate_or_single ----------------------------------------
-{
-    "IsA": {
-        "relation": "IsA",
-        "def_sap": [
-            "A [X] is a [MASK].",
-            "A [X] is an [MASK].",
-            "An [X] is a [MASK].",
-            "An [X] is an [MASK]."
-        ],
-        "def_dap": [
-            "A [X] or [Z] is a [MASK].",
-            "A [X] or [Z] is an [MASK].",
-            "An [X] or [Z] is a [MASK].",
-            "An [X] or [Z] is an [MASK]."
-        ],
-        "lsp_sap": [
-            "[MASK] such as [X].",
-            "[MASK], including [X].",
-            "[MASK], especially [X].",
-            "[X] or other [MASK].",
-            "[X] and other [MASK].",
-            "such [MASK] as [X]."
-        ],
-        "lsp_dap": [
-            "[MASK] such as [X] and [Z].",
-            "[MASK], including [X] and [Z].",
-            "[MASK], especially [X] and [Z].",
-            "[X], [Z] and other [MASK].",
-            "[X], [Z] or other [MASK].",
-            "such [MASK] as [X] and [Z]."
-        ],
-        "use_dap": true,
-        "anchor_target": "[X]",
-        "anchor_lsp_sap": [
-            "such as [X] and [MASK].",
-            "such as [X] or [MASK].",
-            "such as [X], [MASK],",
-            "including [X] and [MASK].",
-            "including [X] or [MASK].",
-            "including [X], [MASK],",
-            "especially [X] and [MASK].",
-            "especially [X] or [MASK].",
-            "especially [X], [MASK],",
-            "[X], [MASK] or other",
-            "[X], [MASK] and other"
-        ]
-    }
-}
-Processing IsA ... data/hypernymsuite/SHWARTZ//IsA.jsonl
-#Test_instances: 13104
-	 step1: get anchors (fill and filter)
-/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
-  warnings.warn(
---- def_sap
---- lsp_sap
-/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
-  warnings.warn(
-relation: IsA 	 use_dap: True
-	 step2: insert anchors
-	 step3: fill mask in dap anchors
-  0%|          | 0/5 [00:00<?, ?it/s]/home/chunhua/.local/lib/python3.8/site-packages/transformers/pipelines/base.py:1043: UserWarning: You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
-  warnings.warn(
- 20%|██        | 1/5 [00:00<00:00,  5.81it/s] 40%|████      | 2/5 [00:00<00:00,  5.88it/s] 60%|██████    | 3/5 [00:00<00:00,  5.95it/s] 80%|████████  | 4/5 [00:00<00:00,  5.96it/s]100%|██████████| 5/5 [00:00<00:00,  5.99it/s]100%|██████████| 5/5 [00:00<00:00,  5.95it/s]
-  0%|          | 0/5 [00:00<?, ?it/s] 20%|██        | 1/5 [00:00<00:00,  7.18it/s] 40%|████      | 2/5 [00:00<00:00,  7.20it/s] 60%|██████    | 3/5 [00:00<00:00,  7.22it/s] 80%|████████  | 4/5 [00:00<00:00,  7.12it/s]100%|██████████| 5/5 [00:00<00:00,  7.09it/s]100%|██████████| 5/5 [00:00<00:00,  7.13it/s]
-  0%|          | 0/5 [00:00<?, ?it/s] 20%|██        | 1/5 [00:00<00:01,  2.47it/s] 40%|████      | 2/5 [00:00<00:01,  2.48it/s] 60%|██████    | 3/5 [00:01<00:00,  2.43it/s] 80%|████████  | 4/5 [00:01<00:00,  2.41it/s]100%|██████████| 5/5 [00:02<00:00,  2.39it/s]100%|██████████| 5/5 [00:02<00:00,  2.41it/s]
-     sub_label        obj_label relation                                   masked_sentences  uuid  sub_position                                            def_sap                                            def_dap                                            lsp_sap                                            lsp_dap                                     anchor_lsp_sap                                  obj_mask_sentence                            obj_mask_sentence_score                                   obj_mask_def_sap                             obj_mask_def_sap_score                                   obj_mask_lsp_sap                             obj_mask_lsp_sap_score                                       subj_anchors                                 subj_anchors_score                  masked_sentences_with_subj_anchor                           def_dap_with_subj_anchor                           lsp_dap_with_subj_anchor                              subj_anchors_combined  \
-0         golo  [river, rivers]      IsA        [A golo is a [MASK]., A golo is an [MASK].]     0             2        [A golo is a [MASK]., A golo is an [MASK].]  [A golo or [Z] is a [MASK]., A golo or [Z] is ...  [[MASK] such as golo., [MASK], including golo....  [[MASK] such as golo and [Z]., [MASK], includi...  [such as golo and [MASK]., such as golo or [MA...  [animal, elephant, donkey, dog, fish, eel, acc...  {'animal': 0.3375736474990845, 'elephant': 0.1...  [animal, elephant, donkey, dog, fish, eel, acc...  {'animal': 0.3375736474990845, 'elephant': 0.1...  [stories, yes, poems, things, yeah, animals, f...  {'stories': 0.23405973613262177, 'yes': 0.1952...                  [human, dog, bird, animal, italy]  {'human': 0.10946393013000488, 'dog': 0.060212...  [A golo is a [MASK]., A golo or human is a [MA...  [A golo or human is a [MASK]., A golo or dog i...  [[MASK] such as golo and human., [MASK] such a...                   golo human dog bird animal italy   
-1    kerrobert    [town, towns]      IsA  [A kerrobert is a [MASK]., A kerrobert is an [...     1             2  [A kerrobert is a [MASK]., A kerrobert is an [...  [A kerrobert or [Z] is a [MASK]., A kerrobert ...  [[MASK] such as kerrobert., [MASK], including ...  [[MASK] such as kerrobert and [Z]., [MASK], in...  [such as kerrobert and [MASK]., such as kerrob...  [asteroid, acronym, aircraft, automobile, umbr...  {'asteroid': 0.05674070864915848, 'acronym': 0...  [asteroid, acronym, aircraft, automobile, umbr...  {'asteroid': 0.05674070864915848, 'acronym': 0...  [companies, artists, brands, authors, poems, w...  {'companies': 0.2944639027118683, 'artists': 0...             [germany, human, france, robert, paul]  {'germany': 0.02311095471183459, 'human': 0.02...  [A kerrobert is a [MASK]., A kerrobert or germ...  [A kerrobert or germany is a [MASK]., A kerrob...  [[MASK] such as kerrobert and germany., [MASK]...         kerrobert germany human france robert paul   
-2    geometria    [film, films]      IsA  [A geometria is a [MASK]., A geometria is an [...     2             2  [A geometria is a [MASK]., A geometria is an [...  [A geometria or [Z] is a [MASK]., A geometria ...  [[MASK] such as geometria., [MASK], including ...  [[MASK] such as geometria and [Z]., [MASK], in...  [such as geometria and [MASK]., such as geomet...  [object, algebra, manifold, dimension, surface...  {'object': 0.5354037880897522, 'algebra': 0.16...  [object, algebra, manifold, dimension, surface...  {'object': 0.5354037880897522, 'algebra': 0.16...  [geometry, mathematics, things, objects, pheno...  {'geometry': 0.40897276997566223, 'mathematics...  [geometry, spheres, physics, astronomy, surfaces]  {'geometry': 0.1543659440834414, 'spheres': 0....  [A geometria is a [MASK]., A geometria or geom...  [A geometria or geometry is a [MASK]., A geome...  [[MASK] such as geometria and geometry., [MASK...  geometria geometry spheres physics astronomy s...   
-3  evaporation  [place, places]      IsA  [An evaporation is a [MASK]., An evaporation i...     3             3  [An evaporation is a [MASK]., An evaporation i...  [An evaporation or [Z] is a [MASK]., An evapor...  [[MASK] such as evaporation., [MASK], includin...  [[MASK] such as evaporation and [Z]., [MASK], ...  [such as evaporation and [MASK]., such as evap...  [process, explosion, precipitation, expansion,...  {'process': 0.18160748481750488, 'explosion': ...  [process, explosion, precipitation, expansion,...  {'process': 0.18160748481750488, 'explosion': ...  [things, processes, precipitation, cooling, di...  {'things': 0.25078538060188293, 'processes': 0...    [precipitation, water, rain, freezing, cooling]  {'precipitation': 0.22747141986408018, 'water'...  [An evaporation is a [MASK]., An evaporation o...  [An evaporation or precipitation is a [MASK].,...  [[MASK] such as evaporation and precipitation....  evaporation precipitation water rain freezing ...   
-4     bonehead    [band, bands]      IsA  [A bonehead is a [MASK]., A bonehead is an [MA...     4             2  [A bonehead is a [MASK]., A bonehead is an [MA...  [A bonehead or [Z] is a [MASK]., A bonehead or...  [[MASK] such as bonehead., [MASK], including b...  [[MASK] such as bonehead and [Z]., [MASK], inc...  [such as bonehead and [MASK]., such as bonehea...  [animal, individual, actor, insect, anchor, el...  {'animal': 0.18448495864868164, 'individual': ...  [animal, individual, actor, insect, anchor, el...  {'animal': 0.18448495864868164, 'individual': ...  [artists, yeah, stories, yes, acts, animal, ok...  {'artists': 0.26811800338327885, 'yeah': 0.232...          [human, vampire, animal, dog, apparently]  {'human': 0.07172028720378876, 'vampire': 0.05...  [A bonehead is a [MASK]., A bonehead or human ...  [A bonehead or human is a [MASK]., A bonehead ...  [[MASK] such as bonehead and human., [MASK] su...       bonehead human vampire animal dog apparently   
-
-                               obj_mask_sentence_dap                        obj_mask_sentence_dap_score                                   obj_mask_def_dap                             obj_mask_def_dap_score                                   obj_mask_lsp_dap                             obj_mask_lsp_dap_score  
-0  [animal, italian, human, dog, bird, island, ro...  {'animal': 0.6501436484977603, 'italian': 0.46...  [animal, italian, dog, human, bird, island, ro...  {'animal': 0.7126576486974955, 'italian': 0.46...  [places, dogs, creature, italy, animal, animal...  {'places': 0.22620588261634111, 'dogs': 0.1972...  
-1  [animal, human, robot, insect, example, astero...  {'animal': 0.4943862855434418, 'human': 0.2497...  [animal, robot, human, insect, example, astero...  {'animal': 0.4943862855434418, 'robot': 0.2806...  [companies, countries, brands, stories, german...  {'companies': 0.24766862764954567, 'countries'...  
-2  [object, astronomy, observatory, manifold, sur...  {'object': 0.4612173816810052, 'astronomy': 0....  [object, astronomy, observatory, surface, mani...  {'object': 0.44638010039925574, 'astronomy': 0...  [mathematics, geometry, objects, subjects, top...  {'mathematics': 0.3121224961942062, 'geometry'...  
-3  [process, event, precipitation, effect, reacti...  {'process': 0.34838358374933404, 'event': 0.29...  [process, event, precipitation, effect, reacti...  {'process': 0.38173880353569983, 'event': 0.33...  [things, processes, precipitation, freezing, c...  {'things': 0.40963098406791687, 'processes': 0...  
-4  [animal, vampire, dog, bone, human, undead, zo...  {'animal': 0.5120953034077372, 'vampire': 0.24...  [animal, vampire, dog, bone, human, undead, zo...  {'animal': 0.5666970275342464, 'vampire': 0.47...  [animal, things, artists, creature, yeah, char...  {'animal': 0.22942211921326816, 'things': 0.20...  
----------------------------------------- obj_label evaluation ----------------------------------------
-      mask_type  p@1  p@5  p@10 relation  mAP@1  mAP@5  mAP@10  recall@10  anchor_wordnet_avg_path  anchor_wordnet_coverage  mask_type_id
-0      sentence  0.0  0.0   0.0      IsA    0.0    0.0     0.0        0.0                     8.11                     0.36             1
-3  sentence_dap  0.0  0.0   0.0      IsA    0.0    0.0     0.0        0.0                     8.11                     0.36             2
-1       def_sap  0.0  0.0   0.0      IsA    0.0    0.0     0.0        0.0                     8.11                     0.36             3
-4       def_dap  0.0  0.0   0.0      IsA    0.0    0.0     0.0        0.0                     8.11                     0.36             4
-2       lsp_sap  0.0  0.0   0.0      IsA    0.0    0.0     0.0        0.0                     8.11                     0.36             5
-5       lsp_dap  0.0  0.0   0.0      IsA    0.0    0.0     0.0        0.0                     8.11                     0.36             6
-save log/bert-large-uncased/hypernymsuite/SHWARTZ/df_all_use_global_dap_True_anchor_type_Coordinate_remove_Y_PUNC_FULL_concate_or_single_max_anchor_num_5_anchor_scorer_probAvg_wnp_False_cpt_True.HYPERNYMSUITE.tsv
-save log/bert-large-uncased/hypernymsuite/SHWARTZ/exp_data_results_anchor_type_Coordinate_remove_Y_PUNC_FULL_concate_or_single_max_anchor_num_5_anchor_scorer_probAvg_wnp_False_cpt_True.HYPERNYMSUITE.csv

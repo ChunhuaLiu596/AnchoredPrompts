@@ -1,3 +1,0 @@
-,P@K,Singular,Plural,Paired Accuracy,Paried Consistency,mask_type,data_dir
-0,1,36.5,44.1,32.300000000000004,84.0,lsp_dap,data/lm_diagnostic_extended/consistency/
-1,10,69.3,71.39999999999999,66.10000000000001,91.7,lsp_dap,data/lm_diagnostic_extended/consistency/
